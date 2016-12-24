@@ -1,0 +1,847 @@
+Tournament Name: Bam 7
+Player 1: TSM|Leffen  Unknown
+Player 2: Skeletom	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: S.D  Unknown
+Player 2: Splice	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Mojomonkey  Unknown
+Player 2: Hugs	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Liquid|Chillendude  Unknown
+Player 2: Rainbow	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Syke  Unknown
+Player 2: Smopup	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: S2J  Unknown
+Player 2: Hugs	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Lucky  Unknown
+Player 2: Liquid|Chillindude	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: TSM|Leffen  Unknown
+Player 2: Alex19	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: C9Mang0  Unknown
+Player 2: S.D	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: S2J  Unknown
+Player 2: Rainbow	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Hugs  Unknown
+Player 2: QX	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: S.D  Unknown
+Player 2: ZXV	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Liquid|Chillin & DonB  Unknown
+Player 2: ZXV & Syke	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: MojoMonkey  Unknown
+Player 2: Liquid|Chillindude	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: C9|Mang0  Unknown
+Player 2: Corpsecreate	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Alex19  Unknown
+Player 2: Smopup	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: TSM|Leffen & Blue2ez  Unknown
+Player 2: Lucky & RusselTLM	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Caotic & S.D  Unknown
+Player 2: Lucky & RusselTLM	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Caotic & S.D  Unknown
+Player 2: Syke & ZXV	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: TSM|Leffen & Blue2ez  Unknown
+Player 2: Lucky & RusselTLM	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Syke & ZXV  Unknown
+Player 2: Jamwa & Sebby	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Caotic & S.D  Unknown
+Player 2: QX & Rainbow	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Caotic & S.D  Unknown
+Player 2: Alex19 & Forte	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: TSM | Leffen & Blue2ez  Unknown
+Player 2: QZ & Rainbow	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Alex19  Unknown
+Player 2: CF Spud	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: C9Mang0 & Meredy  Unknown
+Player 2: Syke & ZXV	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Hugs & Unreon  Unknown
+Player 2: Syke & ZXV	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Wife & Redact  Unknown
+Player 2: Karu & Quetzalcoatl	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Thatch & Jedilink  Unknown
+Player 2: Karu & Quetzalcoatl	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam7
+Player 1: AussieRob  Unknown
+Player 2: Jbirds	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: TSM | Leffen & Blue2ez  Unknown
+Player 2: Smopup & Jbirds	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Wife & Redact  Unknown
+Player 2: MC & Cunchy	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Lucky & RusselTLM  Unknown
+Player 2: Skeletom & AussieRob	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Lucky & RusselTLM  Unknown
+Player 2: Liquid | Chillindude & DonB	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: TSM | Leffen & Blue2ez  Unknown
+Player 2: S.D & Caotic	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: C9Mang0 & Meredy  Unknown
+Player 2: Wife & Redact	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: TSM | Leffen & Blue2ez  Unknown
+Player 2: Unreon & Hugs	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Unreon & Hugs  Unknown
+Player 2: Kewl_Kid & Chris T	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: C9Mang0 & Meredy  Unknown
+Player 2: Kansho & Blaxxon	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Liquid | Chillindude & DonB  Unknown
+Player 2: Gem & LPG	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Skeletom & Aussierob  Unknown
+Player 2: Birdies & Hawkeye	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Skeletom  Unknown
+Player 2: Aussierob	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Caotic & S.D  Unknown
+Player 2: Kait & Lucas	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Lucky & RusselTLM  Unknown
+Player 2: Thisgoose & Generic	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Macky & Hughie  Unknown
+Player 2: Monkee & Tai	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Cup & Moxie  Unknown
+Player 2: Beans & Noied	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Oli  Unknown
+Player 2: Corpsecreate	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Noxus  Unknown
+Player 2: Corpsecreate	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Toshiba  Unknown
+Player 2: Birdies	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Zorsy  Unknown
+Player 2: Unreon	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Oli  Unknown
+Player 2: G$	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Skeletom  Unknown
+Player 2: Sundowns	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Skeletom  Unknown
+Player 2: PCG	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Wife  Unknown
+Player 2: Skeletom	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Skeletom  Unknown
+Player 2: Raphiki	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: C9Mang0  Unknown
+Player 2: Syke	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: C9Mang0  Unknown
+Player 2: Bogo	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: C9Mang0  Unknown
+Player 2: Blessedmilk	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: C9Mang0  Unknown
+Player 2: Devil	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Syke  Unknown
+Player 2: Zorsy	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Syke  Unknown
+Player 2: Rumple	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Syke  Unknown
+Player 2: Kaiza	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Toshiba  Unknown
+Player 2: Rhyno012	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: TSM | Leffen  Unknown
+Player 2: Sebby	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Smopup  Unknown
+Player 2: Sepiroth Nick	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: TSM | Leffen  Unknown
+Player 2: Phrase	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: TSM | Leffen  Unknown
+Player 2: Smopup	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: TSM | Leffen  Unknown
+Player 2: Tid	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: TSM | Leffen  Unknown
+Player 2: SheepGoBeep	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Smopup  Unknown
+Player 2: Boris	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: MojoMonkey  Unknown
+Player 2: Splice	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Lucky  Unknown
+Player 2: CF Spud	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Lucky  Unknown
+Player 2: Seb	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Mojomonkey  Unknown
+Player 2: DW | Chappos	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: CF Spud  Unknown
+Player 2: Samuel L Blaxxon	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: MojoMonkey  Unknown
+Player 2: Swebe	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Lucky  Unknown
+Player 2: Bjschoey	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Splice  Unknown
+Player 2: Tyler	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Splice  Unknown
+Player 2: LPG	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Lucky  Unknown
+Player 2: RGB	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Rainbow  Unknown
+Player 2: AussieRob	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: S2J  Unknown
+Player 2: Jbirds	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: AussieRob  Unknown
+Player 2: Wibbles	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Moxie  Unknown
+Player 2: Wibbles	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: S2J  Unknown
+Player 2: Jamwa	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: S2J  Unknown
+Player 2: Gabe	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: S2J  Unknown
+Player 2: Mytus	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: S2J  Unknown
+Player 2: Diabolical	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Kansho  Unknown
+Player 2: Sumeet	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Hugs  Unknown
+Player 2: Cunchy	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Hugs  Unknown
+Player 2: Mask1n	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Hugs  Unknown
+Player 2: MGK	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Cunchy  Unknown
+Player 2: Jon	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Kansho  Unknown
+Player 2: KTMFinx	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Hugs  Unknown
+Player 2: Carbon	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Liquid | Chillindude  Unknown
+Player 2: DePolaroid	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: S.D  Unknown
+Player 2: Karu	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: S.D  Unknown
+Player 2: Uber	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Liquid | Chillindude  Unknown
+Player 2: Kami	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: S.D  Unknown
+Player 2: Olio	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Liquid | Chillindude  Unknown
+Player 2: Tears in Rain	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Quetzalcoatl  Unknown
+Player 2: ZXV	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: ZXV  Unknown
+Player 2: Gomez	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Alex19  Unknown
+Player 2: Atticus	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Mytus  Unknown
+Player 2: Atticus	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: ZXV  Unknown
+Player 2: Slop	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: ZXV  Unknown
+Player 2: Phez	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Alex19  Unknown
+Player 2: Flukey	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: Alex19  Unknown
+Player 2: Nitten	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam 7
+Player 1: ZXV  Unknown
+Player 2: Lillian	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam7
+Player 1: CF Spud  Unknown
+Player 2: S.D	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam7
+Player 1: TSM | Leffen  Unknown
+Player 2: C9Mang0	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam7
+Player 1: TSM | Leffen  Unknown
+Player 2: Lucky	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam7
+Player 1: S2J  Unknown
+Player 2: Lucky	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam7
+Player 1: TSM | Leffen  Unknown
+Player 2: C9Mang0	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam7
+Player 1: Hugs  Unknown
+Player 2: Lucky	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam7
+Player 1: S2J  Unknown
+Player 2: Liquid | Chillindude	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam7
+Player 1: Hugs  Unknown
+Player 2: S.D	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam7
+Player 1: Liquid | Chillindude  Unknown
+Player 2: CF Spud	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam7
+Player 1: C9Mang0  Unknown
+Player 2: S2J	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+
+Tournament Name: Bam7
+Player 1: TSM | Leffen  Unknown
+Player 2: Lucky	 Unknown
+Bracket: Unknown
+Game: Melee
+-------------
+

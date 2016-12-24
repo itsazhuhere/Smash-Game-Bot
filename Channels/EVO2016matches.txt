@@ -1,0 +1,819 @@
+Tournament Name: EVO 2016
+Player 1: Armada  (Fox)
+Player 2: Hungrybox  (Jigglypuff)
+Bracket: GF:
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Plup  (Sheik)
+Player 2: Hungrybox  (Jigglypuff)
+Bracket: LF:
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Mango  (Fox)
+Player 2: Hungrybox  (Jigglypuff)
+Bracket: LS:
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Mew2king  (Marth)
+Player 2: Mango  (Fox)
+Bracket: LQ:
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: S2J  (Falcon)
+Player 2: Hungrybox  (Jigglypuff)
+Bracket: LQ:
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Armada  (Peach)
+Player 2: Plup  (Sheik)
+Bracket: WF:
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Mango  (Fox)
+Player 2: PewPewU  (Marth)
+Bracket: Losers Top 8:
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Westballz  (Falco)
+Player 2: S2J  (Falcon)
+Bracket: Losers Top 8:
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Mew2king  (Marth)
+Player 2: Armada  (Peach)
+Bracket: WS:
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Hungrybox  (Jigglypuff)
+Player 2: Plup  (Sheik)
+Bracket: WS:
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: S2J  (Falcon)
+Player 2: Duck  (Samus)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Westballz  (Falco)
+Player 2: Swedish Delight  (Sheik)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Mango  (Fox)
+Player 2: Zhu  (Falco)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Shroomed  (Sheik)
+Player 2: PewPewU  (Marth)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Armada  (Peach)
+Player 2: Duck  (Samus)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Nintendude  (Ice Climbers)
+Player 2: Westballz  (Falco)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Colbol  (Fox)
+Player 2: PewPewU  (Marth)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Swedish Delight  (Sheik)
+Player 2: Mew2king  (Sheik)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Zhu  (Falco)
+Player 2: Lucky  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Shroomed  (Sheik)
+Player 2: Hungrybox  (Jigglypuff)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: The Moon  (White Marth)
+Player 2: PewPewU  (Marth)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Mango  (Falco)
+Player 2: Plup  (Sheik)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Wizzrobe  (Falcon)
+Player 2: Lucky  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Swedish Delight  (Sheik)
+Player 2: PewPewU  (Marth)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Zhu  (Falco)
+Player 2: ChuDat  (Ice Climbers)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Armada  (Peach)
+Player 2: Lucky  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Colbol  (Fox)
+Player 2: Gravy  (Falcon)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Hungrybox  (Jigglypuff)
+Player 2: Chillindude  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Westballz  (Falco)
+Player 2: Axe  (Pikachu)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Duck  (Samus)
+Player 2: ChuDat  (Ice Climbers)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Colbol  (Marth)
+Player 2: Mike Haze  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Mango  (Falco)
+Player 2: Ice  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Westballz  (Falco)
+Player 2: SFAT  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Mew2king  (Sheik)
+Player 2: Gravy  (Falcon)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Shroomed  (Sheik)
+Player 2: Axe  (Pikachu/Falco)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Wizzrobe  (Falcon)
+Player 2: n0ne  (Falcon)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Frootloop  (Sheik)
+Player 2: S2J  (Falcon)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: [Partial] Javi  (Fox)
+Player 2: Plup  (Sheik)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Nintendude  (Ice Climbers)
+Player 2: Smash G0d  (Marth/Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: The Moon  (Marth)
+Player 2: Bladewise  (Peach)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Nintendude  (Ice Climbers)
+Player 2: KJH  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: ChuDat  (Ice Climbers)
+Player 2: SFAT  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Mango  (Falco)
+Player 2: Mike Haze  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Zhu  (Falco)
+Player 2: lloD  (Peach)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: n0ne  (Falcon)
+Player 2: Azusa  (Peach)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: The Moon  (Marth)
+Player 2: Plup  (Sheik)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Infinite Numbers  (Ice Climbers)
+Player 2: Axe  (Pikachu)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: DJ Nintendo  (Green Fox)
+Player 2: DruggedFox  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Westballz  (Fox/Falcon)
+Player 2: Duck  (Samus)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: KJH  (Fox)
+Player 2: Lucky  (Red Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Wizzrobe  (Falcon)
+Player 2: Chillindude  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: S2J  (Falcon)
+Player 2: Swedish Delight  (Sheik)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Wobbles  (Ice Climbers)
+Player 2: Javi  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Prince Abu  (Jigglypuff)
+Player 2: SFAT  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Crush  (Fox)
+Player 2: Gravy  (Falcon)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Westballz  (Fox)
+Player 2: Slox  (Sheik)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Zhu  (Falco)
+Player 2: Shroomed  (Sheik)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: KoopaTroopa  (Mario)
+Player 2: Duck  (Samus)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: n0ne  (Falcon)
+Player 2: Azusa  (Peach)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Tai  (Marth)
+Player 2: Toph  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Ken  (Marth)
+Player 2: Javi  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Mew2king  (Sheik/Black Marth)
+Player 2: Cactuar  (Fox/Marth)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Chillindude  (Blue Fox)
+Player 2: Phil  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Lord  (Falcon)
+Player 2: Hungrybox  (Jigglypuff)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Javi  (Fox)
+Player 2: HomeMadeWaffles  (Falco)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Colbol  (Marth)
+Player 2: Kounotori  (Falco)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Reeve  (Marth)
+Player 2: Bladewise  (Peach)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Fiction  (Fox)
+Player 2: Ka-Master  (Luigi)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Zhu  (Falco)
+Player 2: Darkrain  (Falcon)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Prince Abu  (Jigglypuff)
+Player 2: Squid  (Falco)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Cheezpuff  (Jigglypuff)
+Player 2: KJH  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Chris Best  (Black Marth)
+Player 2: net1234  (Marth)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Darkrain  (Falcon)
+Player 2: Dansdaman  (Sheik)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Syrox  (Fox)
+Player 2: Tapsody  (Ice Climbers)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Kellen  (Marth)
+Player 2: Mooninite  (Falcon)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Eval  (Peach)
+Player 2: Boba Fett  (Samus)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Dilla  (Fox)
+Player 2: Suzarya  (Peach)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Nintendude  (Ice Climbers)
+Player 2: 2highSoFly  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: G10  (Sheik)
+Player 2: Dragonspook  (Marth)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: n0ne  (Falcon)
+Player 2: BB Thom  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Hungrybox  (Puff/Ness)
+Player 2: phazermuffin  (Jigglypuff)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: KillaForChicken  (Fox)
+Player 2: Pluto the Planet  (Yoshi)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Flaming Roy  (Fox)
+Player 2: Swedish Delight  (Sheik)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Crush  (Fox)
+Player 2: Rezolution  (Blue Fox/Falcon)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: DJ Nintendo  (Fox)
+Player 2: FA0  (Ice Climbers)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Frootloop  (Sheik)
+Player 2: Codeman  (Marth)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Reno  (Sheik)
+Player 2: Anjo  (Falco)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: DBsammy  (Falco)
+Player 2: PewPewU  (Marth)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: S2J  (Falcon)
+Player 2: IWearCrocs  (Falco)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Wenbobular  (Fox/Blue Falco)
+Player 2: Haki  (Falco)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Gravy  (Falcon)
+Player 2: adlp  (Marth/Kirby)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Fat Goku  (Green Fox)
+Player 2: The Grime Reaper  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: NMW  (Falcon)
+Player 2: Mentaculus  (Ganon)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: SFAT  (Red Fox)
+Player 2: X-Rey  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Davis  (Fox/Falco)
+Player 2: C4D  (Jigglypuff/Samus)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: ChuDat  (Ice Climbers)
+Player 2: .exe  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Goose  (Pikachu/Sheik)
+Player 2: Trichael Man  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Cortex  (Samus)
+Player 2: Nice Orbit  (Peach)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Fly Amanita  (Ice Climbers)
+Player 2: Ultraman  (Falcon)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Jim Jam Flim Flam  (Ness)
+Player 2: Hig-don  (Mario)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Prince Abu  (Jigglypuff)
+Player 2: Bird  (Luigi)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: NY Joey  (Falco)
+Player 2: Octobear  (Peach)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Master  (Luigi)
+Player 2: Yams  (Sheik)
+Bracket: Ka-
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: ZeldaFreak  (Marth)
+Player 2: Ka-Master  (Luigi)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Gem  (Marth)
+Player 2: PsychoMidget  (Jigglypuff)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Azen  (Falco/Blue Fox)
+Player 2: Chaddd  (Fox/Ganon)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Medz  (Fox)
+Player 2: Amanze  (Samus/Marth)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: L  (Fox)
+Player 2: eBay  (Falcon)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Nami  (Peach)
+Player 2: Duck  (Samus)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Foxnard  (Fox)
+Player 2: Cool Kid  (Falco)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Lucky  (Fox)
+Player 2: Bman  (Falco)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Squid Kid  (Ice Climbers)
+Player 2: Azen  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Will Pickles  (Luigi)
+Player 2: Tafokints  (Sheik)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Majora  (Fox)
+Player 2: Vro  (Marth)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Excel Zero  (Peach)
+Player 2: Kim Jong Jun  (Sheik/Samus)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: mpFUTURE  (Falcon)
+Player 2: Medz  (Fox)
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: EVO 2016
+Player 1: Pixel  (Marth)
+Player 2: Armada  (Peach)
+Bracket: None
+Game: Melee
+-------------
+

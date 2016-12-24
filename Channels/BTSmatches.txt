@@ -1,0 +1,973 @@
+Tournament Name: Smash Summit 2
+Player 1: Armada/Mew2king  Unknown
+Player 2: Hungrybox/Plup  Unknown
+Bracket: Doubles Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Hungrybox/Plup  Unknown
+Player 2: Mango/S2J  Unknown
+Bracket: Doubles Lower Bracket Finals 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Hungrybox/Plup  Unknown
+Player 2: PewPewU/SFAT  Unknown
+Bracket: Doubles Lower Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Armada/Mew2king  Unknown
+Player 2: Mango/S2J  Unknown
+Bracket: Doubles Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: Summit Smash 2
+Player 1: Mango  Unknown
+Player 2: Westballz  Unknown
+Bracket: WB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Summit Smash 2
+Player 1: Hungrybox  Unknown
+Player 2: SFAT  Unknown
+Bracket: WB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Summit Smash 2
+Player 1: Mew2king  Unknown
+Player 2: Plup  Unknown
+Bracket: WB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Summit Smash 2
+Player 1: Armada  Unknown
+Player 2: Axe  Unknown
+Bracket: WB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Summit Smash 2
+Player 1: PewPewU  Unknown
+Player 2: Ice  Unknown
+Bracket: LB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Summit Smash 2
+Player 1: Duck  Unknown
+Player 2: SilentWolf  Unknown
+Bracket: LB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Summit Smash 2
+Player 1: S2J  Unknown
+Player 2: Wobbles  Unknown
+Bracket: LB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Summit Smash 2
+Player 1: ESAM  Unknown
+Player 2: Shroomed  Unknown
+Bracket: LB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Summit Smash 2
+Player 1: Westballz  Unknown
+Player 2: SilentWolf  Unknown
+Bracket: UB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Summit Smash 2
+Player 1: Mango  Unknown
+Player 2: Duck  Unknown
+Bracket: UB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Summit Smash 2
+Player 1: Wobbles  Unknown
+Player 2: SFAT  Unknown
+Bracket: UB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Summit Smash 2
+Player 1: Hungrybox  Unknown
+Player 2: S2J  Unknown
+Bracket: UB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Summit Smash 2
+Player 1: Mew2king  Unknown
+Player 2: Ice  Unknown
+Bracket: UB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Summit Smash 2
+Player 1: PewPewU  Unknown
+Player 2: Plup  Unknown
+Bracket: UB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Summit Smash 2
+Player 1: Axe  Unknown
+Player 2: Shroomed  Unknown
+Bracket: UB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Armada  Unknown
+Player 2: ESAM  Unknown
+Bracket: UB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: PewPewU/SFAT  Unknown
+Player 2: Westballz/Shroomed  Unknown
+Bracket: Doubles Lower Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Wobbles/Axe  Unknown
+Player 2: Hungrybox/Plup  Unknown
+Bracket: Doubles Lower Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: SilentWolf/Duck  Unknown
+Player 2: Wobbles/Axe  Unknown
+Bracket: Doubles Lower Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Ice/ESAM  Unknown
+Player 2: Westballz/Shroomed  Unknown
+Bracket: Doubles Lower Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Armada/Mew2king  Unknown
+Player 2: PewPewU/SFAT  Unknown
+Bracket: Doubles Upper Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Hungrybox/Plup  Unknown
+Player 2: Mango/S2J  Unknown
+Bracket: Doubles Upper Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: PewPewU/SFAT  Unknown
+Player 2: Wobbles/Axe  Unknown
+Bracket: Doubles Upper Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: SilentWolf/Duck  Unknown
+Player 2: Armada/Mew2king  Unknown
+Bracket: Doubles Upper Bracket  
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Mango/S2J  Unknown
+Player 2: Westballz/Shroomed  Unknown
+Bracket: Doubles Upper Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Summit 2
+Player 1: Hungrybox/Plup  Unknown
+Player 2: Ice/ESAM  Unknown
+Bracket: Doubles Upper Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Summit 2
+Player 1: Armada  Unknown
+Player 2: Mango  Unknown
+Bracket: Iron Man Challenge Finals 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Armada  Unknown
+Player 2: S2J  Unknown
+Bracket: Iron Man Challenge 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Mew2king  Unknown
+Player 2: Mango  Unknown
+Bracket: Iron Man Challenge 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Armada  Unknown
+Player 2: Westballz  Unknown
+Bracket: Iron Man Challenge 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: S2J  Unknown
+Player 2: Plup  Unknown
+Bracket: Iron Man Challenge 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Mango  Unknown
+Player 2: Shroomed  Unknown
+Bracket: Iron Man Challenge 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Hungrybox  Unknown
+Player 2: Mew2king  Unknown
+Bracket: Iron Man Challenge 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Armada  Unknown
+Player 2: Hungrybox  Unknown
+Bracket: Grand Final 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Armada  Unknown
+Player 2: Mew2King  Unknown
+Bracket: Singles LB Final 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Armada  Unknown
+Player 2: Mango  Unknown
+Bracket: Singles LB Semi 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Mew2King  Unknown
+Player 2: Hungrybox  Unknown
+Bracket: Singles WB Final 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Mango  Unknown
+Player 2: Plup  Unknown
+Bracket: Singles LB QF 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Armada  Unknown
+Player 2: Shroomed  Unknown
+Bracket: Singles WB Semis 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Axe  Unknown
+Player 2: Plup  Unknown
+Bracket: Singles WB Semis 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Duck  Unknown
+Player 2: Axe  Unknown
+Bracket: LB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: SFAT  Unknown
+Player 2: Shroomed  Unknown
+Bracket: Singles LB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Mango  Unknown
+Player 2: Hungrybox  Unknown
+Bracket: Singles WB Semis 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Armada  Unknown
+Player 2: Mew2King  Unknown
+Bracket: Singles WB Semis 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: S2J  Unknown
+Player 2: Plup  Unknown
+Bracket: LB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: SFAT  Unknown
+Player 2: Ice  Unknown
+Bracket: LB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Shroomed  Unknown
+Player 2: Westballz  Unknown
+Bracket: LB Singles 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: SFAT/Shroomed  Unknown
+Player 2: ESAM/Plup  Unknown
+Bracket: Shared Controller Final 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Westballz/PewPewU  Unknown
+Player 2: ESAM/Plup  Unknown
+Bracket: Shared Controller 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Mew2King/Axe  Unknown
+Player 2: SFAT/Shroomed  Unknown
+Bracket: Shared Controller 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Westballz/PewPewU  Unknown
+Player 2: Armada/Ice  Unknown
+Bracket: Shared Controller 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: SilentWolf/Duck  Unknown
+Player 2: ESAM/Plup  Unknown
+Bracket: Shared Controller 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Mang0/S2J  Unknown
+Player 2: SFAT/Shroomed  Unknown
+Bracket: Shared Controller 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: Hungrybox/Wobbles  Unknown
+Player 2: Mew2King/Axe  Unknown
+Bracket: Shared Controller 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Armada  Unknown
+Player 2: Mango  Unknown
+Bracket: Singles Grand Final 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Mew2King  Unknown
+Player 2: Mango  Unknown
+Bracket: Singles LB Final 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Plup  Unknown
+Player 2: Mango  Unknown
+Bracket: Singles LB semi 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Armada  Unknown
+Player 2: Mew2King  Unknown
+Bracket: Singles WB Final 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Mango  Unknown
+Player 2: Shroomed  Unknown
+Bracket: Singles LB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: PPMD  Unknown
+Player 2: Plup  Unknown
+Bracket: Singles LB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Plup  Unknown
+Player 2: Lucky  Unknown
+Bracket: Singles LB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: S2J/Shroomed  Unknown
+Player 2: Lucky/Mango  Unknown
+Bracket: Doubles LB Semi 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Mew2King  Unknown
+Player 2: Mango  Unknown
+Bracket: Singles WB semi 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Armada  Unknown
+Player 2: PPMD  Unknown
+Bracket: Singles WB semi 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Shroomed  Unknown
+Player 2: Axe  Unknown
+Bracket: Singles LB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: SFAT/PewPewU  Unknown
+Player 2: Armada/Mew2King  Unknown
+Bracket: Doubles Grand Final 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Armada/Mew2King  Unknown
+Player 2: Lucky/Mango  Unknown
+Bracket: Doubles LB Final 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Shroomed  Unknown
+Player 2: Westballz  Unknown
+Bracket: Singles LB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Armada/Mew2King  Unknown
+Player 2: SFAT/PewPewU  Unknown
+Bracket: Doubles WB Final 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Plup  Unknown
+Player 2: S2J  Unknown
+Bracket: Singles LB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: SFAT  Unknown
+Player 2: Lucky  Unknown
+Bracket: Singles LB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: PewPewU  Unknown
+Player 2: Axe  Unknown
+Bracket: Singles LB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Mango  Unknown
+Player 2: SFAT  Unknown
+Bracket: Singles WB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Mew2King  Unknown
+Player 2: Plup  Unknown
+Bracket: Singles WB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Westballz  Unknown
+Player 2: PPMD  Unknown
+Bracket: Singles WB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Armada  Unknown
+Player 2: PewPewU  Unknown
+Bracket: Singles WB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Axe  Unknown
+Player 2: Zhu  Unknown
+Bracket: Singles LB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Shroomed  Unknown
+Player 2: Kage  Unknown
+Bracket: Singles LB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: S2J  Unknown
+Player 2: Swedish Delight  Unknown
+Bracket: Singles LB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Lucky  Unknown
+Player 2: Alex19  Unknown
+Bracket: Singles LB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: SFAT  Unknown
+Player 2: Axe  Unknown
+Bracket: Singles 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Zhu  Unknown
+Player 2: Mango  Unknown
+Bracket: Singles 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Shroomed  Unknown
+Player 2: Plup  Unknown
+Bracket: Singles 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Mew2King  Unknown
+Player 2: Kage  Unknown
+Bracket: Singles 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Westballz  Unknown
+Player 2: S2J  Unknown
+Bracket: Singles 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: PPMD  Unknown
+Player 2: Swedish Delight  Unknown
+Bracket: Singles 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: PewPewU  Unknown
+Player 2: Lucky  Unknown
+Bracket: Singles Tournament 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Alex19  Unknown
+Player 2: Armada  Unknown
+Bracket: Singles Tournament 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Mango/Lucky  Unknown
+Player 2: PPMD/Plup  Unknown
+Bracket: Doubles LB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Shroomed/S2J  Unknown
+Player 2: Axe/Kage  Unknown
+Bracket: Doubles LB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: SFAT/PewPewU  Unknown
+Player 2: Lucky/Mango  Unknown
+Bracket: Doubles WB Semi 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Mango/Lucky  Unknown
+Player 2: Zhu/Westballz  Unknown
+Bracket: Doubles Tournament 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Mew2King/Armada  Unknown
+Player 2: S2J/Shroomed  Unknown
+Bracket: Doubles WB Semi 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: PPMD/Plup  Unknown
+Player 2: Zhu/Westballz  Unknown
+Bracket: Doubles LB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Swedish/Alex19  Unknown
+Player 2: Axe/Kage  Unknown
+Bracket: Doubles LB 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: SFAT/PewPewU  Unknown
+Player 2: Axe/Kage  Unknown
+Bracket: Doubles Tournament 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Shroomed/S2J  Unknown
+Player 2: PPMD/Plup  Unknown
+Bracket: Doubles Tournament 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Mew2King/Armada  Unknown
+Player 2: Swedish/Alex19  Unknown
+Bracket: Doubles Tournament 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Day 2
+Player 1: Mew2King  Unknown
+Player 2: Armada  Unknown
+Bracket: Ironman 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Day 2
+Player 1: Armada  Unknown
+Player 2: Mango  Unknown
+Bracket: Ironman 
+Game: Melee
+-------------
+
+Tournament Name: Summit Smash Day 2
+Player 1: Mew2King  Unknown
+Player 2: S2J  Unknown
+Bracket: Ironman match 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Day 2
+Player 1: Shroomed/Armada  Unknown
+Player 2: Mew2King/Mango - Bro Unknown
+Bracket: Up Challenge 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Day 2
+Player 1: PewPewU/Shroomed  Unknown
+Player 2: S2J/Lucky - Bro Unknown
+Bracket: Up Challenge 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Day 2
+Player 1: Lucky/Mango  Unknown
+Player 2: PewPewU/SFAT - Bro Unknown
+Bracket: Up Challenge 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Day 2
+Player 1: Swedish Delight  Unknown
+Player 2: SFAT  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+
+Tournament Name: Summit Smash Day 2
+Player 1: Armada  Unknown
+Player 2: PewPewU - Low Unknown
+Bracket: Tier Challenge 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Day 2
+Player 1: Westballz  Unknown
+Player 2: SFAT  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Day 2
+Player 1: Alex19  Unknown
+Player 2: Swedish Delight  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Day 2
+Player 1: Westballz  Unknown
+Player 2: Axe  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Day 2
+Player 1: Axe  Unknown
+Player 2: Plup  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Day 2
+Player 1: S2J  Unknown
+Player 2: PPMD  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Day 2
+Player 1: Mango/Lucky  Unknown
+Player 2: PewPewU/Lucky - Bro Unknown
+Bracket: Up Challenge 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2
+Player 1: PPMD  Unknown
+Player 2: Mango  Unknown
+Bracket: Mirror Challenge 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Day 2
+Player 1: Kage/Axe  Unknown
+Player 2: Westballz/Mango - Bro Unknown
+Bracket: Up Challenge 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Day 2
+Player 1: Mew2King/Armada  Unknown
+Player 2: Swedish/S2J - Bro Unknown
+Bracket: Up Challenge 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Day 2
+Player 1: SFAT  Unknown
+Player 2: Westballz  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Axe  Unknown
+Player 2: Mew2King - Low Unknown
+Bracket: Tier Challenge 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Lucky  Unknown
+Player 2: Axe  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Team Alex19  Unknown
+Player 2: Team Swedish Delight  Unknown
+Bracket: Crew Battle 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Team Kage  Unknown
+Player 2: Team Zhu  Unknown
+Bracket: Crew Battle 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Team Alex19  Unknown
+Player 2: Team Kage  Unknown
+Bracket: Crew Battles 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: SFAT  Unknown
+Player 2: PPMD  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Mew2King/Armada  Unknown
+Player 2: Lucky/Mango - Bro Unknown
+Bracket: Up Challenge 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: PPMD  Unknown
+Player 2: Axe  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Kage  Unknown
+Player 2: S2J  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Armada  Unknown
+Player 2: Plup  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: S2J  Unknown
+Player 2: PewPewU  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Mango  Unknown
+Player 2: Plup  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Alex19  Unknown
+Player 2: Shroomed  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Armada/Mew2King  Unknown
+Player 2: SFAT/PewPewU - Bro Unknown
+Bracket: Up Challenge 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Westballz  Unknown
+Player 2: Kage  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Mango  Unknown
+Player 2: Swedish Delight - Low Unknown
+Bracket: Tier Challenge 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Mango  Unknown
+Player 2: Shroomed  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: PewPewU  Unknown
+Player 2: Plup  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit
+Player 1: Kage  Unknown
+Player 2: Zhu  Unknown
+Bracket: Challenge Duel 
+Game: Melee
+-------------
+

@@ -1,0 +1,4585 @@
+Tournament Name: Summit 2016 
+Player 1: Bark Sanchez  (Pikachu)
+Player 2: Revan  (Kirby)
+Bracket: SSB Singles Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Bark Sanchez  (Pikachu)
+Player 2: Ybombb  (Falcon)
+Bracket: SSB Singles Loser Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Ybombb  (Jigglypuff, Yoshi)
+Player 2: Preston  (Kirby)
+Bracket: SSB Singles Losers Semis	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: BarkSanchez  (Pikachu)
+Player 2: Revan  (Kirby)
+Bracket: SSB Singles Winers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Janco  (Pikachu, Kirby)
+Player 2: Preston  (Kirby)
+Bracket: SSB Singles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Ybmobb  (Jigglypuff, Falcon)
+Player 2: The Big D  (Pikachu)
+Bracket: SSB64 Singles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Rizner  (Kirby)
+Player 2: YBOMBB  (JigglyPuff)
+Bracket: SSB Singles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Janco  (Red Pikachu)
+Player 2: Bark Sanchez  (Pikachu, Falcon)
+Bracket: SSB Singles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Revan  (Kirby)
+Player 2: The Big D  (Pikachu)
+Bracket: SSB Singles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: VanillaRin  (Yellow)
+Player 2: Preston  (Green)
+Bracket: SSB Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Fck Vwls  (Falcon)
+Player 2: Hot Spank  (Jigglypuff, Falcon)
+Bracket: SSB Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Sax  (Falcon, Mario)
+Player 2: Rizner  (Kirby)
+Bracket: SSB Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Sextc  (Fox, Falcon)
+Player 2: YBOMBB  (Falcon)
+Bracket: SSB Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Sax  (Falcon)
+Player 2: BarkSanchez  (Pikachu)
+Bracket: SSB Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Janco  (PikaChu Kirby)
+Player 2: YBOMBB  (Yoshi, Puff, Falcon)
+Bracket: SSB Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Fck Vwls  (Falcon)
+Player 2: The Big D  (Kirby)
+Bracket: SSB Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Preston  (Yellow)
+Player 2: Revan  (Pink)
+Bracket: SSB Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: VanillaRin  (Kirby)
+Player 2: BarkSanchez  (Pikachu, Falcon)
+Bracket: SSB Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Rizner  (Pink)
+Player 2: Preston  (Yellow)
+Bracket: SSB Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: PolarBair  (Mario)
+Player 2: Reckless  (Falcon)
+Bracket: SSB Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: sextc & Revan  None
+Player 2: Bark Sanchez & Preston  None
+Bracket: SSB64 Doubles Bracket Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Bark Sanchez & Preston  None
+Player 2: Ybmombb & Sax  None
+Bracket: SSB64 Doubles Bracket Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Ybombb & Sax  None
+Player 2: Fck Vwls & Janco  None
+Bracket: SSB64 Doubles Bracket Losers Semis	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: sextc & Revan  None
+Player 2: Bark Sanchez & Preston  None
+Bracket: SSB64 Doubles Bracket Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Rizner & Second Boss  None
+Player 2: Fck Vwls & Janco  None
+Bracket: SSB64 Doubles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Shake & The Big D  None
+Player 2: Ybmombb & Sax   None
+Bracket: SSB64 Doubles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Revan & Sextc  None
+Player 2: Vwsl & Janco  None
+Bracket: SSB64 Doubles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Bark Sanchez & Preston  None
+Player 2: Ybombb & Sax  None
+Bracket: SSB64 Doubles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 2016 
+Player 1: Fck Vwls & Janco  None
+Player 2: SHAKE & The Big D  None
+Bracket: SSB64 Doubles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Derek  (Pikachu)
+Player 2: Fireblaster  (Yoshi)
+Bracket: Smash 64 Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Revan  (Kirby)
+Player 2: SSBMTL T3RG | The Z  (Pikachu)
+Bracket: Smash 64 Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Ivor  (Green Fox)
+Player 2: Shake  (White Fox)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: SSBMTL TR3G | The Z  (Pikachu, Fox)
+Player 2: USA SuPeRbOoMfAn  (Pikachu)
+Bracket: Smash 64 Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: SSBMTL TR3G | The Z  (Blue Pikachu)
+Player 2: KeroKeroppi  (Red Pikachu)
+Bracket: Smash 64 Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: SuPeRbOoMfAn  (Kirby, Pikachu)
+Player 2: KeroKeroppi  (Pikachu)
+Bracket: Smash 64 Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Revan  (Kirby)
+Player 2: SSBMTL TR3G | The Z  (Pikachu)
+Bracket: Smash 64 Losers Semis	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: COG | Wizzrobe  (Yoshi)
+Player 2: Revan  (Kirby)
+Bracket: Smash 64 Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Derek  (Pikachu)
+Player 2: SSBMTL TR3G | The Z  (Yoshi, Falcon, Pikachu)
+Bracket: Smash 64 LQFs	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Ybombb  (Jigglypuff)
+Player 2: Revan  (Kirby)
+Bracket: Smash 64 Losers R5	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Derek  (Pikachu)
+Player 2: Bark the Shark  (Pikachu)
+Bracket: Smash 64 Losers R5	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: COG | Wizzrobe  (Yoshi)
+Player 2: Kerokeroppi  None
+Bracket: Smash 64 Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: SuPeRbOoMfAn  (Kirby)
+Player 2: SSBMTL TR3G | The Z  (Pikachu)
+Bracket: Smash 64 Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Bark The Shark  (Pikachu)
+Player 2: sextc  (Falcon)
+Bracket: Smash 64 Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: SuPeRbOoMfAn  (Falcon)
+Player 2: Ybomb  (Jigglypuff)
+Bracket: Smash 64 Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: SPY | Nintendude  (Blue Fox)
+Player 2: SSBMTL TR3G | The Z  (Red Fox)
+Bracket: Smash 64 Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Shears  (Pikachu, Yoshi)
+Player 2: Derek  (Pikachu)
+Bracket: Smash 64 Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Fireblaster  (Yoshi)
+Player 2: Kerokeroppi  (Kirby, Pikachu)
+Bracket: Smash 64 Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Revan  (Kirby)
+Player 2: Shears  (Pikachu)
+Bracket: Smash 64 Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Janco  (Pikachu)
+Player 2: SuPeRbOoMfAn  (Falcon)
+Bracket: Smash 64 Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Daniels  (Pikachu)
+Player 2: Keagsbsmashin  (Kirby)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Khakis  (Jigglypuff)
+Player 2: Marlwolf  (Falcon)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Ybombb  (Jigglypuff, Falcon)
+Player 2: Daniels  (Fox)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Vwls  (Falcon)
+Player 2: Derek  (Pikachu)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Marlwolf  (Falcon)
+Player 2: HEIR | Jam  (Pikachu)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: NessKhalifa  (Ness)
+Player 2: Kerokeroppi  (Falcon)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Hotspank  (Pikachu)
+Player 2: Daniels  (Pikachu, Fox)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Ybombb  (Jigglypuff, Yoshi)
+Player 2: Khakis  (Jigglypuff)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Win Cancel  (Pikachu)
+Player 2: NessKhalifa  (Falcon)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: The Big D  (Pikachu)
+Player 2: Salt  (Kirby)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: H20  (Fox)
+Player 2: White  (Pikachu)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Fireblaster  (Yoshi)
+Player 2: The Big D  (Kirby)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Snorlax  (DK)
+Player 2: Janco  (Pikachu)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: SuPeRbOoMfAn  (Falcon)
+Player 2: Socrates  (Jigglypuff, Ness)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Cwic-Beam  (Yoshi)
+Player 2: Captain Fabulous  (Falcon)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Mr. Sir  (Samus)
+Player 2: Shake  (Link)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Bark The Shark  (Pikachu)
+Player 2: BON  (Kirby)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Mr. Sir  (Samus)
+Player 2: SPY | Nintendude  (Fox)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2016 
+Player 1: Captain Fabulous  (Falcon)
+Player 2: B Link  (Pikachu, Kirby)
+Bracket: Smash 64 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: hell
+Player 1: dew & David_give vs Chrim Foish  None
+Player 2: Blacktwins - TCU2016  None
+Bracket: WiiU Doubles	
+Game: Unknown
+-------------
+
+Tournament Name: TMG Crews 
+Player 1: Queens  None
+Player 2: Humber  None
+Bracket: TCU2016	
+Game: Unknown
+-------------
+
+Tournament Name: TMG Crews 
+Player 1: York  None
+Player 2: Queens  None
+Bracket: TCU2016	
+Game: Unknown
+-------------
+
+Tournament Name: TMG Crews 
+Player 1: York  None
+Player 2: Humber  None
+Bracket: TCU2016	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: EMG | Weon-X  (Red Fox)
+Player 2: Ryan Ford  (White Fox)
+Bracket: SSBM Singles Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: EMG | Weon-X  (Fox)
+Player 2: Kage the Warrior  (Ganon)
+Bracket: SSBM Singles Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: EMG | Weon-X  (Red Fox)
+Player 2: EGE | Coffeeblack  (Blue Fox)
+Bracket: SSBM Singles Losers Semis	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: Kage the Warrior  (Ganon)
+Player 2: Ryan Ford  (Fox)
+Bracket: SSBM Singles Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: EMG | Weon-X  (Fox)
+Player 2: Chester01  (Fox, Marth)
+Bracket: SSBM Singles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: EGE | Coffeeblack  (Fox)
+Player 2: TOMB | Hello  (Sheik)
+Bracket: SSBM Singles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: EGE | Coffeeblack  (Falcon)
+Player 2: Ryan Ford  (Fox)
+Bracket: SSBM Singles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: Chestor01  (Fox)
+Player 2: Lunar Dusk  (ICs)
+Bracket: SSBM Singles Losers R3	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: Lunardusk  (ICs)
+Player 2: YukariYakumo  (Sheik)
+Bracket: SSBM Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: Ryan Ford  (Falcon)
+Player 2: Lunardusk  (ICs)
+Bracket: SSBM Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: EGE | Coffeeblack  (Fox)
+Player 2: Chester01  (Fox)
+Bracket: SSBM Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: Ryan Ford  (Falcon)
+Player 2: EFB Timmy  (Peach)
+Bracket: SSBM Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: EMG | Weon-X  (Fox)
+Player 2: Darkbyte101  (Falcon)
+Bracket: SSBM Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: Kage the Warrior  (Ganon)
+Player 2: YukariYakumo  (Sheik)
+Bracket: SSBM Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: EGE | Coffeeblack  (Fox)
+Player 2: DPresence  (Sheik)
+Bracket: SSBM Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: EMG LGS | Blacktwins  (Fox)
+Player 2: Mugifi  (Yoshi)
+Bracket: SSBM Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: EMG LGS | Blacktwins  (Fox, Pichu)
+Player 2: Kage the Warrior  (Ganon)
+Bracket: SSBM Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: EGE | Coffeeblack  (Fox, DK)
+Player 2: Riptide  (Samus, Marth)
+Bracket: SSBM Singles Pools L	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: Ryan Ford  (Falcon, Falco)
+Player 2: JesusVII  (Falcon)
+Bracket: SSBM Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: Kage the Warrior  (Ganon)
+Player 2: Fritorosse12  (Sheik)
+Bracket: SSBM Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: Kage the Warrior  (Ganon)
+Player 2: Mugifi  (Yoshi)
+Bracket: SSBM Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: Kage & EMG Weon-X  None
+Player 2: Ryan Ford & Coffeeblack  None
+Bracket: SSBM Doubles Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: EGE Chrim Foish & Hello  None
+Player 2: Ryan Ford & Coffeeblack  None
+Bracket: SSBM Doubles Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: EGE Chrim Foish & Hello  None
+Player 2: EFB | Timmy & AKGamer  None
+Bracket: SSBM Doubles Losers Semis	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: Kage & EMG Weon-X  None
+Player 2: Ryan Ford & Coffeeblack  None
+Bracket: SSBM Doubles Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: Kage & EMG Weon-X  None
+Player 2: Hello & EGE | Chrim Foish  None
+Bracket: SSBM Doubles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: LAN ETS 2016 
+Player 1: Ryan Ford & Coffeeblack  None
+Player 2: EGB | Timmy & AKGamer  None
+Bracket: SSBM Doubles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Arcadian FEB 2016 
+Player 1: Jethrotex [L]  (Peach)
+Player 2: Windrose  (Falcon)
+Bracket: SSBM Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Arcadian FEB 2016 
+Player 1: Jethrotex  (Peach)
+Player 2: Damian Tyson  (Sheik)
+Bracket: SSBM Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Arcadian FEB 2016 
+Player 1: DShi  (Falco)
+Player 2: Damian Tyson  (Sheik)
+Bracket: SSBM Losers Semi Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Arcadian FEB 2016 
+Player 1: Windrose  (Falcon)
+Player 2: Izek  (Falco)
+Bracket: SSBM Winners Round 4	
+Game: Unknown
+-------------
+
+Tournament Name: Arcadian FEB 2016 
+Player 1: Windrose  (Falcon)
+Player 2: Heartbreaker  (Jigglypuff)
+Bracket: SSBM Winners Semi Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Arcadian FEB 2016 
+Player 1: Phake  (Marth)
+Player 2: DShi  (Falco)
+Bracket: SSBM Losers Top 8	
+Game: Unknown
+-------------
+
+Tournament Name: Arcadian FEB 2016 
+Player 1: Jethrotex  (Peach)
+Player 2: Damian Tyson  (Sheik)
+Bracket: SSBM Winners Semi Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Arcadian FEB 2016 
+Player 1: Izek  (Falco)
+Player 2: Hello  (Sheik)
+Bracket: SSBM Losers Round 6	
+Game: Unknown
+-------------
+
+Tournament Name: Arcadian FEB 2016 
+Player 1: Hello  (Sheik)
+Player 2: K  (Sheik)
+Bracket: SSBM Losers Top 8	
+Game: Unknown
+-------------
+
+Tournament Name: Arcadian FEB 2016 
+Player 1: HeartBreaker  (Jigglypuff)
+Player 2: K  (Sheik)
+Bracket: SSBM Winners Round 4	
+Game: Unknown
+-------------
+
+Tournament Name: Arcadian FEB 2016 
+Player 1: DShi  (Falco)
+Player 2: HeartBreaker  (Jigglypuff)
+Bracket: SSBM Losers Quarter Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Arcadian FEB 2016 
+Player 1: DShi  (Falco)
+Player 2: Damian Tyson  (Sheik)
+Bracket: SSBM Winners Round 4	
+Game: Unknown
+-------------
+
+Tournament Name: Arcadian FEB 2016 
+Player 1: Damian Tyson  (Sheik)
+Player 2: K  (Sheik)
+Bracket: SSBM Losers Quarter Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Arcadian FEB 2016 
+Player 1: Phake  (Marth)
+Player 2: Plum  (Falcon)
+Bracket: SSBM Losers Round 6	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 SSBM 
+Player 1: LP Trulium  None
+Player 2: Fork  None
+Bracket: Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 SSBM 
+Player 1: Fork  None
+Player 2: LP Trulium  None
+Bracket: GRAND FINALS	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Xyro & PK Fire  None
+Player 2: Sandro & Dayzin  None
+Bracket: Doubles	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Sandro & Dayzin  None
+Player 2: Blank & Yoh  None
+Bracket: Doubles	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: EMG Nate$ SmashCentral  None
+Player 2: Jell0 & Adam  None
+Bracket: Doubles	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Dayzin  None
+Player 2: Dave  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Bo  None
+Player 2: Sandro  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Yoh  None
+Player 2: Sandro  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Yoh  None
+Player 2: Rocky  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Yoh  None
+Player 2: Rampage  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Yoh  None
+Player 2: LGS Truth  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Yoh  None
+Player 2: KRL  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Yoh  None
+Player 2: Bo  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Yoh  None
+Player 2: Al3x v9  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Spacedong  None
+Player 2: Mabey  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: SpaceDong  None
+Player 2: Jell0  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Sandro  None
+Player 2: Rocky  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Sandro  None
+Player 2: KRL  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Rampage  None
+Player 2: LGS Truth  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Poke  None
+Player 2: Raijin  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: MikeTavish  None
+Player 2: Dave  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Mabey  None
+Player 2: MikeTavish  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Mabey  None
+Player 2: Dayzin  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: Mabey  None
+Player 2: Dave  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RR2 Wii U 
+Player 1: LGS Truth  None
+Player 2: Sandro  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: WP4 
+Player 1: sauc3  None
+Player 2: Ryan Ford  None
+Bracket: Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: WP4 SSBM 
+Player 1: Ryan Ford  None
+Player 2: CT The Moon  None
+Bracket: Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: WP 4 SSBM 
+Player 1: Nightmare & CT TheMoon  None
+Player 2: RyanFord & Weon X  None
+Bracket: WF	
+Game: Unknown
+-------------
+
+Tournament Name: WP 4 SSBM 
+Player 1: CT The Moon & Nightmare  None
+Player 2: EGE CoffeeBlack & RiddleBox  None
+Bracket: LF	
+Game: Unknown
+-------------
+
+Tournament Name: WP 4 SSBM 
+Player 1: Nightmare & CT TheMoon  None
+Player 2: RyanFord & EMG Weon X  None
+Bracket: GF	
+Game: Unknown
+-------------
+
+Tournament Name: WP 4 SSBM 
+Player 1: CT TheMoon  None
+Player 2: MPrime  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: WP 4 SSBM 
+Player 1: SedimentaryRock  None
+Player 2: Nightmare  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: WP 4 SSBM 
+Player 1: Sawrik  None
+Player 2: Rappsody  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: WP 4 SSBM 
+Player 1: RyanFord  None
+Player 2: Krisp  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: WP 4 SSBM 
+Player 1: RyanFord  None
+Player 2: DuckChris  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: WP 4 SSBM 
+Player 1: RyanFord  None
+Player 2: Brwn  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: WP 4 SSBM 
+Player 1: Moky  None
+Player 2: Jethrotex  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: WP 4 SSBM 
+Player 1: KingQuiggles  None
+Player 2: Jethrotex  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: WP 4 SSBM 
+Player 1: EGE CoffeeBlack  None
+Player 2: Sawrik  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RUTHERFORD RUMBLE 
+Player 1: Nightmare  None
+Player 2: EMG n0ne  None
+Bracket: Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: RUTHERFORD RUMBLE 
+Player 1: Nightmare  None
+Player 2: EMG Sauc3  None
+Bracket: Losers Semis	
+Game: Unknown
+-------------
+
+Tournament Name: RUTHERFORD RUMBLE 
+Player 1: EMG Sauc3  None
+Player 2: EGE CoffeeBlack  None
+Bracket: Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: RUTHERFORD RUMBLE 
+Player 1: Styles  None
+Player 2: KevinWongington  None
+Bracket: Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: RUTHERFORD RUMBLE 
+Player 1: Styles  None
+Player 2: EGE Chrim Foisch  None
+Bracket: Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: RUTHERFORD RUMBLE 
+Player 1: SpaceDong  None
+Player 2: Sandro  None
+Bracket: Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: RUTHERFORD RUMBLE 
+Player 1: Nightmare  None
+Player 2: Sandro  None
+Bracket: Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: RUTHERFORD RUMBLE 
+Player 1: Nightmare  None
+Player 2: Kheld  None
+Bracket: Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: RUTHERFORD RUMBLE 
+Player 1: EMG Toronto Joe  None
+Player 2: SpaceDong  None
+Bracket: Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: RUTHERFORD RUMBLE 
+Player 1: SpaceDong & SpeedDong  None
+Player 2: KevinWongington & Dreammm  None
+Bracket: Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: RUTHERFORD RUMBLE 
+Player 1: EGE Chrim Foish & EMG Toronto Joe  None
+Player 2: SpaceDong & SpeedDong  None
+Bracket: Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: RUTHERFORD RUMBLE 
+Player 1: Thwomp  None
+Player 2: Sandro  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RUTHERFORD RUMBLE 
+Player 1: Styles  None
+Player 2: EMG Toronto Joe  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RUTHERFORD RUMBLE 
+Player 1: SpaceDong  None
+Player 2: Kheld  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RUTHERFORD RUMBLE 
+Player 1: Sandro  None
+Player 2: EGE Chrim Foisch  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RUTHERFORD RUMBLE 
+Player 1: Nightmare  None
+Player 2: Sandro  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RUTHERFORD RUMBLE 
+Player 1: Nightmare  None
+Player 2: EGE Chrim Foisch  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: RUTHERFORD RUMBLE 
+Player 1: Dreammm  None
+Player 2: KevinWongington  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: V115  None
+Player 2: EGE Chrim Foisch  None
+Bracket: Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: SpaceDong  None
+Player 2: HoH Venom  None
+Bracket: Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: SpaceDong  None
+Player 2: EGE Chrim Foisch  None
+Bracket: Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: Ray Kalm  None
+Player 2: Ryoko  None
+Bracket: Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: PokeCheese  None
+Player 2: EMG TTD Blacktwins  None
+Bracket: Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: Brl Holy  None
+Player 2: EGE Chrim Foisch  None
+Bracket: Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: IceNinja  None
+Player 2: Brl Holy  None
+Bracket: Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: Brl Holy  None
+Player 2: Brl Ally  None
+Bracket: GRAND FINALS	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: DK Bill  None
+Player 2: HoH Venom  None
+Bracket: Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: DK Bill  None
+Player 2: EGE Chrim Foisch  None
+Bracket: Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: DK Bill  None
+Player 2: Brl Holy  None
+Bracket: Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: David Give  None
+Player 2: Gains  None
+Bracket: Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: EGEChrim Foisch  None
+Player 2: V115  None
+Bracket: Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: EGE Chrim Foisch  None
+Player 2: KingKong  None
+Bracket: Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: EMG TTD Blacktwins  None
+Player 2: V115  None
+Bracket: Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: BrlAlly  None
+Player 2: V115  None
+Bracket: Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: Xyro  None
+Player 2: EGE Chrim Foisch  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: V115  None
+Player 2: Marit  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: Nuke  None
+Player 2: Rampage  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: JaySlap  None
+Player 2: HoH Venom  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: IceNinja  None
+Player 2: Nuke  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: IceNinja  None
+Player 2: Jords2Good  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: HoH Venom  None
+Player 2: Sendo  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: HoH Venom  None
+Player 2: CPUGamer  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: Eddie  None
+Player 2: Banned  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: Brl Ally  None
+Player 2: FGS Truth  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: EMG TTD Blacktwins  None
+Player 2: HoH PixiE  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: V115 EMG TTD BlackTwins  None
+Player 2: HoH Venom & Darkwolf  None
+Bracket: Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: Sendo & DKBill  None
+Player 2: V115 & EMG TTD Blacktwins  None
+Bracket: Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: RayKalm & Jbones  None
+Player 2: IceNinja & EGE ChrimFoisch  None
+Bracket: Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: Ray Kalm & JBones  None
+Player 2: Brl Ally & Holy  None
+Bracket: Losers Semis	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: Brl Holy & Ally  None
+Player 2: Radeoctua & Dr Slate  None
+Bracket: Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: hell-dew & Gains  None
+Player 2: HoHPixie & HomieOreeo  None
+Bracket: Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: Brl Ally & Holy  None
+Player 2: V115 & EMG TTD Blacktwins  None
+Bracket: GRAND FINALS	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: EMG TTD Blacktwins & V115  None
+Player 2: EGE ChrimFoisch & IceNinja  None
+Bracket: Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: Brl. Ally & Holy  None
+Player 2: HoH Venom & Darkwolf  None
+Bracket: Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: LANWAR X 2015 
+Player 1: Brl. Ally & Holy  None
+Player 2: HoH Venom & Darkwolf  None
+Bracket: Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: V115  (Zerosuit)
+Player 2: Yoh  (Sheik)
+Bracket: Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: Poke  (DK)
+Player 2: Yoh  (Sheik)
+Bracket: Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: V115  (Zerosuit)
+Player 2: Poke  (Luigi)
+Bracket: Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: EMG | Blacktwins  (Mario)
+Player 2: Yoh  (Sheik)
+Bracket: Losers Semis	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: V115 & EMG Blacktwins  None
+Player 2: Poke & Chrim Foish  None
+Bracket: Doubles Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: Yoh  (Sheik)
+Player 2: SpaceDong  (Fox)
+Bracket: Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: EMG | Blacktwins  (MK)
+Player 2: Astro  (Lucario)
+Bracket: Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: Yoh & Blank  None
+Player 2: Poke & Chrim Foish  None
+Bracket: Doubles Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: SpaceDong  (Fox)
+Player 2: EGE | Chrim Foish  (Diddy)
+Bracket: Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: Gains & DK Bill  None
+Player 2: Yoh & Blank  None
+Bracket: Doubles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: V115  (Zerosuit)
+Player 2: Yoh  (Sheik)
+Bracket: Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: Poke  (Luigi)
+Player 2: SpaceDong  (Fox)
+Bracket: Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: V115 & EMG Blacktwins  None
+Player 2: Poke & Chrim Foish  None
+Bracket: Doubles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: EGE | Chrim Foish  (MK)
+Player 2: EMG | Blacktwins  (Fox)
+Bracket: Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: V115 & EMG Blacktwins  None
+Player 2: Yoh & Blank  None
+Bracket: Doubles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: EMG | Toronto Joe  (Fox)
+Player 2: Blank  (Rosalina)
+Bracket: Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: Gains & DK Bill  None
+Player 2: Poke & Chrim Foish  None
+Bracket: Doubles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: Gains & DK Bill  None
+Player 2: SpaceDong & Astro  None
+Bracket: Doubles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: DK Bill  (DK)
+Player 2: Astro  (Duck Hunt)
+Bracket: Singles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: DK Bill  (DK)
+Player 2: SpaceDong  (Fox)
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: Davion  (Olimar)
+Player 2: SpaceDong  (Fox)
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: Gains  (Luigi, Ness)
+Player 2: V115  (Zerosuit)
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: Astro  (Lucario)
+Player 2: Blank  (Zerosuit, Rosalina)
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: EMG | Blacktwins  (Zerosuit)
+Player 2: Awesome Cake  (Peach)
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: Voltampt  (Robin)
+Player 2: EMG | Blacktwins  (Lucina)
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: Voltampt  (Robin)
+Player 2: Awesome Cake  (Peach)
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: Awesome Cake  (Peach)
+Player 2: Abbey Street  (Lucina)
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: Poke  (Mario, Luigi)
+Player 2: Miguel  (Sonic)
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: EMG | Toronto Joe  (Fox)
+Player 2: Raijin  (Sonic)
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: EGE | Chrim Foish  (Metaknight)
+Player 2: Shanoa  (Rosalina)
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: Oryx  (Zerosuit)
+Player 2: Majikku  (Peach)
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: SOT SSBU Monthly 
+Player 1: Raijin  (Sonic)
+Player 2: Ryan Lightman  (Falcon)
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Oakville Uproar 3 
+Player 1: Yoh  None
+Player 2: EMG Blacktwins  None
+Bracket: Smash Wii U GRAND FINALS	
+Game: Unknown
+-------------
+
+Tournament Name: Oakville Uproar 3 
+Player 1: Astro  None
+Player 2: EMG Blacktwins  None
+Bracket: Smash Wii U Losers Semis	
+Game: Unknown
+-------------
+
+Tournament Name: Oakville Uproar 3 
+Player 1: SpaceDong  (Fox & Little Mac)
+Player 2: SCS Iliad  (Mewtwo & Little Mac)
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Oakville Uproar 3 
+Player 1: Yoh  (Sheik)
+Player 2: Raijin  (Sonic)
+Bracket: Smash Wii U Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Oakville Uproar 3 
+Player 1: Poke  (DK)
+Player 2: Afrodesiak  (DK)
+Bracket: Smash Wii U Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Oakville Uproar 3 
+Player 1: JBones  (Yoshi)
+Player 2: Blank  (ZSS)
+Bracket: Smash Wii U Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Oakville Uproar 3 
+Player 1: Red X  (Rosalina)
+Player 2: Blank  (ZSS & Rosalina)
+Bracket: Smash Wii U Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Oakville Uproar 3 
+Player 1: EMG Blacktwins  (Roy)
+Player 2: Dreamm  (Roy)
+Bracket: Smash Wii U Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Oakville Uproar 3 
+Player 1: Blank  (ZSS)
+Player 2: JAKAT  (Ness)
+Bracket: Smash Wii U Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Coffeeblack & Hammertime  None
+Player 2: Voltampt & TanTaco  None
+Bracket: Smash 4 Doubles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Poke & Chrim Foish  None
+Player 2: Aerious & Bug Dr.  None
+Bracket: Smash 4 Doubles Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: JBones  (Yoshi)
+Player 2: Yung Mickel  (Fox)
+Bracket: Smash 4 R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: TanTaco  (Kirby)
+Player 2: Gains  (Luigi)
+Bracket: Smash 4 R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Space Dong  (Fox)
+Player 2: Sain  (ROB)
+Bracket: Smash 4 R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Azdiff  (Pikachu)
+Player 2: IceNinja  (Palutena)
+Bracket: Smash 4 R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: EGE | Chrim Foish  (Diddy)
+Player 2: Yoh  (Sheik)
+Bracket: Smash 4 Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: CT | Chibo  (Dedede)
+Player 2: Raijin  (Sonic)
+Bracket: Smash 4 R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: EGE | Chrim Foish  (Diddy, MK)
+Player 2: Poke  (Luigi)
+Bracket: Smash 4 Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Dehv  (Luigi)
+Player 2: Hammond Is A Fraud  (Peach)
+Bracket: Smash 4 R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: BrL_Holy  (ROB)
+Player 2: Raykalm  (Ganon)
+Bracket: Smash 4 Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: EMG | Toronto Joe  (Fox)
+Player 2: Yoh  (Sheik)
+Bracket: Smash 4 Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: SpaceDong  (Fox)
+Player 2: BrL_Ally  (Mario)
+Bracket: Smash 4 Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Raykalm  (Ganon)
+Player 2: Jerm  (Shulk)
+Bracket: Smash 4 R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Yoh  (Sheik)
+Player 2: Koobie  (Dedede)
+Bracket: Smash 4 R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Poke  (Luigi)
+Player 2: Toez  (Mario, Diddy)
+Bracket: Smash 4 R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: EGE | Chrim Foish  (Diddy)
+Player 2: BrL_Holy  (ROB)
+Bracket: Smash 4 Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: BrL_Holy  (ROB)
+Player 2: DKBill  (DK)
+Bracket: Smash 4 R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: EMG | Toronto Joe  (Fox)
+Player 2: PTO | Blitz  (Ike)
+Bracket: Smash 4 R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Yoh  (Sheik)
+Player 2: SpaceDong  (Fox)
+Bracket: Smash 4 Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: EMG | Blacktwins  (Shulk, Kirby)
+Player 2: Voltampt  (Robin)
+Bracket: Smash 4 R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Poke  (Luigi)
+Player 2: Raykalm  (Ganon)
+Bracket: Smash 4 Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Hammond Is A Fraud  (Peach)
+Player 2: EGE | Chrim Foish  (Diddy)
+Bracket: Smash 4 Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: SCS | Iliad  (Falcon, Mewtwo)
+Player 2: Poke  (Luigi)
+Bracket: Smash 4 Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Raykalm  (Ganon)
+Player 2: EMG | Toronto Joe  (Fox)
+Bracket: Smash 4 Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Helldew  (Pikachu)
+Player 2: IceNinja  (Palutena)
+Bracket: Smash 4 Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: TanTaco  (Kirby)
+Player 2: Raykalm  (Ganon)
+Bracket: Smash 4 Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Yung Mickel  (Fox)
+Player 2: Jerm  (Shulk)
+Bracket: Smash 4 Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: SCS | Iliad  (Falcon)
+Player 2: Raijin  (Sonic)
+Bracket: Smash 4 Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Aphrodesiak  (DK)
+Player 2: Dehv  (Luigi)
+Bracket: Smash 4 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Hammond is a Fraud  (Peach)
+Player 2: Halek  (Megaman)
+Bracket: Smash 4 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: SpaceDong  (Lucas, Sheik)
+Player 2: Vishera  (Ganondorf)
+Bracket: Smash 4 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: EMG | n0ne  (Falcon)
+Player 2: Majikku  (Peach)
+Bracket: Smash 4 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Blanc  (Bowser Jr)
+Player 2: JBones  (Yoshi)
+Bracket: Smash 4 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: TanTaco  (Kirby)
+Player 2: Paradigm  (Shulk)
+Bracket: Smash 4 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Boreal_Morks  (Luigi)
+Player 2: Rampage  (Falcon)
+Bracket: Smash 4 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Poke  (DK)
+Player 2: RTX | Mazdamaxti  None
+Bracket: Smash 4 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Boreal_Holy  (ROB)
+Player 2: Zukon  (Lucina)
+Bracket: Smash 4 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Boreal_Ally  (Mario)
+Player 2: SCS | Scoot  (Luigi)
+Bracket: Smash 4 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Toez  (Mario)
+Player 2: Mabey  (Peach)
+Bracket: Smash 4 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Tofu  (Ike, Charizard)
+Player 2: Helldew  (Pikachu)
+Bracket: Smash 4 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Seen  (Falco)
+Player 2: Mike Tavish  (Ness, Mario)
+Bracket: Smash 4 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Koobi  (Dedede)
+Player 2: Raijin  (Sonic)
+Bracket: Smash 4 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: DKBill  (DK)
+Player 2: Jubiyab  (Jigglypuff)
+Bracket: Smash 4 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: EMG | Blitz  (Ike)
+Player 2: Papa Patches  (Luigi)
+Bracket: Smash 4 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Summit 
+Player 1: Raykalm  (Ganon)
+Player 2: Dream  (Link, Sheik)
+Bracket: Smash 4 Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Jamrun  (Peach)
+Player 2: Kason Birdman  (Fox)
+Bracket: Melee Singles Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Rival  (Falco)
+Player 2: Kason  (Fox)
+Bracket: Melee Singles Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Jamrun  (Peach)
+Player 2: Kason Birdman  (Fox)
+Bracket: Melee Singles Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Rival  (Falco)
+Player 2: Hello  (Sheik)
+Bracket: Melee Singles Losers Semis	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Frog  (Falco)
+Player 2: Hello  (Sheik)
+Bracket: Melee Singles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Tranimal  (Sheik)
+Player 2: Rival  (Falco)
+Bracket: Melee Singles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Frog  (Falco)
+Player 2: Kason Birdman  (Fox)
+Bracket: Melee Singles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Jamrun  (Peach)
+Player 2: Rival  (Falco)
+Bracket: Melee Singles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: FAKKU! Coastward  (Ganon)
+Player 2: Hello  (Sheik)
+Bracket: Melee Singles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: ChrisKow  (Sheik)
+Player 2: Tranimal  (Sheik)
+Bracket: Melee Singles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: 4Serial  (Link)
+Player 2: Tranimal  (Sheik)
+Bracket: Melee Singles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Tranimal  (Sheik)
+Player 2: Frog  (Falco)
+Bracket: Melee Singles Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Sanu  (Fox)
+Player 2: Rival  (Falco)
+Bracket: Melee Singles Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Poop  (Falcon)
+Player 2: Jamrun  (Peach)
+Bracket: Melee Singles Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Hello  (Sheik)
+Player 2: Tranimal  (Sheik)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: SCA  (Samus)
+Player 2: Sanu  (Fox)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Kason Birdman  (Fox)
+Player 2: Greener  (sheik)
+Bracket: Melee Singles Winners Brackets	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Krisp  (Jigglypuff)
+Player 2: ChrisKow  (Sheik)
+Bracket: Melee Singles Winners Brackets	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Poop  (Falcon)
+Player 2: Silent Zebra  (Ganon)
+Bracket: Melee Singles Winners Brackets	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Frog  (Falco)
+Player 2: Dex  (Fox)
+Bracket: Melee Singles Winners Brackets	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: EMG | ProZak  (Samus)
+Player 2: Jamrun  (Peach)
+Bracket: Melee Singles Winners Brackets	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Poop  (Falcon)
+Player 2: Shaky  (Marth)
+Bracket: Melee Singles Winners Brackets	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: EMG | ProZak  (Samus)
+Player 2: Natedogg  (Sheik)
+Bracket: Melee Singles Winners Brackets	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Dex  (Fox)
+Player 2: NERV  (Falcon)
+Bracket: Melee Singles Winners Brackets	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: Scoops Hagen Daz  (Link)
+Player 2: Dots  (Falco)
+Bracket: Melee Singles Winners Brackets	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 14 
+Player 1: EMG | ProZak  (Mario, Marth)
+Player 2: WhatTheGuan  (Falco)
+Bracket: Melee Singles Winners Brackets	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: Ryan Ford  (Fox)
+Player 2: EMG | n0ne  (Falcon)
+Bracket: Melee Singles Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: EMG Sauc3  (Fox)
+Player 2: EMG | n0ne  (Falcon)
+Bracket: Melee Singles Losers Semis	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: Hello  (Doc, Sheik)
+Player 2: EMG | n0ne  (Ganon, Falcon)
+Bracket: Melee Singles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: Ryan Ford  (Fox)
+Player 2: EMG | Weon-X  (Fox, Marth)
+Bracket: Melee Singles Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: Ryan Ford  (Fox)
+Player 2: EMG | Sauce  (Fox)
+Bracket: Melee Singles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: EMG | n0ne  (Falcon)
+Player 2: EMG | Weon-X  (Fox)
+Bracket: Melee Singles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: Frog  (Falco)
+Player 2: Greener  (Sheik)
+Bracket: Melee Singles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: FAKKU! Coastward  (Ganon)
+Player 2: Hello  (Sheik)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: FAKKU! Coastward  (Ganon)
+Player 2: K  (Sheik)
+Bracket: Melee Singles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: Natedogg  (Sheik, Fox)
+Player 2: Greener  (Sheik)
+Bracket: Melee Singles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: K  (Sheik)
+Player 2: Ryan Ford  (Fox)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: FAKKU! Coastward  (Ganon)
+Player 2: EMG | ProZak  (Samus)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: Frog  (Falco)
+Player 2: EMG | n0ne  (Falcon)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: Izek  (Falco)
+Player 2: EMG | sauc3  (Fox)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: FAKKU! Coastward  (Ganon)
+Player 2: Frog  (Falco)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: EMG | n0ne  (Falcon)
+Player 2: Liquid  (Marth)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: FAKKU! Coastward  (Ganon)
+Player 2: EMG | Nate$  (Marth)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: EMG | ProZak  (Roy)
+Player 2: Zill  (Sheik)
+Bracket: Melee Singles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: EMG | ProZak  (Young Link)
+Player 2: Joatguy  (Falco)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: SOT 13 
+Player 1: Izek  (Falco)
+Player 2: Shaking  (Marth)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: [LP] RaynEX  (Fox)
+Player 2: Ryan Ford  (Fox)
+Bracket: Melee Singles Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: EMG | n0ne  (Falcon)
+Player 2: Ryan Ford  (Fox)
+Bracket: Melee Singles Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: [LP] RaynEX  (Marth)
+Player 2: EMG | n0ne  (Ganon)
+Bracket: Melee Singles Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: EGE | Coffeeblack  (Jiggs)
+Player 2: Ryan Ford  (Fox)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: EMG | idea  (Jigglypuff)
+Player 2: Ryan Ford  (Fox)
+Bracket: Melee Singles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: EMG | n0ne  (Falcon)
+Player 2: Ryan Ford  (Fox)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: EGE | Coffeeblack  (Falcon)
+Player 2: Jamrun  (Peach)
+Bracket: Melee Singles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: [LP] RaynEX  (Marth)
+Player 2: EGE | Coffeeblack  (Jiggs)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: EMG | idea  (Falco)
+Player 2: Frog  (Fox, Falco)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: Moky  (Falcon)
+Player 2: Jamrun  (Peach)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: Moky  (Falcon)
+Player 2: Toast  (Sheik)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: MChen  (Falco)
+Player 2: EMG | idea  (Jigglypuff)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: Jamrun  (Peach)
+Player 2: EMG | n0ne  (Ganon)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: Moky  (Falcon)
+Player 2: Ryan Ford  (Fox)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: [LP] RaynEX  (Marth)
+Player 2: Frog  (Falco)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: EMG | idea  (Falco)
+Player 2: EGE | Coffeeblack  (Jiggs)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: Frog  (Falco)
+Player 2: Toast  (Peach)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: EMG | ProZak  (Young Link)
+Player 2: EMG | idea  (Falco)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: Moky  (Falcon)
+Player 2: Hello  (Sheik)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: FAKKU! Coastward  (Ganon)
+Player 2: EMG | n0ne  (Ganon)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: EGE | Coffeeblack  (Jigglypuff)
+Player 2: K  (Sheik)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: EMG | ProZak  (Young Link)
+Player 2: EMG | Nate$  (Marth)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 11 
+Player 1: Tigercool  (Falco)
+Player 2: Klaww  (Yoshi)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: GOML2015 
+Player 1: KirbyKaze  (Sheik)
+Player 2: MacD  (Peach)
+Bracket: Melee Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: COG MVG | Mew2king  (Marth, Sheik)
+Player 2: MIOM | SFAT  (Fox)
+Bracket: Melee Singles Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: MIOM | SFAT  (Fox)
+Player 2: Kirbykaze  (Sheik)
+Bracket: Melee Singles Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: EMG | n0ne  (Falcon)
+Player 2: MIOM | SFAT  (Fox)
+Bracket: Melee Singles Losers Semis	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: COG MVG | Mew2King  (Sheik)
+Player 2: Kirbykaze  (Sheik)
+Bracket: Melee Singles Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: EMG | n0ne  (Falcon)
+Player 2: EMG | Weon-X  (Fox)
+Bracket: Melee Singles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Ryan Ford  (Fox)
+Player 2: MIOM | SFAT  (Fox)
+Bracket: Melee Singles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Ryan Ford  (Fox)
+Player 2: EMG | idea  (Jigglypuff)
+Bracket: Melee Singles	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: EMG | n0ne  (Falcon)
+Player 2: MIOM | Toph  (Fox)
+Bracket: Melee Singles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: MIOM | SFAT  (Fox)
+Player 2: Kirbykaze  (Sheik)
+Bracket: Melee Singles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: COG MVG | Mew2King  (Sheik)
+Player 2: EMG | Weon-X  (Fox)
+Bracket: Melee Singles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Ryan Ford  (Fox)
+Player 2: EMG | Sauc3  (Fox)
+Bracket: Melee Singles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: EMG | idea  (Jigglypuff)
+Player 2: Windrose  (Falcon)
+Bracket: Melee Singles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: HammerTime  (Ice Climbers)
+Player 2: EMG | n0ne  (Falcon)
+Bracket: Melee Singles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: COG MVG | Mew2King  (Sheik)
+Player 2: Ryan Ford  (Fox)
+Bracket: Melee Singles Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: MIOM | Toph  (Fox)
+Player 2: 62bit | Vish  (Falcon)
+Bracket: Melee Singles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: MIOM | SFAT  (Fox)
+Player 2: Hammertime  (ICs)
+Bracket: Melee Singles Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: EMG | Weon-X  (Fox)
+Player 2: EMG | idea  (Jigglypuff)
+Bracket: Melee Singles Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Kirbykaze  (Sheik)
+Player 2: MIOM | Toph  (Fox)
+Bracket: Melee Singles Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: 62bit | Vish  (Falcon)
+Player 2: Ryan Ford  (Fox)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: [LP] RaynEX  (Fox)
+Player 2: Hammertime  (ICs)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: EMG | n0ne  (Falcon)
+Player 2: EMG | idea  (Jigglypuff)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: COG MVG | Mew2King  (Sheik)
+Player 2: [LP] Trulliam  (Falco)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: EGE | Coffeeblack  (Falcon)
+Player 2: MIOM | Toph  (Fox)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: MIOM | SFAT  (Fox)
+Player 2: Dshi  (Falco)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Nightmare  (Marth)
+Player 2: Ryan Ford  (Fox)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: [LP] RaynEX  (Fox)
+Player 2: Hex  (Falco)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: 62bit | Vish  (Falcon)
+Player 2: 4Serial  (Link)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Windrose  (Falcon)
+Player 2: [LP] Trulliam  None
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Kason  (Fox)
+Player 2: Phake  (Marth)
+Bracket: Melee Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: COG MVG | Mew2King  (Sheik)
+Player 2: Windrose  (Falcon)
+Bracket: R2 Melee Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Ryan Ford  (Fox)
+Player 2: Jamrun  (Peach)
+Bracket: R2 Melee Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Hello  (Sheik)
+Player 2: Kirbykaze  (Sheik)
+Bracket: R2 Melee Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: 62Bit | Vish  (Falcon)
+Player 2: [LP] Trulliam  (Falco)
+Bracket: R2 Melee Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: EGE | Coffeeblack  (Falcon)
+Player 2: Riddlebox  (Peach)
+Bracket: R2 Melee Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: EMG | idea  (Jigglypuff, Falco)
+Player 2: Poop  (Falcon)
+Bracket: R2 Melee Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: EMG | idea  (Jigglypuff)
+Player 2: Syphichan  (Sheik)
+Bracket: R2 Melee Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: [LP] RaynEX  (Fox)
+Player 2: 4Serial  (Link)
+Bracket: R2 Melee Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: FAKKU! Coastward  (Ganon)
+Player 2: EMG | n0ne  (Mario)
+Bracket: R2 Melee Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Hammertime  (ICs)
+Player 2: EMG | Sauc3  (Fox)
+Bracket: R2 Melee Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Dshi  (Falco)
+Player 2: MIOM | Toph  (Fox)
+Bracket: R2 Melee Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: MIOM | SFAT  (Fox)
+Player 2: Kason Birdman  (Fox)
+Bracket: R2 Melee Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Mew2King & SFAT  None
+Player 2: RaynEX & Ryan Ford  None
+Bracket: Doubles Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Hammertime & Coffeeblack  None
+Player 2: RaynEX & Ryan Ford  None
+Bracket: Doubles Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Hammertime & Coffeeblack  None
+Player 2: Weon-X & idea  None
+Bracket: Doubles Losers Semis	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Mew2King & SFAT  None
+Player 2: RaynEX & Ryan Ford  None
+Bracket: Doubles Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Trulliam & n0ne  None
+Player 2: Weon-X & idea  None
+Bracket: Doubles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Toph & Jethrotex  None
+Player 2: Hammertime & Coffeeblack  None
+Bracket: Doubles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Trulliam & n0ne  None
+Player 2: Kason & Sauc3  None
+Bracket: Doubles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Hammertime & Coffeeblack  None
+Player 2: Hello & 4Serial  None
+Bracket: Doubles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Toph & Jethrotex  None
+Player 2: RaynEX & Ryan Ford  None
+Bracket: Doubles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Weon-X & idea  None
+Player 2: Mew2King & SFAT  None
+Bracket: Doubles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Trulliam & n0ne  None
+Player 2: Towel & The Engineer  None
+Bracket: Doubles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Hammertime & Coffeeblack  None
+Player 2: Dshi & Keatsta  None
+Bracket: Doubles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Jamrun & Chuffles  None
+Player 2: Kason & Sauc3  None
+Bracket: Doubles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Hello & 4Serial  None
+Player 2: Krisp & Cyan  None
+Bracket: Doubles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Trulliam & n0ne  None
+Player 2: RaynEX & Ryan Ford  None
+Bracket: Doubles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Hello & 4Serial  None
+Player 2: Mew2King & SFAT  None
+Bracket: Doubles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Toph & Jethrotex  None
+Player 2: Kason & Sauc3  None
+Bracket: Doubles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Hammertime & Coffeeblack  None
+Player 2: Weon-X & idea  None
+Bracket: Doubles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Trulliam & n0ne  None
+Player 2: Dshi & Keatsta  None
+Bracket: Doubles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Plat & Poop  None
+Player 2: Toph & Jethrotex  None
+Bracket: Doubles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Krisp & Cyan  None
+Player 2: Kason & Sauc3  None
+Bracket: Doubles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Mew2King & SFAT  None
+Player 2: Elterac & Mr. Popo  None
+Bracket: Doubles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Hello & 4Serial  None
+Player 2: Lonebutterfish & Alice In Wonderland  None
+Bracket: Doubles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Rappsody & InfernoJesus  None
+Player 2: Blitz & Heartbreaker  None
+Bracket: Doubles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Syphichan  (Sheik)
+Player 2: Nightmare  (Marth)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Krisp  (Jigglypuff)
+Player 2: Kason  (Fox)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Syphichan  (Sheik)
+Player 2: Slush  (Sheik)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Jamrun  (Peach)
+Player 2: Cyan  (Fox)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Towel  (Falcon)
+Player 2: Dshi  (Falco)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Chuffles  (Fox)
+Player 2: Hex  (Falco)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Jethrotex  (Peach)
+Player 2: 4Serial  (Link)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Hello  (Sheik, Falco)
+Player 2: Drolian  (Falco, Bowser)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Phake  (Marth)
+Player 2: Windrose  (Falcon)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: FAKKU! Coastward  (Ganon)
+Player 2: MChen  (Falco)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: [LP] Trulliam  (Falco)
+Player 2: Poop  (Falcon)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: 62bit | Vish  (Falcon)
+Player 2: Salazar  (Jigglypuff)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: AP Renekton  (Falco)
+Player 2: EGE | Coffeeblack  (Falcon)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: [LP] RaynEX  (Marth)
+Player 2: SCA  (Samus)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Inferno Jesus  (Sheik)
+Player 2: EMG | idea  (Falco)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Keatsta  (Sheik)
+Player 2: EMG | Sauc3  (Fox)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Hammertime  (ICs)
+Player 2: Sylar  (Fox)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Kirbykaze  (G&W)
+Player 2: Heartbreaker  (Jigglypuff)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: MIOM | Toph  (Sheik)
+Player 2: Voltampt  (Falco)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: EMG | n0ne  (Falcon)
+Player 2: Rabbit  (Sheik)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Hayd  (ICs)
+Player 2: MIOM | SFAT  (Fox)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: COG MVG | Mew2King  (Sheik)
+Player 2: Plat  (Fox)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: EXP 2015 
+Player 1: Menard  (Sheik)
+Player 2: Ryan Ford  (Falco)
+Bracket: Melee Singles R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 9 
+Player 1: LP | RaynEX  (Fox, Falco)
+Player 2: EMG | n0ne  (Falcon)
+Bracket: Singles Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 9 
+Player 1: Ryan Ford  (Falco)
+Player 2: EMG | n0ne  (Falcon)
+Bracket: Singles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 9 
+Player 1: EMG | idea  (Jigglypuff)
+Player 2: Ryan Ford  (Sheik, Falco)
+Bracket: Singles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 9 
+Player 1: LP | RaynEX  (Marth, Falco)
+Player 2: MChen  (Falco)
+Bracket: Singles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 9 
+Player 1: EMG | Toronto Joe  (Fox)
+Player 2: Plat  (Fox)
+Bracket: Singles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 9 
+Player 1: EMG | ProZak  (Samus, Mario)
+Player 2: EMG | TorontoJoe  (Sheik,Fox)
+Bracket: Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 9 
+Player 1: Ryan Ford  (Sheik)
+Player 2: Jamrun  (Peach)
+Bracket: Singles Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 9 
+Player 1: Frog  (Falco)
+Player 2: LP | RaynEX  (Fox)
+Bracket: Singles Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 9 
+Player 1: EMG | ProZak  (Samus, Ganon)
+Player 2: EMG | n0ne  (Falcon, Ganon)
+Bracket: Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 9 
+Player 1: Greener  (Sheik)
+Player 2: Ryan Ford  (Sheik)
+Bracket: Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 9 
+Player 1: Joatguy  (Falco)
+Player 2: EMG | n0ne  (Falcon)
+Bracket: Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 9 
+Player 1: EMG | ProZak  (Samus, Falco)
+Player 2: Duck Chris  (Sheik)
+Bracket: Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 9 
+Player 1: Jell0  (Fox, ICs)
+Player 2: Damian Tyson  (Sheik)
+Bracket: Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 9 
+Player 1: Greener  (Sheik)
+Player 2: EMG | Nate$  (Marth)
+Bracket: Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 9 
+Player 1: Gabe  (Marth)
+Player 2: Scoops Haagen Dasz  (Link)
+Bracket: Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: [CSBV1] GF 
+Player 1: Poke  (Luigi)
+Player 2: Chrim Foish  (Diddy)
+Bracket: Smash 4 Singles	
+Game: Unknown
+-------------
+
+Tournament Name: [CSBV1] WF 
+Player 1: Chrim Foish  (Diddy)
+Player 2: [T.T.D] EMG l Blacktwins  (Ness/ZSS)
+Bracket: Smash 4 Singles	
+Game: Unknown
+-------------
+
+Tournament Name: [CSBV1] LSF 
+Player 1: Poke  (Luigi)
+Player 2: Helldew  (Pikachu)
+Bracket: Smash 4 Singles	
+Game: Unknown
+-------------
+
+Tournament Name: [CSBV1] LQF 
+Player 1: Helldew  (Pikachu)
+Player 2: Zhao  (Luigi)
+Bracket: Smash 4 Singles	
+Game: Unknown
+-------------
+
+Tournament Name: [CSBV1] WSF 
+Player 1: [T.T.D] EMG l Blacktwins  (Dark Pit)
+Player 2: Zhao  (Luigi)
+Bracket: Smash 4 Singles	
+Game: Unknown
+-------------
+
+Tournament Name: [CSBV1] WSF 
+Player 1: Chrim Foish  (Diddy)
+Player 2: Poke  (Luigi)
+Bracket: Smash 4 Singles	
+Game: Unknown
+-------------
+
+Tournament Name: [CSBV1] WQF 
+Player 1: Iceninja  (Palutena)
+Player 2: [T.T.D] EMG l Blacktwins  (Falcon)
+Bracket: Smash 4 Singles	
+Game: Unknown
+-------------
+
+Tournament Name: [CSBV1] WQF 
+Player 1: Chrim Foish  (Diddy)
+Player 2: Jerk  (Sheik)
+Bracket: Smash 4 Singles	
+Game: Unknown
+-------------
+
+Tournament Name: [CSBV1] WQF 
+Player 1: Poke  (Luigi)
+Player 2: Helldew  (Pikachu)
+Bracket: Smash 4 Singles	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Kage  (Ganon)
+Player 2: FAKKU | Coastward  (Ganon)
+Bracket: Exhibition Match	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Kage  (Ganon)
+Player 2: LP | RaynEX  (Fox)
+Bracket: Salty Suite Exhibition	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: Yoh  (Sheik)
+Player 2: Blank  (Sheik)
+Bracket: Singles Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: Yoh  (Sheik)
+Player 2: Raykalm  (Ganon)
+Bracket: Singles Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: Yoh  (Sheik)
+Player 2: Blank  (Sheik)
+Bracket: Singles Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: EMG | Blitz  (Ike)
+Player 2: Raykalm  (Ganon)
+Bracket: Singles Losers Semis	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: Raykalm  (Ganon)
+Player 2: Space Dong  (Fox)
+Bracket: Singles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: EMG | Blitz  (Ike)
+Player 2: Hamond  (Peach)
+Bracket: Singles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: Space Dong  (Fox)
+Player 2: Moosebones  (Bowser Jr.)
+Bracket: Singles Losers Round 5	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: Blitz  (Ike)
+Player 2: Ryoko  (Zero Suit)
+Bracket: Singles Losers Round 5	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: Moosebones  (Olimar)
+Player 2: Gains  (Ness, Diddy)
+Bracket: Singles Losers Round 4	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: Blank  (Sheik)
+Player 2: Hammond  (Peach)
+Bracket: Singles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: Raykalm  (Ganon)
+Player 2: Yoh  (Sheik)
+Bracket: Singles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: Blank  (Rosalina, Sheik)
+Player 2: Gains  (Ness, Luigi)
+Bracket: Singles Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: Seel  (Yoshi)
+Player 2: Raykalm  (Ganon)
+Bracket: Singles Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: Hammond  (Peach)
+Player 2: Space Dong  (Fox)
+Bracket: Singles Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: Gains  (Luigi, Ness)
+Player 2: EMG | Blitz  (Ike)
+Bracket: Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: Yung Mickel  (Fox)
+Player 2: Hammond  (Peach)
+Bracket: Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: Ryoko  (ZSS)
+Player 2: DK Bill  (DK)
+Bracket: Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: EMG | Blitz  (Ike)
+Player 2: Zeph The Red  (ROB)
+Bracket: Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: Dreamm  (Rosalina, Roy)
+Player 2: Moosebones  (Olimar)
+Bracket: Singles Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Arcadian 
+Player 1: Yung Mickel  (Fox)
+Player 2: Jerk  (Sheik)
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: Summoned Fist  (Falco)
+Player 2: MChen  (Falco)
+Bracket: SSBM Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: Summoned Fist  (Falco)
+Player 2: Skitchy  (Falco, Fox)
+Bracket: SSBM Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: Summoned Fist  (Falco)
+Player 2: Zorro  (Fox, Marth)
+Bracket: SSBM Losers Semis	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: Skitchy  (Fox)
+Player 2: MChen  (Falco)
+Bracket: SSBM Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: MChen  (Falco)
+Player 2: K  (Sheik)
+Bracket: SSBM Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: Skitchy  (Fox)
+Player 2: Greener  (Sheik)
+Bracket: SSBM Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: K  (Sheik)
+Player 2: Hello  (Sheik)
+Bracket: SSBM Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: Sedimentary Rock  (Samus)
+Player 2: Greener  (Sheik)
+Bracket: SSBM Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: Summoned Fist  (Fox)
+Player 2: Liquid  (Marth)
+Bracket: SSBM Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: Scoops Haagen Dasz  (Link)
+Player 2: JP  (Falco)
+Bracket: SSBM Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: JP  (Falco)
+Player 2: Rumble  (Falcon)
+Bracket: SSBM Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: Scoops Haagen Dasz  (Link)
+Player 2: Rumble  (Falcon)
+Bracket: SSBM Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: jell0  (Fox)
+Player 2: Turn Down For Brunch  (Falco)
+Bracket: SSBM Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: Desh  (Doc)
+Player 2: Liquid  (Marth)
+Bracket: SSBM Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: Sugar Ben  (Falcon)
+Player 2: Drizzle  (Falco)
+Bracket: SSBM Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: Skitchy  (Fox)
+Player 2: Chub  (Falcon, Marth)
+Bracket: SSBM Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: Damian Tyson  (Sheik)
+Player 2: Skitchy  (Fox)
+Bracket: SSBM Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: Chub  (ICs, Link)
+Player 2: Damian Tyson  (Sheik)
+Bracket: SSBM Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: Inferno Jesus  (Falco)
+Player 2: K  (Sheik)
+Bracket: SSBM Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: Skitchy  (Fox, Falco)
+Player 2: MChen  (Falco, Sheik)
+Bracket: SSBM Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: MChen  (Sheik)
+Player 2: Cheer  (Fox)
+Bracket: SSBM Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: Skitchy  (Falco)
+Player 2: Ben  (Falcon)
+Bracket: SSBM Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 8 
+Player 1: Skitchy  (Fox)
+Player 2: Drizzle  (Falco)
+Bracket: SSBM Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Phake  (Marth)
+Player 2: Jugglyguy  (Falcon)
+Bracket: SSBM R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Poke  (Luigi)
+Player 2: BrL_Holy  (ROB)
+Bracket: Wii U Singles Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: EMG | Blacktwins  (Mario)
+Player 2: BrL_Holy  (ROB)
+Bracket: Wii U Singles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: SAUS  (Link)
+Player 2: Kalamazhu  (Peach)
+Bracket: SSBM R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Max Ketchum  (Falcon)
+Player 2: Red X  (Rosalina)
+Bracket: Wii U Singles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: LoF NAKAT  (Ness, Fox)
+Player 2: Poke  (Luigi)
+Bracket: Wii U Singles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Max Ketchum  (Falcon)
+Player 2: IceNinja  (Palutena)
+Bracket: Wii U Singles Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: SCS | Iliad  (Falcon)
+Player 2: EGE | Chrim Foish  (Diddy)
+Bracket: Wii U Singles Top 16	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: EGE | Chrim Foish  (Diddy)
+Player 2: LoF NAKAT  (Fox)
+Bracket: Wii U Singles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: LoF NAKAT  (Fox)
+Player 2: BrL_Holy  (ROB)
+Bracket: Wii U Singles Losers Semis	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Poke  (Luigi)
+Player 2: EMG | Blacktwins  (Mario)
+Bracket: Wii U Singles Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: EMG | Blacktwins  (Mario)
+Player 2: BrL_Holy  (ROB)
+Bracket: Wii U Singles Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: EMG | Blacktwins  (Mario, Lucina)
+Player 2: Iliad  (Ganon, Marth, Falcon)
+Bracket: Wii U Singles WQ	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Poke  (Luigi)
+Player 2: Ryoko  (Zero Suit)
+Bracket: Wii U Singles Top 16	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: KirbyKaze  (Sheik)
+Player 2: Hax$  (Fox)
+Bracket: SSBM Singles Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: LoF NAKAT  (Falcon)
+Player 2: IceNinja  (Palutena)
+Bracket: Wii U Singles Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Poke  (Luigi)
+Player 2: Red X  (Rosalina)
+Bracket: Wii U Singles Winners Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Liquid`Hungrybox  (Jigglypuff)
+Player 2: Hax$  (Fox)
+Bracket: SSBM Singles Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: KirbyKaze  (Sheik)
+Player 2: Duck  (Samus)
+Bracket: SSBM Singles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Liquid`Hungrybox  (Jigglypuff)
+Player 2: Hax$  (Fox)
+Bracket: SSBM Singles Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: GOML | DJ Nintendo  (Fox)
+Player 2: MacD  (Peach)
+Bracket: SSBM Melee Singles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: EMG | Sauc3  (Fox)
+Player 2: Duck  (Samus)
+Bracket: SSBM Singles Top 16	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: DJ Nintendo  (Fox)
+Player 2: Ryan Ford  (Fox)
+Bracket: SSBM Singles Losers R8	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: KirbyKaze  (Sheik)
+Player 2: Hax  (Fox)
+Bracket: SSBM Singles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: SAUS  (Link)
+Player 2: EMG | Sauc3  (Fox)
+Bracket: SSBM Singles Top 16	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Ryan Ford  (Fox)
+Player 2: [LP] RaynEX  (Fox)
+Bracket: SSBM Singles Top 16	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: DJ Nintendo  (Fox)
+Player 2: EMG | Weon-X  (Fox)
+Bracket: SSBM Singles Top 16	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Vwins  (Peach)
+Player 2: Duck  (Samus)
+Bracket: SSBM Singles Top 16	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: EMG | n0ne  (Falcon)
+Player 2: EMG | Sauc3  (Fox)
+Bracket: SSBM Singles Top 16	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Liquid`Hungrybox  (Jigglypuff)
+Player 2: MacD  (Peach)
+Bracket: SSBM Singles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: KirbyKaze  (Sheik)
+Player 2: [LP] RaynEX  (Fox)
+Bracket: SSBM Singles Top 16	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Hax$  (Fox)
+Player 2: EMG | Weon-X  (Fox)
+Bracket: SSBM Singles Top 16	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: EMG | n0ne  (Falcon, Ganon)
+Player 2: Liquid`Hungrybox  (Jigglypuff)
+Bracket: SSBM Singles Top 16	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: DJ Nintendo  (Fox)
+Player 2: KJH  (Fox)
+Bracket: SSBM Singles Top 16	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Vwins  (Peach)
+Player 2: Kalamazhu  (Peach)
+Bracket: SSBM Singles Top 16	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Ryan Ford  (Fox)
+Player 2: MIOM | Toph  None
+Bracket: SSBM Singles Top 16	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: MacD  (Peach)
+Player 2: Duck  (Samus)
+Bracket: SSBM Singles Top 16	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Hungrybox & Hax  None
+Player 2: Kage & Vwins  None
+Bracket: SSBM Doubles Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Hungrybox & Hax  None
+Player 2: Kage & Vwins  None
+Bracket: SSBM Doubles Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Duck & Prince Abu  None
+Player 2: Ryan Ford & RaynEX  None
+Bracket: SSBM Doubles Losers Semis	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Duck & Prince Abu  None
+Player 2: DJ Nintendo & The Moon  None
+Bracket: SSBM Doubles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: n0ne & MacD  None
+Player 2: RaynEX & Ryan Ford  None
+Bracket: SSBM Doubles Losers Quarters	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: MacD & n0ne  None
+Player 2: Vwins & Kage  None
+Bracket: SSBM Doubles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Duck & Prince Abu  None
+Player 2: Hungrybox & Hax$  None
+Bracket: SSBM Doubles Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Vwins & Kage  None
+Player 2: KJH & Kalamazhu  None
+Bracket: Melee WQFs	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: GOML | DJ Nintendo & GOML | The Moon  None
+Player 2: MacD & EMG | n0ne  None
+Bracket: Melee WQFs	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: EMG | Sauc3  (Fox)
+Player 2: Prince Abu  (Jigglypuff)
+Bracket: SSBM R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: SAUS  (Link)
+Player 2: The Moon  (Marth)
+Bracket: SSBM R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: EMG | Weon-X  (Falco, Fox)
+Player 2: The Moon  (Marth)
+Bracket: SSBM R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Prince Abu  (Jigglypuff)
+Player 2: Hax  (Fox)
+Bracket: SSBM R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: MacD  (Peach)
+Player 2: MIOM | Toph  (Fox)
+Bracket: SSBM R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: DJ Nintendo  (Fox)
+Player 2: EMG | n0ne  (Falcon)
+Bracket: SSBM R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Liquid`Hungrybox  (Jigglypuff)
+Player 2: KJH  (Fox)
+Bracket: SSBM R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: The Moon  (Marth)
+Player 2: [LP] Trulliam  (Falco)
+Bracket: SSBM R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: KJH  (Fox)
+Player 2: Kage  (Ganon)
+Bracket: SSBM R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: EMG | n0ne  (Fox)
+Player 2: EGE | Coffeeblack  (Falcon, DK)
+Bracket: SSBM R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: DJ Nintendo  (Fox)
+Player 2: Sedimentary Rock  (Samus)
+Bracket: SSBM R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Zhao_Guang  (Marth)
+Player 2: SSBMTL | Kyle  (Peach)
+Bracket: Melee R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Moky  (Falcon)
+Player 2: 4Serial  (Link)
+Bracket: Melee R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Liquid`Hungrybox  (Jigglypuff)
+Player 2: 4Serial  (Link)
+Bracket: Melee R2 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Duck & Prince Abu  None
+Player 2: Vwins & Kage  None
+Bracket: Doubles Bracket Pool	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Hello  (Zelda/Sheik)
+Player 2: Hot-Hungry Hurricane  (Peach)
+Bracket: Melee Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Ryan Ford  None
+Player 2: FendrickLamar  (Marth)
+Bracket: Melee Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Vwins & Kage  None
+Player 2: Nightmare & [LP] Trulliam  None
+Bracket: Doubles Bracket Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Duck & ESI | Prince Abu  None
+Player 2: MacD & EMG | n0ne  None
+Bracket: Melee Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Vwins & Kage  None
+Player 2: EMG | Weon-X & I.B  None
+Bracket: Doubles Bracket Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Vanitas  (Ice Climbers)
+Player 2: FAKKU! Coastward  (Ganon)
+Bracket: SSBM R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Summoned Fist  (Fox)
+Player 2: EGE | Coffeeblack  (Falcon)
+Bracket: Melee Singles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Duck & Prince Abu  None
+Player 2: Kirbykaze & Riddlebox  None
+Bracket: SSBM Doubles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Chester01  (Fox)
+Player 2: Emanon  (Peach)
+Bracket: SSBM R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Kalamazhu  (Peach)
+Player 2: Hex  (Falco)
+Bracket: SSBM R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: EMG | Sauc3  (Fox)
+Player 2: Imyt  (Doctor Mario)
+Bracket: SSBM R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: EGE | Coffeeblack  (Falcon)
+Player 2: Milk  (Sheik)
+Bracket: SSBM R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Hax  (Fox)
+Player 2: Syphichan  (Sheik)
+Bracket: SSBM R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Liquid`Hungrybox  (Ness)
+Player 2: Buttery Smooth  (Falcon)
+Bracket: SSBM R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Liquid`Hungrybox  (Jigglypuff)
+Player 2: Lahti  (Fox)
+Bracket: SSBM R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: EMG | n0ne  (Mario, Fox, Falcon)
+Player 2: Plum  (Falcon)
+Bracket: SSBM R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Hungrybox & Hax  None
+Player 2: DJ Nintendo & The Moon  None
+Bracket: SSBM Doubles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Poop  (Falcon)
+Player 2: Riddlebox  (Peach)
+Bracket: SSBM R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Hungrybox & Hax  None
+Player 2: Kalamazhu & KJH  None
+Bracket: SSBM Doubles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: DJ Nintendo & The Moon  None
+Player 2: Ryan Ford and RaynEX  None
+Bracket: SSBM Doubles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: idea & Coffeeblack  None
+Player 2: Kalamazhu & KJH  None
+Bracket: SSBM Doubles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Phake & Imyt  None
+Player 2: idea & Coffeeblack  None
+Bracket: SSBM Doubles Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Prince Abu  (Jigglypuff)
+Player 2: JBE  (Marth)
+Bracket: SSBM R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Jamrun  (Peach)
+Player 2: SSBMTL | Kyle  (Peach)
+Bracket: SSBM R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: MacD  (Falco)
+Player 2: Searay  (Marth)
+Bracket: SSBM R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Scidadle  (Marth, Mario)
+Player 2: Squibble  (Jigglypuff)
+Bracket: SSBM R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Nightmare  (Marth)
+Player 2: Drolian  (Falco, Bowser)
+Bracket: SSBM R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: GOML 2015 
+Player 1: Moky  (Falcon)
+Player 2: [LP] Truliam  (Falco)
+Bracket: SSBM R1 Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: EMG | n0ne  (Falcon)
+Player 2: I.B  (Marth)
+Bracket: SSBM Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: LP | RaynEX  (Fox)
+Player 2: EMG | Weon-X  (Falco)
+Bracket: SSBM Grand Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: LP | RaynEX  (Fox)
+Player 2: I.B  (Marth)
+Bracket: SSBM Losers Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: LP | RaynEX  (Marth, Fox)
+Player 2: EMG | Weon-X  (Falco)
+Bracket: SSBM Winners Finals	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: EMG | n0ne  (Falcon)
+Player 2: I.B  (Marth)
+Bracket: SSBM Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: I.B  (Marth)
+Player 2: Gabe  (Marth)
+Bracket: SSBM Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: EMG | n0ne  (Falcon)
+Player 2: Jamrun  (Peach)
+Bracket: SSBM Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: EMG | n0ne  (Falcon)
+Player 2: K  (Sheik)
+Bracket: SSBM Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: V115  (Fox)
+Player 2: Gabe  (Marth)
+Bracket: SSBM Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: EMG | n0ne  (Falcon)
+Player 2: Tigercool  (Fox, Falco)
+Bracket: SSBM Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: Jamrun  (Peach)
+Player 2: EMG | Weon-X  (Falco)
+Bracket: SSBM Winners Semis	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: K  (Sheik)
+Player 2: KillerAP  (Fox)
+Bracket: SSBM Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: EMG | Toronto Joe  (Kirby, Fox)
+Player 2: Killer AP  (Fox, ICs)
+Bracket: SSBM Losers Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: Jamrun  (Peach)
+Player 2: V115  (Fox)
+Bracket: SSBM Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: LP | RaynEX  (Marth)
+Player 2: I.B  (Marth)
+Bracket: SSBM Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: LP | RaynEX  (Fox)
+Player 2: K  (Sheik)
+Bracket: SSBM Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: K  (Sheik)
+Player 2: Green Mario  (Sheik)
+Bracket: SSBM Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: Jamrun  (Peach)
+Player 2: Rhapsody  (Falco)
+Bracket: SSBM Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Smash On Tap 5 
+Player 1: EMG | ProZak  (Samus)
+Player 2: Tranimal  (Sheik)
+Bracket: SSBM Winners Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: hell
+Player 1: dew&Blueberry Kong  None
+Player 2: EMG|Blitz&Cozy  None
+Bracket: NC5 Brawl Doubles	
+Game: Unknown
+-------------
+
+Tournament Name: The Canadian Arcadian Vol. 2 
+Player 1: Nightmare  None
+Player 2: Dshi  None
+Bracket: WFs	
+Game: Unknown
+-------------
+
+Tournament Name: OMR Winter Circuit #2
+Player 1: EMG idea  (Rosalina)
+Player 2: Destiknee  (Dedede)
+Bracket: Losers Finals 1080P 60FPS	
+Game: Unknown
+-------------
+
+Tournament Name: OMR Winter Circuit #2
+Player 1: Juice  (Mario)
+Player 2: EMG idea  (Rosalina)
+Bracket: Winners SemiFinals 1080P 60FPS	
+Game: Unknown
+-------------
+
+Tournament Name: OMR Winter Circuit #2
+Player 1: Mikarugi  (Yoshi)
+Player 2: CMAC  (Shulk)
+Bracket: Winners SemiFinals 1080P 60FPS	
+Game: Unknown
+-------------
+
+Tournament Name: OMR Winter Circuit #2
+Player 1: EMG idea  (Rosalina)
+Player 2: Mikarugi  (Yoshi)
+Bracket: Winners Finals 1080P 60FPS	
+Game: Unknown
+-------------
+
+Tournament Name: OMR Winter Circuit #2
+Player 1: Mikarugi  (Yoshi)
+Player 2: Destiknee  (Dedede)
+Bracket: Grand Finals 1080P 60FPS	
+Game: Unknown
+-------------
+
+Tournament Name: Canadian Arcadian Vol. 2 
+Player 1: Lockon  None
+Player 2: Rival  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Canadian Arcadian Vol. 2 
+Player 1: Toast  None
+Player 2: Chuffles  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Canadian Arcadian Vol. 2 
+Player 1: Rappsody  None
+Player 2: Deebz  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Canadian Arcadian Vol. 2 
+Player 1: Kason  None
+Player 2: Bernal  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Canadian Arcadian Vol. 2 
+Player 1: Krisp  None
+Player 2: Nightmare  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Canadian Arcadian Vol. 2 
+Player 1: Nightmare  None
+Player 2: Windrose  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Canadian Arcadian Vol. 2 
+Player 1: Windrose  None
+Player 2: Syphi  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Canadian Arcadian Vol. 2 
+Player 1: Maruku  None
+Player 2: Scidadle  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Canadian Arcadian Vol. 2 
+Player 1: LP|Trulliam  None
+Player 2: EMG|ProZak  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Canadian Arcadian Vol. 2 
+Player 1: Kason  None
+Player 2: Drolian  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Canadian Arcadian Vol. 2 
+Player 1: Jamrun  None
+Player 2: Desh  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: The Canadian Arcadian Vol. 2 
+Player 1: Bernal  None
+Player 2: Mchen  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: The Canadian Arcadian Vol. 2 
+Player 1: Keatsa  None
+Player 2: Saving Forever  None
+Bracket: Pools	
+Game: Unknown
+-------------
+
+Tournament Name: Canadian Arcadian Vol. 2 
+Player 1: Syphi  None
+Player 2: KL Kid  None
+Bracket: Top 64 Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Canadian Arcadian Vol. 2 
+Player 1: Chuffles  None
+Player 2: Dshi  None
+Bracket: Top 64 Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Canadian Arcadian Vol. 2 
+Player 1: JC  None
+Player 2: Saving Forever  None
+Bracket: Top 64 Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Canadian Arcadian Vol. 2 
+Player 1: BM | Hello  None
+Player 2: EMG | Toronto Joe  None
+Bracket: Top 64 Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Canadian Arcadian Vol. 2 
+Player 1: Frog  None
+Player 2: Syphi  None
+Bracket: Top 64 Bracket	
+Game: Unknown
+-------------
+
+Tournament Name: Canadian Arcadian Vol. 2 
+Player 1: Frog  None
+Player 2: Bernal  None
+Bracket: Top 64 Bracket	
+Game: Unknown
+-------------
+

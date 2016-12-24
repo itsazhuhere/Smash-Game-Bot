@@ -1,0 +1,84 @@
+Tournament Name: Unknown
+Player 1: Mango  (Fox)
+Player 2: Hungrybox  (Jigglypuff)
+Bracket: GF
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Armada  (Fox/Peach)
+Player 2: Mango  (Blue Fox)
+Bracket: LF
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Armada  (Fox)
+Player 2: Hungrybox  (Jigglypuff)
+Bracket: WF
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Mango  (Fox)
+Player 2: Wobbles  (Ice Climbers)
+Bracket: LS
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Mango  (Fox)
+Player 2: Plup  (Sheik/Samus)
+Bracket: LQ
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Wobbles  (Ice Climbers)
+Player 2: Westballz  (Fox/Falco)
+Bracket: LQ
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Armada  (Peach)
+Player 2: Plup  (Sheik)
+Bracket: WS
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Westballz  (Falco/Fox)
+Player 2: Hungrybox  (Jigglypuff)
+Bracket: WS
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Mango  (Fox)
+Player 2: Westballz  (Falco)
+Bracket: WQ
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Armada  (Peach)
+Player 2: Wobbles  (Ice Climbers)
+Bracket: WQ
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Mew2king  (Sheik)
+Player 2: Plup  (Sheik)
+Bracket: WQ
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Silent Wolf  (Fox)
+Player 2: Hungrybox  (Jigglypuff)
+Bracket: WQ
+Game: Melee
+-------------
+

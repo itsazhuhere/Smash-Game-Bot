@@ -1,0 +1,294 @@
+Tournament Name: Unknown
+Player 1: Mew2king  (Peach)
+Player 2: Wobbles  (Ice Climbers)
+Bracket: Losers Top 8	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Silent Wolf  (Green Fox)
+Player 2: Mango  (Fox)
+Bracket: Losers Top 8	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Silent Wolf  (Fox)
+Player 2: PPMD  (Falco)
+Bracket: Death Pool	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: MacD  (Peach)
+Player 2: Plup  (Sheik)
+Bracket: Death Pool	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: PPMD  (Falco)
+Player 2: Wobbles  (Ice Climbers)
+Bracket: Death Pool	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Silent Wolf  (Fox)
+Player 2: MacD  (Peach)
+Bracket: Death Pool	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Wobbles  (Ice Climbers)
+Player 2: Plup  (Samus)
+Bracket: Death Pool	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: PPMD  (Marth)
+Player 2: MacD  (Peach)
+Bracket: Death Pool	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Silent Wolf  (Fox)
+Player 2: Plup  (Sheik)
+Bracket: Death Pool	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: MacD  (Peach)
+Player 2: Wobbles  (Ice Climbers)
+Bracket: Death Pool	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: PPMD  (Marth/Falco)
+Player 2: Plup  (Sheik)
+Bracket: Death Pool	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Silent Wolf  (Fox)
+Player 2: Wobbles  (Ice Climbers)
+Bracket: Death Pool	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Hungrybox  (Jigglypuff)
+Player 2: Shroomed  (Sheik)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Mew2king  (Sheik)
+Player 2: Plup  (Samus)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Mango  (Fox)
+Player 2: Axe  (Pikachu)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: PPMD  (Marth)
+Player 2: Westballz  (Falco)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Silent Wolf  (Green Fox)
+Player 2: Armada  (Fox)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Hungrybox  (Jigglypuff)
+Player 2: Lucky  (Fox)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Nintendude  (Ice Climbers)
+Player 2: S2J  (Falcon)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: MacD  (Peach)
+Player 2: DruggedFox  (Fox)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Wobbles  (Ice Climbers)
+Player 2: Hungrybox  (Jigglypuff)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: PewPewU  (Marth)
+Player 2: Ice  (Fox)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: SFAT  (Fox)
+Player 2: HugS  (Samus)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Plup  (Sheik)
+Player 2: S2J  (Falcon)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Axe  (Pikachu)
+Player 2: MacD  (Peach)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Nintendude  (Ice Climbers)
+Player 2: Mew2king  (Peach)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Mango  (Red Fox)
+Player 2: DruggedFox  (Fox)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Westballz  (Falco)
+Player 2: PewPewU  (Marth)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Silent Wolf  (Green Fox)
+Player 2: SFAT  (Fox)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: PPMD  (Falco/Marth)
+Player 2: Ice  (Fox/Falcon)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Armada  (Peach)
+Player 2: HugS  (Samus)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Wobbles  (Ice Climbers)
+Player 2: Lucky  (Fox)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Nintendude  (Ice Climbers)
+Player 2: Plup  (Samus)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Axe  (Pikachu)
+Player 2: DruggedFox  (Fox)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Shroomed  (Sheik)
+Player 2: Wobbles  (Ice Climbers)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Mew2king  (Sheik)
+Player 2: S2J  (Falcon)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Mango  (Fox)
+Player 2: MacD  (Peach)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Shroomed  (Sheik)
+Player 2: Lucky  (Fox)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Westballz  (Falco)
+Player 2: Ice  (Fox)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: HugS  (Samus)
+Player 2: Silent Wolf  (Fox)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: PPMD  (Green Marth)
+Player 2: PewPewU  (Marth)
+Bracket: Groups	
+Game: Melee
+-------------
+
+Tournament Name: Unknown
+Player 1: Armada  (Red Fox)
+Player 2: SFAT  (Fox)
+Bracket: Groups	
+Game: Melee
+-------------
+

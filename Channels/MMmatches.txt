@@ -1,0 +1,3115 @@
+Tournament Name: CoM
+Player 1: Hughie  None
+Player 2: DSC - Winners' R2	 None
+Bracket: A 
+Game: Melee
+-------------
+
+Tournament Name: CoM
+Player 1: Fess  None
+Player 2: Raphiki - Winners' R1	 None
+Bracket: A 
+Game: Melee
+-------------
+
+Tournament Name: CoM
+Player 1: Khairi  None
+Player 2: Hughie - Winners' R3	 None
+Bracket: A 
+Game: Melee
+-------------
+
+Tournament Name: CoM
+Player 1: Khairi  None
+Player 2: Fess - Winners' Semis	 None
+Bracket: A 
+Game: Melee
+-------------
+
+Tournament Name: CoM
+Player 1: Khairi  None
+Player 2: Jamwa - Losers' Semis	 None
+Bracket: A 
+Game: Melee
+-------------
+
+Tournament Name: CoM
+Player 1: Blackjack  None
+Player 2: Jamwa - Losers' Quarters	 None
+Bracket: A 
+Game: Melee
+-------------
+
+Tournament Name: CoM
+Player 1: Hughie  None
+Player 2: Jamwa - Losers' Round 5	 None
+Bracket: A 
+Game: Melee
+-------------
+
+Tournament Name: CoM
+Player 1: Saucy  None
+Player 2: Fess - Grand Finals & Interview	 None
+Bracket: A 
+Game: Melee
+-------------
+
+Tournament Name: CoM
+Player 1: Fess  None
+Player 2: Jamwa - Winners' Quarters	 None
+Bracket: A 
+Game: Melee
+-------------
+
+Tournament Name: CoM
+Player 1: Raphiki  None
+Player 2: DSC - Losers' Round 5	 None
+Bracket: A 
+Game: Melee
+-------------
+
+Tournament Name: CoM
+Player 1: Saucy  None
+Player 2: Skelorex - Winners' R3	 None
+Bracket: A 
+Game: Melee
+-------------
+
+Tournament Name: CoM
+Player 1: Saucy  None
+Player 2: Khairi - Losers' Finals	 None
+Bracket: A 
+Game: Melee
+-------------
+
+Tournament Name: CoM
+Player 1: Saucy  None
+Player 2: Fess - Winners' Finals	 None
+Bracket: A 
+Game: Melee
+-------------
+
+Tournament Name: CoM
+Player 1: Saucy  None
+Player 2: Blackjack - Winners' Semis	 None
+Bracket: A 
+Game: Melee
+-------------
+
+Tournament Name: CoM
+Player 1: Skelorex  None
+Player 2: Raphiki - Losers' Round 4	 None
+Bracket: A 
+Game: Melee
+-------------
+
+Tournament Name: CoM
+Player 1: Khairi  None
+Player 2: Raphiki - Losers' Quarters	 None
+Bracket: A 
+Game: Melee
+-------------
+
+Tournament Name: CoM
+Player 1: Khairi  None
+Player 2: Microsoft J - Winners' R1	 None
+Bracket: A 
+Game: Melee
+-------------
+
+Tournament Name: CoM
+Player 1: Khairi  None
+Player 2: The Mailman - Winners' R2	 None
+Bracket: A 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Jamwa + Splice  None
+Player 2: Lux + Sora	 None
+Bracket: PM Doubles 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Fudge + Naga  None
+Player 2: Lux + Sora	 None
+Bracket: PM Doubles 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Bubby + Llamas  None
+Player 2: Fudge + Naga	 None
+Bracket: PM Doubles 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Sato  None
+Player 2: Tomie	 None
+Bracket: Brawl 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Jamwa  None
+Player 2: Gabe part 2	 None
+Bracket: PM Top 8 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Jamwa  None
+Player 2: Gabe part 1	 None
+Bracket: PM Top 8 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Tyler  None
+Player 2: Ryzuul	 None
+Bracket: PM Top 8 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Star  None
+Player 2: Ryzuul	 None
+Bracket: PM Top 8 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Sora  None
+Player 2: Tyler	 None
+Bracket: PM Top 8 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Lux  None
+Player 2: Star	 None
+Bracket: PM Top 8 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Jamwa  None
+Player 2: Star	 None
+Bracket: PM Top 8 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Jamwa  None
+Player 2: Ryzuul	 None
+Bracket: PM Top 8 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Gabe  None
+Player 2: Lux	 None
+Bracket: PM Top 8 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Lux  None
+Player 2: Star	 None
+Bracket: PM Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Mask1n + Ryzuul  None
+Player 2: Tyler + Star	 None
+Bracket: PM Doubles 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Mask1n + Ryzuul  None
+Player 2: Splice + Jamwa	 None
+Bracket: PM Doubles 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Mask1n + Ryzuul  None
+Player 2: Lux + Sora	 None
+Bracket: PM Doubles 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Jamwa + Splice  None
+Player 2: Tyler + Star	 None
+Bracket: PM Doubles 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Jamwa + Splice  None
+Player 2: Tyler + Star Grand Finals	 None
+Bracket: PM Doubles 
+Game: Melee
+-------------
+
+Tournament Name: PM2 
+Player 1: Invisi  None
+Player 2: Tomie	 None
+Bracket: Brawl 
+Game: Melee
+-------------
+
+Tournament Name: BAM8 
+Player 1: Victoria  None
+Player 2: New South Wales	 None
+Bracket: Melee Crew Battles 
+Game: Melee
+-------------
+
+Tournament Name: BAM8 
+Player 1: Queensland  None
+Player 2: New South Wales	 None
+Bracket: Melee Crew Battles Finals 
+Game: Melee
+-------------
+
+Tournament Name: BAM8 
+Player 1: Queensland  None
+Player 2: Victoria (EMO)
+Bracket: Melee Crew Battles 
+Game: Melee
+-------------
+
+Tournament Name: BAM8 
+Player 1: Victoria (EMO)
+Player 2: Western Australia	 None
+Bracket: Melee Crew Battles 
+Game: Melee
+-------------
+
+Tournament Name: BAM8 
+Player 1: New South Wales  None
+Player 2: South Australia	 None
+Bracket: Melee Crew Battles 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: SD  None
+Player 2: DonB	 None
+Bracket: SSBM Singles Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: DonB  None
+Player 2: Forte	 None
+Bracket: SSBM Singles Losers Final 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: Noxus  None
+Player 2: Forte	 None
+Bracket: SSBM Singles Losers Semi 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: DonB  None
+Player 2: SD	 None
+Bracket: SSBM Singles Winners Final 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: Macky  None
+Player 2: Forte	 None
+Bracket: SSBM Singles Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: Savage  None
+Player 2: Noxus	 None
+Bracket: SSBM Singles Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: Fess  None
+Player 2: Forte	 None
+Bracket: SSBM Singles Top 8 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: Savage  None
+Player 2: Timic83	 None
+Bracket: SSBM Singles Top 8 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: SD  None
+Player 2: Macky	 None
+Bracket: SSBM Singles Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: DonB  None
+Player 2: Noxus	 None
+Bracket: SSBM Singles Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: Macky  None
+Player 2: Savage	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: Khairi  None
+Player 2: DonB	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: PCG  None
+Player 2: Noxus	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: SD  None
+Player 2: Timic83	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: Forte  None
+Player 2: Kelasius	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: saucy  None
+Player 2: bus	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: DSC  None
+Player 2: Deeks	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: Saucy  None
+Player 2: Noxus	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: DSC  None
+Player 2: Noxus	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: Hippo  None
+Player 2: Fess	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: Edit  None
+Player 2: Cailan	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: Torpy  None
+Player 2: Hughie	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: SD  None
+Player 2: Hughie	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: DonB  None
+Player 2: Hyes	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM3 
+Player 1: SD  None
+Player 2: Reef	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: SD + Skeletom  None
+Player 2: Splice + SA Nick	 None
+Bracket: SSBM Doubles WF
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: SA Nick + Splice  None
+Player 2: DonB + Hughie	 None
+Bracket: SSBM Doubles WQ 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Redact + Forte  None
+Player 2: Muscat + Flowrat	 None
+Bracket: SSBM Doubles WQ 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Muscat + Flowrats  None
+Player 2: Timic83 + Milun	 None
+Bracket: SSBM Doubles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: DomHynes + Dreadtech  None
+Player 2: Raphiki + TheSharpness	 None
+Bracket: SSBM Doubles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Jamwa + Sebby  None
+Player 2: Splice + SA Nick	 None
+Bracket: SSBM Doubles WS 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Jamwa + Sebby  None
+Player 2: Splice + SA Nick	 None
+Bracket: SSBM Doubles LF 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Jamwa + Sebby  None
+Player 2: SD + Skeletom	 None
+Bracket: SSBM Doubles GF 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Jamwa + Sebby  None
+Player 2: Muscat + Flowrats	 None
+Bracket: SSBM Doubles LS 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Fess + Skelorex  None
+Player 2: SD + Skeletom	 None
+Bracket: SSBM Doubles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Skeletom  None
+Player 2: Tyler	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Skeletom  None
+Player 2: Shy	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Skeletom  None
+Player 2: GGRS | Sindocus	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Skeletom  None
+Player 2: DonB	 None
+Bracket: SSBM Singles WQ 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: SD  None
+Player 2: Noxus	 None
+Bracket: SSBM Singles WQ 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: SA Nick  None
+Player 2: Moxie2D	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Rize  None
+Player 2: Deeks	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: PrettyCoolGuy  None
+Player 2: Microsoft J	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Noxus  None
+Player 2: Robsta	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Noxus  None
+Player 2: Earl	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Nehruvia  None
+Player 2: Azri	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Muscat  None
+Player 2: SA Nick	 None
+Bracket: SSBM Singles WQ 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: DonB  None
+Player 2: Onyx	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Deeks  None
+Player 2: SD	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Azri  None
+Player 2: Tyler	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Azri  None
+Player 2: Redact	 None
+Bracket: SSBM Singles WQs 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Skeletom  None
+Player 2: Redact	 None
+Bracket: SSBM Singles LS 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: SA Nick  None
+Player 2: Redact	 None
+Bracket: SSBM Singles WS 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Muscat  None
+Player 2: Azri	 None
+Bracket: SSBM Singles Top 8 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: DonB  None
+Player 2: Redact	 None
+Bracket: SSBM Singles LQ 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Skeletom  None
+Player 2: SD	 None
+Bracket: SSBM Singles WS 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Skeletom  None
+Player 2: SD	 None
+Bracket: SSBM Singles LF 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: Skeletom  None
+Player 2: Muscat	 None
+Bracket: SSBM Singles LQ 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'16 
+Player 1: SA Nick  None
+Player 2: S.D.	 None
+Bracket: SSBM Singles WFs 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: Skeletom  None
+Player 2: Dekar	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: S.D + Skeletom  None
+Player 2: Splice + Atticus	 None
+Bracket: SSBM Doubles Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: S.D  None
+Player 2: Skeletom - Plus interviews and tournament wrap	 None
+Bracket: SSBM Singles Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: Forte  None
+Player 2: DonB	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: RedX  None
+Player 2: Skeletom	 None
+Bracket: SSBM Singles Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: DonB  None
+Player 2: Skeletom	 None
+Bracket: SSBM Singles Losers Semi Finals 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: Azri  None
+Player 2: Skeletom	 None
+Bracket: SSBM Singles Losers Quarter Finals 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: RedX  None
+Player 2: S.D	 None
+Bracket: SSBM Singles Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: DonB  None
+Player 2: Corpsecreate	 None
+Bracket: SSBM Singles Losers Quarter Finals 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: S.D  None
+Player 2: Corpsecreate	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: Dekar  None
+Player 2: Atticus	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: RedX  None
+Player 2: Azri	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: Khairi  None
+Player 2: DonB	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: Macky  None
+Player 2: Skeletom	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: Dekar  None
+Player 2: Corpsecreate	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: Savage  None
+Player 2: Moxie2D	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: Azri  None
+Player 2: Moxie2D	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: Deeks  None
+Player 2: Dekar	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: Atticus  None
+Player 2: Fess	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: Corpsecreate  None
+Player 2: DonB	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: AlexSucks  None
+Player 2: Azri	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: Juicy  None
+Player 2: Azri	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: 9thRevolver  None
+Player 2: Skeletom	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: Hoppalot  None
+Player 2: Macky	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: Timic83  None
+Player 2: Forte	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: RedX  None
+Player 2: Macky	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: 9thRevolver  None
+Player 2: Macky	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM2 
+Player 1: Forte  None
+Player 2: PCG	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: SD  None
+Player 2: Splice	 None
+Bracket: SSBM Singles WS 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: SD  None
+Player 2: Frink	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: SD  None
+Player 2: Rize	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: SD  None
+Player 2: Campbell	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Redact  None
+Player 2: DomHynes	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Redact  None
+Player 2: Atticus	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Khairi  None
+Player 2: Smopup	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Khairi  None
+Player 2: Retro Reviver	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Khairi  None
+Player 2: Maestro	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Khairi  None
+Player 2: Atticus	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Dekar  None
+Player 2: Toshi	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Dekar  None
+Player 2: Splice	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Dekar  None
+Player 2: Skelorex	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Dekar  None
+Player 2: SD	 None
+Bracket: SSBM Singles LF 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Dekar  None
+Player 2: Quetzalcoatl	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Dekar  None
+Player 2: Nitten	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Dekar  None
+Player 2: Khairi	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Dekar  None
+Player 2: Deeks	 None
+Bracket: SSBM Singles WQ 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Dekar  None
+Player 2: Atticus	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Campbell  None
+Player 2: Retro Reviver	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Azri  None
+Player 2: Splice	 None
+Bracket: SSBM Singles Pools 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Toshi  None
+Player 2: Splice	 None
+Bracket: SSBM Singles WQ 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Toshi  None
+Player 2: Atticus	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Splice  None
+Player 2: Skeletom	 None
+Bracket: SSBM Singles LS 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Smopup  None
+Player 2: Skeletom	 None
+Bracket: SSBM Singles WQ 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Smopup  None
+Player 2: SD	 None
+Bracket: SSBM Singles WF 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Smopup  None
+Player 2: SD + Interviews	 None
+Bracket: SSBM Singles GF 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Smopup  None
+Player 2: Dekar	 None
+Bracket: SSBM Singles WS 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Skeletom  None
+Player 2: Sebby	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CoM 
+Player 1: Skeletom  None
+Player 2: Macky	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Atticus+Splice  None
+Player 2: S.D+Skeletom	 None
+Bracket: SSBM Doubles Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: DonB+Macky  None
+Player 2: S.D+Skeletom	 None
+Bracket: SSBM Doubles Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: DonB+Macky  None
+Player 2: Mask1n+Tyler	 None
+Bracket: SSBM Doubles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: DonB+Macky  None
+Player 2: Deeks+Nitten	 None
+Bracket: SSBM Doubles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Dreadtech+Dom  None
+Player 2: Deeks+Nitten	 None
+Bracket: SSBM Doubles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Hughie+Khairi  None
+Player 2: Mask1n+Tyler	 None
+Bracket: SSBM Doubles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: S.D+Skeletom  None
+Player 2: Atticus+Splice	 None
+Bracket: SSBM Doubles Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Milun+Timic  None
+Player 2: Fess+Skelorex	 None
+Bracket: SSBM Doubles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Raphiki+TheSharpNess  None
+Player 2: Hughie+Khairi	 None
+Bracket: SSBM Doubles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: S.D+Skeletom  None
+Player 2: Dreadtech+Dom	 None
+Bracket: SSBM Doubles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Atticus+Splice  None
+Player 2: DonB+Macky	 None
+Bracket: SSBM Doubles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Atticus+Splice  None
+Player 2: Hughie+Khairi	 None
+Bracket: SSBM Doubles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Atticus+Splice  None
+Player 2: Nubs+Rin	 None
+Bracket: SSBM Doubles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: S.D+Skeletom  None
+Player 2: Crunc+Debaser	 None
+Bracket: SSBM Doubles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: DonB+Macky  None
+Player 2: Hobs+Naga	 None
+Bracket: SSBM Doubles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Nitten+Deeks  None
+Player 2: Ruckus+Snackboi	 None
+Bracket: SSBM Doubles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Mask1n  None
+Player 2: Azri	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Moxie2D  None
+Player 2: Forte	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: DonB  None
+Player 2: Skeletom	 None
+Bracket: SSBM Singles WQ 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: DomHynes  None
+Player 2: Hughie	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: DomHynes  None
+Player 2: Vex	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Skeletom  None
+Player 2: Hardpelicn	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Skeletom  None
+Player 2: Hyes	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Dreadtech  None
+Player 2: Mask1n	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Skeletom  None
+Player 2: Alex Sucks	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Splice  None
+Player 2: S.D	 None
+Bracket: SSBM Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Splice  None
+Player 2: Atticus	 None
+Bracket: SSBM Singles LF 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Splice  None
+Player 2: S.D	 None
+Bracket: SSBM Singles WF 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Macky  None
+Player 2: Atticus	 None
+Bracket: SSBM Singles LS 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Macky  None
+Player 2: DonB	 None
+Bracket: SSBM Singles LQ 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Skeletom  None
+Player 2: Atticus	 None
+Bracket: SSBM Singles LQ 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Kansho  None
+Player 2: Skeletom	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Splice  None
+Player 2: DonB	 None
+Bracket: SSBM Singles WS 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: S.D  None
+Player 2: Atticus	 None
+Bracket: SSBM Singles WS 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: Hardpelicn  None
+Player 2: Dom	 None
+Bracket: SSBM Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: CW Dec'15 
+Player 1: S.D  None
+Player 2: Moxie2D	 None
+Bracket: SSBM Singles WQ 
+Game: Melee
+-------------
+
+Tournament Name: CW Oct'15 
+Player 1: Splice  (Falco)
+Player 2: Blaxon  (Peach)
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Oct'15 
+Player 1: Blaxon  (Peach)
+Player 2: Atticus  (Fox)
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: TTPL 
+Player 1: Jamwa  None
+Player 2: Macky - Grand Finals	 None
+Bracket: A S2 
+Game: Melee
+-------------
+
+Tournament Name: TTPL 
+Player 1: Jamwa  None
+Player 2: Matt G - Winner's Quarters	 None
+Bracket: A S2
+Game: Melee
+-------------
+
+Tournament Name: TTPL 
+Player 1: Jamwa  None
+Player 2: Macky -  Winner's Semis	 None
+Bracket: A S2 
+Game: Melee
+-------------
+
+Tournament Name: TTPL 
+Player 1: MM | PCG  None
+Player 2: MM | Hardpelicn - Winners Semis	 None
+Bracket: A S2 
+Game: Melee
+-------------
+
+Tournament Name: TTPL 
+Player 1: Matt G   None
+Player 2: MM | Hardpelicn - Loser's Quarters	 None
+Bracket: A S2 
+Game: Melee
+-------------
+
+Tournament Name: TTPL A 
+Player 1: Macky  None
+Player 2: Matt G - Loser's Semis	 None
+Bracket: S2 
+Game: Melee
+-------------
+
+Tournament Name: TTPL A 
+Player 1: Jamwa  None
+Player 2: MM | PCG - Winner's Finals	 None
+Bracket: S2 
+Game: Melee
+-------------
+
+Tournament Name: CW Nov'15 
+Player 1: Mask1n  (G&W)
+Player 2: MGK  (Ganon)
+Bracket: PM Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: CW Nov'15 
+Player 1: Rez  (Roy)
+Player 2: MGK  (Ganon)
+Bracket: PM Losers Semis 
+Game: Melee
+-------------
+
+Tournament Name: CW Nov'15 
+Player 1: Tyler  (Snake)
+Player 2: Mask1n  (G&W, Jigglypuff)
+Bracket: PM Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: CW Nov'15 
+Player 1: Jamball  (Zelda)
+Player 2: Debaser  (Marth)
+Bracket: PM WR1 
+Game: Melee
+-------------
+
+Tournament Name: CW Nov'15 
+Player 1: Naga  (Yoshi)
+Player 2: Yellow  (Falcon)
+Bracket: PM WR2 
+Game: Melee
+-------------
+
+Tournament Name: CW Nov'15 
+Player 1: Tyler  (Snake)
+Player 2: Jamball  (Zelda)
+Bracket: PM WR2 
+Game: Melee
+-------------
+
+Tournament Name: CW Nov'15 
+Player 1: Mask1n  (G&W)
+Player 2: Saucy  (Ness, Falco)
+Bracket: PM WR3 
+Game: Melee
+-------------
+
+Tournament Name: CW Nov'15 
+Player 1: Tyler  (Snake)
+Player 2: MGK  (Ganon)
+Bracket: PM Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: CW Nov'15 
+Player 1: MGK  (Ganon)
+Player 2: Naga  (Yoshi)
+Bracket: PM WR3 
+Game: Melee
+-------------
+
+Tournament Name: CW Nov'15 
+Player 1: Tyler  (Ike, Pit)
+Player 2: Hyes  (Ike, Pit)
+Bracket: PM WR3 
+Game: Melee
+-------------
+
+Tournament Name: CW Nov'15 
+Player 1: Mask1n  (G&W)
+Player 2: DD   (Wario)
+Bracket: PM Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: CW Nov'15 
+Player 1: Tyler  (Snake)
+Player 2: Mask1n  (G&W)
+Bracket: PM Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: CW Nov'15 
+Player 1: Dreadtech  (Toon Link)
+Player 2: DD_  (Wario)
+Bracket: PM WR3 
+Game: Melee
+-------------
+
+Tournament Name: Tom Thumb Pro League 
+Player 1: Dekar (Marth/Peach)
+Player 2: Toshi (Fox)
+Bracket: S 
+Game: Melee
+-------------
+
+Tournament Name: Tom Thumb Pro League 
+Player 1: Dekar (Marth/Falco/Falcon)
+Player 2: Azri (Marth)
+Bracket: S 
+Game: Melee
+-------------
+
+Tournament Name: Tom Thumb Pro League 
+Player 1: Redact (Falco)
+Player 2: Toshi (Fox/Marth)
+Bracket: S 
+Game: Melee
+-------------
+
+Tournament Name: Tom Thumb Pro League 
+Player 1: Redact (Red Falco)
+Player 2: Splice (Blue Falco)
+Bracket: S
+Game: Melee
+-------------
+
+Tournament Name: Tom Thumb Pro League 
+Player 1: Redact (Falco)
+Player 2: Dekar (Marth)
+Bracket: S
+Game: Melee
+-------------
+
+Tournament Name: Tom Thumb Pro League 
+Player 1: WF - Splice (Falco)
+Player 2: Toshi (Fox)
+Bracket: S 
+Game: Melee
+-------------
+
+Tournament Name: Tom Thumb Pro League 
+Player 1: Splice (Peach/Ice Climbers/Falco)
+Player 2: Redact (Falco)
+Bracket: S 
+Game: Melee
+-------------
+
+Tournament Name: Tom Thumb Pro League 
+Player 1: Atticus (Blue Fox)
+Player 2: Toshi (Neutral Fox)
+Bracket: S 
+Game: Melee
+-------------
+
+Tournament Name: Tom Thumb Pro League 
+Player 1: Splice (Falco)
+Player 2: DonB (Fox)
+Bracket: S 
+Game: Melee
+-------------
+
+Tournament Name: CW Sep'15 
+Player 1: Hyes  (Falcon)
+Player 2: Azri  (Marth)
+Bracket: PM Singles Losers R3 
+Game: Melee
+-------------
+
+Tournament Name: CW Sep'15 
+Player 1: Milun  (Ivysaur)
+Player 2: InsertName71  (Ganon)
+Bracket: PM Singles Winners R1 
+Game: Melee
+-------------
+
+Tournament Name: CW Sep'15 
+Player 1: Tyler  (Snake)
+Player 2: Milun  (Mario, Ivysaur)
+Bracket: PM Singles Winners R2 
+Game: Melee
+-------------
+
+Tournament Name: CW Sep'15 
+Player 1: Deez  (Meta Knight)
+Player 2: Poop  (Fox)
+Bracket: PM Singles Winners R2 
+Game: Melee
+-------------
+
+Tournament Name: CW Sep'15 
+Player 1: MGK  (Ganon)
+Player 2: Ef  (Marth, Fox)
+Bracket: PM Singles Winners R2 
+Game: Melee
+-------------
+
+Tournament Name: CW Sep'15 
+Player 1: Ef  (Fox)
+Player 2: Sally  (Ivysaur)
+Bracket: PM Singles Losers R1 
+Game: Melee
+-------------
+
+Tournament Name: CW Sep'15 
+Player 1: Qx  (DDD)
+Player 2: Naga  (Yoshi)
+Bracket: PM Singles Winners R3 
+Game: Melee
+-------------
+
+Tournament Name: CW Sep'15 
+Player 1: Tomo009  (Lucario)
+Player 2: Hyes  (Lucas, Falcon)
+Bracket: PM Singles Winners R3 
+Game: Melee
+-------------
+
+Tournament Name: CW Sep'15 
+Player 1: Azri  (Marth)
+Player 2: Ef  (Fox)
+Bracket: PM Singles Losers R2 
+Game: Melee
+-------------
+
+Tournament Name: CW Sep'15 
+Player 1: Tyler  (Snake)
+Player 2: Naga  (Yoshi)
+Bracket: PM Singles Winners R4 
+Game: Melee
+-------------
+
+Tournament Name: CW Sep'15 
+Player 1: Neeson  (Diddy Kong)
+Player 2: Haikal in Spirit  (Falco)
+Bracket: PM Singles Losers R4 
+Game: Melee
+-------------
+
+Tournament Name: CW Sep'15 
+Player 1: Miles  (Fox)
+Player 2: Haikal in Spirit  (Falco)
+Bracket: PM Singles Losers R5 
+Game: Melee
+-------------
+
+Tournament Name: CW Sep'15 
+Player 1: Macky  (Falco)
+Player 2: Dreadtech  (Toon Link)
+Bracket: PM Singles WSF 
+Game: Melee
+-------------
+
+Tournament Name: CW Sep'15 
+Player 1: Tyler  (Snake)
+Player 2: Macky  (Falco)
+Bracket: PM Singles WF 
+Game: Melee
+-------------
+
+Tournament Name: CW Sep'15 
+Player 1: Moxie  (Pikachu)
+Player 2: Mask1n  (G&W)
+Bracket: PM Singles LSF 
+Game: Melee
+-------------
+
+Tournament Name: CW Sep'15 
+Player 1: Macky  (Falco)
+Player 2: Mask1n  (G&W, DDD)
+Bracket: PM Singles LF 
+Game: Melee
+-------------
+
+Tournament Name: CW Sep'15 
+Player 1: Tyler  (Snake)
+Player 2: Macky  (Falco)
+Bracket: PM Singles GF 
+Game: Melee
+-------------
+
+Tournament Name: Smashlab 05
+Player 1: 15 Winners R3 - Skeletom (Falcon)
+Player 2: Jamwa (Ness/Doctor Mario)
+Bracket: 09
+Game: Melee
+-------------
+
+Tournament Name: Smashlab 05
+Player 1: 15 Winners R2 - KTMFinx (Falcon)
+Player 2: Splice (Bowser)
+Bracket: 09
+Game: Melee
+-------------
+
+Tournament Name: Smashlab 05
+Player 1: 15 Winners R2 - Skeletom (Falcon)
+Player 2: Hyes (Falcon)
+Bracket: 09
+Game: Melee
+-------------
+
+Tournament Name: Smashlab 05
+Player 1: 15 Winners R2 - Hardpelicn (Link/Mario)
+Player 2: Jamwa (Roy/Kirby/Pichu)
+Bracket: 09
+Game: Melee
+-------------
+
+Tournament Name: Smashlab 05
+Player 1: 15 Winners R2 - Azri (Marth)
+Player 2: Dreadtech (Fox)
+Bracket: 09
+Game: Melee
+-------------
+
+Tournament Name: Smashlab 05
+Player 1: 15 Winners R1 - Splice (Bowser)
+Player 2: Hotpockets (Falco)
+Bracket: 09
+Game: Melee
+-------------
+
+Tournament Name: Smashlab 05
+Player 1: 15 Winners R1 - KTMFinx (Falcon)
+Player 2: Pudge (Young Link)
+Bracket: 09
+Game: Melee
+-------------
+
+Tournament Name: Smashlab 05
+Player 1: 15 Winners R1 - Skeletom (Falcon)
+Player 2: Swords (Fox)
+Bracket: 09
+Game: Melee
+-------------
+
+Tournament Name: Smashlab 05
+Player 1: 15 Losers Semis - Splice (Bowser)
+Player 2: DonB (Fox)
+Bracket: 09
+Game: Melee
+-------------
+
+Tournament Name: Smashlab 05
+Player 1: 15 Losers R6 - Splice (Bowser)
+Player 2: Azri (Marth)
+Bracket: 09
+Game: Melee
+-------------
+
+Tournament Name: Smashlab 05
+Player 1: 15 Losers R4 Cailan (Marth)
+Player 2: PCG (Fox)
+Bracket: 09
+Game: Melee
+-------------
+
+Tournament Name: Smashlab 05
+Player 1: 15 Losers R3 - Cailan (Marth)
+Player 2: Dreadtech (Fox)
+Bracket: 09
+Game: Melee
+-------------
+
+Tournament Name: Smashlab 05
+Player 1: 15 Losers R2 - Joey (Luigi)
+Player 2: Snoc (Falco)
+Bracket: 09
+Game: Melee
+-------------
+
+Tournament Name: Smashlab 05
+Player 1: 15 Losers Finals - Splice (Bowser)
+Player 2: QX (Samus/DK)
+Bracket: 09
+Game: Melee
+-------------
+
+Tournament Name: Smashlab 05
+Player 1: 15 Grand Finals - Skeletom (Falcon)
+Player 2: QX (DK)
+Bracket: 09
+Game: Melee
+-------------
+
+Tournament Name: CW Aug'15 
+Player 1: S.D  (Pit)
+Player 2: PROLIFIC | Adam  (Falco)
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Aug'15 
+Player 1: Fudge  (Roy, Bowser)
+Player 2: Durry  (Ivysaur, Lucario)
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Aug'15 
+Player 1: Dekar (Cpt. Falcon, Marth)
+Player 2: S.D  (Sheik)
+Bracket: PM Singles WF 
+Game: Melee
+-------------
+
+Tournament Name: CW Aug'15 
+Player 1: Mask1n  (GnW)
+Player 2: Naga  (Yoshi)
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Aug'15 
+Player 1: Saucy  (Ness, Cpt. Falcon)
+Player 2: Naga  (Yoshi)
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Aug'15 
+Player 1: Dekar  (Cpt. Falcon)
+Player 2: Tyler  (Snake)
+Bracket: PM Singles WS 
+Game: Melee
+-------------
+
+Tournament Name: CW Aug'15 
+Player 1: Naga  (Yoshi)
+Player 2: Passen  (Samus, Sheik)
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Aug'15 
+Player 1: Fudge  (Roy)
+Player 2: Boozer  (Bowser)
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Aug'15 
+Player 1: MGK  (Ganondorf)
+Player 2: Fudge  (Roy)
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Aug'15 
+Player 1: Boozer  (Bowser)
+Player 2: Milun  (Zelda, Sheik, Mario)
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Aug'15 
+Player 1: Timic83  (Snake)
+Player 2: Jheards  (Falco)
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Aug'15 
+Player 1: Mask1n  (GnW)
+Player 2: Moxie  (Wolf)
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Aug'15 
+Player 1: Dreadtech  (Toon Link)
+Player 2: Splice  (Bowser)
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Aug'15 
+Player 1: S.D  (Mario, Fox)
+Player 2: Splice  (Bowser)
+Bracket: PM Singles LF 
+Game: Melee
+-------------
+
+Tournament Name: CW Aug'15 
+Player 1: Dekar  (Cpt. Falcon)
+Player 2: Splice  (Bowser)
+Bracket: PM Singles GF 
+Game: Melee
+-------------
+
+Tournament Name: CW Aug'15 
+Player 1: x5_Redact  None
+Player 2: Splice	 None
+Bracket: PM Singles LS 
+Game: Melee
+-------------
+
+Tournament Name: CW Aug'15 
+Player 1: Hardpelicn  (DK)
+Player 2: Splice  (Bowser, Falco)
+Bracket: PM Singles LQ 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Redact  None
+Player 2: Jamwa	 None
+Bracket: PM Singles GF
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: DomHynes  None
+Player 2: Ignis	 None
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Azz  None
+Player 2: Fudge	 None
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Hughie  None
+Player 2: Fudge	 None
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Hughie  None
+Player 2: Tyler	 None
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Dreadtech  None
+Player 2: Timic83	 None
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: MGK  None
+Player 2: Timic83	 None
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Hughie  None
+Player 2: Timic83	 None
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Jamwa  None
+Player 2: Timic83	 None
+Bracket: PM Singles LF
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Redact  None
+Player 2: Jamwa	 None
+Bracket: PM Singles LS 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: DomHynes  None
+Player 2: Meredy	 None
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Dreadtech  None
+Player 2: Threnody	 None
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Zua  None
+Player 2: Meredy	 None
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: DomHynes  None
+Player 2: Azz	 None
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Dreadtech  None
+Player 2: Tyler	 None
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Redact  None
+Player 2: Azz	 None
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: MGK  None
+Player 2: Redact	 None
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Dekar  None
+Player 2: Redact	 None
+Bracket: Melee Singles GF 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Redact  None
+Player 2: Atticus	 None
+Bracket: Melee Singles LQ 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: DonB  None
+Player 2: Splice	 None
+Bracket: Melee Singles LQ 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Redact  None
+Player 2: Splice	 None
+Bracket: Melee Singles LS 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Redact  None
+Player 2: Toshi	 None
+Bracket: Melee Singles LF 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Dekar  None
+Player 2: Toshi	 None
+Bracket: Melee Singles WF 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Qx  None
+Player 2: Splice	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Earl  None
+Player 2: DomHynes	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Earl  None
+Player 2: Azz	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Earl  None
+Player 2: Redact	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Toshi  None
+Player 2: Redact	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Qx  None
+Player 2: Forte	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Codie  None
+Player 2: Atticus	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Atticus  None
+Player 2: Tyr4n	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: DomHynes  None
+Player 2: Forte	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Atticus  None
+Player 2: Burap	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: DomHynes  None
+Player 2: Milun	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jun'15 
+Player 1: Hobs  None
+Player 2: Redact	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat Jun'15 
+Player 1: Hobs  None
+Player 2: Noodles	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: Smash 4 CW April Monthly '15 
+Player 1: Rhyno  (Falcon)
+Player 2: Earl  (Little Mac)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: Smash 4 CW Monthly April '15 
+Player 1: Earl  (Little Mac)
+Player 2: Viva  (Mario)
+Bracket: Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: MyB Melee Doubles 
+Player 1: S2J+DonB  None
+Player 2: S.D+Skeletom	 None
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MyB Melee Doubles 
+Player 1: Lucky+Redact  None
+Player 2: S.D+Skeletom	 None
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Splice  None
+Player 2: Skeletom	 None
+Bracket: Melee singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Splice  None
+Player 2: Dekar	 None
+Bracket: Melee Money Match 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: S.D  None
+Player 2: Dekar	 None
+Bracket: Melee Singles GF 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Skeletom  None
+Player 2: Dekar	 None
+Bracket: Melee Singles LF 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Skeletom  None
+Player 2: Splice	 None
+Bracket: Melee Singles LS 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Redact  None
+Player 2: Splice	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Toshi  None
+Player 2: Splice	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Toshi  None
+Player 2: Noxus	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Splice  None
+Player 2: Noxus	 None
+Bracket: Melee Friendlies 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Earl  None
+Player 2: Noxus	 None
+Bracket: Melee singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Dekar  None
+Player 2: S.D	 None
+Bracket: Melee singles WF 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: DonB  None
+Player 2: Sebby	 None
+Bracket: Melee singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: S.D  None
+Player 2: Skeletom	 None
+Bracket: Melee singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Noxus  None
+Player 2: Azri	 None
+Bracket: Melee singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Splice  None
+Player 2: Joey	 None
+Bracket: Melee singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Skeletom  None
+Player 2: Hughie	 None
+Bracket: Melee singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Atticus  None
+Player 2: Redact	 None
+Bracket: Melee singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Atticus  None
+Player 2: Sebby	 None
+Bracket: Melee singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Redact  None
+Player 2: DonB	 None
+Bracket: Melee singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Snoc  None
+Player 2: Flog	 None
+Bracket: Melee singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Hughie  None
+Player 2: Azri	 None
+Bracket: Melee singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: DonB  None
+Player 2: Forte	 None
+Bracket: Melee singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Hobs  None
+Player 2: Juci	 None
+Bracket: Melee Friendly 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Skeletom  None
+Player 2: Hobs	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Hardpelicn  None
+Player 2: Mfrek	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Splice  None
+Player 2: Snoc	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Deez  None
+Player 2: Snoc	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: DD  None
+Player 2: Neeson	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Splice+Atticus  None
+Player 2: Redact+Dekar	 None
+Bracket: Melee Doubles GF 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: S.D+Noxus  None
+Player 2: Redact+Dekar	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: S.D+Noxus  None
+Player 2: Joey+Forte	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Juci+Hardpelicn  None
+Player 2: Joey+Forte	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Juci+Hardpelicn  None
+Player 2: Hughie+Macky	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Juci+Hardpelicn  None
+Player 2: Dom+Dreadtech	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Juci+Hardpelicn  None
+Player 2: Teekay+Jolteon	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: Couchwarriors Ranbat April'15 
+Player 1: Dekar+Redact  None
+Player 2: S.D+Noxus	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Splice  None
+Player 2: Redact	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Splice  None
+Player 2: Dekar	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Skeletom  None
+Player 2: Splice	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: SD  None
+Player 2: Dekar  (Grand Finals)
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Redact  None
+Player 2: Noxus	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Noxus  None
+Player 2: Forte	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: MM|Skeletom  None
+Player 2: SD	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Joey  None
+Player 2: Forte	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Dreadtech  None
+Player 2: Neeson	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Dekar  None
+Player 2: SD	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Azri  None
+Player 2: Noxus	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 
+Player 1: Tak  None
+Player 2: Splice	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 
+Player 1: Samuel L  Blaxon  None
+Player 2: Splice	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Joey  None
+Player 2: Splice	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 
+Player 1: Atticus  None
+Player 2: Skeletom	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 
+Player 1: Atticus  None
+Player 2: Samuel L  Blaxon	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 
+Player 1: Atticus  None
+Player 2: Redact	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Joey  None
+Player 2: DD	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Jamwa  None
+Player 2: SD	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Splice And Atticus  None
+Player 2: Sebby And Jamwa	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Splice And Atticus  None
+Player 2: Forte And Joey	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Skeletom  None
+Player 2: KTMFinx	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Skeletom  None
+Player 2: Donb	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: SD  None
+Player 2: Deeks	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Redact  None
+Player 2: Fef	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Noxus And Donb  None
+Player 2: Sebby And Jamwa	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Forte And Joey  None
+Player 2: Sebby And Jamwa	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Dom And Dreadtech  None
+Player 2: Dean And Jei	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Dom And Dreadtech  None
+Player 2: Ben And Cpu	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Dekar  None
+Player 2: Azri	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: CW Mar'15 
+Player 1: Jamwa + Seb  None
+Player 2: Nicks + Earl	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 
+Player 1: Tyler  None
+Player 2: Splice	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 
+Player 1: Tak  None
+Player 2: Azri	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 
+Player 1: Atticus  None
+Player 2: SD - Grand Finals	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 
+Player 1: Atticus  None
+Player 2: Samuel L. Blaxon	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 
+Player 1: Atticus  None
+Player 2: DonB	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 
+Player 1: Atticus  None
+Player 2: Azri	 None
+Bracket: Melee Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 
+Player 1: SD + Forte  None
+Player 2: Dreadtech + Dom	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: SCW Feb'15 
+Player 1: SD + Forte  None
+Player 2: Redact + Azri	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 
+Player 1: Haikal in Spirit + Fez  None
+Player 2: Dreadtech + Dom	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 
+Player 1: Dom + Dreadtech  None
+Player 2: Danog + Blaxon	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 
+Player 1: Danog + Blaxon  None
+Player 2: DonB + Noxus	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 Smash 4 Singles 
+Player 1: Viva  (Mario)
+Player 2: Dreadtech  (Sheik)
+Bracket: Winners R5 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb15 Smash 4 Singles 
+Player 1: Ledge  (Sheik)
+Player 2: Jax  (Sheik)
+Bracket: Losers R5 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 Smash 4 Doubles 
+Player 1: V + Bijou  None
+Player 2: Leisha + Baron	 None
+Bracket: Winners R3 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 
+Player 1: 1ampercent + Hyes  None
+Player 2: Redact + Azri	 None
+Bracket: Melee Doubles 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 Smash 4 Doubles 
+Player 1: V + Bijou  None
+Player 2: Ledge + Toshi	 None
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 Smash 4 Doubles 
+Player 1: Ledge + Toshi  None
+Player 2: Earl + Nicks	 None
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb15  Smash 4 Doubles 
+Player 1: Splice + Dreadtech  None
+Player 2: V + Bijou	 None
+Bracket: Losers Semi Final 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 Smash 4 Doubles 
+Player 1: Earl + Nicks [W]  None
+Player 2: Ledge + Toshi [L]	 None
+Bracket: Grand Final 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 Smash 4 Doubles 
+Player 1: Deez + Mar  None
+Player 2: Rhyno + Boozer	 None
+Bracket: Losers R3 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 Smash 4 Singles 
+Player 1: Ledge  (Sheik)
+Player 2: Rhyno  (Falcon)
+Bracket: Winners R3 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb 15 Smash 4 Doubles 
+Player 1: Leisha + Baron  None
+Player 2: Jax + Mitch	 None
+Bracket: Losers R4 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 Smash 4 Doubles 
+Player 1: Rhyno + Boozer  None
+Player 2: V + Bijou	 None
+Bracket: Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: CW Feb'15 Smash 4 Doubles 
+Player 1: Ledge + Toshi  None
+Player 2: V + Bijou	 None
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Naga and Fudge  None
+Player 2: SD and Splice	 None
+Bracket: PM Doubles 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Toshi  (ZSS)
+Player 2: Splice  (GnW)
+Bracket: PM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Toshi  (ZSS)
+Player 2: Salty Pete  (Dedede)
+Bracket: PM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Torpy  (Peach, Wario)
+Player 2: Hyes  (Ike)
+Bracket: PM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Splice  (GnW, Falco)
+Player 2: Star  (Sonic)
+Bracket: PM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Splice  (GnW, DeDeDe)
+Player 2: Salty Pete  (DeDeDe)
+Bracket: PM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Splice  (GnW)
+Player 2: Atticus  (Fox)
+Bracket: PM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Splice  (Ganondorf, Fox, Falco)
+Player 2: 1ampercent  (Ganondorf, Falcon)
+Bracket: PM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Splice  (Fox, GnW)
+Player 2: Flukey  (Link)
+Bracket: PM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Salty Pete  (Dedede)
+Player 2: 1ampercent  (Ganondorf, Falcon)
+Bracket: PM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Splice  (GnW)
+Player 2: Hobs  (Mario)
+Bracket: PM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Sadistic  (Falcon)
+Player 2: Cup  (Wolf)
+Bracket: PM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Hyes  (Ike)
+Player 2: Plasia  (Roy)
+Bracket: PM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Jamwa  (Lucas)
+Player 2: Naga  (Yoshi)
+Bracket: PM Amateur Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Hobs  (Mario)
+Player 2: Toshi  (ZSS)
+Bracket: PM Pools 
+Game: Melee
+-------------
+
+Tournament Name: CW Jan'15 
+Player 1: SD  (Falco)
+Player 2: Splice  (GnW)
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jan'15 
+Player 1: Fudge  (Roy)
+Player 2: DomHynes  (Link)
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Jan'15 
+Player 1: Moxie  (Fox)
+Player 2: Splice  (GnW)
+Bracket: PM Singles 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Sadistic  (Falcon)
+Player 2: Atticus  (Fox)
+Bracket: PM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Dom and Dreadtech  None
+Player 2: Atticus and Forte	 None
+Bracket: PM Doubles 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Jamwa and Star  None
+Player 2: Atticus and Forte	 None
+Bracket: PM Doubles 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: SD  (Falcon, Pit)
+Player 2: Song  (Toon Link, Fox)
+Bracket: PM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Plasia  (Roy)
+Player 2: Torpys  (Wario, Ganondorf)
+Bracket: PM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Sadistic  (Falcon)
+Player 2: Song  (Mario, Ganondorf)
+Bracket: PM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Shadowloo Showdown 6 
+Player 1: Plasia  (Roy)
+Player 2: Moxie  (Fox)
+Bracket: PM Pools 
+Game: Melee
+-------------
+
+Tournament Name: CW Jan '15 
+Player 1: Redact  (Falco)
+Player 2: SD  (Fox)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: CW Oct'14 
+Player 1: Moxie  None
+Player 2: Forte - ACTUALLY fixed	 None
+Bracket: SSBM 
+Game: Melee
+-------------
+
+Tournament Name: CW Oct'14 
+Player 1: Redact  None
+Player 2: Attila	 None
+Bracket: SSBM 
+Game: Melee
+-------------
+
+Tournament Name: CW Oct'14 
+Player 1: SD  None
+Player 2: Dekar	 None
+Bracket: SSBM Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: CW Oct'14 
+Player 1: SD  None
+Player 2: Redact	 None
+Bracket: SSBM Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: CW Oct'14 
+Player 1: SD  None
+Player 2: Dekar	 None
+Bracket: SSBM Winner Finals 
+Game: Melee
+-------------
+
+Tournament Name: CW Oct'14 
+Player 1: Redact  None
+Player 2: Atticus	 None
+Bracket: SSBM 
+Game: Melee
+-------------
+
+Tournament Name: CW Oct'14 
+Player 1: Tak  None
+Player 2: Atticus	 None
+Bracket: SSBM 
+Game: Melee
+-------------
+
+Tournament Name: CW Oct'14 
+Player 1: SD  None
+Player 2: Atticus	 None
+Bracket: SSBM Winners Semis
+Game: Melee
+-------------
+
+Tournament Name: CW Oct'14 
+Player 1: Bu$  None
+Player 2: Noxus	 None
+Bracket: SSBM 
+Game: Melee
+-------------
+
+Tournament Name: CW Oct'14 
+Player 1: Atticus  None
+Player 2: Azri	 None
+Bracket: SSBM 
+Game: Melee
+-------------
+
+Tournament Name: CW Oct'14 
+Player 1: Hardpelicn  None
+Player 2: Tomo009	 None
+Bracket: SSBM 
+Game: Melee
+-------------
+
+Tournament Name: CW Oct'14 
+Player 1: Tak  None
+Player 2: Sadistic	 None
+Bracket: SSBM 
+Game: Melee
+-------------
+
