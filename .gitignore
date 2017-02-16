@@ -1,0 +1,4 @@
+botdatabasebackup/
+.settings/
+config.py
+/*.pyc

@@ -1,30 +1,21 @@
-'''
-Created on Jun 18, 2016
 
-@author: Andre
-'''
 from __future__ import print_function
 import re
 from logging import codecs
 import serverset
 import names
+import os
+import json
+import updateseparator
 from titles import *
 
-
-"""
-The purpose of this module is to compile lists of ways that every channel or user
-may name a match, tournament (TBH5 vs The Big House 5), character (G&W vs Game and Watch), etc.
-These lists are parsed manually, as the pattern matching performed to find relevant games 
-is prone to error
-"""
-
-keys = ["tourny","tag1","tag2","chars1","chars2","round","game"]
-
+DIRECTORY = "\Channels"
+END_FILE = "----------------------------"
 
 
 
 class TitleParser:
-    
+    keys = ["tourny","chars1","tag1","chars2","tag2","round","game"]
     games = names.games_list
     
     def __init__(self):
@@ -36,26 +27,29 @@ class TitleParser:
     def set_postmatch_pattern(self, postmatches,flags=lambda x:0):
         self.postmatches = []
         for pattern in postmatches:
+            if pattern.isupper():
+                pattern = at_least_one_space(pattern)
             self.postmatches.append(re.compile(pattern, flags(pattern)))
-            
-            
-    def set_keys(self, keys):
-        self.keys = keys
             
         
     def set_files(self, matched_file, error_file):
         self.match = matched_file
         self.error = error_file
     
-    def filter_video_file(self, file_name, to_db, defaults=dict(),restrictions=dict()):
-        with codecs.open(self.match, "w", encoding="utf-8") as matched,codecs.open(self.error, "w", encoding="utf-8") as error,codecs.open(file_name, "r", encoding="utf-8") as infile:
+    def filter_video_file(self, file_name, to_db, db_table="", write_mode="w", defaults=dict(),restrictions=dict()):
+        with codecs.open(self.match, write_mode, encoding="utf-8") as matched,\
+        codecs.open(self.error, write_mode, encoding="utf-8") as error,\
+        codecs.open(file_name, "r", encoding="utf-8") as infile:
             results = []
             for title in infile.read().split("\n"):
+                if "--------------" in title:
+                    break
                 result = self.pattern.match(title)
                 if result:
                     accepted = True
                     r_dict = result.groupdict()
                     self.fix_r_dict(r_dict,defaults)
+                    self.adjust_r_dict(r_dict)        #additonal adjustments (i.e. removing teams)
                     r_dict["text"] = title
                     for key in restrictions.keys():
                         if restrictions[key] != r_dict[key]:
@@ -76,8 +70,8 @@ class TitleParser:
                         file = matched) 
                 else:
                     print(title, file = error)
-            if to_db:
-                updates = serverset.build_inserts(results)
+            if to_db and db_table:
+                updates = serverset.build_inserts(results,db_table)
                 serverset.make_update(updates)
             else:
                 return results
@@ -114,6 +108,11 @@ class TitleParser:
             if key not in r_dict.keys():
                 r_dict[key] = "Unknown"
                 
+    def adjust_r_dict(self, r_dict):
+        #Makes additional adjustments such as the removal of the team tag, and fixing brackets
+        pass
+     
+                
     def additional_parsing(self):
         #implement the functions in serverset that use the titlerparser module here #hollaaaa
         pass
@@ -125,7 +124,10 @@ class TitleParser:
             result = match.search(text)
             if result:
                 return match.pattern
-        return "UNKNOWN"
+        return "Bracket N/A"
+   
+def at_least_one_space(pattern):
+    return "(^|[\s:\-])"+pattern+"[\s:\-]"   
             
         
 def print_file(file_name):
@@ -136,6 +138,31 @@ def print_file(file_name):
                 break
             print(line)
             n+=1
+            
+def add_new_videos(dir, to_server):
+    #Use this function by itself to test the changes out
+    #(by viewing the output files)
+    #Commit to database in the serverset module
+    titleparser = TitleParser()
+    cwd = os.getcwd() + dir
+    for directory in os.listdir(cwd):
+        directory = cwd+"\\"+directory
+        if not os.path.isdir(directory):
+            continue
+        directory += "\\"
+        
+        json_path = directory+"channel_info.json"
+        
+        channel_info = ""
+        with open(json_path,"r") as json_file:
+            channel_info = json.load(json_file)
+        channel_file = channel_info["file"].replace(".txt","")
+        titleparser.set_pattern(regex_dict[channel_file])
+        titleparser.set_files(directory+"matches.txt",directory+"errors.txt")
+        titleparser.filter_video_file(directory+"new.txt",
+                                      to_server,
+                                      db_table="new_games"
+                                      )
         
     
 if __name__ == "__main__":
@@ -145,11 +172,16 @@ if __name__ == "__main__":
     result = re.search(test_pattern, test_string)
     print(result.group())
     """
+    """
     parser = TitleParser()
     parser.set_pattern(HTC)
     parser.set_files("HTCmatches.txt", "HTCerrors.txt")
-    parser.set_keys(keys)
-    parser.filter_video_file("HTC.txt", True,
+    parser.filter_video_file("HTC.txt", 
+                             True,
+                             db_table="games",
                              defaults=dict(),
                              restrictions=dict())
+    """
+    
+    add_new_videos(DIRECTORY, True)
     

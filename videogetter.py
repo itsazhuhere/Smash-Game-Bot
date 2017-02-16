@@ -1,20 +1,24 @@
-'''
-Created on Jun 14, 2016
 
-@author: Andre
-'''
 from __future__ import print_function
 from logging import codecs
 
 import requests
 import json
+import os
+import re
 from config import youtube_dict
 from datetime import datetime
 from datetime import timedelta
 #import serverset
 import titleparser
+import updateseparator
 
-
+"""
+Primarily grabs video info from the uploads of channels that contain videos of SmashBros
+tournament games. 
+Grabs the title, video ID, and channel ID
+Grabbed info gets recorded into a text file
+"""
 
 VIDEO_BASE = "{title}\tVideo:{videoId}\tChannel:{channelId}"
 
@@ -31,7 +35,8 @@ VIDEOURL = "https://www.googleapis.com/youtube/v3/videos"
 
 CHANNELNAME = "HTC" + ".txt"
 CHANNEL = "UCcLgWeVW3Z_ZWCYURqfgvaQ"
-
+DIRECTORY = "\Channels"
+ 
 MAX_RESULTS = 50
 
 
@@ -40,14 +45,22 @@ ENDOFSEARCH = 0
 NEXTSEARCHTOKEN = ""
 MIN_VIEWS = 1000
 
+END_FILE = "----------------------------"
 
-get_playlist_options = {"key": youtube_dict["key"],
-                        "id": CHANNEL,
-                        "part" : "contentDetails",
-                        }
+US = updateseparator.UpdateSeparator()
+
+def get_playlist_id(channel_id):
+    search_options = {"key": youtube_dict["key"],
+                      "id": channel_id,
+                      "part" : "contentDetails",
+                      }
+    return requests.get(CHANNELURL, search_options).json()["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
+
 #this gets the playlist id of the uploads of the user, which contains all videos it has submitted
 #since we use channel id to find the channel, there will always be one item in the "items" of the json
-playlist_id = requests.get(CHANNELURL, get_playlist_options).json()["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
+
+playlist_id = get_playlist_id(CHANNEL)
+
 
 search_options = {"key": youtube_dict["key"],
                   "playlistId": playlist_id,
@@ -56,6 +69,7 @@ search_options = {"key": youtube_dict["key"],
                   }
 
 
+playlist_id = get_playlist_id(CHANNEL)
 def get_video_by_ids(video_ids):
     results = []
     video_ids_len = len(video_ids)
@@ -74,7 +88,7 @@ def get_video_by_ids(video_ids):
 
 
 
-def get_videos_by_channel(options, nextSearch):
+def get_videos_by_channel(options, nextSearch, stop_id=""):
     new_options = options.copy()
     if nextSearch == NOTOKEN:
         pass
@@ -85,17 +99,21 @@ def get_videos_by_channel(options, nextSearch):
     try:
         json = make_request(new_options)
         if json["items"]:
-            return to_list(json)+get_videos_by_channel(options, get_nextPageToken(json))
+            print(json)
+            games_list = to_list(json, stop_id)
+            if games_list[-1]["id"] == stop_id:
+                return games_list[:-1]
+            return games_list+get_videos_by_channel(options, get_nextPageToken(json), stop_id)
         else:
             return []
     except:
         return []
 
-def extended_search():
-    #uses the recursive function get_videos_by_channel then either commits it to a file or directly to db
+def extended_search(channel):
+    #uses get_videos_by_channel then either commits it to a file or directly to db
     options = search_options.copy()
     search_result = get_videos_by_channel(options, NOTOKEN)
-    to_file(search_result)
+    to_file(search_result, channel)
     #to_db(search_result)
         
 def renew_info(data_file):
@@ -105,18 +123,21 @@ def renew_info(data_file):
             row = line.split("\t")
             video_id = row[7]
 
-def to_list(json):
+def to_list(json, stop_id=""):
     items = json["items"]
     games_list = []
     for item in items:
         #there is currently no view based processing; that can be done through a separate
         #query to the youtube api
+        
         games_dict = {"id": item["snippet"]["resourceId"]["videoId"],
                       "channelId": item["snippet"]["channelId"],
                       "title": item["snippet"]["title"],
                       "date": item["snippet"]["publishedAt"]
                       }
         games_list.append(games_dict)
+        if games_dict["id"] == stop_id:
+            break
     return games_list
     
 def get_nextPageToken(json):    
@@ -129,17 +150,14 @@ def get_nextPageToken(json):
     return nextPageToken if nextPageToken else ENDOFSEARCH
 
 
-def get_channel_id(channel_name):
-    pass
-
 def make_request(options):
     print("Query Successful")
     return requests.get(PLAYLISTURL, options).json()
     
     
-def to_file(game_list):
+def to_file(game_list, file_name):
    
-    with codecs.open(CHANNELNAME, "a+", encoding="utf-8") as infile:
+    with codecs.open(file_name, "a", encoding="utf-8") as infile:
         n = 0
         for game in game_list:
             try:
@@ -152,31 +170,84 @@ def to_file(game_list):
                 print(str(n), file=infile)
                 print("Added video")
                 n+=1
-        
+        print(US.get_separator(),file=infile)  
         print(n)
     print("Finished adding")
-    
-def to_db(game_list):
-    parser = titleparser.TitleParser()
-    parser.set_pattern(titleparser.VGB)
-    parser.set_files("db_match.txt", "db_error.txt")
-    game_strings = []
-    for game in game_list:
-        try:
-            game_strings.append("{title}\tVideo:{videoId}\tChannel:{channelId}".format(title=game["title"],  
-                                                                                       videoId=game["id"], 
-                                                                                       channelId=game["channelId"]))
-        
-        except UnicodeError:
-            print(game["id"])
-    parser.filter_video_list(game_strings, True)
-    
-    
-    
 
+video_regex = re.compile("[\s\S]+Video:(?P<video_id>[\s\S]{11})")
+
+
+def update_files():
+    """
+    Creates a file with all of the videos that were uploaded from now up until
+    the first video of the last update has been reached. 
+    
+    
+    Potential problems in the case where the latest video has been deleted
+    """
+    
+    cwd = os.getcwd() + DIRECTORY
+    for directory in os.listdir(cwd):
+        directory = cwd+"\\"+directory
+        if not os.path.isdir(directory):
+            continue
+        directory += "\\"
+        
+        json_path = directory+"channel_info.json"
+        
+        channel_info = ""
+        with open(json_path,"r") as json_file:
+            channel_info = json.load(json_file)
+            
+        options = search_options.copy()
+        options["playlistId"] = get_playlist_id(channel_info["channel_id"])
+        result = get_videos_by_channel(options, NOTOKEN, channel_info["latest"])
+        new_path = directory+"new.txt"
+        to_file(result, new_path)
+        
+        with open(new_path,"r") as new_file:
+            latest_entry = new_file.readline()
+            video_regex_match = video_regex.search(latest_entry)
+            if video_regex_match:
+                channel_info["latest"] = video_regex_match.groupdict()["video_id"]
+            
+        with open(json_path, "w") as json_file:
+            json_file.write(json.dumps(channel_info))
+        
+    
+def concat_files(new_file_path, old_file_path):
+    with open(new_file_path,"w") as new_file:
+        with open(old_file_path, "a+") as old_file:
+            old_file.seek(0)
+            new_file.write(old_file.read())
+    os.remove(old_file_path)
+    os.rename(new_file_path,old_file_path)
+    
+def concat_all_new_files():
+    cwd = os.getcwd() + DIRECTORY
+    for directory in os.listdir(cwd):
+        directory = cwd+"\\"+directory
+        if not os.path.isdir(directory):
+            continue
+        directory += "\\"
+        
+        json_path = directory+"channel_info.json"
+        
+        channel_info = ""
+        with open(json_path,"r") as json_file:
+            channel_info = json.load(json_file)
+        
+        #all channel directories contain the name of the main file including the extension
+        #TODO: remove extension so this is less awkward
+        channel_file = channel_info["file"].replace(".txt","")
+        concat_files(directory+"new.txt",directory+channel_file+".txt")
+        concat_files(directory+"errors.txt",directory+channel_file+"errors.txt")
+        concat_files(directory+"matches.txt",directory+channel_file+"matches.txt")
+        
 
 if __name__ == "__main__":
-    extended_search()
+    #extended_search(CHANNELNAME)
+    update_files()
     
     
     

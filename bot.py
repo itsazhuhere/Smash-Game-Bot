@@ -1,39 +1,102 @@
-'''
-Created on Jun 23, 2016
-
-@author: Andre
-'''
-
 
 import praw
 import re
 import serverset
 import titleparser
 import traceback
+import config
+from serverrequest import *
 from time import sleep
+from prawcore.exceptions import RequestException
+from praw.exceptions import ClientException
+
+CHARACTER_LIMIT = 10000
+BOT_NAME = config.praw_login["username"]
 
 
-r = praw.Reddit("Smash game finder bot")
-#establishes the connection to reddit
-serverset.make_update('CREATE TABLE IF NOT EXISTS oldposts(id VARCHAR(20)')
-#establishes a table for storing searched post ids
-#r.login()
 
-subreddit_name = "smashbros"
-subreddit = r.get_subreddit(subreddit_name)
-
-MAX_COMMENTS = 100
-SLEEP_TIME = 30
-#time to wait before searching subreddit comments again
-CLEAN_CYCLES = 10
-#number of cycles to do before clearing database
-
-request_match = "\[\[(.+)\]\]"
+request_match = "\[\[(.+?)\]\]"
 request_regex = re.compile(request_match, re.IGNORECASE)
 
-player_split = " vs\.? "
+player_split = "\s+vs\.?\s+"
 player_split_regex = re.compile(player_split, re.IGNORECASE)
 
+def search_messages(subreddit):
+    #uses PRAW's Stream class, which will provide us the comments of the subreddit(s)
+    #we have specified, as they become available (aka posted)
+    num_comments = 0
+    for comment in subreddit.stream.comments():
+        try:
+            comment.refresh()
+        except ClientException:
+            continue
+        if num_comments < 100 and is_replied(comment):
+            #PRAW streams return up to 100 historical comments
+            #prevents multiple replies
+            continue
+        
+        body = comment.body
+        db_return = parse_message(body)
+        reply = build_reply(db_return)
+        if reply and reply[0]:
+            try:
+                reply_message(reply, comment)
+            except praw.exceptions.APIException as e:
+                e = str(e)
+                if "TOO_LONG" in e:
+                    pass
+                else:
+                    minutes = re.search("(\d+) minute", str(e))
+                    if minutes:
+                        sleep(int(minutes.group(1))*60)
+                        reply_message(reply, comment)
+            except Exception as e:
+                print(e)
+                pass
+        else:
+            #TODO: decide if in a failed query, to send the user a private
+            #message displaying what their search was parsed into
+            pass
+        num_comments += 1
+
+def reply_message(reply, comment):
+    if not reply:
+        return
+    if isinstance(reply,list):
+        comment = comment.reply(reply.pop(0))
+        reply_message(reply, comment)
+    else:
+        #reply is a str
+        comment.reply(reply)
+
+def parse_message(message):
+    request_iter = request_regex.finditer(message)
+    requests = []
+    for request in request_iter:
+        print(request)
+        requests.append(determine_request(request))
+    if requests:
+        results = serverset.build_request(requests)
+        return results
+
+def is_date(input):
+    """
+    Date format must be either a single number (i.e. 2007), or
+    use date separators (/ or - or 'to')
+    """
+    try:
+        int(input)
+        return True
+    except:
+        return input.find("/") != -1 or input.find("-") != -1 or input.find("to") != -1
+
+get_brackets_query = "select bracket from brackets"
+brackets_set = set()
+for bracket in serverset.make_db_request(get_brackets_query):
+    brackets_set.add(bracket["bracket"])
+
+def is_bracket(input):
+    return input in brackets_set
 
 request_dict_base = {"player1":"",
                      "player2":"",
@@ -42,80 +105,20 @@ request_dict_base = {"player1":"",
                      "date":""
                      }
 
-settings = {"useragent":"Smash Game Bot",
-            "secret":"Hvdnd4uU8UDtafrd5tSm6Xgq_4k",
-            "subreddit":"smashbros"
-            
-            
-            }
+def is_replied(comment):
+    for reply in comment.replies:
+        if(reply.author.name.lower() == BOT_NAME.lower()):
+            return True
+    return False
 
-
-
-
-
-def bot_setup():
-    r = praw.Reddit(settings["useragent"])
-    
-
-last_comment = ""
-def get_sub_comments():
-    return subreddit.get_comments(limit=MAX_COMMENTS,
-                                  place_holder = last_comment)
-    
-    
-searched = set()
-
-def search_comments(comments):
-    #comments is a generator created by the PRAW api that contains comments
-    #from the subreddit's comments list
-    
-    #use enumerate?
-
-    for comment in comments:
-        try:
-            cauthor = comment.author.name
-        except AttributeError:
-            #delete author case, comment ignored
-            continue
-        
-        if cauthor.lower() == r.user.name.lower():
-            #do not reply to yourself
-            #this case is likely never going to happen, as the reply format
-            #does not contain the trigger "[[]]" usually
-            continue
-        
-        if serverset.check_comment(comment.id):
-            break
-            #break here because comments should be in chronological order,
-            #and hitting an old comment means the rest of the comments are old
-            
-        
-        parse_message(comment)
-        last_comment = comment.id
-        
-        serverset.add_comment(id)
-        
-        
-        searched.add(comment.id)
-    
-def parse_message(message):
-    """
-    PRAW's Inboxable objects will cover both private messages and comments
-    """
-    request_iter = request_regex.finditer(message.body())
-    requests = []
-    for build_request in request_iter:
-        requests.append(determine_request(build_request))
-    if requests:
-        results = serverset.build_request(requests)
-        message.reply(build_reply(results))
-    
 def determine_request(build_request):
     #build_request is a MatchObject with one group: everything between the double brackets [[ ]]
     request_dict = request_dict_base.copy()
     
     request_params = build_request.group(1).split(",")
     if player_split_regex.search(request_params[0]):
+        #can be either single player or two player search
+        #regardless, must contain 'vs'
         players = request_params.pop(0)
         players = player_split_regex.split(players)
         request_dict["player1"] = players[0].strip()
@@ -123,25 +126,58 @@ def determine_request(build_request):
         if request_params:
             #do more parsing based on arguments provided
             #if no additional arguments, defaults will be used
+            for parameter in request_params:
+                parameter = parameter.strip()
+                if is_date(parameter):
+                    request_dict["date"] = parameter
+                elif is_bracket(input):
+                    request_dict["bracket"] = parameter
+                else:
+                    #the parameter will be inserted as a tournament search
+                    request_dict["tournament"] = parameter
             pass
     else:
-        #special video case (where there is no "vs" in the first group)
-        #should there be commas in this case, then only the first group (request_params[0]) will be used
+        #non player search case, search for tournament
+        request_dict["tournament"] = request_params.pop(0)
+        if request_params:
+            for parameter in request_params:
+                parameter = parameter.strip()
+                if is_date(parameter):
+                    request_dict["date"] = parameter
+                elif is_bracket(input):
+                    request_dict["bracket"] = parameter
+            
         
-        #build a database search of the string and use the returned key to retrieve the 
-        #corresponding video
-        pass
         
     return request_dict
 
-
-
+def build_request(info):
+    requests = []
+    results = []
+    for entry in info:
+        requests.append(create_query(entry))
+    for request in requests:
+        results.append(serverset.make_db_request(request))
+    return results
 
 
 YOUTUBE_LINK = "https://www.youtube.com/watch?v="
+#Reddit comment formatting tokens
+BOLD = "**"         #bold requires the token to be on both sides of the text to bold
+ENDL = "    \n"     #end line is four spaces followed by endline
+LINE = "***" +ENDL  #creates a horizontal line, TODO: check if ENDL is needed
 
 
-def build_reply(results, is_list):
+section_format = "{player1} vs. {player2}:"
+video_format = "[{bracket}](" + YOUTUBE_LINK + "{video_id})" + ENDL
+
+continued = "*Continued as a reply to this comment...*"+ENDL
+footer = LINE + "^(This was an automated response) ^\| ^[FAQ](#) \| ^([Report a problem/error](#)) \| ^([Github](#))"
+max_reply_characters = CHARACTER_LIMIT - len(footer) - len(continued)
+
+def build_reply(results):
+    #TODO: make this the player search reply and have a separate reply
+    #format for tournament searches
     """
     Creates the reddit comment reply based on the results from the database search.
     
@@ -155,39 +191,46 @@ def build_reply(results, is_list):
     More formats to come (tournament based search and character based search currently planned)
     """
     
-    
-
-    #results and requests should be of the same size
-    #additionally, a failed result should be represented by an empty entry
-    reply_string = ""
-    #sort(results)
-    for entry in range(len(results)):
-        entry_string = ""
-        entry_dicts = sort_results(results[entry])
-        tournament_set = set()
-        if is_list:
+    #if the result is failed, return an empty string
+    reply = []
+    if results:
+        print(results)
+        reply_string = ""
+        for entry in results:
+            if not entry:
+                continue
+            entry_string = ""
+            entry_dicts = sort_results(entry)
+            tournament_set = set()
             entry_string += make_section(entry_dicts)
             for row in entry_dicts:
+                formatted_line = ""
                 if row["tournament"] not in tournament_set:
                     #make a tournament heading
-                    entry_string += row["tournament"] + ":" + ENDL
+                    formatted_line += row["tournament"] + ":" + ENDL
                     tournament_set.add(row["tournament"])
-                entry_string += video_format.format(bracket=row["bracket"],
-                                                    video_id=row["video"]
-                                                    )
+                formatted_line += video_format.format(bracket=row["bracketproper"],
+                                                      video_id=row["video"]
+                                                      )
+                if len(reply_string)+len(entry_string)+len(formatted_line)>= max_reply_characters:
+                    reply_string += entry_string + continued + footer
+                    reply.append(reply_string)
+                    reply_string = ""
+                    entry_string = formatted_line
+                else:
+                    entry_string += formatted_line
+                    
             reply_string += entry_string + LINE
-        else:
-            pass
+        if reply_string:
+            reply.append(reply_string+footer)
     #additionally add a footer to the message that gives info on the bot
-    return reply_string
-#Reddit comment formatting tokens
-BOLD = "**"         #bold requires the token to be on both sides of the text to bold
-ENDL = "    \n"     #end line is four spaces followed by endline
-LINE = "***" +ENDL  #creates a horizontal line, TODO: check if ENDL is needed
+    return reply
 
 
-section_format = "{player1} vs. {player2}:"
-video_format = "[{bracket}](" + YOUTUBE_LINK + "{video_id})" + ENDL
+def build_failure_reply():
+    pass
+
+
 
 bracket_hierarchy = {}
 
@@ -200,6 +243,11 @@ def sort_results(entry_dicts):
     #order that they should be displayed
     return entry_dicts
 
+def main():
+    reddit = praw.Reddit(**config.praw_login)
+    subreddit = reddit.subreddit(config.subreddit_name)
+    search_messages(subreddit)
+    
 
 test_results = [[{"tournament":"The Big House 5",
                   "bracket":"Pools",
@@ -239,28 +287,39 @@ test_results = [[{"tournament":"The Big House 5",
                   "video":"Gv74JXJBFwk"
                   }]]
                 
-
-
-
-clean_cycles_query = 'DELETE FROM oldposts WHERE id NOT IN (SELECT id FROM oldposts ORDER BY id DESC LIMIT {0})'
+test_messages = ["",
+                 "[[duck vs colbol, 2010-08-01-2016-12-31, genesis]]",
+                 "asdf"
+                 
+                 
+                 ]
 
 if __name__ == "__main__":
     #main bot loop 
-    
-    #do login stuff
-    
-    cycles = 0
-    #message checking loop
+
     while True:
         try:
-            
-            search_comments(get_sub_comments())
-            cycles +=1
-        except Exception as e:
-            traceback.print_exc()
-        if cycles >= CLEAN_CYCLES:
-            serverset.make_update([clean_cycles_query.format(MAX_COMMENTS)])
-            cycles = 0
-            
-        sleep(SLEEP_TIME)
+            main()
+        except RequestException:
+            #do logging
+            continue
+
+    #testing
+    """
+    for test in test_messages:
+        print(build_reply(parse_message(test)))
+    """
+"""
+    reddit = praw.Reddit(**config.praw_login)
+    subreddit = reddit.subreddit("leagueoflegends")
+    comment = reddit.comment("dctgttv")
+    comment.refresh()
+    for reply in comment.replies:
+        print(reply.author.name)
+        print(BOT_NAME)
+"""
+    
+
+
+
         

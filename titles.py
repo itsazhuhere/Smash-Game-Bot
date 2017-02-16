@@ -63,7 +63,7 @@ optional_teams = tourn_sep[:-1]+"\s+Teams\s+)?"
 
 
 #VideoGameBootCamp
-VGB = ("^"+tournament + tourn_sep + tag1 + 
+VGBC = ("^"+tournament + tourn_sep + tag1 + 
        characters1 + versus + tag2 + characters2 + 
        optional_separator + bracket + optional_separator + 
        game_type + optional_end + video_info)
@@ -159,6 +159,25 @@ HTC = (tournament+spaces(tourn_sep)+bracket+spaces(tourn_sep)+optional_end+     
 #one is able to add additional separators to this, as this alone only splits into 3 groups:
 #before "vs", after "vs", and the "vs" itself
 pre_versus = "(?=vs\.?)"
+
+regex_dict = {"VGBC":VGBC,
+              "SDGG":SDGG,
+              "GGS":GGS,
+              "BOTFG":BOTFG,
+              "BOTFG2":BOTFG2,
+              "BTS":BTS,
+              "CLASH":CLASH,
+              "EHG":EHG,
+              "TL":TL,
+              "SS":SS_WTFOX2,
+              "EVO2016":EVO2016,
+              "EVO2K":EVO2K,
+              "MVG":MVG,
+              "MM":MM,
+              "EMG":EMG,
+              "MMil":MMil,
+              "HTC":HTC
+              }
 
 
 lines = "\n-------------\n"
