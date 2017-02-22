@@ -30,7 +30,7 @@ player_template1 = ("((player1='{p1}' AND " +
 select_brackets = "bracket={0}"
 
 request_template = (
-"""SELECT * FROM 
+"""SELECT DISTINCT * FROM 
 games
 NATURAL JOIN tournaments 
 NATURAL JOIN tournamentdates 
