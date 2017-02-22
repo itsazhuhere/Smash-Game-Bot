@@ -6,6 +6,7 @@ import titleparser
 import traceback
 import config
 from serverrequest import *
+from server_handler import make_db_request
 from time import sleep
 from prawcore.exceptions import RequestException
 from praw.exceptions import ClientException
@@ -36,9 +37,14 @@ def search_messages(subreddit):
             continue
         
         body = comment.body
-        db_return = parse_message(body)
-        reply = build_reply(db_return)
-        if reply and reply[0]:
+        parsed = parse_message(body)
+        db_return = []
+        if parsed:
+            db_return = make_db_request(build_request(parsed))
+        else:
+            continue
+        if db_return and db_return[0]:
+            reply = build_reply(db_return, parsed)
             try:
                 reply_message(reply, comment)
             except praw.exceptions.APIException as e:
@@ -75,9 +81,7 @@ def parse_message(message):
     for request in request_iter:
         print(request)
         requests.append(determine_request(request))
-    if requests:
-        results = serverset.build_request(requests)
-        return results
+    return requests
 
 def is_date(input):
     """
@@ -92,7 +96,7 @@ def is_date(input):
 
 get_brackets_query = "select bracket from brackets"
 brackets_set = set()
-for bracket in serverset.make_db_request(get_brackets_query):
+for bracket in make_db_request(get_brackets_query):
     brackets_set.add(bracket["bracket"])
 
 def is_bracket(input):
@@ -162,7 +166,7 @@ def build_request(info):
     for entry in info:
         requests.append(create_query(entry))
     for request in requests:
-        results.append(serverset.make_db_request(request))
+        results.append(make_db_request(request))
     return results
 
 
@@ -180,8 +184,8 @@ continued = "*Continued as a reply to this comment...*"+ENDL
 footer = LINE + "^(This was an automated response) ^\| ^[FAQ](#) \| ^([Report a problem/error](#)) \| ^([Github](#))"
 max_reply_characters = CHARACTER_LIMIT - len(footer) - len(continued)
 
-def build_reply(results):
-    #TODO: make this the player search reply and have a separate reply
+def build_reply(results, parsed_categories):
+    #TODO: make this the player search reply and tournament search have a separate reply
     #format for tournament searches
     """
     Creates the reddit comment reply based on the results from the database search.
@@ -198,42 +202,58 @@ def build_reply(results):
     
     #if the result is failed, return an empty string
     reply = []
-    if results:
-        print(results)
-        reply_string = ""
-        for entry in results:
-            if not entry:
-                continue
-            entry_string = ""
-            entry_dicts = sort_results(entry)
-            tournament_set = set()
-            entry_string += make_section(entry_dicts)
-            for row in entry_dicts:
-                formatted_line = ""
-                if row["tournament"] not in tournament_set:
-                    #make a tournament heading
-                    formatted_line += row["tournament"] + ":" + ENDL
-                    tournament_set.add(row["tournament"])
-                formatted_line += video_format.format(bracket=row["bracketproper"],
-                                                      video_id=row["video"]
-                                                      )
-                if len(reply_string)+len(entry_string)+len(formatted_line)>= max_reply_characters:
-                    reply_string += entry_string + continued + footer
-                    reply.append(reply_string)
-                    reply_string = ""
-                    entry_string = formatted_line
-                else:
-                    entry_string += formatted_line
-                    
-            reply_string += entry_string + LINE
-        if reply_string:
-            reply.append(reply_string+footer)
+    print(results)
+    reply_string = ""
+    for i in range(len(results)):
+        entry_string = ""
+        entry = results[i]
+        if not entry:
+            entry_string = build_failure_reply(parsed_categories[i])
+            if len(reply_string) + len(entry_string) > max_reply_characters:
+                reply_string += continued + footer
+                reply.append(reply_string)
+                reply_string = entry_string
+            continue
+        entry_dicts = sort_results(entry)
+        tournament_set = set()
+        entry_string += make_section(entry_dicts)
+        for row in entry_dicts:
+            formatted_line = ""
+            if row["tournament"] not in tournament_set:
+                #make a tournament heading
+                formatted_line += row["tournament"] + ":" + ENDL
+                tournament_set.add(row["tournament"])
+            formatted_line += video_format.format(bracket=row["bracketproper"],
+                                                  video_id=row["video"]
+                                                  )
+            if len(reply_string)+len(entry_string)+len(formatted_line) > max_reply_characters:
+                reply_string += entry_string + continued + footer
+                reply.append(reply_string)
+                reply_string = ""
+                entry_string = formatted_line
+            else:
+                entry_string += formatted_line
+                
+        reply_string += entry_string + LINE
+    if reply_string:
+        reply.append(reply_string+footer)
     #additionally add a footer to the message that gives info on the bot
     return reply
 
-
-def build_failure_reply():
-    pass
+failed_reply_start = "Couldn't find anything with the following categories:" + ENDL
+def build_failure_reply(categories):
+    reply = failed_reply_start
+    if categories["player1"]:
+        reply += "Player: " + categories["player1"] + ENDL
+    if categories["player2"]:
+        reply += "Player: " + categories["player2"] + ENDL
+    if categories["tournament"]:
+        reply += "Tournament: " + categories["tournament"] + ENDL
+    if categories["bracket"]:
+        reply += "Bracket: " + categories["bracket"] + ENDL
+    if categories["date"]:
+        reply += "Date: " + categories["date"] + ENDL
+    return reply + LINE
 
 
 
