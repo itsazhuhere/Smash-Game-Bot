@@ -3,7 +3,6 @@ from __future__ import print_function
 import re
 from logging import codecs
 import serverset
-import names
 import os
 import json
 import updateseparator
@@ -16,10 +15,18 @@ END_FILE = "----------------------------"
 
 class TitleParser:
     keys = ["tourny","chars1","tag1","chars2","tag2","round","game"]
-    games = names.games_list
+    games = {"Melee": ["SSBM"],
+             "Smash 4" : ["Wii U","Sm4sh","SSB4"],
+             "Smash 64" : ["SSB64"]
+             }
     
     def __init__(self):
-        pass
+        for game in self.games.keys():
+            all_names = [re.compile(game,re.IGNORECASE)]
+            for name in self.games[game]:
+                all_names.append(re.compile(name,re.IGNORECASE))
+            
+            self.games[game] = all_names
     
     def set_pattern(self, pattern):
         self.pattern = re.compile(pattern)
@@ -48,9 +55,8 @@ class TitleParser:
                 if result:
                     accepted = True
                     r_dict = result.groupdict()
-                    self.fix_r_dict(r_dict,defaults)
-                    self.adjust_r_dict(r_dict)        #additonal adjustments (i.e. removing teams)
                     r_dict["text"] = title
+                    self.fix_r_dict(r_dict,defaults)
                     for key in restrictions.keys():
                         if restrictions[key] != r_dict[key]:
                             print(title+" MATCH FAIL: "+key,file=error)
@@ -76,42 +82,18 @@ class TitleParser:
             else:
                 return results
     
-    def filter_video_list(self, video_list, to_db):
-        #should an in place list modify be done?
-        with codecs.open(self.error, "a", encoding="utf-8") as error:
-            results = []
-            for title in video_list:
-                result = self.pattern.match(title)
-                if result:
-                    r_dict = result.groupdict()
-                    r_dict["game"] = self.get_name(result)
-                    results.append(r_dict)
-                else:
-                    print(title, file=error)
-            if to_db:
-                serverset.build_inserts(results)
-            else:
-                return results
-            
-    
-    
-    def get_name(self, result, default="Unknown"):
-        for game in self.games:
-            if game.has_name(result.group(0)):
-                return game.get_title()
-        return default
-    
     def fix_r_dict(self, r_dict, defaults):
         for key in defaults.keys():
             r_dict[key] = defaults[key]
         for key in self.keys:
             if key not in r_dict.keys():
                 r_dict[key] = "Unknown"
-                
-    def adjust_r_dict(self, r_dict):
-        #Makes additional adjustments such as the removal of the team tag, and fixing brackets
-        pass
-     
+        title_text = r_dict["text"]
+        for game in self.games.keys():
+            for name in self.games[game]:
+                if name.search(title_text):
+                    r_dict["game"] = game
+                    break
                 
     def additional_parsing(self):
         #implement the functions in serverset that use the titlerparser module here #hollaaaa
