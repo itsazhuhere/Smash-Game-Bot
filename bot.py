@@ -84,10 +84,10 @@ def is_date(input):
     Date format must be either a single number (i.e. 2007), or
     use date separators (/ or - or 'to')
     """
-    try:
-        int(input)
+    if isinstance(input, int):
         return True
-    except:
+    #input is a str
+    else:
         return input.find("/") != -1 or input.find("-") != -1 or input.find("to") != -1
 
 get_brackets_query = "select bracket from brackets"
@@ -106,9 +106,14 @@ request_dict_base = {"player1":"",
                      }
 
 def is_replied(comment):
-    for reply in comment.replies:
-        if(reply.author.name.lower() == BOT_NAME.lower()):
-            return True
+    if comment.replies:
+        for reply in comment.replies:
+            if not reply.author:
+                continue
+            
+            #TODO: determine if author.name is already lower()
+            if(reply.author.name.lower() == BOT_NAME):
+                return True
     return False
 
 def determine_request(build_request):
