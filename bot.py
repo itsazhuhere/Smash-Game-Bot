@@ -43,61 +43,42 @@ def search_messages(subreddit):
             db_return = make_db_request(build_request(parsed))
         else:
             continue
-        if db_return and db_return[0]:
-            reply = build_reply(db_return, parsed)
-            try:
-                reply_message(reply, comment)
-            except praw.exceptions.APIException as e:
-                e = str(e)
-                if "TOO_LONG" in e:
-                    pass
-                else:
-                    minutes = re.search("(\d+) minute", str(e))
-                    if minutes:
-                        sleep(int(minutes.group(1))*60)
-                        reply_message(reply, comment)
-            except Exception as e:
-                print(e)
+        reply = build_reply(db_return, parsed)
+        try:
+            reply_to_message(reply, comment)
+        except praw.exceptions.APIException as e:
+            e = str(e)
+            if "TOO_LONG" in e:
                 pass
-        else:
-            #TODO: decide if in a failed query, to send the user a private
-            #message displaying what their search was parsed into
+            else:
+                minutes = re.search("(\d+) minute", str(e))
+                if minutes:
+                    sleep(int(minutes.group(1))*60)
+                    reply_to_message(reply, comment)
+        except Exception as e:
+            print(e)
             pass
+        
         num_comments += 1
 
-def reply_message(reply, comment):
+def reply_to_message(reply, comment):
     if not reply:
         return
     if isinstance(reply,list):
         comment = comment.reply(reply.pop(0))
-        reply_message(reply, comment)
-    else:
-        #reply is a str
+        reply_to_message(reply, comment)
+    elif isinstance(reply,str) or isinstance(reply,unicode):
         comment.reply(reply)
+    else:
+        print("invalid type")
+        print(reply)
 
 def parse_message(message):
     request_iter = request_regex.finditer(message)
     requests = []
     for request in request_iter:
-        print(request)
         requests.append(determine_request(request))
     return requests
-
-def is_date(input):
-    """
-    Date format must be either a single number (i.e. 2007), or
-    use date separators (/ or - or 'to')
-    """
-    if isinstance(input, int):
-        return True
-    #input is a str
-    else:
-        return input.find("/") != -1 or input.find("-") != -1 or input.find("to") != -1
-
-get_brackets_query = "select bracket from brackets"
-brackets_set = set()
-for bracket in make_db_request(get_brackets_query):
-    brackets_set.add(bracket["bracket"])
 
 def is_bracket(input):
     return input in brackets_set
@@ -162,12 +143,9 @@ def determine_request(build_request):
 
 def build_request(info):
     requests = []
-    results = []
     for entry in info:
         requests.append(create_query(entry))
-    for request in requests:
-        results.append(make_db_request(request))
-    return results
+    return requests
 
 
 YOUTUBE_LINK = "https://www.youtube.com/watch?v="
@@ -177,11 +155,23 @@ ENDL = "    \n"     #end line is four spaces followed by endline
 LINE = "***" +ENDL  #creates a horizontal line, TODO: check if ENDL is needed
 
 
+
+
 section_format = "{player1} vs. {player2}:"
 video_format = "[{bracket}](" + YOUTUBE_LINK + "{video_id})" + ENDL
 
+#links for the footer of the bot's reply message
+#links will be superscripted (to appear smaller) and be separated by pipes [ | ]
+#links are already formatted to Reddit's formatting standards
+footer_sections_list = ["^(This was an automated response)",
+                        "[^FAQ](#)",
+                        "[^Report ^a ^problem/error/feedback](https://goo.gl/forms/vdghDKiEKRLD7tiB3)",
+                        "[^Github](https://github.com/itsazhuhere/Smash-Game-Bot)"
+                        ]
+footer_sections = " ^\| ".join(footer_sections_list)
+
 continued = "*Continued as a reply to this comment...*"+ENDL
-footer = LINE + "^(This was an automated response) ^\| ^[FAQ](#) \| ^([Report a problem/error](#)) \| ^([Github](#))"
+footer = LINE + footer_sections
 max_reply_characters = CHARACTER_LIMIT - len(footer) - len(continued)
 
 def build_reply(results, parsed_categories):
@@ -202,8 +192,9 @@ def build_reply(results, parsed_categories):
     
     #if the result is failed, return an empty string
     reply = []
-    print(results)
     reply_string = ""
+    if not results:
+        return build_failure_reply(parsed_categories[0]) + footer
     for i in range(len(results)):
         entry_string = ""
         entry = results[i]
@@ -213,8 +204,10 @@ def build_reply(results, parsed_categories):
                 reply_string += continued + footer
                 reply.append(reply_string)
                 reply_string = entry_string
+            else:
+                reply_string += entry_string
             continue
-        entry_dicts = sort_results(entry)
+        entry_dicts = to_list(entry)
         tournament_set = set()
         entry_string += make_section(entry_dicts)
         for row in entry_dicts:
@@ -240,9 +233,10 @@ def build_reply(results, parsed_categories):
     #additionally add a footer to the message that gives info on the bot
     return reply
 
-failed_reply_start = "Couldn't find anything with the following categories:" + ENDL
+failed_reply_start = "I couldn't find anything with the following categories:" + ENDL
 def build_failure_reply(categories):
     reply = failed_reply_start
+    categories_found = categories.keys()
     if categories["player1"]:
         reply += "Player: " + categories["player1"] + ENDL
     if categories["player2"]:
@@ -260,13 +254,13 @@ def build_failure_reply(categories):
 bracket_hierarchy = {}
 
 def make_section(entry_dicts):
-    return BOLD + section_format.format(player1=entry_dicts[0]["player1"],player2=entry_dicts[0]["player2"]) + BOLD + ENDL
+    return BOLD + section_format.format(player1=entry_dicts[0]["player1"],
+                                        player2=entry_dicts[0]["player2"]) + BOLD + ENDL
 
-def sort_results(entry_dicts):
-    #TODO: for now do not do any sorting, will later implement a sort based on bracket
-    #sorting will now be done within the database; results will be returned in the
-    #order that they should be displayed
-    return entry_dicts
+def to_list(entry_dicts):
+    if isinstance(entry_dicts, list):
+        return entry_dicts
+    return [entry_dicts]
 
 def main():
     reddit = praw.Reddit(**config.praw_login)

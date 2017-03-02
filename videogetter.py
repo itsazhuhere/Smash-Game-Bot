@@ -61,15 +61,21 @@ def get_playlist_id(channel_id):
 
 playlist_id = get_playlist_id(CHANNEL)
 
-
 search_options = {"key": youtube_dict["key"],
-                  "playlistId": playlist_id,
+                  "playlistId": "",
                   "part" : "snippet",
                   "maxResults": str(MAX_RESULTS)
                   }
 
+def get_search_options(channel = CHANNEL):
+    if not search_options["playlistId"]:
+        search_options["playlistId"] = get_playlist_id(channel)
+    return search_options.copy()
 
-playlist_id = get_playlist_id(CHANNEL)
+
+
+
+
 def get_video_by_ids(video_ids):
     results = []
     video_ids_len = len(video_ids)
@@ -111,7 +117,7 @@ def get_videos_by_channel(options, nextSearch, stop_id=""):
 
 def extended_search(channel):
     #uses get_videos_by_channel then either commits it to a file or directly to db
-    options = search_options.copy()
+    options = get_search_options()
     search_result = get_videos_by_channel(options, NOTOKEN)
     to_file(search_result, channel)
     #to_db(search_result)

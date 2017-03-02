@@ -145,8 +145,6 @@ def create_query(entry):
             #combines all bracket selection into a single clause
             where.append("("+" OR ".join(["bracket={0}".format(bracket) for bracket in entry["bracket"].split(",")])+")")
     
-    
-    print(request_template.format(" AND ".join(where)))
     return request_template.format(" AND ".join(where))
 
 #ugly but the best way I could find for a versatile date entry

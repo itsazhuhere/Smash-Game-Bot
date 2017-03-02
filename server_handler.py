@@ -10,17 +10,16 @@ def make_db_request(requests):
     if type(requests) != list:
         requests=[requests]
     results = []
-    try:
-        with connection.cursor() as cursor:
-            for request in requests:
-                cursor.execute(request)
-                results.append(cursor.fetchall())
-    except Exception as e:
-        print(e)
-    finally:
-        if len(results) == 1:
-            return results[0]
-        return results
+    with connection.cursor() as cursor:
+        for request in requests:
+            if not request:
+                continue
+            cursor.execute(request)
+            result = cursor.fetchall()
+            results.append(result)
+    if len(results) == 1:
+        return results[0]
+    return results
         
 def make_update(updates):
     """
