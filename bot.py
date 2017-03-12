@@ -11,10 +11,9 @@ from time import sleep
 from prawcore.exceptions import RequestException
 from praw.exceptions import ClientException
 
+MAX_REQUESTS = 3
 CHARACTER_LIMIT = 10000
 BOT_NAME = config.praw_login["username"]
-
-
 
 request_match = "\[\[(.+?)\]\]"
 request_regex = re.compile(request_match, re.IGNORECASE)
@@ -41,12 +40,16 @@ def search_messages(subreddit):
         db_return = []
         if parsed:
             db_return = make_db_request(build_request(parsed))
+            #TODO: fix this, results from bad dependency on make_db_request
+            if isinstance(db_return, list) and not isinstance(db_return[0], list):
+                db_return = [db_return]
         else:
             continue
         reply = build_reply(db_return, parsed)
         try:
             reply_to_message(reply, comment)
         except praw.exceptions.APIException as e:
+            #TODO: change to log and function call
             e = str(e)
             if "TOO_LONG" in e:
                 pass
@@ -70,25 +73,21 @@ def reply_to_message(reply, comment):
     elif isinstance(reply,str) or isinstance(reply,unicode):
         comment.reply(reply)
     else:
+        #TODO: implement logging here
         print("invalid type")
+        print(type(reply))
         print(reply)
 
 def parse_message(message):
     request_iter = request_regex.finditer(message)
     requests = []
+    count = 0
     for request in request_iter:
+        if count > MAX_REQUESTS:
+            break
         requests.append(determine_request(request))
+        count += 1
     return requests
-
-def is_bracket(input):
-    return input in brackets_set
-
-request_dict_base = {"player1":"",
-                     "player2":"",
-                     "tournament":"LAST",
-                     "bracket":"ALL",
-                     "date":""
-                     }
 
 def is_replied(comment):
     if comment.replies:
@@ -101,70 +100,17 @@ def is_replied(comment):
                 return True
     return False
 
-def determine_request(build_request):
-    #build_request is a MatchObject with one group: everything between the double brackets [[ ]]
-    request_dict = request_dict_base.copy()
-    
-    request_params = build_request.group(1).split(",")
-    if player_split_regex.search(request_params[0]):
-        #can be either single player or two player search
-        #regardless, must contain 'vs'
-        players = request_params.pop(0)
-        players = player_split_regex.split(players)
-        request_dict["player1"] = players[0].strip()
-        request_dict["player2"] = players[1].strip()
-        if request_params:
-            #do more parsing based on arguments provided
-            #if no additional arguments, defaults will be used
-            for parameter in request_params:
-                parameter = parameter.strip()
-                if is_date(parameter):
-                    request_dict["date"] = parameter
-                elif is_bracket(input):
-                    request_dict["bracket"] = parameter
-                else:
-                    #the parameter will be inserted as a tournament search
-                    request_dict["tournament"] = parameter
-            pass
-    else:
-        #non player search case, search for tournament
-        request_dict["tournament"] = request_params.pop(0)
-        if request_params:
-            for parameter in request_params:
-                parameter = parameter.strip()
-                if is_date(parameter):
-                    request_dict["date"] = parameter
-                elif is_bracket(input):
-                    request_dict["bracket"] = parameter
-            
-        
-        
-    return request_dict
-
-def build_request(info):
-    requests = []
-    for entry in info:
-        requests.append(create_query(entry))
-    return requests
-
-
 YOUTUBE_LINK = "https://www.youtube.com/watch?v="
 #Reddit comment formatting tokens
 BOLD = "**"         #bold requires the token to be on both sides of the text to bold
 ENDL = "    \n"     #end line is four spaces followed by endline
 LINE = "***" +ENDL  #creates a horizontal line, TODO: check if ENDL is needed
 
-
-
-
-section_format = "{player1} vs. {player2}:"
-video_format = "[{bracket}](" + YOUTUBE_LINK + "{video_id})" + ENDL
-
 #links for the footer of the bot's reply message
 #links will be superscripted (to appear smaller) and be separated by pipes [ | ]
 #links are already formatted to Reddit's formatting standards
 footer_sections_list = ["^(This was an automated response)",
-                        "[^FAQ](#)",
+                        "[^FAQ](https://www.reddit.com/r/SmashGameBot/wiki/index)",
                         "[^Report ^a ^problem/error/feedback](https://goo.gl/forms/vdghDKiEKRLD7tiB3)",
                         "[^Github](https://github.com/itsazhuhere/Smash-Game-Bot)"
                         ]
@@ -196,9 +142,9 @@ def build_reply(results, parsed_categories):
     if not results:
         return build_failure_reply(parsed_categories[0]) + footer
     for i in range(len(results)):
-        entry_string = ""
         entry = results[i]
         if not entry:
+            entry_string = ""
             entry_string = build_failure_reply(parsed_categories[i])
             if len(reply_string) + len(entry_string) > max_reply_characters:
                 reply_string += continued + footer
@@ -207,29 +153,14 @@ def build_reply(results, parsed_categories):
             else:
                 reply_string += entry_string
             continue
-        entry_dicts = to_list(entry)
-        tournament_set = set()
-        entry_string += make_section(entry_dicts)
-        for row in entry_dicts:
-            formatted_line = ""
-            if row["tournament"] not in tournament_set:
-                #make a tournament heading
-                formatted_line += row["tournament"] + ":" + ENDL
-                tournament_set.add(row["tournament"])
-            formatted_line += video_format.format(bracket=row["bracketproper"],
-                                                  video_id=row["video"]
-                                                  )
-            if len(reply_string)+len(entry_string)+len(formatted_line) > max_reply_characters:
-                reply_string += entry_string + continued + footer
-                reply.append(reply_string)
-                reply_string = ""
-                entry_string = formatted_line
-            else:
-                entry_string += formatted_line
-                
-        reply_string += entry_string + LINE
+        entry_dicts = to_list(entry) #TODO: wrong place?
+        if (parsed_categories[i]["player1"] or 
+            parsed_categories[i]["player2"]):
+            reply_string = build_player_reply(entry_dicts, reply_string, reply)
+        else:
+            reply_string = build_tournament_reply(entry_dicts, reply_string, reply)
     if reply_string:
-        reply.append(reply_string+footer)
+        reply.append(reply_string + footer)
     #additionally add a footer to the message that gives info on the bot
     return reply
 
@@ -249,13 +180,77 @@ def build_failure_reply(categories):
         reply += "Date: " + categories["date"] + ENDL
     return reply + LINE
 
+tournament_video_format = ("[{p1} vs {p2} - {bracket}](" + 
+                           YOUTUBE_LINK + "{video_id})" + ENDL)
 
+def build_tournament_reply(entry_dicts, reply_string, reply_list):
+    new_section = make_tournament_section(entry_dicts[0])
+    reply_string = add_line(new_section, reply_string, reply_list)
+    tournament_set = set()
+    tournament_set.add(entry_dicts[0]["db_name"])
+    for row in entry_dicts:
+        formatted_line = ""
+        if row["db_name"] not in tournament_set:
+            formatted_line = make_tournament_section(row)
+            tournament_set.add(row["db_name"])
+        formatted_line += tournament_video_format.format(p1=row["player1"],
+                                                         p2=row["player2"],
+                                                         bracket=row["bracketproper"],
+                                                         video_id=row["video"]
+                                                         )
+        reply_string = add_line(formatted_line, reply_string, reply_list)
+                
+    reply_string = add_line(LINE, reply_string, reply_list)
+    return reply_string
+
+player_video_format = "[{bracket}](" + YOUTUBE_LINK + "{video_id})" + ENDL
+
+def build_player_reply(entry_dicts, reply_string, reply_list):
+    new_section = make_player_section()
+    reply_string = add_line(new_section, reply_string, reply_list)
+    tournament_set = set()
+    for row in entry_dicts:
+        formatted_line = ""
+        if row["db_name"] not in tournament_set:
+            #make a tournament heading
+            formatted_line += row["db_name"] + ":" + ENDL
+            tournament_set.add(row["db_name"])
+        formatted_line += player_video_format.format(bracket=row["bracketproper"],
+                                                     video_id=row["video"]
+                                                     )
+        reply_string = add_line(formatted_line, reply_string, reply_list)
+                
+    reply_string = add_line(LINE, reply_string, reply_list)
+    return reply_string
+
+def add_line(next_line, reply_string, reply_list):
+    if len(reply_string) + len(next_line) > max_reply_characters:
+        reply_string += continued + footer
+        reply_list.append(reply_string)
+        reply_string = next_line
+    else:
+        reply_string += next_line
+    return reply_string
 
 bracket_hierarchy = {}
 
-def make_section(entry_dicts):
-    return BOLD + section_format.format(player1=entry_dicts[0]["player1"],
-                                        player2=entry_dicts[0]["player2"]) + BOLD + ENDL
+one_player_format = "{0}:"
+two_player_format = "{0} vs. {1}:"
+def make_player_section(first_row, parsed):
+    if parsed["player1"] and parsed["player2"]:
+        return BOLD + two_player_format.format(first_row["player1"],
+                                               first_row["player2"]) + BOLD + ENDL
+    elif parsed["player1"]:
+        return BOLD + one_player_format.format(first_row["player1"]) + BOLD + ENDL
+    elif parsed["player2"]:
+        return BOLD + one_player_format.format(first_row["player2"]) + BOLD + ENDL
+    else:
+        #should not happen; TODO: consider raising exception
+        return None
+
+def make_tournament_section(row):
+    return BOLD + row["db_name"] + BOLD + ENDL
+    pass
 
 def to_list(entry_dicts):
     if isinstance(entry_dicts, list):
@@ -322,6 +317,13 @@ if __name__ == "__main__":
         except RequestException:
             #do logging
             continue
+        """
+        except Exception as e:
+            #Log e
+            print("Unknown Error")
+            print(e)
+            continue
+        """
 
     #testing
     """

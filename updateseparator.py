@@ -1,8 +1,3 @@
-'''
-Created on Feb 10, 2017
-
-@author: Andre
-'''
 from datetime import datetime
 
 

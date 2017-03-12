@@ -145,6 +145,7 @@ def create_query(entry):
             #combines all bracket selection into a single clause
             where.append("("+" OR ".join(["bracket={0}".format(bracket) for bracket in entry["bracket"].split(",")])+")")
     
+    print(request_template.format(" AND ".join(where)))
     return request_template.format(" AND ".join(where))
 
 #ugly but the best way I could find for a versatile date entry
@@ -200,10 +201,10 @@ def is_date(input):
 request_match = "\[\[(.+?)\]\]"
 request_regex = re.compile(request_match, re.IGNORECASE)
 
-get_brackets_query = "select bracket from brackets"
+get_brackets_query = "select bracketproper from brackets"
 brackets_set = set()
 for bracket in server_handler.make_db_request(get_brackets_query):
-    brackets_set.add(bracket["bracket"])
+    brackets_set.add(bracket["bracketproper"])
 
 def is_bracket(input):
     return input in brackets_set

@@ -1,4 +1,3 @@
-
 from __future__ import print_function
 import pymysql.cursors
 import re
@@ -78,21 +77,11 @@ def build_inserts(info,table):
                                              ))
     return updates
 
-
-
-
-
-
 """
 (player1 = PLAYER1 AND player2 = PLAYER2)
 OR
 (player1 = PLAYER2 AND player2 = PLAYER1)
 """
-
-
-update_names_template = "UPDATE {table} SET player1='{p1}',player2='{p2}' WHERE video='{video_id}'"
-
-
 
 additional_template = "{column} = '{value}'"
     
@@ -104,8 +93,6 @@ def build_request(info):
     for request in requests:
         results.append(make_db_request(request))
     return results
-
-
 
 def sanitize(entry):
     if type(entry) is dict:
@@ -163,39 +150,69 @@ def date_format(date):
     tournament_date = datetime.strptime(date, date_input_format)
     return quote(tournament_date.strftime(date_output_format))
 
-team_tag_pattern = "[^&]*['`:\|\.\-]"
+team_tag_pattern = "[^&]*?['`:\|\.\-]"
 #the tokens: ' ` : | . -
 team_tag_regex = re.compile(team_tag_pattern)
 
 def remove_teams(table):
     #Most channels with tournament videos use either the '[Team] | [Player Tag]' or '[Team].[Player Tag]' format
+    
+    update_names_template = ("UPDATE "+ table
+                             +" SET player1='{p1}',player2='{p2}' WHERE video='{video_id}'")
+    
     result = make_db_request("SELECT * FROM {0}".format(table))
+    team_tags = make_db_request("SELECT tag FROM team_tags")
+    for i in range(len(team_tags)):
+        team_tags[i] = re.compile(team_tags[i]["tag"]+"\s+",re.IGNORECASE)
+    
     count = 0
     for row in result:
-        player1 = sanitize(team_tag_regex.sub("",row["player1"]).strip())
-        player2 = sanitize(team_tag_regex.sub("",row["player2"]).strip())
-        update_request = update_names_template.format(table=table,
-                                                      p1=player1,
-                                                      p2=player2,
-                                                      video_id=row["video"]
-                                                      )
+        player1 = team_tag_regex.sub("",row["player1"])
+        player2 = team_tag_regex.sub("",row["player2"])
+        for tag in team_tags:
+            player1 = tag.sub("",player1)
+            player2 = tag.sub("",player2)
         if player1 != row["player1"] or player2 != row["player2"]:
+            #only apply update if a change will be made
             count += 1
             print(count)
-            #only apply update if a change will be made
+            update_request = update_names_template.format(p1=player1,
+                                                          p2=player2,
+                                                          video_id=row["video"]
+                                                          )
             add_update(update_request)
     stop_update()
 
-
-def remove_nonmajor():
-    nonmajor_query = """
-    DELETE FROM games
-    WHERE NOT EXISTS(SELECT *
-                    FROM tournaments t
-                    WHERE t.name = tournament)
-    """
-    make_update(nonmajor_query)
-
+def fix_alternate_names(table):
+    
+    update_names_template = ("UPDATE "+ table
+                             +" SET player1='{p1}',player2='{p2}' WHERE video='{video_id}'")
+    
+    result = make_db_request("SELECT * FROM " + table)
+    alt_names = make_db_request("SELECT * FROM alt_names")
+    alt_names_dict = dict()
+    for name in alt_names:
+        name_regex = re.compile(name["alt_tag"],re.IGNORECASE)
+        if name["proper_tag"] in alt_names_dict:
+            alt_names_dict[name["proper_tag"]].append(name_regex)
+        else: 
+            alt_names_dict[name["proper_tag"]] = [name_regex]
+    for row in result:
+        player1 = row["player1"]
+        player2 = row["player2"]
+        for alt_name in alt_names_dict.keys():
+            for name_regex in alt_names_dict[alt_name]:
+                player1 = name_regex.sub(alt_name, player1)
+                player2 = name_regex.sub(alt_name, player2)
+        if player1 != row["player1"] or player2 != row["player2"]:
+            update_request = update_names_template.format(p1=player1,
+                                                          p2=player2,
+                                                          video_id=row["video"]
+                                                          )
+            add_update(update_request)
+    stop_update()
+            
+    
 info_columns = ",".join(["{0}={1}".format(tournament_columns[i],"'{"+str(i)+"}'") for i in range(len(tournament_columns))])
 update_row_template = "UPDATE {table} SET {set} WHERE {where}".format(table=table_name,
                                                                       set=info_columns,
@@ -282,6 +299,34 @@ def create_brackets_table():
         for index, bracket in enumerate(proper_names):
             make_update(brackets_insert_query.format(sanitize(bracket), index))
             
+def create_alternate_names_table(source_file, table_name, alt_col_name, proper_col_name):
+    """
+    Creates a table of names in the database based on a source file. Used for situations
+    where users may use alternate names in searching things, i.e. LF for Loser's Finals or 
+    HBox for HungryBox, etc
+    
+    Source file must have the proper name on a line, with a preceding @ (@Hungrybox), and
+    the lines under it will be of the alternate names
+    """
+    with open(source_file,"r") as names:
+        make_update(
+        """CREATE TABLE IF NOT EXISTS 
+        {0} ({1} VARCHAR(50), {2} VARCHAR(50))""".format(table_name,
+                                                         alt_col_name,
+                                                         proper_col_name));
+        make_update("TRUNCATE "+ table_name)
+        names_insert_query = "INSERT INTO " + table_name + " VALUES('{0}','{1}');"
+        proper_name = ""
+        for name in names.read().split("\n"):
+            #skips empty lines
+            if not name:
+                continue
+            if name[0] == "@":
+                name = name[1:]
+                proper_name = sanitize(name)
+            make_update(names_insert_query.format(sanitize(name),proper_name))
+                
+            
 def create_bracketnames_table():
     """
     Creates the bracketnames table in the database.  This table holds all
@@ -301,6 +346,14 @@ def create_bracketnames_table():
                 bracket = bracket[1:]
                 proper_name = sanitize(bracket)
             make_update(bracketnames_insert_query.format(sanitize(bracket),proper_name))
+            
+def create_team_tags_table(tags_file):
+    with open(tags_file,"r") as team_tags:
+        make_update("CREATE TABLE IF NOT EXISTS team_tags (tag VARCHAR(10))")
+        make_update("TRUNCATE team_tags")
+        tag_insert_query = "INSERT INTO team_tags VALUES('{0}')"
+        for tag in team_tags.read().split("\n"):
+            make_update(tag_insert_query.format(tag))
 
 def case_sensitive(pattern):
     return re.IGNORECASE if len(pattern)!=2 else 0
@@ -417,7 +470,6 @@ def merge_tables(new_table,old_table):
         print(e)
 if __name__ == "__main__":
     #create_table()
-    #remove_teams()
     #update_tournament_table("tournament names.txt")
 
     #get_brackets()
@@ -427,5 +479,12 @@ if __name__ == "__main__":
     #create_bracketnames_table()
     #fix_brackets()
     
-    update_tables()
+    #update_tables()
+    
+    #create_team_tags_table("botdatabasebackup\\team_names.txt")
+    #remove_teams("games")
+    
+    #create_alternate_names_table("botdatabasebackup\\player_names.txt", "alt_names", "alt_tag","proper_tag")
+    fix_alternate_names("games")
+    
     pass

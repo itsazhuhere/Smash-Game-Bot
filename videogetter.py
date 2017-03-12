@@ -72,10 +72,6 @@ def get_search_options(channel = CHANNEL):
         search_options["playlistId"] = get_playlist_id(channel)
     return search_options.copy()
 
-
-
-
-
 def get_video_by_ids(video_ids):
     results = []
     video_ids_len = len(video_ids)
@@ -90,9 +86,6 @@ def get_video_by_ids(video_ids):
                                  
                                  
     return results
-
-
-
 
 def get_videos_by_channel(options, nextSearch, stop_id=""):
     new_options = options.copy()
