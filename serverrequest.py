@@ -37,7 +37,7 @@ NATURAL JOIN tournamentdates
 NATURAL JOIN bracketnames
 NATURAL JOIN brackets
 WHERE {0}
-ORDER BY ranking DESC""")
+ORDER BY date DESC, ranking DESC""")
 
 
 test_entries = [{"player1":"Armada",
@@ -99,8 +99,8 @@ def create_query(entry):
     Possible solution: 
     use MySQL variable assignment:
     
-    SELECT @p1 := `player_name` FROM games WHERE alt_name = {0}
-    SELECT @p2 := `player_name` FROM games WHERE alt_name = {1}
+    SELECT @p1 := 'player_name' FROM games WHERE alt_name = {0}
+    SELECT @p2 := 'player_name' FROM games WHERE alt_name = {1}
     where {0} and {1} will be assigned entry["player1"] and entry["player2"]
     
     Then use the literal strings "@p1" and "@p2" in the main select statement
@@ -114,6 +114,7 @@ def create_query(entry):
                      
     
     no_tournament = (entry["tournament"] == "LAST")
+    
     if type(entry["tournament"]) == list:
         #TODO: implement multiple tournament functionality
         pass
@@ -126,10 +127,12 @@ def create_query(entry):
         #rather than searching Smash 'n Splash 2. Default (no date) behavior gives the original tournament,
         #Smash 'n Splash 1 in this case
         where.append(create_dates(entry["date"]))
-    elif no_tournament:
+        
+    """ ###No longer needed
+        elif no_tournament:
         #adds an sql clause that limits search to the latest tournament
         where.append(latest_tournament)
-        
+    """
     
     if entry["bracket"] == "ALL":
         #do nothing here; database will return all brackets by default

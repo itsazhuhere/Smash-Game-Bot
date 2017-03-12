@@ -11,6 +11,8 @@ from time import sleep
 from prawcore.exceptions import RequestException
 from praw.exceptions import ClientException
 
+#if defaults are used, gives the latest n tournaments
+TOURNAMENT_COUNT = 1
 MAX_REQUESTS = 3
 CHARACTER_LIMIT = 10000
 BOT_NAME = config.praw_login["username"]
@@ -154,11 +156,14 @@ def build_reply(results, parsed_categories):
                 reply_string += entry_string
             continue
         entry_dicts = to_list(entry) #TODO: wrong place?
+        latest = parsed_categories[i]["tournament"] == "LAST"
         if (parsed_categories[i]["player1"] or 
             parsed_categories[i]["player2"]):
-            reply_string = build_player_reply(entry_dicts, reply_string, reply)
+            new_section = make_player_section(entry_dicts[0],parsed_categories[i])
+            reply_string = add_line(new_section, reply_string, reply)
+            reply_string = build_player_reply(entry_dicts, reply_string, reply, latest)
         else:
-            reply_string = build_tournament_reply(entry_dicts, reply_string, reply)
+            reply_string = build_tournament_reply(entry_dicts, reply_string, reply, latest)
     if reply_string:
         reply.append(reply_string + footer)
     #additionally add a footer to the message that gives info on the bot
@@ -183,7 +188,7 @@ def build_failure_reply(categories):
 tournament_video_format = ("[{p1} vs {p2} - {bracket}](" + 
                            YOUTUBE_LINK + "{video_id})" + ENDL)
 
-def build_tournament_reply(entry_dicts, reply_string, reply_list):
+def build_tournament_reply(entry_dicts, reply_string, reply_list, latest):
     new_section = make_tournament_section(entry_dicts[0])
     reply_string = add_line(new_section, reply_string, reply_list)
     tournament_set = set()
@@ -191,6 +196,8 @@ def build_tournament_reply(entry_dicts, reply_string, reply_list):
     for row in entry_dicts:
         formatted_line = ""
         if row["db_name"] not in tournament_set:
+            if latest and len(tournament_set) >= TOURNAMENT_COUNT:
+                break
             formatted_line = make_tournament_section(row)
             tournament_set.add(row["db_name"])
         formatted_line += tournament_video_format.format(p1=row["player1"],
@@ -205,13 +212,13 @@ def build_tournament_reply(entry_dicts, reply_string, reply_list):
 
 player_video_format = "[{bracket}](" + YOUTUBE_LINK + "{video_id})" + ENDL
 
-def build_player_reply(entry_dicts, reply_string, reply_list):
-    new_section = make_player_section()
-    reply_string = add_line(new_section, reply_string, reply_list)
+def build_player_reply(entry_dicts, reply_string, reply_list, latest):
     tournament_set = set()
     for row in entry_dicts:
         formatted_line = ""
         if row["db_name"] not in tournament_set:
+            if latest and len(tournament_set) >= TOURNAMENT_COUNT:
+                break
             #make a tournament heading
             formatted_line += row["db_name"] + ":" + ENDL
             tournament_set.add(row["db_name"])
