@@ -20,9 +20,6 @@ BOT_NAME = config.praw_login["username"]
 request_match = "\[\[(.+?)\]\]"
 request_regex = re.compile(request_match, re.IGNORECASE)
 
-player_split = "\s+vs\.?\s+"
-player_split_regex = re.compile(player_split, re.IGNORECASE)
-
 def search_messages(subreddit):
     #uses PRAW's Stream class, which will provide us the comments of the subreddit(s)
     #we have specified, as they become available (aka posted)

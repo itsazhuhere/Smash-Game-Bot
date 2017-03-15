@@ -219,7 +219,7 @@ request_dict_base = {"player1":"",
                      "date":""
                      }
 
-player_split = "\s+vs\.?\s+"
+player_split = "\s*vs\.?\s*"
 player_split_regex = re.compile(player_split, re.IGNORECASE)
 
 def determine_request(build_request):
