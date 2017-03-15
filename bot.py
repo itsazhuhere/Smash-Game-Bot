@@ -1,9 +1,6 @@
 
 import praw
 import re
-import serverset
-import titleparser
-import traceback
 import config
 from serverrequest import *
 from server_handler import make_db_request
@@ -142,9 +139,10 @@ def build_reply(results, parsed_categories):
         return build_failure_reply(parsed_categories[0]) + footer
     for i in range(len(results)):
         entry = results[i]
+        categories = parsed_categories[i]
         if not entry:
             entry_string = ""
-            entry_string = build_failure_reply(parsed_categories[i])
+            entry_string = build_failure_reply(categories)
             if len(reply_string) + len(entry_string) > max_reply_characters:
                 reply_string += continued + footer
                 reply.append(reply_string)
@@ -153,12 +151,19 @@ def build_reply(results, parsed_categories):
                 reply_string += entry_string
             continue
         entry_dicts = to_list(entry) #TODO: wrong place?
-        latest = parsed_categories[i]["tournament"] == "LAST"
-        if (parsed_categories[i]["player1"] or 
-            parsed_categories[i]["player2"]):
-            new_section = make_player_section(entry_dicts[0],parsed_categories[i])
+        latest = categories["tournament"] == "LAST"
+        if (categories["player1"] and 
+            categories["player2"]):
+            new_section = make_player_section(categories)
             reply_string = add_line(new_section, reply_string, reply)
             reply_string = build_player_reply(entry_dicts, reply_string, reply, latest)
+        elif (categories["player1"] or 
+              categories["player2"]):
+            if categories["player1"]:
+                player = categories["player1"]
+            else:
+                player = categories["player2"]
+            reply_string = build_single_player_reply(player, entry_dicts, reply_string, reply, latest)
         else:
             reply_string = build_tournament_reply(entry_dicts, reply_string, reply, latest)
     if reply_string:
@@ -207,9 +212,13 @@ def build_tournament_reply(entry_dicts, reply_string, reply_list, latest):
     reply_string = add_line(LINE, reply_string, reply_list)
     return reply_string
 
-player_video_format = "[{bracket}](" + YOUTUBE_LINK + "{video_id})" + ENDL
+two_player_link_format = ("[{bracket}](" +
+                       YOUTUBE_LINK + 
+                       "{video_id})" + 
+                       ENDL)
 
 def build_player_reply(entry_dicts, reply_string, reply_list, latest):
+    
     tournament_set = set()
     for row in entry_dicts:
         formatted_line = ""
@@ -219,9 +228,44 @@ def build_player_reply(entry_dicts, reply_string, reply_list, latest):
             #make a tournament heading
             formatted_line += row["db_name"] + ":" + ENDL
             tournament_set.add(row["db_name"])
-        formatted_line += player_video_format.format(bracket=row["bracketproper"],
+        formatted_line += two_player_link_format.format(bracket=row["bracketproper"],
                                                      video_id=row["video"]
                                                      )
+        reply_string = add_line(formatted_line, reply_string, reply_list)
+                
+    reply_string = add_line(LINE, reply_string, reply_list)
+    return reply_string
+
+single_player_link_format = ("[vs {player} - {bracket}](" + 
+                            YOUTUBE_LINK + 
+                            "{video_id})" + 
+                            ENDL)
+
+def build_single_player_reply(player, entry_dicts, reply_string, reply_list, latest):
+    if player.lower() == entry_dicts[0]["player1"].lower():
+        player = entry_dicts[0]["player1"]
+    else:
+        player = entry_dicts[0]["player2"]
+    new_section = make_single_player_section(player)
+    reply_string = add_line(new_section, reply_string, reply_list)
+    tournament_set = set()
+    for row in entry_dicts:
+        formatted_line = ""
+        if row["db_name"] not in tournament_set:
+            if latest and len(tournament_set) >= TOURNAMENT_COUNT:
+                break
+            #make a tournament heading
+            formatted_line += row["db_name"] + ":" + ENDL
+            tournament_set.add(row["db_name"])
+        versus = ""
+        if player == row["player1"]:
+            versus = row["player2"]
+        else:
+            versus = row["player1"]
+        formatted_line += single_player_link_format.format(bracket=row["bracketproper"],
+                                                           video_id=row["video"],
+                                                           player=versus
+                                                           )
         reply_string = add_line(formatted_line, reply_string, reply_list)
                 
     reply_string = add_line(LINE, reply_string, reply_list)
@@ -240,17 +284,13 @@ bracket_hierarchy = {}
 
 one_player_format = "{0}:"
 two_player_format = "{0} vs. {1}:"
-def make_player_section(first_row, parsed):
-    if parsed["player1"] and parsed["player2"]:
-        return BOLD + two_player_format.format(first_row["player1"],
-                                               first_row["player2"]) + BOLD + ENDL
-    elif parsed["player1"]:
-        return BOLD + one_player_format.format(first_row["player1"]) + BOLD + ENDL
-    elif parsed["player2"]:
-        return BOLD + one_player_format.format(first_row["player2"]) + BOLD + ENDL
-    else:
-        #should not happen; TODO: consider raising exception
-        return None
+def make_player_section(parsed):
+    return BOLD + two_player_format.format(parsed["player1"],
+                                            parsed["player2"]) + BOLD + ENDL
+                                            
+def make_single_player_section(player):
+    return BOLD + one_player_format.format(player) + BOLD + ENDL
+
 
 def make_tournament_section(row):
     return BOLD + row["db_name"] + BOLD + ENDL
@@ -265,52 +305,6 @@ def main():
     reddit = praw.Reddit(**config.praw_login)
     subreddit = reddit.subreddit(config.subreddit_name)
     search_messages(subreddit)
-    
-
-test_results = [[{"tournament":"The Big House 5",
-                  "bracket":"Pools",
-                  "player1":"HBox",
-                  "player2":"Mew2King",
-                  "video":"7XyGIF9EoPM"
-                  },
-                 {"tournament":"The Big House 5",
-                  "bracket":"Winners Semis",
-                  "player1":"HBox",
-                  "player2":"Mew2King",
-                  "video":"TU8f7U0Y4MY"
-                  } ,
-                 {"tournament":"The Big House 5",
-                  "bracket":"Winners ",
-                  "player1":"HBox",
-                  "player2":"Mew2King",
-                  "video":"7XyGIF9EoPM"
-                  },
-                 {"tournament":"The Big House 5",
-                  "bracket":"Pools",
-                  "player1":"HBox",
-                  "player2":"Mew2King",
-                  "video":"7XyGIF9EoPM"
-                  }
-                 ], 
-                [{"tournament":"The Big House 5",
-                  "bracket":"Winners Finals",
-                  "player1":"Leffen",
-                  "player2":"PPMD",
-                  "video":"Gv74JXJBFwk"
-                  },
-                 {"tournament":"The Big House 5",
-                  "bracket":"Grand Finals",
-                  "player1":"Leffen",
-                  "player2":"Mew2King",
-                  "video":"Gv74JXJBFwk"
-                  }]]
-                
-test_messages = ["",
-                 "[[duck vs colbol, 2010-08-01-2016-12-31, genesis]]",
-                 "asdf"
-                 
-                 
-                 ]
 
 if __name__ == "__main__":
     #main bot loop 

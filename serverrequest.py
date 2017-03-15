@@ -5,7 +5,7 @@ Created on Dec 13, 2016
 '''
 
 import re
-import server_handler
+from server_handler import make_db_request
 
 #flags used to indicate how to format the date user input
 START = 0
@@ -206,7 +206,7 @@ request_regex = re.compile(request_match, re.IGNORECASE)
 
 get_brackets_query = "select bracketproper from brackets"
 brackets_set = set()
-for bracket in server_handler.make_db_request(get_brackets_query):
+for bracket in make_db_request(get_brackets_query):
     brackets_set.add(bracket["bracketproper"])
 
 def is_bracket(input):
@@ -232,8 +232,8 @@ def determine_request(build_request):
         #regardless, must contain 'vs'
         players = request_params.pop(0)
         players = player_split_regex.split(players)
-        request_dict["player1"] = players[0].strip()
-        request_dict["player2"] = players[1].strip()
+        request_dict["player1"] = set_alt(players[0].strip())
+        request_dict["player2"] = set_alt(players[1].strip())
         if request_params:
             #do more parsing based on arguments provided
             #if no additional arguments, defaults will be used
@@ -261,6 +261,20 @@ def determine_request(build_request):
         
         
     return request_dict
+
+player_alt_request = """
+SELECT * FROM alt_names
+"""
+
+player_alt_results = make_db_request(player_alt_request)
+player_alts = dict()
+for result in player_alt_results:
+    player_alts[result["alt_tag"].lower()] = result["proper_tag"]
+    
+def set_alt(player):
+    if player.lower() in player_alts.keys():
+        return player_alts[player]
+    return player
     
 def build_request(info):
     requests = []
