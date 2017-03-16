@@ -17,7 +17,7 @@ class TitleParser:
     keys = ["tourny","chars1","tag1","chars2","tag2","round","game"]
     games = {"Melee": ["SSBM"],
              "Smash 4" : ["Wii U","Sm4sh","SSB4"],
-             "Smash 64" : ["SSB64"]
+             "Smash 64" : ["SSB64","SS64"]
              }
     
     def __init__(self):
@@ -165,5 +165,5 @@ if __name__ == "__main__":
                              restrictions=dict())
     """
     
-    add_new_videos(DIRECTORY, True)
+    add_new_videos(DIRECTORY, False)
     

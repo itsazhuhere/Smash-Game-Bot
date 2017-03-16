@@ -452,6 +452,7 @@ def update_tables():
     titleparser.add_new_videos(titleparser.DIRECTORY, True)
     fix_brackets("new_games")
     remove_teams("new_games")
+    fix_alternate_names("new_games")
     merge_tables("new_games","games")
     make_update("TRUNCATE new_games")
     videogetter.concat_all_new_files()
@@ -459,7 +460,8 @@ def update_tables():
 
 merge_tables_template = """
 INSERT INTO {0}
-SELECT * FROM {1}
+SELECT * FROM {1} n WHERE n.video NOT IN
+(SELECT video FROM {0} WHERE video IS NOT NULL)
 """
 
 def merge_tables(new_table,old_table):
@@ -477,14 +479,14 @@ if __name__ == "__main__":
     #add_column("games", "bracketvalue BIT")
     #create_brackets_table()
     #create_bracketnames_table()
-    #fix_brackets()
+    #fix_brackets("new_games")
     
-    #update_tables()
+    update_tables()
     
     #create_team_tags_table("botdatabasebackup\\team_names.txt")
     #remove_teams("games")
     
     #create_alternate_names_table("botdatabasebackup\\player_names.txt", "alt_names", "alt_tag","proper_tag")
-    fix_alternate_names("games")
+    #fix_alternate_names("games")
     
     pass

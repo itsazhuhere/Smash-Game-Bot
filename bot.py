@@ -287,10 +287,9 @@ two_player_format = "{0} vs. {1}:"
 def make_player_section(parsed):
     return BOLD + two_player_format.format(parsed["player1"],
                                             parsed["player2"]) + BOLD + ENDL
-                                            
+
 def make_single_player_section(player):
     return BOLD + one_player_format.format(player) + BOLD + ENDL
-
 
 def make_tournament_section(row):
     return BOLD + row["db_name"] + BOLD + ENDL

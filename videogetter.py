@@ -215,9 +215,8 @@ def update_files():
         
     
 def concat_files(new_file_path, old_file_path):
-    with open(new_file_path,"w") as new_file:
-        with open(old_file_path, "a+") as old_file:
-            old_file.seek(0)
+    with open(new_file_path,"a") as new_file:
+        with open(old_file_path, "r") as old_file:
             new_file.write(old_file.read())
     os.remove(old_file_path)
     os.rename(new_file_path,old_file_path)
