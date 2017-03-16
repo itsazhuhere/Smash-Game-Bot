@@ -1,3 +1,2236 @@
+Tournament Name: Project M 
+Player 1: Nyani  (Ivysaur)
+Player 2: Phire  (Roy)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: DVD  (Toon Link)
+Player 2: The Man in Gauze  (Link)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Counter  (Roy)
+Player 2: Switch  (Charizard)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Sans  (Ganondorf)
+Player 2: GudBJ  (Bowser)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Dusty  (Marth)
+Player 2: Aidan  (Zero Suit Samus)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Dusty  (Marth)
+Player 2: Quaza  (Ike)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Fedrias  (Squirtle)
+Player 2: Quaza  (Ike)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Dusty  (Marth)
+Player 2: Aidan  (Zero Suit Samus)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Vari  (Mario)
+Player 2: Fedrias  (Squirtle)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Chibo  (Samus)
+Player 2: Quaza  (Ike)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Chibo  (King Dedede/Samus)
+Player 2: Woody  (Ness)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Dusty  (Marth)
+Player 2: Vari  (Mario)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Dotcom  (Olimar)
+Player 2: Aidan  (Zero Suit Samus)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Vari  (Mario)
+Player 2: Quaza  (Ike)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Fedrias  (Squirtle)
+Player 2: Dotcom  (Olimar)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Dusty  (Ness)
+Player 2: Woody  (Ness)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Maximum Leech  (Roy)
+Player 2: Aidan  (Zero Suit Samus)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Dotcom  (Olimar)
+Player 2: Steller  (Samus)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Chibo  (Samus)
+Player 2: Maximum Leech  (Roy)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: 10TC  (Mr. Game and Watch)
+Player 2: Woody  (Ness)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: DVD  (Toon Link)
+Player 2: Zubat  (Yoshi)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Aidan  (Zero Suit Samus)
+Player 2: Zubat  (Yoshi)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Tunechi  (Snake)
+Player 2: Zubat  (Luigi)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Tunechi  (Snake)
+Player 2: BStuck  (ROB)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: DVD  (Toon Link)
+Player 2: Aidan  (Zero Suit Samus)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: BStuck  (ROB)
+Player 2: Aidan  (Zero Suit Samus)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Zubat  (Luigi)
+Player 2: DVD  (Toon Link)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Dusty  (Marth)
+Player 2: Aidan  (ZSS)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Capitulize  (Pikachu)
+Player 2: Zubat  (Luigi)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: DVD  (Toon Link)
+Player 2: Tunechi  (Snake)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Kingtoon  (Charizard)
+Player 2: BStuck  (ROB)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Vari  (Mario)
+Player 2: Zubat  (Luigi)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Dusty  (Marth)
+Player 2: Hondo  (Fox)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Chibo  (Samus)
+Player 2: BStuck  (ROB)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Kingtoon  (Charizard)
+Player 2: Quaza  (ZSS/Ike)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Wolftree  (Wolf)
+Player 2: Aidan  (ZSS)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: DVD  (Toon Link)
+Player 2: Cogzilla  (Snake)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Chibo  (King Dedede)
+Player 2: Stellar  (Samus)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Kingtoon  (Charizard)
+Player 2: Captain Von Weasel  (Mr. Game and Watch)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Aidan  (ZSS)
+Player 2: Zidax  (Marth)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: DVD & Aidan  (Toon Link/ZSS)
+Player 2: Zubat & Nevergreen  (Luigi/Falcon)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Dusty & Kingtoon  (Marth/Zard)
+Player 2: Zubat & Nevergreen  (Luigi/Falcon)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Dusty & Kingtoon  (Marth/Charizard)
+Player 2: Hondo & Bstuck  (ROB/Fox)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Switch  (Wolf)
+Player 2: Gallo  (Mario)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Switch  (Wolf)
+Player 2: Aidan  (ZSS)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Switch  (Wolf)
+Player 2: StereoKiDD  (Ness)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Gallo  (Mario)
+Player 2: Aidan  (ZSS)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Switch  (Wolf)
+Player 2: Malachi  (Peach)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Yung Quaff  (Meta Knight)
+Player 2: StereoKiDD  (Ness)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Envy  (Ike/Fox/Diddy)
+Player 2: Malachi  (Sheik)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Aidan  (ZSS)
+Player 2: StereoKiDD  (Ness)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Switch  (Wolf)
+Player 2: Gallo  (Mario)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Malachi  (Sheik/Peach)
+Player 2: Aidan  (ZSS)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Envy  (Ike)
+Player 2: StereoKiDD  (Ness)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Yung Quaff  (Meta Knight)
+Player 2: Gallo  (Mario)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Switch  (Wolf)
+Player 2: Tunechi  (Snake)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: GP  (Fox)
+Player 2: Envy  (Ike)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Aidan  (ZSS)
+Player 2: Twisty  (Wario)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Keychain  (Wario)
+Player 2: Aidan  (ZSS)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Cheesecake  (Sheik)
+Player 2: Switch  (Wolf)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Chibo  (Samus)
+Player 2: Sans  (Ganondorf)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Prime  (Mario)
+Player 2: Swoosh  (Ness)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Envy & DVD  (Toon Link/Ike)
+Player 2: Switch & Gallo  (Wolf/Mario)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Boiko & GP  (Ness/Fox)
+Player 2: Switch & Gallo  (Wolf/Mario)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Boiko & GP  (Ness/Fox)
+Player 2: Yung Quaff & Twisty  (Meta Knight/Wario)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: DVD & Envy  (Toon Link/Ike)
+Player 2: Switch & Gallo  (Wolf/Mario)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: DVD & Envy  (Toon Link/Diddy)
+Player 2: Yung Quaff & Twisty  (Wario/MK)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Switch & Gallo  (Wolf/Mario)
+Player 2: Boiko & GP  (Fox/Meta Knight)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Narq & StereoKiDD  (Lucas/Ness)
+Player 2: Yung Quaff & Twisty  (Wario/MK)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: CruzyCakes & Vino  (Fox/Sonic)
+Player 2: Switch & Gallo  (Wolf/Mario)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Robfox & SlimStacey  (Bowser/MK)
+Player 2: Keychain & Royals  (DDD/Sheik)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Vari  (Mario)
+Player 2: Emukiller  (Mewtwo)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Vari  (Fox)
+Player 2: Panties  (Pit)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Chibo  (Samus)
+Player 2: Panties  (Captain Falcon)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Nevergreen  (Captain Falcon)
+Player 2: Panties  (Captain Falcon)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Chibo  (Samus)
+Player 2: Woody  (Ness)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Vari  (Mario)
+Player 2: Emukiller  (Mewtwo)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Vari  (Mario)
+Player 2: Woody  (Ness)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Emukiller  (Meta Knight)
+Player 2: Panties  (Pit)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Vari  (Mario)
+Player 2: GudBJ  (Bowser)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Chibo  (Samus)
+Player 2: Panties  (Captain Falcon)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Woody  (Ness)
+Player 2: Nevergreen  (Captain Falcon)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Vari  (Diddy Kong)
+Player 2: Cheese  (Marth)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Chibo  (Samus)
+Player 2: Shrub  (Zelda)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Aidan  (Zero Suit Samus)
+Player 2: Panties  (Captain Falcon)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Chibo  (Samus)
+Player 2: Panties  (Captain Falcon)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Spaceman  (Captain Falcon)
+Player 2: Panties  (Captain Falcon)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Chibo  (Ganondorf)
+Player 2: Aidan  (Ganondorf)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Chibo  (Samus)
+Player 2: Sans  (Ganondorf)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Chibo  (Samus)
+Player 2: Baked  (Ike)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Nyani  (Ivysaur)
+Player 2: Aidan  (Zero Suit Samus)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Panties  (Captain Falcon)
+Player 2: Aidan  (Zero Suit Samus)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: 10TC  (Mr. Game and Watch)
+Player 2: Nyani  (Ivysaur)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Aidan  (ZSS)
+Player 2: Fedrias  (Squirtle)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Chibo  (Samus)
+Player 2: Fedrias  (Squirtle)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Chibo  (Samus)
+Player 2: Phire  (Roy)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Aidan  (Marth/ZSS)
+Player 2: Fedrias  (Squirtle)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Chibo  (Samus)
+Player 2: Woody  (Ness)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Vari  (Fox)
+Player 2: Phire  (Roy)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Woody  (Ness)
+Player 2: Fedrias  (Squirtle)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Aidan  (ZSS)
+Player 2: Phire  (Roy)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Woody  (Ness)
+Player 2: GudBJ  (Bowser)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Phire  (Roy)
+Player 2: Chibo  (Samus)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Dusty  (Falcon)
+Player 2: Aidan  (Marth)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Dusty  (Marth)
+Player 2: Tunechi  (Snake)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Griffith  (Fox)
+Player 2: Tunechi  (Snake)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Dusty  (Falcon/Roy)
+Player 2: Aidan  (Marth)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Dusty  (Marth)
+Player 2: Tunechi  (Snake)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Griffith  (Fox)
+Player 2: Aidan  (Marth)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Tunechi  (Snake)
+Player 2: Vari  (Mario/Falco)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Dotcom  (Olimar/Wario)
+Player 2: Griffith  (Fox)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Aidan  (Marth)
+Player 2: GudBJ  (Bowser)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Woody  (Ness)
+Player 2: Phire  (Roy)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: GudBJ  (Bowser)
+Player 2: Chibo  (Samus)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Smash 4 Wii U 
+Player 1: Spirunk  (Yoshi)
+Player 2: Vash  (Lucina/Marth)
+Bracket: None
+Game: Smash 4
+-------------
+
+Tournament Name: Smash 4 Wii U 
+Player 1: Sparky  (Charizard/Pikachu)
+Player 2: Vash  (Marth)
+Bracket: None
+Game: Smash 4
+-------------
+
+Tournament Name: Smash 4 Wii U 
+Player 1: Sparky  (Charizard)
+Player 2: Jtart  (Ryu/Fox)
+Bracket: None
+Game: Smash 4
+-------------
+
+Tournament Name: Smash 4 Wii U 
+Player 1: Vash  (Marth)
+Player 2: Spirunk  (Yoshi)
+Bracket: None
+Game: Smash 4
+-------------
+
+Tournament Name: Smash 4 Wii U 
+Player 1: Vash  (Marth)
+Player 2: Sparky  (Pikachu)
+Bracket: None
+Game: Smash 4
+-------------
+
+Tournament Name: Smash 4 Wii U 
+Player 1: Chibo  (Mii Gunner)
+Player 2: Spirunk  (Yoshi)
+Bracket: None
+Game: Smash 4
+-------------
+
+Tournament Name: Smash 4 Wii U 
+Player 1: Chibo  (Mii Gunner)
+Player 2: Bhee  (Roy/Fox)
+Bracket: None
+Game: Smash 4
+-------------
+
+Tournament Name: Project M 
+Player 1: Emukiller  (Meta Knight)
+Player 2: DVD  (Toon Link)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Emukiller  (Meta Knight)
+Player 2: Jason Waterfalls  (ZSS)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Emukiller  (Meta Knight)
+Player 2: Aion  (Sonic)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Emukiller  (Meta Knight)
+Player 2: Envy  (Ike)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Emukiller  (Meta Knight)
+Player 2: Aidan  (ZSS)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: DVD  (Toon Link)
+Player 2: Jason Waterfalls  (ZSS)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Envy  (Ike)
+Player 2: Jason Waterfalls  (ZSS)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Professor Pro  (Snake)
+Player 2: DVD  (Toon Link)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Envy  (Ike)
+Player 2: BaconPancakes  (Diddy)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: DVD  (Toon Link)
+Player 2: Aidan  (ZSS)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Switch  (Wolf)
+Player 2: Professor Pro  (Snake)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Dusty  (Marth)
+Player 2: Jason Waterfalls  (ZSS)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Envy  (Ike)
+Player 2: Lucky  (Fox)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Dotcom  (Olimar)
+Player 2: Professor Pro  (Snake)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Venom  (Cpt Falcon)
+Player 2: Aidan  (ZSS)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Tealz  (Meta Knight)
+Player 2: BaconPancakes  (Diddy)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Jason Waterfalls  (ZSS)
+Player 2: Kingtoon  (Charizard)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Venom  (Falcon)
+Player 2: Deff  (Bowser)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Aion  (Sonic)
+Player 2: GL  (Meta Knight)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: BaconPancakes  (Diddy)
+Player 2: Gio  (ZSS)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Salem  (Ganondorf/Zelda)
+Player 2: Emukiller  (Meta Knight)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Odds  (Sonic)
+Player 2: Quaza  (Ike)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Reno  (Ike/Fox)
+Player 2: Stango  (Meta Knight)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Vari  (Mario)
+Player 2: Kingtoon  (Charizard)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Aidan  (ZSS)
+Player 2: Alcapwned  (Sheik)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Maximum Leech  (Roy)
+Player 2: Kingtoon  (Charizard)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Phillyrider  (Sheik)
+Player 2: Tunechi  (Snake)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Project M 
+Player 1: Salem  (Zelda/Ganondorf)
+Player 2: Woody  (Ness)
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Venom  (Captain Falcon)
+Player 2: StereoKiDD  (Ness)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: ThundeRzReiGN  (Donkey Kong)
+Player 2: Switch  (Wolf)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Dirtboy  (Squirtle)
+Player 2: DVD  (Toon Link)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Zhime  (Zelda)
+Player 2: Sosa  (Wario)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Kycse  (Charizard)
+Player 2: Anther  (Pikachu)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: DVD  (Toon Link)
+Player 2: Aidan  (Zero Suit Samus)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Switch  (Wolf)
+Player 2: Jason Waterfalls  (Zero Suit Samus)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Strong Bad  (Wario)
+Player 2: Flipp  (Snake)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: DVD  (Toon Link)
+Player 2: Drephen  (Sheik)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Aion  (Sonic)
+Player 2: Envy  (Ike)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: StrongBad  (Wario)
+Player 2: SonED  (Cpt Falcon)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Silver + Darc  None
+Player 2: Dakpo + Lunchables - PM Winners Semis  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Junebug + Malachi  None
+Player 2: Sosa + Jose V - PM Winners Semis  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Junebug + Malachi  None
+Player 2: Envy + DVD - PM Winners  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Silver + Darc  None
+Player 2: Flipp + Kycse - PM Winners  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Sosa + Jose V  None
+Player 2: burntsocks + Sneez - PM Winners  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Sosa + Jose V  None
+Player 2: DJ Nintendo + Luck - PM Winners  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Sylarius + Odds  None
+Player 2: Aero + Venom - PM Winners  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: ThundeRzReiGN + XYK  None
+Player 2: DJ Nintendo + Luck - PM Winners  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Lunchables + Dakpo  None
+Player 2: Gooley + Mr. Watch & Learn - PM Winners  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: BaconPancakes + Goode  None
+Player 2: Tr0y + American Bowser - PM Winners  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Lucky + Professor Pro  None
+Player 2: Vari + Wax - PM Winners  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Darc + Silver  None
+Player 2: Satoshi + SonED - PM Winners  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Jaden + Darkblues  None
+Player 2: Nevergreen + Tacocat - PM Winners  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Twisty  (Wario)
+Player 2: Jose V  (Ness)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Jaden  (Zelda)
+Player 2: Redd  (Fox)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Aidan  (Zero Suit Samus)
+Player 2: Aero  (Diddy Kong)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: StereoKiDD  (Ness)
+Player 2: burntsocks  (Yoshi)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Odds  (Bowser)
+Player 2: Shiny Zubat  (Yoshi)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Anther  (Pikachu)
+Player 2: Aion  (Sonic)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Tealz  (Meta Knight)
+Player 2: Gallo  (Mario)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Jason Waterfalls  (Zero Suit Samus)
+Player 2: Aki  (Ness)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Venom  (Captain Falcon)
+Player 2: Milkman  (Fox)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Envy  (Ike)
+Player 2: Filthy Casual  (Captain Falcon)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Emukiller  (Mewtwo)
+Player 2: Stoks  (Mario)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: GuruKid  (Wario)
+Player 2: BaconPancakes  (Fox)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Gooley  (Sonic)
+Player 2: Darc  (Captain Falcon / Samus)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Sylarius  (Ike)
+Player 2: Luck  (Diddy Kong)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Lucky  (Fox)
+Player 2: Switch  (Wolf)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: DVD  (Toon Link)
+Player 2: Reslived  (Ness)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Kycse  (Charizard)
+Player 2: Strong Bad  (Wario)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Dirtboy  (Squirtle)
+Player 2: Dusty  (Marth)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Professor Pro  (Snake)
+Player 2: XYK  (Luigi)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: ThundeRzReiGN  (Captain Falcon)
+Player 2: Mr. Watch & Learn  (GaW)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: SonED  (Captain Falcon)
+Player 2: Malachi  (Peach)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: MorKs  (Wario)
+Player 2: Flipp  (Snake)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Hyperflame  (Lucas)
+Player 2: Fearless  (Lucario)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Junebug  (Diddy Kong)
+Player 2: Flarp  (Luigi)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Lunchables  (Marth)
+Player 2: Sneez  (ROB)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Sosa  (Wario)
+Player 2: Dotcom  (Olimar)
+Bracket: PM Pools 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Salem  (ZSS)
+Player 2: V115  (ZSS)
+Bracket: SSBB Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Salem  (Zero Suit Samus)
+Player 2: MikeRay  (Snake)
+Bracket: SSBB Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: MikeRay  (Snake)
+Player 2: Chibo  (ROB)
+Bracket: SSBB Losers Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: V115  (ZSS)
+Player 2: Salem  (ZSS)
+Bracket: SSBB Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: MikeRay  (Snake)
+Player 2: Hinkage  (Kirby)
+Bracket: SSBB Losers Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Chibo  (ROB)
+Player 2: Vincessant  (Falco)
+Bracket: SSBB Losers Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Hinkage  (Meta Knight)
+Player 2: Figy  (Snake)
+Bracket: SSBB Losers Top 8 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Ish  (Wolf)
+Player 2: Vincessant  (Falco)
+Bracket: SSBB Losers Top 8 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Salem  (Zero Suit Samus)
+Player 2: MikeRay  (Snake)
+Bracket: SSBB Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: V115  (Zero Suit Samus)
+Player 2: Chibo  (ROB)
+Bracket: SSBB Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Ish  (Wolf)
+Player 2: MikeRay  (Snake)
+Bracket: SSBB Winners 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Chibo  (ROB)
+Player 2: Hinkage  (Meta Knight / Snake)
+Bracket: SSBB Winners 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Salem  (Zero Suit Samus)
+Player 2: Vincessant  (Falco)
+Bracket: SSBB Winners 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: MikeRay  (Snake)
+Player 2: Mugutu  (Falco)
+Bracket: SSBB Winners 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Chibo  (ROB)
+Player 2: Ish  (Wolf)
+Bracket: SSBB Mid Tiers Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Chibo  (ROB)
+Player 2: Salem  (Ganon / Zelda)
+Bracket: SSBB Mid Tiers Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Chibo  (ROB)
+Player 2: V115  (Ness)
+Bracket: SSBB Mid Tiers Losers Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Salem  (Ganondorf)
+Player 2: Ish  (Wolf)
+Bracket: SSBB Mid Tiers Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Ish  (Wolf)
+Player 2: V115  (Ness)
+Bracket: SSBB Mid Tiers Winners 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Chibo  (ROB)
+Player 2: Salem  (Ganondorf)
+Bracket: SSBB Mid Tiers Winners 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Ish  (Wolf)
+Player 2: Jedisquid  (ROB)
+Bracket: SSBB Mid Tiers Winners 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Figy  (Captain Falcon)
+Player 2: V115  (Ness)
+Bracket: SSBB Mid Tiers Winners 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Salem  (Ganondorf)
+Player 2: Low Tier Hero  (Mario)
+Bracket: SSBB Mid Tiers Winners 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Chibo  (ROB)
+Player 2: Immortal Corrupter 82  (ROB)
+Bracket: SSBB Mid Tiers Winners 
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: MikeRay + Hinkage  None
+Player 2: Ish + Eazy - SSBB  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Salem + Vincessant  None
+Player 2: V115 + Pidgezero_one - SSBB  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: MikeRay + Hinkage  None
+Player 2: V115 + Pidgezero_one - SSBB  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: Ish + Eazy  None
+Player 2: Salem + Vincessant - SSBB  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: MikeRay + Hinkage  None
+Player 2: Salem + Vincessant - SSBB  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Revival of Brawl 
+Player 1: V115 + Pidgezero_one  None
+Player 2: Ish + Eazy - SSBB  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Lucky + Reno  None
+Player 2: Druggedfox + Slox - SSBM Grand Finals  None
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: DJ Nintendo + The Moon  None
+Player 2: Druggedfox + Slox - SSBM Losers Finals  None
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Druggedfox + Slox  None
+Player 2: Professor Pro + Mike Haze - SSBM Losers Semis  None
+Bracket: None
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: 6WX + Tweek  None
+Player 2: Hames + The Great Gonzales - SSB4 Grand Finals  None
+Bracket: None
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: James + The Great Gonzales  None
+Player 2: Anti + Larry Lurr - SSB4 Losers Finals  None
+Bracket: None
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Salem + Fatality  None
+Player 2: James + The Great Gonzales - SSB4 Losers Semis  None
+Bracket: None
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Larry Lurr + Anti  None
+Player 2: 6WX + Tweek - SSB4 Winners Finals  None
+Bracket: None
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: K9 + Dakpo  None
+Player 2: Salem + Fatality - SSB4 Losers  None
+Bracket: None
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: K9 + Dakpo  None
+Player 2: Angel Cortes + Nurse Debby - SSB4 Losers  None
+Bracket: None
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: The Moon  (Marth)
+Player 2: Hugs  (Samus)
+Bracket: SSBM Winners 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Dizzkidboogie  (Ice Climbers)
+Player 2: Professor Pro  (Fox)
+Bracket: SSBM Winners 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Lucky  (Fox)
+Player 2: Slox  (Fox)
+Bracket: SSBM Winners 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Druggedfox  (Fox)
+Player 2: MikeHaze  (Fox)
+Bracket: SSBM Winners 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Redd  (Fox)
+Player 2: The Moon  (Marth)
+Bracket: SSBM Winners 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Lucky  (Fox)
+Player 2: Jaden  (Sheik)
+Bracket: SSBM Winners 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: DJ Nintendo  (Pikachu)
+Player 2: MikeHaze  (Fox)
+Bracket: SSBM Winners 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: K9  (Sheik)
+Player 2: Frozen  (Corrin)
+Bracket: SSB4 Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Fatality  (Captain Falcon)
+Player 2: Zoan  (Mewtwo)
+Bracket: SSB4 Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Angel Cortez  (Diddy Kong)
+Player 2: Larry Lurr  (Fox)
+Bracket: SSB4 Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: 6WX  (Sonic)
+Player 2: Salem  (Bayonetta)
+Bracket: SSB4 Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Fatality  (Captain Falcon)
+Player 2: Tweek  (Cloud)
+Bracket: SSB4 Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: 6WX  (Sonic)
+Player 2: Frozen  (Mewtwo)
+Bracket: SSB4 Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Angel Cortez  (Diddy Kong)
+Player 2: Zoan  (Mewtwo)
+Bracket: SSB4 Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Larry Lurr  (Fox)
+Player 2: SmashGod  (Kirby)
+Bracket: SSB4 Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Bryce  (King Dedede)
+Player 2: Fatality  (Captain Falcon)
+Bracket: SSB4 Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: K9  (Sheik)
+Player 2: James  (Diddy Kong)
+Bracket: SSB4 Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Dyla81  (Ryu)
+Player 2: Vash  (Marth)
+Bracket: SSB4 Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Vash  (Marth)
+Player 2: Dakpo  (Zero Suit Samus)
+Bracket: SSB4 Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Tweek  (Cloud)
+Player 2: Jakal  (Sonic)
+Bracket: SSB4 Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Drephen  (Sheik)
+Player 2: Wenbobular  (Fox)
+Bracket: SSBM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Professor Pro  (Fox)
+Player 2: beejdanger  (Jigglypuff)
+Bracket: SSBM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Druggedfox  (Fox)
+Player 2: JoePagano  (Sheik)
+Bracket: SSBM Winners 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Redd  (Fox)
+Player 2: Atomsk  (Jigglypuff)
+Bracket: SSBM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Darc  (Jigglypuff)
+Player 2: Milkman  (Fox)
+Bracket: SSBM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Slox  (Fox)
+Player 2: Twisty  (Jigglypuff)
+Bracket: SSBM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: The Moon  (Marth)
+Player 2: Bubbles  (Cpt Falcon)
+Bracket: SSBM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: SmashG0D  (Fox)
+Player 2: CIZ  (Marth)
+Bracket: SSBM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Hugs  (Samus)
+Player 2: Kunai  (Dr. Mario)
+Bracket: SSBM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Hugs  (Samus)
+Player 2: KD8  (Falco)
+Bracket: SSBM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: G$  (Marth)
+Player 2: Playtowingamer  (Peach)
+Bracket: SSBM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Mar  (Fox)
+Player 2: Jaden  (Peach)
+Bracket: SSBM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Sand  (Fox)
+Player 2: Kunai  (Dr. Mario)
+Bracket: SSBM Pools 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Lunchables + Dakpo  None
+Player 2: Silver + Darc - PM Grand Finals  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Junebug + Malachi  None
+Player 2: Silver + Darc - PM Losers Finals  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Lunchables + Dakpo  None
+Player 2: Junebug + Malachi - PM Winners Finals  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Silver + Darc  None
+Player 2: Jose V + Sosa - PM Losers Semis  None
+Bracket: None
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Malachi  (Peach/Sheik)
+Player 2: Professor Pro  (Snake/Fox)
+Bracket: PM Losers 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Envy  (Ike)
+Player 2: Jose V  (Ness)
+Bracket: PM Losers 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Emukiller  (Mewtwo/Meta Knight)
+Player 2: Gallo  (Mario)
+Bracket: PM Losers 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Jaden  (Peach)
+Player 2: Phresh  (Ice Climbers)
+Bracket: PM Losers 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Envy  (Ike)
+Player 2: Sneez  (ROB)
+Bracket: PM Losers 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Emukiller  (Meta Knight)
+Player 2: Venom  (Captain Falcon)
+Bracket: PM Losers 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Aero  (Diddy Kong)
+Player 2: Malachi  (Peach)
+Bracket: PM Losers 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Lunchables  (Roy)
+Player 2: Jose V  (Ness)
+Bracket: PM Winners 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Junebug  (Diddy)
+Player 2: Jaden  (Sheik/Peach)
+Bracket: PM Winners 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Sosa  (Wario)
+Player 2: Gallo  (Mario)
+Bracket: PM Winners 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: ThundeRzReiGN  (Donkey Kong)
+Player 2: Professor Pro  (Snake)
+Bracket: PM Winners 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Hyperflame  (Lucas)
+Player 2: Gallo  (Mario)
+Bracket: PM Winners 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Venom  (Captain Falcon)
+Player 2: Junebug  (Diddy Kong)
+Bracket: PM Winners 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Lunchables  (Roy/Marth)
+Player 2: BaconPancakes  (Fox/Diddy)
+Bracket: PM Winners 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: dizzkidboogie  (Ice Climbers)
+Player 2: The Moon  (Marth)
+Bracket: SSBM Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Lucky  (Fox)
+Player 2: The Moon  (Marth)
+Bracket: SSBM Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: The Moon  (Marth)
+Player 2: Professor Pro  (Fox)
+Bracket: SSBM Losers Semis 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Lucky  (Fox)
+Player 2: dizzkidboogie  (Ice Climbers)
+Bracket: SSBM Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Druggedfox  (Fox)
+Player 2: The Moon  (Marth)
+Bracket: SSBM Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Mike Haze  (Fox)
+Player 2: Professor Pro  (Fox)
+Bracket: SSBM Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Lucky  (Fox)
+Player 2: Mike Haze  (Fox)
+Bracket: SSBM Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: The Moon  (Marth)
+Player 2: dizzkidboogie  (Ice Climbers)
+Bracket: SSBM Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Hugs  (Samus)
+Player 2: Professor Pro  (Fox)
+Bracket: SSBM Losers Top 8 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Druggedfox  (Fox)
+Player 2: Slox  (Fox)
+Bracket: SSBM Losers Top 8 
+Game: Melee
+-------------
+
+Tournament Name: Olympus 
+Player 1: Salem  (Bayonetta)
+Player 2: Tweek  (Cloud)
+Bracket: SSB4 Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Larry Lurr  (Donkey Kong/Fox)
+Player 2: Salem  (Bayonetta)
+Bracket: SSB4 Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Anti  (Mario/Charizard/Cloud)
+Player 2: Larry Lurr  (Fox)
+Bracket: SSB4 Losers Semis 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: ThundeRzReiGN  (Donkey Kong)
+Player 2: Lunchables  (Marth)
+Bracket: PM Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Tweek  (Cloud)
+Player 2: Salem  (Bayonetta)
+Bracket: SSB4 Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Lunchables  (Roy)
+Player 2: Gallo  (Mario)
+Bracket: PM Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Larry Lurr  (Fox)
+Player 2: Fatality  (Captain Falcon)
+Bracket: SSB4 Losers Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Sosa  (Wario)
+Player 2: Gallo  (Mario)
+Bracket: PM Losers Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Lunchables  (Toon Link/Marth)
+Player 2: ThundeRzReiGN  (DK)
+Bracket: PM Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Anti  (Mario/Cloud)
+Player 2: Dakpo  (Luigi/Diddy Kong)
+Bracket: SSB4 Losers Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Junebug  (Diddy Kong/Ganondorf)
+Player 2: Gallo  (Mario)
+Bracket: PM Losers Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Sosa  (Wario)
+Player 2: Malachi  (Peach)
+Bracket: PM Losers Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Salem  (Bayonetta)
+Player 2: Larry Lurr  (Fox)
+Bracket: SSB4 Winners Semis 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: ThundeRzReiGN  (Donkey Kong)
+Player 2: Junebug  (Diddy Kong)
+Bracket: PM Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Anti  (Mario)
+Player 2: Tweek  (Cloud)
+Bracket: SSB4 Winners Semis 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Lunchables  (Toon Link)
+Player 2: Sosa  (Wario)
+Bracket: PM Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Frozen  (Corrin)
+Player 2: Fatality  (Captain Falcon)
+Bracket: SSB4 Losers  Top 8 
+Game: Smash 4
+-------------
+
+Tournament Name: Olympus 
+Player 1: Gallo  (Mario)
+Player 2: Jose V  (Ness)
+Bracket: PM Losers Top 8 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Malachi  (Sheik)
+Player 2: Jaden  (Peach/Sheik)
+Bracket: PM Losers Top 8 
+Game: Unknown
+-------------
+
+Tournament Name: Olympus 
+Player 1: Dakpo  (Diddy Kong)
+Player 2: Vivid  (Corrin)
+Bracket: SSB4 Losers Top 8 
+Game: Smash 4
+-------------
+
 Tournament Name: Olympus 
 Player 1: NJ/NY  None
 Player 2: SoCal  None

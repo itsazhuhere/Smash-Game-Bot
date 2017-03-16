@@ -1,3 +1,31 @@
+Tournament Name: GENESIS 4 
+Player 1: Japan  None
+Player 2: USA  None
+Bracket: Smash 4 Crews Final	
+Game: Smash 4
+-------------
+
+Tournament Name: GENESIS 4 
+Player 1: Japan  None
+Player 2: MexiCanEu  None
+Bracket: Smash 4 Crews	
+Game: Smash 4
+-------------
+
+Tournament Name: GENESIS 4 
+Player 1: USA  None
+Player 2: MexiCanEu  None
+Bracket: Smash 4 Crews	
+Game: Smash 4
+-------------
+
+Tournament Name: GENESIS 4 
+Player 1: USA  None
+Player 2: Japan  None
+Bracket: Smash 4 Crews	
+Game: Smash 4
+-------------
+
 Tournament Name: Summit 2016 
 Player 1: Bark Sanchez  (Pikachu)
 Player 2: Revan  (Kirby)

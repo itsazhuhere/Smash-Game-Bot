@@ -15,12 +15,13 @@ END_FILE = "----------------------------"
 
 class TitleParser:
     keys = ["tourny","chars1","tag1","chars2","tag2","round","game"]
-    games = {"Melee": ["SSBM"],
-             "Smash 4" : ["Wii U","Sm4sh","SSB4"],
-             "Smash 64" : ["SSB64","SS64"]
-             }
     
     def __init__(self):
+        self.games = {"Melee": ["SSBM"],
+                      "Smash 4" : ["Wii U","Sm4sh","SSB4"],
+                      "Smash 64" : ["SSB64","SS64"]
+                      }
+        
         for game in self.games.keys():
             all_names = [re.compile(game,re.IGNORECASE)]
             for name in self.games[game]:

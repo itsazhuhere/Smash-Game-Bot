@@ -1,3 +1,3272 @@
+Tournament Name: BEAST 7 
+Player 1: [A]rmada  (Fox)
+Player 2: RB TSM | Leffen  (Fox)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: TSM RB | Leffen  (Fox)
+Player 2: LG | Ice  (Fox)
+Bracket: Losers Final 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: MSF | The Moon  (Marth)
+Player 2: LG | Ice  (Fox)
+Bracket: Losers Semis 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: [A]rmada  None
+Player 2: RB TSM | Leffen  (Fox)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Druggedfox  (Fox)
+Player 2: LG | Ice  (Fox)
+Bracket: Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Asterion | Amsah  (Sheik)
+Player 2: MSF | The Moon  (Marth)
+Bracket: Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: MSF | The Moon  (Marth)
+Player 2: TSM RB | Leffen - Winners Semis  None
+Bracket: Melee Singles
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: [A]ndroid  (Sheik)
+Player 2: Asterion | Amsah  (Sheik)
+Bracket: Losers Top 8 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Slox  (Fox)
+Player 2: Druggedfox  (Fox)
+Bracket: Losers Top 8 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Mr.R  (Sheik)
+Player 2: cyve  (Diddy Kong)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: M  (Shulk)
+Player 2: cyve  (Diddy Kong)
+Bracket: Losers Final 
+Game: Smash 4
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: cyve  (Bayonetta,Diddy)
+Player 2: iStudying  (Greninja)
+Bracket: Losers Final 
+Game: Smash 4
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Mr.R  (Sheik)
+Player 2: M  (Shulk)
+Bracket: Winners Final 
+Game: Smash 4
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: iStudying  (Greninja)
+Player 2: S1  (Ness)
+Bracket: Losers Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: KillerJawz  (Robin,Mewtwo)
+Player 2: cyve  (Diddy Kong)
+Bracket: Losers Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: M  (Shulk)
+Player 2: iStudying  (Greninja)
+Bracket: Winners Semis 
+Game: Smash 4
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Mr.R  (Sheik,Cloud)
+Player 2: cyve  (Bayonetta,Diddy Kong)
+Bracket: Winners Semis 
+Game: Smash 4
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: S1  (Ness)
+Player 2: Aperture  (Sonic)
+Bracket: Losers Top 8 
+Game: Smash 4
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: KillerJawz  (Mewtwo)
+Player 2: El_Pitikla  (Fox)
+Bracket: Losers Top 8 
+Game: Smash 4
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Armada + Android  None
+Player 2: Ice + Leffen - Grand Finals II  None
+Bracket: Doubles
+Game: Unknown
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Armada + Android  None
+Player 2: Ice + Leffen - Grand Finals  None
+Bracket: Doubles
+Game: Unknown
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: SFAT + dizzkidboogie  None
+Player 2: Ice + Leffen - Losers Finals  None
+Bracket: Doubles
+Game: Unknown
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: SFAT + dizzkidboogie  None
+Player 2: Jeapie + Amsah - Losers Semis  None
+Bracket: Doubles
+Game: Unknown
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Armada + Android  None
+Player 2: Leffen + Ice - Winners Finals  None
+Bracket: Doubles
+Game: Unknown
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Jeapie + Amsah  None
+Player 2: Trifasia + Overtriforce - Losers Quarters  None
+Bracket: Doubles
+Game: Unknown
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: The Moon + Professor  None
+Player 2: SFAT + dizzkidboogie - Losers Wuarters  None
+Bracket: Doubles
+Game: Unknown
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Trifasia + Overtriforce  None
+Player 2: Ice + Leffen - Winners Semis  None
+Bracket: Doubles
+Game: Unknown
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Armada + Android  None
+Player 2: SFAT + Dizzkidboogie - Winners Semis  None
+Bracket: Doubles
+Game: Unknown
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Jeapie + Amsah  None
+Player 2: Druggedfox + Slox - Losers Top 8  None
+Bracket: Doubles
+Game: Unknown
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Slime Mage  (Absa)
+Player 2: Err40  (Kragg)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: King Funk  (Birdie)
+Player 2: z3poxx  (Balrog)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: King Funk  (Birdie)
+Player 2: J.Miller  (Dhalism)
+Bracket: Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: King Funk  (Birdie)
+Player 2: WiiASE  (Alex)
+Bracket: Losers Semis 
+Game: Unknown
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: J.Miller  (Dhalism)
+Player 2: z3poxx  (Balrog)
+Bracket: Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: BEAST7 
+Player 1: Amaranthx  (Kragg,Zetterburn)
+Player 2: Err40  (Kragg)
+Bracket: Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: BEAST7 
+Player 1: Yam  (Absa,Forsburn)
+Player 2: Amaranthx  (Kragg)
+Bracket: Losers Semis 
+Game: Unknown
+-------------
+
+Tournament Name: BEAST7 
+Player 1: Slime Mage  (Orcane)
+Player 2: Err40  (Kragg)
+Bracket: Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Smash Sisters Sweden  None
+Player 2: The World  None
+Bracket: Melee
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: CTG  (Jigglypuff)
+Player 2: BarkSanchez  (Pikachu,Cpt.Falcon)
+Bracket: Losers Top 8 
+Game: Smash 64
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Shears  (Yoshi)
+Player 2: Heir |Jam  (Pikachu)
+Bracket: Losers Top 8 
+Game: Smash 64
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Shears  (Luigi)
+Player 2: BarkSanchez  (Mario)
+Bracket: Losers Semis 
+Game: Smash 64
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Revan  (Kirby)
+Player 2: Isai  (Link)
+Bracket: Winners Finals 
+Game: Smash 64
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: BarkSanchez  (Pikachu)
+Player 2: Isai  (Pikachu)
+Bracket: Losers Finals 
+Game: Smash 64
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Revan  (Kirby)
+Player 2: Isai  (Link)
+Bracket: Grand Finals 
+Game: Smash 64
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: SPY | Nintendude  (Fox)
+Player 2: Heir | Jam  (Pikachu)
+Bracket: Losers Top 8 
+Game: Smash 64
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: SPY | Nintendude  (Fox)
+Player 2: Heir | Jam  (Pikachu)
+Bracket: Losers Top 8 
+Game: Smash 64
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: CTG  (Jigglypuff)
+Player 2: Fruity  (Mario)
+Bracket: Losers Top 8 
+Game: Smash 64
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Revan  (Kirby)
+Player 2: BarkSanchez  (Pikachu)
+Bracket: Winners Semis 
+Game: Smash 64
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Shears  (Yoshi,Pikachu,Luigi)
+Player 2: Isai  (Pikachu)
+Bracket: Winners Semis 
+Game: Smash 64
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Shears  (Pikachu)
+Player 2: Fruity  (Mario)
+Bracket: Winners Quarters 
+Game: Smash 64
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: CTG  (Jigglypuff)
+Player 2: Isai  (Kirby)
+Bracket: Winners Quarters 
+Game: Smash 64
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Belia  (Fox)
+Player 2: Manyula  (Fox)
+Bracket: Pool D8 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Rebaz  (Cpt.Falcon)
+Player 2: Slox  (Fox)
+Bracket: Pool D7 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: NintendOrk  (IC)
+Player 2: Alox  (Cpt.Falcon)
+Bracket: Pool D2 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Bomb  (Falco)
+Player 2: K-12  (DK)
+Bracket: Pool D6 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: CLG | SFAT  (Fox)
+Player 2: Q  (Fox)
+Bracket: Pool D3 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Bert  (Fox)
+Player 2: Daydee  (Samus)
+Bracket: Pool D2 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: AirLi  (Peach)
+Player 2: Sebovich  (Ganondorf)
+Bracket: Pool D1 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Sebson  (Mr.Game&Watch)
+Player 2: Design out of Shield  (Sheik)
+Bracket: Pool D4 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Tengil  (Jigglypuff)
+Player 2: rax  (Jigglypuff)
+Bracket: Pool C3 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Maximus  (Pikachu)
+Player 2: Crush  (Fox)
+Bracket: Pool C7 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Druggedfox  (Fox)
+Player 2: GabyTime  (Marth)
+Bracket: Pool C8 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Soda  (IC)
+Player 2: Schmep  (Doc)
+Bracket: Pool C7 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Professor Pro  (Fox)
+Player 2: Willyy  (Peach)
+Bracket: Pool C6 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: King Funk  (Falco)
+Player 2: Metallix  (Fox)
+Bracket: Pool C6 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Joanna Dark  (Falco)
+Player 2: MattDotZeb  (Falco)
+Bracket: Pool C5 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Amsah  (Sheik)
+Player 2: c3l  (Marth)
+Bracket: Pool C1 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Avr  (Sheik)
+Player 2: Moe  (DK)
+Bracket: Pool C4 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: John  (Cpt.Falcon)
+Player 2: Moby  (Jigglypuff)
+Bracket: Pool C2 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: ImpX  (Sheik)
+Player 2: erikxd  (Cpt.Falcon)
+Bracket: Pool B4 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Maxsimon123  (Marth)
+Player 2: Mayhem  (Fox)
+Bracket: Pool B7 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Feradit  (Fox)
+Player 2: Eagle  (Doc)
+Bracket: Pool B1 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: APT | JohnnyFight  (IC)
+Player 2: Fizzi  (Cpt.Falcon)
+Bracket: Pool B1 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: dizzkidboogie  (IC)
+Player 2: RashAttack  (Doc)
+Bracket: Pool B6 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Salevits  (Sheik)
+Player 2: Issi^  (Sheik)
+Bracket: Pool B8 
+Game: Melee
+-------------
+
+Tournament Name: 9BEAST 7 
+Player 1: Yabasta  (Marth)
+Player 2: Dain Bramage  (Jigglypuff)
+Bracket: Pool B1 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Gin  (Falco)
+Player 2: Urist  (Cpt.Falcon)
+Bracket: Pool B2 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: JAPF  (Doc)
+Player 2: Rev  (Falco)
+Bracket: Pool B1 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Joborn  (Falco)
+Player 2: Taka  (Cpt.Falcon)
+Bracket: Pool A8 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Widde  (Sheik)
+Player 2: Jeapie  (Cpt.Falcon)
+Bracket: Pool A6 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Nils  (Falco)
+Player 2: Pricent  (Fox)
+Bracket: Pool A2 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Askeflink  (Falco)
+Player 2: Jadde  (Sheik)
+Bracket: Pool A4 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Heir | Jam  (Fox)
+Player 2: Masterkai  (Marth)
+Bracket: Pool A3 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: [A]ndroid  (Sheik)
+Player 2: Swish  (Cpt.Falcon)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Hara  (Luigi)
+Player 2: Oldiz  (Ganondorf)
+Bracket: Pool A1 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Revo | Fuzzyness  (Cpt.Falcon)
+Player 2: Jeapie  (Cpt.Falcon)
+Bracket: Exhibition 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Setchi  (Cpt.Falcon)
+Player 2: K-12  (DK)
+Bracket: Exhibition 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Jeapie  (Cpt.Falcon)
+Player 2: Djagof  (Cpt.Falcon)
+Bracket: Exhibition 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Professor Pro  (Fox)
+Player 2: Heir | Trifasia  (Peach)
+Bracket: Exhibition 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: APT | JohnnyFight  (IC)
+Player 2: SPY | Nintendude  (IC)
+Bracket: Exhibition 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Calle W  (Falco)
+Player 2: MatDotZeb  (Falco)
+Bracket: Exhibition 
+Game: Melee
+-------------
+
+Tournament Name: BEAST 7 
+Player 1: Calle W  (Falco)
+Player 2: Baxon  (Falco)
+Bracket: Exhibition 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: MINT  (Fox)
+Player 2: Professor Pro  (Fox)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: MINT  (Fox)
+Player 2: maXy  (Jigglypuff)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: 8BP | Frenzy  (Falco)
+Player 2: maXy  (Jigglypuff)
+Bracket: Losers Semis 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: MINT  (Fox)
+Player 2: Professor Pro  (Fox)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Ministry  (Sheik)
+Player 2: maXy  (Jigglypuff)
+Bracket: Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: 8BP | Frenzy  (Falco)
+Player 2: SDS | R23  (Sheik)
+Bracket: Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Leck  (Falco)
+Player 2: SDS |R23  (Sheik)
+Bracket: Losers Top 8 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Ministry  (Sheik)
+Player 2: Way  (Fox)
+Bracket: Losers Top 8 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: MINT  (Fox)
+Player 2: maXy  (Jigglypuff)
+Bracket: Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: 8BP | Frenzy  (Falco)
+Player 2: Professor Pro  (Fox)
+Bracket: Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Draz + Professor Pro  None
+Player 2: MINT + Way - Grand Finals  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Draz + Professor Pro  None
+Player 2: R23 + Frenzy - Losers Finals  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Frenzy + R23  None
+Player 2: maXy + Lupin - Losers Semis  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Skarfelt  (Lucina, Fox)
+Player 2: MagiMagi  (Mewtwo)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: Schism 
+Player 1: Skarfelt  (Fox)
+Player 2: Redslasher  (Ryu)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: Schism 
+Player 1: C.R.Z  (Fox)
+Player 2: Skarfelt  (Fox)
+Bracket: Losers Semis 
+Game: Smash 4
+-------------
+
+Tournament Name: Schism 
+Player 1: maXy  (Zelda)
+Player 2: C.R.Z  (Fox)
+Bracket: Losers Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: Schism 
+Player 1: Redslasher  (Mewtwo)
+Player 2: MagiMAgi  (Ryu)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: Schism 
+Player 1: Smuff  (Mario)
+Player 2: Skarfelt  (Fox)
+Bracket: Losers Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: Schism 
+Player 1: C.R.Z  (Fox)
+Player 2: Redslasher  (Ryu)
+Bracket: Winners Semis 
+Game: Smash 4
+-------------
+
+Tournament Name: Schism 
+Player 1: 8BP | Frenzy  (Falco)
+Player 2: Way  (Fox)
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Way  (Fox)
+Player 2: Draz  (Marth)
+Bracket: Losers Round 4 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Skarfelt  (Fox)
+Player 2: MagiMagi  (Mewtwo)
+Bracket: Winners Semis 
+Game: Smash 4
+-------------
+
+Tournament Name: Schism 
+Player 1: Conall  (Cpt.Falcon)
+Player 2: SS | R23  (Sheik)
+Bracket: Losers Round 4 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Draz  (Marth)
+Player 2: Lima  (Falco)
+Bracket: Losers Round 3 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Leck  (Falco)
+Player 2: Verdant  (Jigglypuff)
+Bracket: Losers Round 4 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Craft  (Falco)
+Player 2: Ministry  (Sheik)
+Bracket: Losers Round 4 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Craft  (Falco)
+Player 2: Lupin  (Falco)
+Bracket: Losers Round 3 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: SDS | R23  (Sheik)
+Player 2: maXy  (Jigglypuff)
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Ireland  None
+Player 2: The World  None
+Bracket: Melee Crews
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Draz  (Marth)
+Player 2: Meamking  (Fox)
+Bracket: Losers Round 2 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Craft  (Falco)
+Player 2: Diabound  (Cpt.Falcon)
+Bracket: Winners Round 2 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Draz  (Marth)
+Player 2: maXy  (Jigglypuff)
+Bracket: Winners Round 2 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Craft  (Falco)
+Player 2: Leck  (Falco)
+Bracket: Winners Round 2 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: 8BP | Frenzy  (Falco)
+Player 2: King of Legend  (Marth)
+Bracket: Winners Round 2 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Can~D  (Bowser)
+Player 2: Professor Pro  (Fox)
+Bracket: Winners Round 2 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: KaPe  (Peach)
+Player 2: Shloub  (Fox)
+Bracket: Winners Round 1 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Lima  (Falco)
+Player 2: Bengay  (Sheik)
+Bracket: Winners Round 1 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: King of Legend  (Marth)
+Player 2: Meamking  (Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: MINT  (Fox)
+Player 2: Meamking  (Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Craft  (Falco)
+Player 2: Shloub  (Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Leck  (Falco)
+Player 2: Ministry  (Sheik, Kirby)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: Leck  (Falco)
+Player 2: Adam Aplz  (Marth)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: Schism 
+Player 1: KaPe  (Peach)
+Player 2: maXy  (Jigglypuff)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: SV 
+Player 1: pM | cyve  (Mewtwo, Diddy)
+Player 2: Homika  (Rosalina)
+Bracket: Losers Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: quiK  (ZSS)
+Player 2: Griffith  (Sheik, Mario)
+Bracket: Losers Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Glutonny  (Wario)
+Player 2: Homika  (Rosalina)
+Bracket: Winners Semis 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: quiK  (ZSS)
+Player 2: RNG | Dabuz  (Olimar)
+Bracket: Winners Semis 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Light  (Sheik)
+Player 2: Griffith  (Bayonetta)
+Bracket: Losers Top 8 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: pM | cyve  (Bayonetta, Diddy)
+Player 2: SirJon  (Bayonetta)
+Bracket: Losers Top 8 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Elexiao + Homika  None
+Player 2: Purple-H + Light - Grand Finals  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Elexiao + Homika  None
+Player 2: Meutrich + Narayan - Losers Finals  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Elexiao + Homika  None
+Player 2: quiK + cyve - Losers Semis  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Meutrich + Narayan  None
+Player 2: Purple-H + Light - Winners Finals  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Homika  (Rosalina)
+Player 2: SirJon  (Bayonetta)
+Bracket: Winners Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: quiK  (ZSS)
+Player 2: Griffith  (Mario)
+Bracket: Winners Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: RNG | Dabuz  (Rosalina, Olimar)
+Player 2: Schligger  (Mewtwo)
+Bracket: Winners Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Glutonny  (Wario)
+Player 2: Greward  (Bowser)
+Bracket: Winners Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Elexiao  (Greninja)
+Player 2: Griffith  (Bayonetta)
+Bracket: Winners Top 24 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: SG | LoNg0uw  (ROB)
+Player 2: Greward  (Duck Hunt, Mario)
+Bracket: Winners Top 24 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Boomuki  (Cpt.Falcon)
+Player 2: Glutonny  (Wario)
+Bracket: Winners Top 24 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Homika  (Rosalina)
+Player 2: pM | cyve  (Bayonetta, Diddy)
+Bracket: Winners Top 48 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Elexiao  (Greninja)
+Player 2: Light  (Sheik)
+Bracket: Winners Top 48 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: repus  (Rosalina)
+Player 2: pM | cyve  (Diddy)
+Bracket: Pool B1 Winners Final 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Sillintor  (Link)
+Player 2: Glutonny  (Wario)
+Bracket: Pool A2 Winners Final 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Kunai Kazekun  (Lucario, T.Link)
+Player 2: Marcbri  (Diddy)
+Bracket: Pool A6 Winners Final 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Boomuki  (Olimar)
+Player 2: Clade  (Lucas)
+Bracket: Pool A7 Winners Final 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Eddy  (Greninja)
+Player 2: Biggad  (Corrin)
+Bracket: Pool A8 Winners Final 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Rendon  (Sonic)
+Player 2: Elexiao  (Greninja)
+Bracket: Pool A3 Winners Final 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: SFTO | Deus  (Falco)
+Player 2: Shiroyasha  (Ike)
+Bracket: Pool A4 Winners Final 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: RNG | Dabuz  (Olimar, Bayonetta)
+Player 2: Pocafeiner  (Villager)
+Bracket: Pool A1 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: RNG | Dabuz  (Rosalina, Olimar)
+Player 2: Eddy  (Greninja)
+Bracket: Winners Top 48 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: SG | LoNg0uw  (Cloud)
+Player 2: Plategoron  (ROB)
+Bracket: Winners Top 64 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Boomuki  (CF, Olimar)
+Player 2: Zanto  (MK)
+Bracket: Winners Top 64 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Sylph  (Yoshi)
+Player 2: Glutonny  (Wario)
+Bracket: Winners Top 64 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Majaal  (Fox)
+Player 2: Homika  (Rosalina)
+Bracket: Pool B8 Winners Final 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Bernihetero  (Rosalina)
+Player 2: quiK  (ZSS)
+Bracket: B2 Winners Final 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Tomenimo  (Corrin)
+Player 2: SG | LoNg0uw  (ROB)
+Bracket: Pool B3 Winners Final 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Meru  (Peach)
+Player 2: Moussa  (Bayonetta)
+Bracket: Pool B6 Winners Final 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Hollowman  (Luigi)
+Player 2: EuK  (Sheik)
+Bracket: Pool B5 Winners Final 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: otek  (Bayonetta)
+Player 2: TCL | Purple-H  (Cloud)
+Bracket: Pool B4 Winners Final 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Royal Touch  None
+Player 2: Star FighterZ  None
+Bracket: Smash 4 Crews
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: cyve + quiK  None
+Player 2: Marcbri + Greward - Losers Quarters  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Greward + Marcbri  None
+Player 2: Meru + Crysis - Losers Round 7  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Light + Purple-H  None
+Player 2: cyve + quiK - Winners Semis  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Meutrich + Narayan  None
+Player 2: Homika + Elexiao - Winners Semis  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Kakarot + Pocafeiner  None
+Player 2: cyve + quiK - Winners Quarters  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Crysis + Meru  None
+Player 2: Narayan + Meutrich - Winners Quarters  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Elexiao + Homika  None
+Player 2: LuiS + otek - Winners Quarters  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: LoNg0uw + Prodigy  None
+Player 2: Purple-H + Light - Winners Quarters  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: LuiS + otek  None
+Player 2: Zanto + Sabaca - Winners Round 3  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Darkyplayer + Shiroyasha  None
+Player 2: Crysis + Meru - Winners Round 3  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Rinor + Bernihetero  None
+Player 2: semifer + Biggad - Winners Round 2  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: TaDavidID + Hischulat  None
+Player 2: Yikarur + Jubei's Katze - Winners Round 1 None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Zanto + Sabaca  None
+Player 2: Sanny + Norkas - Winners Round 1  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Unsinnlos + Bene  None
+Player 2: DNL + Kunai Kazekun - Winners Round 1  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: S1lvanuz + Gianny  None
+Player 2: JayTec + SWU - Winners Round 1  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Homika  (Rosalina)
+Player 2: quiK  (ZSS)
+Bracket: Losers Semis 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Glutonny  (Wario)
+Player 2: RNG | Dabuz  (Rosalina)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Glutonny  (Wario)
+Player 2: RNG | Dabuz  (Rosalina)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SV 
+Player 1: Glutonny  (Wario)
+Player 2: quiK  (ZSS)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Stivo  (Marth, Falco)
+Player 2: Charon  (Marth)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Stivo  (Falco)
+Player 2: Zeal  (Falco)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Zeal  (Falco)
+Player 2: Squiltendorf  (Fox, Cpt.Falcon)
+Bracket: Losers Semis 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Charon  (Marth)
+Player 2: Stivo  (Falco, Marth)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Zeal  (Falco)
+Player 2: Konati  (Cpt.Falcon)
+Bracket: Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: V-K  (Jigglypuff)
+Player 2: Squiltendorf  (Fox)
+Bracket: Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Charon  (Marth)
+Player 2: Zeal  (Falco)
+Bracket: Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Stivo  (Falco)
+Player 2: V-K  (Jigglypuff)
+Bracket: Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Konati  (Cpt.Falcon)
+Player 2: Tyra  (Falco)
+Bracket: Losers Top 8 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Squiltendorf  (Fox)
+Player 2: Strawstream  (Fox)
+Bracket: Losers Top 8 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: ImperfeCt  (Sheik)
+Player 2: Konati  (Cpt.Falcon)
+Bracket: Losers Round 2 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Squiltendorf  (Fox)
+Player 2: Zeal  (Falco)
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Sneddy  (Falco)
+Player 2: Charon  (Marth)
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Charon  (Marth)
+Player 2: rfga  (Sheik)
+Bracket: Winners Round 1 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Charon + ImperfeCt  None
+Player 2: Squiltendorf + MISTRRLOVE - Grand Finals  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Sneddy + KaPe  None
+Player 2: Squiltendorf + MISTRRLOVE - Losers Finals  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Sneddy + KaPe  None
+Player 2: Strawstream + Konati - Losers Semis  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: MISTRRLOVE + Squiltendorf  None
+Player 2: Charon + ImperfeCt - Winners Finals  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Charon + ImperfeCt  None
+Player 2: Konati + Strawstream - Winners Semis  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: MISTRRLOVE + Squiltendorf  None
+Player 2: Zeal + Stivo - Winners Semis  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Sneddy + KaPe  None
+Player 2: Konati + Strawstream - Winners Quarters  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: N4ptime  (Fox)
+Player 2: Eliholz  (Pikachu)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: N4ptime  (Fox)
+Player 2: Charon  (Marth)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Sneddy  (Falco)
+Player 2: Tyra  (Falco)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: N4ptime  (Fox)
+Player 2: Ophis  (Jigglypuff)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: Charon  (Marth)
+Player 2: Shiv  (Falco)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: N4ptime  (Fox)
+Player 2: Shiv  (Falco)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: MMBM#8 
+Player 1: BananeMarmelade  (Falco)
+Player 2: Konati  (Cpt.Falcon)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Germany  None
+Player 2: The World  None
+Bracket: 10v10 Smash 4 Crews
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - LuiS + otek  None
+Player 2: Kakpu + SdN - Losers Quarters  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Larry Lurr + Sodrek  None
+Player 2: vyQ + Luigi player - Winners Finals  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - cyve + Meru  None
+Player 2: LuiS + otek - Losers Semis  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Larry Lurr + Sodrek  None
+Player 2: vyQ + Luigi player - Grand Finals II  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - cyve + Meru  None
+Player 2: vyQ + Luigi player - Losers Finals  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Larry Lurr + Sodrek  None
+Player 2: vyQ + Luigi player - Grand Finals  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - pM | Sodrek  (Cloud)
+Player 2: Destany  (Little Mac)
+Bracket: Losers Semis 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Wolves | Wusi  (Fox)
+Player 2: pM | Sodrek  (Peach, Marth)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Wolves | Wusi  (Fox)
+Player 2: Schligger  (ZSS)
+Bracket: Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - pM | Sodrek  (Peach, Marth)
+Player 2: Tsuba  (Snake)
+Bracket: Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Koyu  (Snake)
+Player 2: Wolves | Wusi  (Fox)
+Bracket: Quarter Finals 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - mYi GGs | Liva  (Snake)
+Player 2: Schligger  (ZSS)
+Bracket: Quarter Finals 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Tsuba  (Snake)
+Player 2: Sabaca  (Marth)
+Bracket: Quarters Finals 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - pM | Sodrek  (Peach)
+Player 2: Meru  (Zelda, Peach)
+Bracket: Quarter Finals 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Koyu  (Snake)
+Player 2: Toffi  (Lucas)
+Bracket: Round 2 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Lazar  (ZSS, Fox)
+Player 2: Wolfes | Wusi  (Fox, Snake)
+Bracket: Round 2 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - DuckOfBlubber  (Marth, T.Link)
+Player 2: Schligger  (ZSS)
+Bracket: Round 2 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - pM | cyve  (Diddy, Bayonetta)
+Player 2: Meru  (Peach)
+Bracket: Winners Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - RobinGG  (Peach)
+Player 2: Sabaca  (MK, Marth)
+Bracket: Round 2 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Tsuba  (Snake)
+Player 2: SdN  (Kirby)
+Bracket: Round 2 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - BSD | cFive  (Diddy)
+Player 2: Meru  (Peach)
+Bracket: Round 2 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Lazar  (ZSS)
+Player 2: Shark  (Diddy)
+Bracket: Round 1 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - OpYoshi  (Yoshi, Jigglypuff)
+Player 2: mYi GGs | Liva  (Snake, Samus)
+Bracket: Round 1 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - sevi  (Ness)
+Player 2: DuckOfBlubber  (Marth)
+Bracket: Round 1 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - SdN  (Kirby)
+Player 2: Regi  (Falco, Marth)
+Bracket: Round 1 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Gogoku  (Falco)
+Player 2: RobinGG  (Peach)
+Bracket: Round 1 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - El Jefe  (IC)
+Player 2: BSD | cFive  (Diddy)
+Bracket: Round 1 
+Game: Unknown
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Larry Lurr  (Fox, MK)
+Player 2: pM | cyve  (Diddy)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - pM | Sodrek  (Cloud)
+Player 2: pM | cyve  (Bayonetta)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - pM | cyve  (Bayonetta, Diddy)
+Player 2: Larry Lurr  (Fox)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - BSD | Luigi player  (Mewtwo, Luigi)
+Player 2: Destany  (Little Mac)
+Bracket: Losers Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - pM | Sodrek  (Fox)
+Player 2: Wolves | Wusi  (Fox)
+Bracket: Losers Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - pM | cyve  (Diddy)
+Player 2: Destany  (Little Mac)
+Bracket: Winners Semis 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Larry Lurr  (Fox)
+Player 2: Wolves | Wusi  (Fox)
+Bracket: Winners Semis 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - RobinGG  (Peach)
+Player 2: BSD | Luigi player  (Luigi)
+Bracket: Losers Top 8 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - pM | Sodrek  (Cloud)
+Player 2: LuiS  (Ryu)
+Bracket: Losers Top 8 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - pM | Sodrek  (Cloud)
+Player 2: LoNg0uw  (ROB, Marth, Mega Man)
+Bracket: Losers Top 12 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - BSD | Luigi player  (Luigi, Mewtwo)
+Player 2: Schligger  (Mewtwo)
+Bracket: Losers Top 12 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - RobinGG  (Peach)
+Player 2: BSD | vyQ  (Mario, Cloud)
+Bracket: Losers Top 12 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Meru  (Peach)
+Player 2: LuiS  (Corrin)
+Bracket: Losers Top 12 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Megayoshi + Tobe  None
+Player 2: cyve + Meru - Losers Top 12  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Wolfes | Wusi  (Fox)
+Player 2: LoNg0uw  (ROB)
+Bracket: Winners Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Meru  (Peach)
+Player 2: TraX  (Cpt.Falcon, Marth)
+Bracket: Pools Wave A 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - BSD | vyQ  (Mario, Ryu)
+Player 2: Destany  (Little Mac)
+Bracket: Winners Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Larry Lurr  (Fox)
+Player 2: BSD | Luigi player  (Luigi, Mewtwo)
+Bracket: Winners Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Kakpu  (Roy, Marth)
+Player 2: Wolfes | Wusi  (Fox)
+Bracket: Winners Top 24 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - BSD | Luigi player  (Mewtwo, Luigi)
+Player 2: Zwirrklop33  (Samus)
+Bracket: Winners Top 24 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - pM | cyve  (Bayonetta, Diddy)
+Player 2: Tomenimo  (Corrin, Cloud)
+Bracket: Winners Top 24 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Meru  (Peach)
+Player 2: Raaban  (Lucina, Luigi)
+Bracket: Winners Top 48 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - LoNg0uw  (ROB)
+Player 2: RobinGG  (Peach)
+Bracket: Winners Top 48 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Wusi  (Fox)
+Player 2: Zudenka  (Peach, Yoshi)
+Bracket: Winners Top 48 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - otek  (Bayonetta)
+Player 2: Kenshin  (Ganon, Samus)
+Bracket: Winners Top 48 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Tomenimo  (Cloud, Corrin)
+Player 2: Meutrich  (Sheik)
+Bracket: Winners Top 48 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Schligger  (Mewtwo)
+Player 2: Larry Lurr  (Fox)
+Bracket: Winners Top 48 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Destany  (Little Mac)
+Player 2: Yoshihaft  (Yoshi)
+Bracket: Winners Top 64 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Wusi  (Fox)
+Player 2: PB  (Mii Brawler)
+Bracket: Winners Top 64 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - adom  (Ganondorf)
+Player 2: Kenshin  (Ganondorf)
+Bracket: Winners Top 64 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - BSD | cFive  (Fox)
+Player 2: Wolves | Wusi  (Fox)
+Bracket: Pools Wave B 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Schligger  (Mewtwo)
+Player 2: Tomenimu  (Corrin, Cloud)
+Bracket: Pools Wave B 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Massi  (D3)
+Player 2: Tsuba  (ZSS)
+Bracket: Pools Wave B 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - BSD | Luigi player  (Mewtwo)
+Player 2: Sanny  (Pikachu)
+Bracket: Pools Wave B 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - BSD | vyQ  (Mario)
+Player 2: Kakpu  (Roy)
+Bracket: Pools Wave B 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - LoNg0uw  (Mega Man, ROB)
+Player 2: Kanji  (Peach)
+Bracket: Pools Wave B 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - pM | Sodrek  (Fox)
+Player 2: Tsuba  (ZSS)
+Bracket: Pools Wave B 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Larry Lurr  (Fox)
+Player 2: Meutrich  (Sheik)
+Bracket: Pools Wave B 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Dr. Knight  (Cloud, Mario)
+Player 2: Schligger  (Mewtwo)
+Bracket: Pools Wave B 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - BSD | Sword  (Ryu)
+Player 2: pM | cyve  (Bayonetta)
+Bracket: Pools Wave B 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Meru  (Peach)
+Player 2: Barcley  (Kirby)
+Bracket: Pools Wave A 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - otek  (Corrin)
+Player 2: Tatuman  (Rosalina)
+Bracket: Pools Wave A 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Koyu  (Pit, Mii)
+Player 2: RobingGG  (Peach)
+Bracket: Pools Wave A 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Crysis  (Diddy)
+Player 2: Destany  (Little Mac)
+Bracket: Pools Wave A 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Yikarur  (Yoshi)
+Player 2: PB  (Pac-Man, Robin)
+Bracket: Pools Wave A 
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Schligger + Tsuba  None
+Player 2: cyve + Meru - Losers Quarters  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Larry Lurr + Sodrek  None
+Player 2: LuiS + otek - Winners Semis  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - vyQ + Luigi player  None
+Player 2: Schligger + Tsuba - Winners Semis  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Crysis + TraX  None
+Player 2: Tomenimo + Raaban - Losers Top 24  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - otek + LuiS  None
+Player 2: Yikarur + RobinGG - Winners Quarters  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - adom + Sabaca  None
+Player 2: cFive + Sword - Losers Top 24  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Pandali + LoNg0uw  None
+Player 2: RobinGG + Yikarur - Winners Top 24  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - cyve + Meru  None
+Player 2: Sodrek + Larry Lurr - Winners Quarters  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Sanny + Meth  None
+Player 2: otek + LuiS - Winners Round 3  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Barcley + Sir LAbot  None
+Player 2: Wusi + Koyu - Winners Round 2  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - Sodrek + Larry Lurr  None
+Player 2: Trauer + DuckOfBlubber - Winners Round 2  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - cyve + Meru  None
+Player 2: Sabaca + adom - Winners Round 2  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - LuiS + otek  None
+Player 2: Megayoshi35 + Tobe - Winners Round 1  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: PPT
+Player 1: W17 - uggla + Simboking  None
+Player 2: cyve + Meru - Winners Round 1  None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Heir | reaper  (Marth)
+Player 2: Prinz  (Jigglypuff)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: LLL.Jeapie  (Cpt.Falcon)
+Player 2: Prinz  (Jigglypuff)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Avalancer  (Yoshi)
+Player 2: Prinz  (Jigglypuff)
+Bracket: Losers Semis 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Heir | reaper  (Marth)
+Player 2: LLL.Jeapie  (Cpt.Falcon)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Avalancer  (Yoshi)
+Player 2: SchlimmShady  (Doc)
+Bracket: Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: DaLung  (Fox)
+Player 2: Prinz  (Jigglypuff)
+Bracket: Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Avalancer  (Yoshi)
+Player 2: Heir | reaper  (Marth)
+Bracket: Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: LLL.Jeapie  (Cpt.Falcon)
+Player 2: Prinz  (Jigglypuff)
+Bracket: Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: DaLung  (Fox)
+Player 2: 8bp | Frenzy  (Falco)
+Bracket: Losers Top 8 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: SchlimmShady  (Mario)
+Player 2: pheX  (Peach)
+Bracket: Losers Top 8 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: reaper + Jeapie  None
+Player 2: Kellner + Prinz - Grand Finals  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Kellner + Prinz  None
+Player 2: Sixx + Lyrix - Losers Finals  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: LLL.Jeapie  (Cpt.Falcon)
+Player 2: pheX  (Peach)
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Avalancer  (Yoshi)
+Player 2: DaLung  (Fox)
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Heir | reaper  (Marth)
+Player 2: 8bp | Frenzy  (Falco)
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Kellner  (Peach)
+Player 2: Dr. L  (Luigi)
+Bracket: Losers Top 24 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Avalancer  (Yoshi)
+Player 2: SchlimmShady  (Doc)
+Bracket: Winners Top 24 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Lyrix + Sixx  None
+Player 2: reaper + Jeapie - Winners Finals  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Timi + kiw1  None
+Player 2: Prinz + Kellner - Losers Quarters  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Timi + kiw1  None
+Player 2: Xardov + Frenzy - Losers Top 8  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Lyrix + Sixx  None
+Player 2: Kellner + Prinz - Winners Semis  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: DaLung + SchlimmShady  None
+Player 2: Sixx + Lyrix - Winners Quarters  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: pheX + Konati  None
+Player 2: Xardov + Frenzy - Winners Top 24  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: ZetTroxX + Naru  None
+Player 2: PureSkillz + PureEvil - Winners Top 24  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Lyrix + Sixx  None
+Player 2: Liqua + Wachtelbrei - Winners Top 48  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: CheAkiwara + Dunch  None
+Player 2: Brog + Etril - Winners Top 48  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Frenzy + Xardov  None
+Player 2: Snedderick + Gigges - Winners Top 48  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Solarii + Klostein39  None
+Player 2: Ipi + CSnipe - Winners Top 64  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: eternised dragon  (Fox)
+Player 2: Prinz  (Jigglypuff)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: DaLung  (Fox)
+Player 2: Arasz  (Marth)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Etril  (Falco)
+Player 2: GCB  (Marth)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Kellner  (Peach)
+Player 2: RiKzz  (Marth)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Avalancer  (Yoshi)
+Player 2: Xardov  (Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Dr. L  (Luigi)
+Player 2: kiw1  (Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Kaese  (Sheik)
+Player 2: Konati  (Cpt.Falcon)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: pheX  (Peach)
+Player 2: Mojohans  (Falco)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: Lyrix  (Cpt.Falcon)
+Player 2: Timi  (Falco)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: #DGW 16 
+Player 1: ProsmasherTim  (Zelda)
+Player 2: 8bp | Frenzy  (Falco)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: #DGW16 
+Player 1: Heir | reaper  (Marth)
+Player 2: phL  (Fox, G&W)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: Konati + Strawstream  None
+Player 2: KaPe + Liva - Grand Finals  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: xPhil  (Sheik)
+Player 2: Konati  (Cpt.Falcon)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: xPhil  (Sheik)
+Player 2: Tobi  (Falco)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: xPhil  (Sheik)
+Player 2: Ophis  (Jigglypuff)
+Bracket: Losers Semis 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: Tobi  (Falco)
+Player 2: Konati  (Cpt.Falcon)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: Ophis  (Jigglypuff, Y.Link)
+Player 2: KaPe  (Peach)
+Bracket: Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: xPhil  (Sheik)
+Player 2: Strawstream  (Fox)
+Bracket: Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: Ophis  (Jigglypuff, Zelda)
+Player 2: Alex  (Fox)
+Bracket: Losers Top 8 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: Tobi  (Falco)
+Player 2: Strawstream  (Fox)
+Bracket: Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: KaPe  (Peach)
+Player 2: Konati  (Cpt.Falcon)
+Bracket: Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: Ophis  (Jigglypuff, Luigi)
+Player 2: Strawstream  (Fox)
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: RoTor  (Jigglypuff)
+Player 2: KaPe  (Peach)
+Bracket: Winners Top 16 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: Konati + Strawstream  None
+Player 2: Tobi + Dark_Brotoss - Losers Finals  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: Liva + KaPe  None
+Player 2: Konati + Strawstream - Winners Finals  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: Konati + Strawstream  None
+Player 2: Alex + Dome - Winners Semis  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: P-Dog + Eceros  None
+Player 2: Liva + KaPe - Winners Quarters  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: Tobi  (Falco, Doc)
+Player 2: Baunter  (Luigi, Bowser)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: Ophis  (Jigglypuff)
+Player 2: Alex  (Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: KaPe  (Peach)
+Player 2: Lost-Hero 64  (Samus)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: Strawstream  (Fox)
+Player 2: Eceros  (Cpt.Falcon, Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: Dark_Brotoss  (Marth)
+Player 2: CHX  (Marth)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: xPhil  (Sheik)
+Player 2: Konati  (Cpt.Falcon)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: Dark_Brotoss  (Marth)
+Player 2: KaPe  (Peach)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: Tobi  (Falco)
+Player 2: Strawstream  (Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: SiW2 
+Player 1: DdD  (Sheik)
+Player 2: Konati  (Cpt.Falcon)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Isdsar  (Cpt.Falcon)
+Player 2: Bonfras  (Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Mirko  (Marth)
+Player 2: Bonfras  (Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Mirko  (Marth)
+Player 2: Isdsar  (Cpt.Falcon)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Mirko  (Marth)
+Player 2: mYi GGs | Liva  (Peach)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Soda  (IC)
+Player 2: Spur  (Marth,Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Isdsar  (Cpt.Falcon)
+Player 2: mYi GGs | Liva  (Peach, Sheik)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Hamcha  (Ness)
+Player 2: Supah0t  (Peach)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Malekith  (Fox)
+Player 2: Raesak  (Marth)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: mYi GGs | Liva  (Peach)
+Player 2: Bonfras  (Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: demLong  (Falco)
+Player 2: Saul  (Falco)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Darkie  (Sheik)
+Player 2: OverLord  (Marth)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Mask  (Fox)
+Player 2: Seretur  (Falco)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Soda + Malekith  None
+Player 2: Lmsonic + Adkim - Winners Round 1  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Selkie + Seretur  None
+Player 2: Raesak + Bonfras - Winners Quarters  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Soda + Malekith  None
+Player 2: Dax + OverLord - Winners Quarters  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Isdsar + Supah0t  None
+Player 2: Mask + Spur - Winners Quarters  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Isdsar + Supah0t  None
+Player 2: Mirko + demLong - Winners Semis  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Soda + Malekith  None
+Player 2: demLong + Mirko - Losers Quarters  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: mYi GGs | Liva  (Peach)
+Player 2: OverLord  (Marth)
+Bracket: Winners Top 16 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Darkie  (Sheik)
+Player 2: Mirko  (Jigglypuff)
+Bracket: Winners Top 16 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Soda  (IC)
+Player 2: Supah0t  (Peach)
+Bracket: Winners Top 16 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Selkie  (Peach)
+Player 2: demLong  (Falco)
+Bracket: Winners Top 16 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Isdsar  (Cpt.Falcon)
+Player 2: Dax  (G&W, Cpt.Falcon)
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: AvengerAngel  (Falco)
+Player 2: Mirko  (Marth, Jigglypuff)
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: demLong  (Falco, Fox)
+Player 2: Supah0t  (Peach)
+Bracket: Losers Top 16 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Seretur  (Falco)
+Player 2: OverLord  (Marth)
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Soda  (IC)
+Player 2: Selkie  (Peach)
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Selkie  (Peach,Sheik)
+Player 2: mYi GGs | Liva  (Peach,Sheik)
+Bracket: Losers Top 12 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: demLong  (Falco, Fox)
+Player 2: OverLord  (Marth)
+Bracket: Losers Top 12 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Selkie + Seretur  None
+Player 2: Isdsar + Supah0t - Winners Finals  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Mirko + demLong  None
+Player 2: Dax + OverLord - Losers Semis  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Mirko + demLong  None
+Player 2: Isdsar + Supah0t - Losers Finals  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Selkie + Seretur  None
+Player 2: Isdsar + Supah0t - Grand Finals  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Overlord  (Marth)
+Player 2: Dax  (Cpt.Falcon,Marth)
+Bracket: Losers Top 8
+Game: Unknown
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: mYi GGs | Liva  (Fox, Peach)
+Player 2: Mirko  (Jigglypuff)
+Bracket: Losers Top 8 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: AvengerAngel  (Falco)
+Player 2: Soda  (IC)
+Bracket: Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Isdsar  (Cpt.Falcon)
+Player 2: Seretur  (Falco)
+Bracket: Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Soda  (IC)
+Player 2: Dax  (Cpt.Falcon)
+Bracket: Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: mYi GGs | Liva  (Peach)
+Player 2: Seretur  (Falco)
+Bracket: Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: AvengerAngel  (Falco)
+Player 2: Isdsar  (Cpt.Falcon)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Seretur  (Falco)
+Player 2: Dax  (Cpt.Falcon, Marth)
+Bracket: Losers Semis 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: Seretur  (Falco)
+Player 2: AvengerAngel  (Falco)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: Overkill 2 
+Player 1: AvengerAngel  (Falco)
+Player 2: Isdsar  (Cpt.Falcon)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: LG | Ice  (Fox)
+Player 2: Timi  (Falco)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Timi  (Falco)
+Player 2: G5 | Usleon  (Sheik)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Timi  (Falco)
+Player 2: Kellner  (Peach)
+Bracket: Losers Semis 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: LG | Ice  (Fox)
+Player 2: G5 | Usleon  (Sheik)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: gLory  (Sheik)
+Player 2: Timi  (Falco)
+Bracket: Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: LG | Ice  (Fox)
+Player 2: Timi  (Falco)
+Bracket: Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: pheX  (Peach)
+Player 2: Kellner  (Peach)
+Bracket: Top 8 Losers 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Naru  (Peach)
+Player 2: HAN  (Marth)
+Bracket: Exhibition Match 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: fatman.spam  (IC)
+Player 2: Kellner  (Peach)
+Bracket: Top 12 Losers 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Blaze  (Peach)
+Player 2: G5 | Usleon  (Sheik)
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: LG | Ice  (Fox)
+Player 2: fatman.spam  (IC)
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: pheX  (Peach)
+Player 2: Timi  (Falco)
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Ice + Kellner  None
+Player 2: Timi + gLory - Grand Finals  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: pheX + Usleon  None
+Player 2: Timi + gLory - Losers Finals  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: pheX + Usleon  None
+Player 2: Charon + ImperfeCt - Losers Semis  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Ice + Kellner  None
+Player 2: Timi + gLory - Winners Finals  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Charon + ImperfeCt  None
+Player 2: MISTRRLOVE + Samjacobs1 - Losers Quarters  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Ice + Kellner  None
+Player 2: Charon + ImperfeCt - Winners Semis  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Charon + ImperfeCt  None
+Player 2: pheX + Usleon - Winners Quarters  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Dalung + SchlimmShady  None
+Player 2: Timi + gLory - Winners Quarters  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: QoBA + Shiv  None
+Player 2: HP49 + Iffy - Top 24 Losers  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: ZetTroxX + Naru  None
+Player 2: Supercat Meow + Kaese - Top 24 Winners  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: TMT + TechNick  None
+Player 2: Timi + gLory - Top 48 Winners  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Baron Brody + RiKzz  None
+Player 2: pheX + Usleon - Top 48 Winners  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Snedderick + Konati  None
+Player 2: Tyra + Optik Tolik - Top 48 Winners  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: ZetTroxX + Naru  None
+Player 2: Bux_Baum + Dahashgulash - Top 48 Winners  None
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Snedderick  (Falco)
+Player 2: Findus  (Fox)
+Bracket: Smash
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: ZetTroxX  (Falco)
+Player 2: MISTRRLOVE  (Peach)
+Bracket: Top 24 Losers 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Kellner  (Peach)
+Player 2: Konati  (Cpt. Falcon)
+Bracket: Top 24 Losers 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: G5 | Usleon  (Sheik)
+Player 2: ZetTroxX  (Falco)
+Bracket: Top 24 Winners 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: gLory  (Sheik)
+Player 2: Kellner  (Peach)
+Bracket: Top 24 Winners 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Kaese  (Sheik)
+Player 2: ZetTroxX  (Falco)
+Bracket: Top 32 Winners 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: gLory  (Sheik)
+Player 2: SchlimmShady  (Mario)
+Bracket: Top 32 Winners 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Suschko  (Falco)
+Player 2: VIP  (Jigglypuff)
+Bracket: Smash
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Krujo  (Marth)
+Player 2: Alex  (Fox)
+Bracket: Smash
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Sunbro  (Sheik)
+Player 2: Beatjosh  (Pikachu)
+Bracket: Smash
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: gLory  (Sheik)
+Player 2: Gereon  (Samus)
+Bracket: Smash
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Stormrat  (Samus)
+Player 2: Pyro  (Falco)
+Bracket: Smash
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: JayBee  (Sheik)
+Player 2: MEAT  (Sheik)
+Bracket: Smash
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: SchlimmShady  (Mario)
+Player 2: Tobi  (Falco)
+Bracket: Pools Wave B 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: beld  (Sheik)
+Player 2: Blaze  (Peach)
+Bracket: Pools Wave B 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: gLory  (Sheik)
+Player 2: Snedderick  (Falco)
+Bracket: Pools Wave B 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: HP49  (Cpt. Falcon)
+Player 2: Blaze  (Peach)
+Bracket: Pools Wave B 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: KaPe  (Peach)
+Player 2: G5 | Usleon  (Sheik)
+Bracket: Pools Wave B 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: LG | Ice  (Marth)
+Player 2: Shiv  (Falco)
+Bracket: Pools Wave B 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: TMT  (Sheik)
+Player 2: BananeMarmelade  (Marth)
+Bracket: Pools Wave B 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: MEAT  (Sheik)
+Player 2: Naru  (Peach)
+Bracket: Pools Wave B 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: ConFuzius  (Falco)
+Player 2: VDV | Baron Brody  (Falco)
+Bracket: Pools Wave A 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: ZetTroxX  (Falco)
+Player 2: RiKzz  (Marth)
+Bracket: Pools Wave A 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Samjacobs1  (Falco)
+Player 2: SquiltenDorf  (Fox)
+Bracket: Pools Wave A 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Dalung  (Fox)
+Player 2: Beatjosh  (Pikachu)
+Bracket: Pools Wave A 
+Game: Melee
+-------------
+
+Tournament Name: The Den #1 
+Player 1: Dahashgulasch  (Pikachu)
+Player 2: Seltigger  (Sheik)
+Bracket: Pools Wave A 
+Game: Melee
+-------------
+
 Tournament Name: Eclipse 2 
 Player 1: [A]rmada  (Peach)
 Player 2: LG | Ice  (Fox)

@@ -1,3 +1,8389 @@
+Tournament Name: Get Smashed #109 
+Player 1: Tempo|RagingCherry  (Ice Climbers)
+Player 2: dizzkidboogie  (Fox)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #109 
+Player 1: Dizzkidboogie  (Ice Climbers)
+Player 2: SPY|Nintendude  (Ice Climbers)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #109 
+Player 1: SPY|Nintendude  (Ice Climbers)
+Player 2: Cactuar  (Fox/DK)
+Bracket:  Losers Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #109 
+Player 1: SPY|Nintendude  (Ice Climbers)
+Player 2: Reno  (Fox)
+Bracket:  Losers Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #109 
+Player 1: Dizzkidboogie  (Ice Climbers)
+Player 2: Cactuar  (Fox)
+Bracket:  Winners Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #109 
+Player 1: Dizzkidboogie  (Ice Climbers)
+Player 2: Reno  (Fox)
+Bracket:  Winners Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #109 
+Player 1: SPY|Nintendude  (Ice Climbers)
+Player 2: Cactuar  (Fox)
+Bracket:  Winners Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #109 
+Player 1: Reno  (Fox/Sheik)
+Player 2: MattDotZeb  (Falco)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #109 
+Player 1: Bardull  (Marth)
+Player 2: Cactuar  (Marth)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #109 
+Player 1: Charlezard  (Sheik)
+Player 2: SPY|Nintendude  (Marth/Ice Climbers)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #109 
+Player 1: Chris Best  (Marth)
+Player 2: MattDotZeb  (Fox/Falco)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #109 
+Player 1: Bardull  (Marth)
+Player 2: TMG|Maybe  (Ice Climbers)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #109 
+Player 1: Tempo|RagingCherry  (Jigglypuff)
+Player 2: BenSW  (Falco)
+Bracket:  Winners Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #109 
+Player 1: DrJwns  (Falco)
+Player 2: Clubs  (Sheik)
+Bracket:  Winners Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #109 
+Player 1: Charlezard  (Sheik)
+Player 2: Paragon  (Falco)
+Bracket:  Winners Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #109 
+Player 1: Dacidbro  (Marth)
+Player 2: Suzarya  (Peach)
+Bracket:  Winners Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #109 
+Player 1: Coldo  (Dr. Mario/Luigi)
+Player 2: Zander  (Jigglypuff)
+Bracket:  Winners Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #22 
+Player 1: DSS  (Meta Knight/Sheik)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #22 
+Player 1: DSS  (Meta Knight/Cloud)
+Player 2: WYW|Soulimar  (Olimar)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #22 
+Player 1: DSS  (Meta Knight/Cloud)
+Player 2: Kronos2560  (Cloud)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #22 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: WYW|Soulimar  (Olimar)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #22 
+Player 1: IX|GT|Oblivion  (Meta Knight)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #22 
+Player 1: WYW|Soulimar  (Olimar)
+Player 2: IX|GT|Moonboyjosh  (Captain Falcon)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #22 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: GT|Chinito  (Mario)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #22 
+Player 1: IX|GT|Oblivion  (Meta Knight)
+Player 2: Kronos2560  (Cloud)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #22 
+Player 1: IX|GT|Moonboyjosh  (Captain Falcon)
+Player 2: DSS  (Meta Knight)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #22 
+Player 1: GT|Chinito  (Mario)
+Player 2: PXG|York  (Olimar)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #22 
+Player 1: Scourge  (Sonic)
+Player 2: T17|Big Sean  (Bowser)
+Bracket:  Winners Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #22 
+Player 1: CrispyTacoz  (Link)
+Player 2: DMG|Kato  (Falco)
+Bracket:  Winners Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #22 
+Player 1: Hurl  (Captain Falcon)
+Player 2: Shing0  (Wii Fit Trainer)
+Bracket:  Winners Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #108 
+Player 1: ABAP|NMW  (Captain Falcon)
+Player 2: ycz  (Samus)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #108 
+Player 1: Chris Best  (Marth)
+Player 2: ycz  (Samus)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #108 
+Player 1: Chris Best  (Marth)
+Player 2: Arcadia  (Marth)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #108 
+Player 1: ycz  (Samus)
+Player 2: ABAP|NMW  (Captain Falcon)
+Bracket:  Winners Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #108 
+Player 1: ycz  (Samus)
+Player 2: TMG|Maybe  (Ice Climbers)
+Bracket:  Winners Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #108 
+Player 1: ABAP|NMW  (Captain Falcon)
+Player 2: Chris Best  (Marth)
+Bracket:  Winners Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #108 
+Player 1: ycz  (Samus)
+Player 2: Myko  (Fox)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #108 
+Player 1: TMG|Maybe  (Ice Climbers)
+Player 2: Phil  (Fox)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #108 
+Player 1: Chris Best  (Marth)
+Player 2: Umarth  (Marth)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #108 
+Player 1: ABAP|NMW  (Captain Falcon)
+Player 2: Charlezard  (Sheik)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #108 
+Player 1: TMG|Maybe  (Ice Climbers)
+Player 2: Arcadia  (Marth)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #108 
+Player 1: Charlezard  (Sheik)
+Player 2: richtit  (Falco)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #108 
+Player 1: Ethan  (Falco)
+Player 2: Destinyfan21  (Marth)
+Bracket:  Winners Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed #108 
+Player 1: Eggmode  (Fox)
+Player 2: Clubs  (Sheik)
+Bracket:  Winners Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #21 
+Player 1: WYW|Soulimar  (Olimar)
+Player 2: KOSSismoss  (Game & Watch)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #21 
+Player 1: WYW|Soulimar  (Olimar)
+Player 2: DSS  (Meta Knight)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #21 
+Player 1: ST|Vermillion  (Cloud)
+Player 2: DSS  (Meta Knight)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #21 
+Player 1: KOSSismoss  (Game & Watch)
+Player 2: WYW|Soulimar  (Olimar)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #21 
+Player 1: ST|Vermillion  (Wario/Cloud)
+Player 2: KOSSismoss  (Game & Watch)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #21 
+Player 1: WYW|Legit  (Sheik/Diddy Kong)
+Player 2: WYW|Soulimar  (Olimar)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #21 
+Player 1: DSS  (Meta Knight)
+Player 2: KOSSismoss  (Game & Watch)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #21 
+Player 1: Soronie  (Game & Watch)
+Player 2: WYW|Legit  (Lucario/Diddy Kong)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #21 
+Player 1: WYW|Soulimar  (Olimar)
+Player 2: RvL|Xzax  (Fox)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #21 
+Player 1: ST|Vermillion  (Cloud)
+Player 2: Kronos2560  (Cloud)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #21 
+Player 1: CripyTacoz  (Link)
+Player 2: Soronie  (Game & Watch)
+Bracket:  Bracket Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #21 
+Player 1: KOSSismoss  (Game & Watch)
+Player 2: BaNdt  (Villager)
+Bracket:  Bracket Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #21 
+Player 1: 8BIT|Nabster  (Rosalina & Luma)
+Player 2: ST|Vermillion  (Cloud)
+Bracket:  Bracket Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #21 
+Player 1: WYW|Soulimar  (Olimar)
+Player 2: IX|GT|Oblivion  (Meta Knight/Pit)
+Bracket:  Bracket Pool 2
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #21 
+Player 1: Jae Pea  (Villager)
+Player 2: IX|Moonboyjosh  (Mewtwo)
+Bracket:  Bracket Pool 2
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #21 
+Player 1: Kronos2560  (Cloud)
+Player 2: Treysemme  (Corrin)
+Bracket:  Bracket Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #21 
+Player 1: JEFFsoBOMB  (Zero Suit Samus)
+Player 2: T17|Big Sean  (Bowser)
+Bracket:  Bracket Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #21 
+Player 1: WolfLord  (Lucina)
+Player 2: DMG|Kato  (Falco)
+Bracket:  Bracket Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #20 
+Player 1: RvL|Xzax  (Falco)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #20 
+Player 1: RvL|Xzax  (Falco)
+Player 2: DSS  (Meta Knight)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #20 
+Player 1: Zex  (Diddy Kong/Sheik)
+Player 2: DSS  (Ness/Meta Knight)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #20 
+Player 1: RvL|Xzax  (Falco)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #20 
+Player 1: DSS  (Game & Watch/Meta Knight)
+Player 2: RvL|Xzax  (Falco)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #20 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: Rice  (Ganondorf)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #20 
+Player 1: Rude  (Bayonetta)
+Player 2: DSS  (Ness/Donkey Kong)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #20 
+Player 1: IX|GT|Oblivion  (Pit)
+Player 2: RvL|Xzax  (Falco)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #20 
+Player 1: Rice  (Ganondorf)
+Player 2: Chinito  (Mario)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #20 
+Player 1: BaNdt  (Villager)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #20 
+Player 1: DSS  (Ness/Donkey Kong)
+Player 2: CrispyTacoz  (Cloud)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #20 
+Player 1: Rude  (Bayonetta)
+Player 2: Kronos2560  (Cloud)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #20 
+Player 1: Jae Pea  (Villager)
+Player 2: IX|GT|Oblivion  (Meta Knight)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #20 
+Player 1: Chinito  (Mario)
+Player 2: byte  (Donkey Kong)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #20 
+Player 1: SA|WimpLow  (Donkey Kong)
+Player 2: PXG|York  (Olimar)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #20 
+Player 1: IX|GT|Moonboyjosh  (Captain Falcon)
+Player 2: 8BIT|Roc  (R.O.B.)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #20 
+Player 1: Scourge  (Yoshi)
+Player 2: Epsilon  (Yoshi)
+Bracket:  Winner Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot Local #3 
+Player 1: Daemiela & Kannon19  None
+Player 2: Birarda & Iles None
+Bracket:  Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot Local #3 
+Player 1: 10,000 Puppies & dsNinja  None
+Player 2: Jamesbot & Robin None
+Bracket:  Winners R1 
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot Local #3 
+Player 1: Birarda & Iles  None
+Player 2: Jamesbot & Robin None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot Local #3 
+Player 1: Musashi & Grimmreaper  None
+Player 2: Jamesbot & Robin None
+Bracket:  Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot Local #3 
+Player 1: Chris & LXmllr  None
+Player 2: Palmiotti & W3R3W0LFBARMITZ None
+Bracket:  Winners R1 
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot Local #3 
+Player 1: Fizzi & Alex  None
+Player 2: Musashi & GrimmReaper None
+Bracket:  Winners R1 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #19 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: GT|ST|Vermillion  (Cloud)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #19 
+Player 1: IX|GT|Oblivion  (Meta Knight)
+Player 2: GT|ST|Vermillion  (Cloud)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #19 
+Player 1: WYW|Soulimar  (Olimar)
+Player 2: GT|ST|Vermillion  (Cloud)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #19 
+Player 1: IX|GT|Oblivion  (Meta Knight)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #19 
+Player 1: IX|GT|Oblivion  (Meta Knight)
+Player 2: WYW|Soulimar  (Olimar)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #19 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: GT|ST|Vermillion  (Cloud)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #19 
+Player 1: Jae Pea  (Villager)
+Player 2: IX|GT|Oblivion  (Meta Knight)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #19 
+Player 1: IX|GT|VSC|Rude  (Bayonetta)
+Player 2: GT|ST|Vermillion  (Cloud)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #19 
+Player 1: PXG|GiGa|DJ Relly  (Sonic)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #19 
+Player 1: TCM|Iron_Gonzalez  (Lucas)
+Player 2: IX|GT|Oblivion  (Meta Knight)
+Bracket:  Pool 2 Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #19 
+Player 1: Kronos2560  (Cloud)
+Player 2: GT|ST|Vermillion  (Cloud)
+Bracket:  Pool 4 Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #19 
+Player 1: TCM|Krustol  (Mario)
+Player 2: PXG|York  (Olimar)
+Bracket:  Pool 3 Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #19 
+Player 1: Jae Pea  (Villager)
+Player 2: swft|8BIT|Nova!  (Fox)
+Bracket:  Pool 2 Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #19 
+Player 1: DMG|Kato  (Falco)
+Player 2: 4LUNA|8BIT|Roc  (R.O.B.)
+Bracket:  Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #19 
+Player 1: CrispyTacoz  (Palutena)
+Player 2: Moonboyjosh  (C. Falcon)
+Bracket:  Pool 1 Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #19 
+Player 1: Scourge  (Sonic)
+Player 2: Garaku  (ZSS)
+Bracket:  Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #19 
+Player 1: Epsilon  (Yoshi)
+Player 2: DeepCrimson  (Fox)
+Bracket:  Pool 2
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #107 
+Player 1: SAB|Ralph  (Fox)
+Player 2: Bardull  (Marth)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #107 
+Player 1: ycz6  (Samus)
+Player 2: SAB|Ralph  (Falco)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #107 
+Player 1: NMW  (Captain Falcon)
+Player 2: SAB|Ralph  (Fox)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #107 
+Player 1: ycz6  (Samus)
+Player 2: Bardull  (Marth/Captain Falcon)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #107 
+Player 1: NMW  (Captain Falcon)
+Player 2: Bardull  (Marth/Falco)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #107 
+Player 1: ycz6  (Samus)
+Player 2: SAB|Ralph  (Falco/Captain Falcon)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #107 
+Player 1: Bardull  (Marth)
+Player 2: NaCl  (Ice Climbers)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #107 
+Player 1: Arcadia  (Marth)
+Player 2: SAB|Ralph  (Fox)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #107 
+Player 1: richtit  (Falco)
+Player 2: ycz6  (Samus)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #107 
+Player 1: Arcadia  (Marth)
+Player 2: Clubs  (Sheik/Falco)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #107 
+Player 1: Dr Jwns  (Falco)
+Player 2: Myko  (Falco)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #18 
+Player 1: Shaky  (Ness)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #18 
+Player 1: Shaky  (Ness)
+Player 2: PXG|GT|DJ Relly  (Corrin)
+Bracket:  Losers Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #18 
+Player 1: Shaky  (Ness)
+Player 2: WTF|Trevonte  (Captain Falcon)
+Bracket:  Losers Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #18 
+Player 1: PXG|GT|DJ Relly  (Sonic)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Winners Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #18 
+Player 1: SD|Andy_Sauro  (Bowser Jr.)
+Player 2: WTF|Trevonte  (C. Falcon)
+Bracket:  Losers Round 6
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #18 
+Player 1: PXG|GT|DJ Relly  (Sonic)
+Player 2: 8BIT|ZooM  (Fox)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #18 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: 8BIT|Nabster  (Rosalina&Luma)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #18 
+Player 1: 8BIT|ZooM  (Falco)
+Player 2: SD|Andy_Sauro  (Bowser Jr.)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #18 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: IX|Rude  (Bayonetta)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #18 
+Player 1: PXG|GT|DJ Relly  (Sonic)
+Player 2: WTF|Trevonte  (Captain Falcon)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #18 
+Player 1: Chinito  (Mario)
+Player 2: 8BIT|Nabster  (Rosalina&Luma)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #18 
+Player 1: DMG|Kato  (Falco)
+Player 2: IX|Rude  (Bayonetta)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #18 
+Player 1: 4LUNA|8BIT|Roc  (R.O.B.)
+Player 2: WYW|Gpik  (Game & Watch)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #18 
+Player 1: Moonboyjosh  (Captain Falcon)
+Player 2: LightlyToastedWaffle  (Lucas)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: Higashi  None
+Player 2: Fs|Pavocado None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: Higashi  None
+Player 2: Ghodere None
+Bracket:  Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: Brass  None
+Player 2: Ghodere None
+Bracket:  Losers Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: Higashi  None
+Player 2: Fs|Pavocado None
+Bracket:  Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: Brass  None
+Player 2: Ultima None
+Bracket:  Losers Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: Ghodere  None
+Player 2: PH|Nando Tovar None
+Bracket:  Losers Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: Fs|Pavocado  None
+Player 2: Brass None
+Bracket:  Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: Higashi  None
+Player 2: PH|Nando Tovar None
+Bracket:  Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: Ghodere  None
+Player 2: PH|Jame None
+Bracket:  Losers Round 5 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: Ultima  None
+Player 2: MattyPie None
+Bracket:  Losers Round 5 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: Fs|Pavocado  None
+Player 2: SRK DM|El Cubano Loco None
+Bracket:  Winners Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: PH|Nando Tovar  None
+Player 2: Mattypie None
+Bracket:  Winners Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: Higashi  None
+Player 2: Casual Phil None
+Bracket:  Winners Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: Nacer  None
+Player 2: Brass None
+Bracket:  Winners Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: Antony  None
+Player 2: SRK DM|El Cubano Loco None
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: Higashi  None
+Player 2: DM|Burn Notice None
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: Fs|Pavocado  None
+Player 2: DM|n0thingman None
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: Brass  None
+Player 2: Ultima None
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: pH|Nando Tovar  None
+Player 2: illzilla None
+Bracket:  Winners Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #93 
+Player 1: Fs|Pavocado  None
+Player 2: The Pokemon Seaking None
+Bracket:  Winners Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot Monthly Series 1 
+Player 1: G2 eSports  None
+Player 2: Iris None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot Monthly Series 1 
+Player 1: Cheek Clappers  None
+Player 2: Selfless None
+Bracket:  Third Place 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot Monthly Series 1 
+Player 1: G2 eSports  None
+Player 2: Cheek Clappers None
+Bracket:  Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot Monthly Series 1 
+Player 1: Selfless  None
+Player 2: Iris None
+Bracket:  Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot Monthly Series 1 
+Player 1: Cheek Clappers  None
+Player 2: NRG None
+Bracket:  Quarter Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot Monthly Series 1 
+Player 1: G2 eSports  None
+Player 2: Equinox None
+Bracket:  Quarter Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot Monthly Series 1 
+Player 1: TBA  None
+Player 2: Iris None
+Bracket:  Quarter Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot Monthly Series 1 
+Player 1: Selfless  None
+Player 2: Bench Squad None
+Bracket:  Quarter Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #17
+Player 1: Winner Semis: Soulimar & Sean  None
+Player 2: :^ None
+Bracket:  Teams 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #17
+Player 1: Loser Finals: Krustol & Vermillion  None
+Player 2: Soulimar & Sean None
+Bracket:  Teams 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #17
+Player 1: Grand Finals: Krustol & Vermillion  None
+Player 2: Rice & Xzax None
+Bracket:  Teams 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #17
+Player 1: Loser Semis: Krustol & Vermillion  None
+Player 2: Snorlaxplox & Probeans None
+Bracket:  Teams 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #17
+Player 1: Loser Quarters: Snorlaxplox & Probeans  None
+Player 2: Moog & 3xA None
+Bracket:  Teams 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #17
+Player 1: Winner Finals: Sean & Soulimar  None
+Player 2: Xzax & Rice None
+Bracket:  Teams 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #17
+Player 1: Winner Semis: 3xA & MooG  None
+Player 2: Xzax & Rice None
+Bracket:  Teams 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #17
+Player 1: Winner Quarters: Rice & Xzax  None
+Player 2: DJRelly & Oblivion None
+Bracket:  Teams 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #17
+Player 1: Winner Quarters: Sean & Soulimar  None
+Player 2: DSS & Kelso None
+Bracket:  Teams 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #17
+Player 1: Winner Quarters: 3xA & MooG  None
+Player 2: Iron_Gonzales & Mr. Peabody None
+Bracket:  Teams 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #17
+Player 1: Winner Ro16: Jae Pea & BaNdt  None
+Player 2: Snorlaxplox & Probeans None
+Bracket:  Teams 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #17
+Player 1: Winner Ro16: Lui$ & Smurf  None
+Player 2: Oblivion & DJRelly None
+Bracket:  Teams 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #17
+Player 1: Winner Ro16: Rice & Xzax  None
+Player 2: Mijo & ChosenL None
+Bracket:  Teams 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #17
+Player 1: Winner Ro32: Pump Magic & Scourge  None
+Player 2: Jam & Roc None
+Bracket:  Teams 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #17
+Player 1: Winner Ro32: Byte & Kronos  None
+Player 2: Nova! & Flo None
+Bracket:  Teams 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #17 
+Player 1: TCM  None
+Player 2: DMG None
+Bracket:  Crew Battle
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #106 
+Player 1: NMW  (C. Falcon)
+Player 2: Bardull  (Marth)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #106 
+Player 1: Phil  (Fox)
+Player 2: Bardull  (Marth)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #106 
+Player 1: ycz6  (Samus)
+Player 2: Bardull  (Marth)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #106 
+Player 1: Umarth  (Marth)
+Player 2: Bardull  (Marth)
+Bracket:  Loser Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #106 
+Player 1: NMW  (Captain Falcon)
+Player 2: Phil  (Fox)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #106 
+Player 1: Phil  (Fox)
+Player 2: HMW  (Mario)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #106 
+Player 1: NMW  (C. Falcon)
+Player 2: Bardull  (Marth)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #106 
+Player 1: Imyt  (Sheik)
+Player 2: Phil  (Fox)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #106 
+Player 1: HMW  (Mario)
+Player 2: Umarth  (Marth)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #106 
+Player 1: ycz6  (Ness/Peach)
+Player 2: Bardull  (Ness/Samus)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #106 
+Player 1: Brand  (Samus)
+Player 2: NMW  (Captain Falcon)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #106 
+Player 1: HuggerMugger  (Luigi)
+Player 2: Umarth  (Marth)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #106 
+Player 1: ycz6  (Samus)
+Player 2: Clubs  (Sheik)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #106 
+Player 1: Brand  (Samus)
+Player 2: Chris  (Falco)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #106 
+Player 1: HuggerMugger  (Luigi)
+Player 2: FlyTaka  (Falco)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #104 
+Player 1: ABAP|NMW  (C. Falcon)
+Player 2: SAB|Ralph  (Fox)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #104 
+Player 1: SAB|Ralph  (Falco/C. Falcon)
+Player 2: Azusa  (Peach)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #104 
+Player 1: Boulevard  (Luigi)
+Player 2: SAB|Ralph  (Falco)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #104 
+Player 1: ABAP|NMW  (C. Falcon)
+Player 2: Azusa  (Peach)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #104 
+Player 1: ABAP|NMW  (C. Falcon)
+Player 2: Bardull  (Marth)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #104 
+Player 1: SAB|Ralph  (Falco/Jigglypuff)
+Player 2: Azusa  (Peach)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #104 
+Player 1: Bardull  (Marth)
+Player 2: s0ft  (Jigglypuff)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #104 
+Player 1: ycz6  (Samus)
+Player 2: ABAP|NMW  (C. Falcon)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #104 
+Player 1: Boulevard  (Luigi)
+Player 2: SAB|Ralph  (Falco)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #104 
+Player 1: Umarth  (Marth)
+Player 2: Azusa  (Peach)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #104 
+Player 1: NACL  (Ice Climbers)
+Player 2: ycz6  (Samus)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #104 
+Player 1: Umarth  (Marth)
+Player 2: Grandma's Cleavage  (Falco)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #104 
+Player 1: Paragon  (Falco)
+Player 2: Haseeb  (Marth)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #104 
+Player 1: Wiz  (C. Falcon/Ice Climbers)
+Player 2: Butter  (Samus)
+Bracket:  Winner Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #104 
+Player 1: Palmer  (C. Falcon)
+Player 2: Massy  (Pikachu)
+Bracket:  Winner Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: Zex  (Mario/Diddy)
+Player 2: DSS  (Donkey Kong/Meta Knight/Diddy)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: Zex  (Diddy Kong)
+Player 2: KOSSismoss  (Game & Watch)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: 8BIT|Nabster  (Rosalina & Luma)
+Player 2: KOSSismoss  (Game & Watch)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: Zex  (Diddy Kong/Sheik)
+Player 2: DSS  (Meta Knight/Game & Watch)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: FLO|8BIT|NitN  (Rosalina/Charizard)
+Player 2: KOSSismoss  (G&W)
+Bracket:  Loser Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: 8BIT|Nabster  (Rosalina & Luma)
+Player 2: Rude  (Bayonetta)
+Bracket:  Loser Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: KOSSismoss  (Game & Watch)
+Player 2: DSS  (Meta Knight)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: Rude  (Bayonetta)
+Player 2: Zex  (Meta Knight)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: DSS  (Meta Knight)
+Player 2: 8BIT|Nabster  (C. Falcon)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: KOSSismoss  (Game & Watch)
+Player 2: Mav  (Cloud)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: Zex  (Sheik)
+Player 2: FLO|8BIT|NitN  (Rosalina & Luma)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: Rude  (Bayonetta)
+Player 2: Xzax  (Mario/Diddy Kong)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: DSS  (Meta Knight)
+Player 2: Scourge  (Sonic/Charizard)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: 8BIT|Nabster  (Rosalina & Luma)
+Player 2: CrispyTacoz  (Cloud)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: Evil|Mo  (Mewtwo)
+Player 2: Mav  (Cloud)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: BaNdt  (Villager)
+Player 2: Rude  (Bayonetta)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: Moonboyjosh  (C. Falcon/Link)
+Player 2: 8BIT|Halcyon  (Bayonetta)
+Bracket:  Winners Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: T17|Big Sean  (Bowser)
+Player 2: RickShaw  (Diddy Kong)
+Bracket:  Winners Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #16 
+Player 1: 4LUNA|8BIT|Roc  (R.O.B.)
+Player 2: PXG|York  (Olimar)
+Bracket:  Winners Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Catherine
+Player 1: Genesis 4 Special - Grand Finals - Moogle Parade  None
+Player 2: Dacidbro None
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Catherine
+Player 1: Genesis 4 Special - Losers Finals - Toph  None
+Player 2: Moogle Parade None
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Catherine
+Player 1: Genesis 4 Special - Losers Semis - Moogle Parade  None
+Player 2: KaraKancel None
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #3
+Player 1: Genesis 4 Special - Grand Finals - IFD|Dr. Skipper  None
+Player 2: SU|Texter None
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Catherine
+Player 1: Genesis 4 Special - Winners Finals - Dacidbro  None
+Player 2: Toph None
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #4
+Player 1: Genesis 4 Special - Losers Finals - SU|Texter  None
+Player 2: AR|zecmo None
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Catherine
+Player 1: Genesis 4 Special - Losers Quarters - Ivan Cruz  None
+Player 2: KaraKancel None
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #3
+Player 1: Genesis 4 Special - Winners Finals - IFD|Dr. Skipper  None
+Player 2: AR|zecmo None
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Catherine
+Player 1: Genesis 4 Special - Losers Round 1 - Blue Risu  None
+Player 2: Ivan Cruz None
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Catherine
+Player 1: Genesis 4 Special - Winners Semis - Dacidbro  None
+Player 2: KaraKancel None
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #3
+Player 1: Genesis 4 Special - Losers Semis - SU|Ty  None
+Player 2: SU|Texter None
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Catherine
+Player 1: Genesis 4 Special - Winners Semis - Toph  None
+Player 2: Moogle Parade None
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #3
+Player 1: Genesis 4 Special - Losers Quarters - ABC|Slant  None
+Player 2: SU|Texter None
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Catherine
+Player 1: Genesis 4 Special - Winners Quarters - Ivan Cruz  None
+Player 2: Moogle Parade None
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #4
+Player 1: Genesis 4 Special - Winners Semis - IFD|Dr. Skipper  None
+Player 2: SU|Texter None
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Catherine
+Player 1: Genesis 4 Special - Winners Quarters - Dacidbro  None
+Player 2: Zecmo None
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #3
+Player 1: Genesis 4 Special - Winners Semis - AR|zecmo  None
+Player 2: YayitsAndrew None
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Catherine
+Player 1: Genesis 4 Special - Winners Quarters - Shindags  None
+Player 2: KaraKancel None
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: ERG|Ryan Ford  (Fox)
+Player 2: HomeMadeWaffles  (Falco)
+Bracket:  Winners Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: Reno  (Fox)
+Player 2: PG|Plup  (Luigi)
+Bracket:  Winners Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: Spark  (Sheik)
+Player 2: FendrickLamar  (Marth)
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: Rocky  (Falco)
+Player 2: PG|Plup  (Luigi)
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: Zorc  (Ice Climbers)
+Player 2: ERG|Ryan Ford  (Falco)
+Bracket:  Winners Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: Frycook  (Ice Climbers)
+Player 2: Reno  (Fox)
+Bracket:  Winner Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: ABAP|NMW  (C. Falcon)
+Player 2: Tang  (Fox)
+Bracket:  Winners Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: Xest  (Falco)
+Player 2: LGC|DonB  (Fox)
+Bracket:  Winners Ro64 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: Charlezard  (Sheik)
+Player 2: GME  (Sheik/Ice Climbers)
+Bracket:  Winner Ro64 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: Zorc  (Ice Climbers)
+Player 2: Grandmas Clevage  (Falco)
+Bracket:  Winners Ro64 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: SpacePigeon  (Jigglypuff)
+Player 2: Shinobi  (Fox)
+Bracket:  Winners Ro64 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: Daydee  (Samus)
+Player 2: Clubs  (Sheik)
+Bracket:  Winners Ro64 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: Arcadia  (Marth)
+Player 2: Zander  (Jigglypuff)
+Bracket:  Winners Ro128 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: Dragmire Jr (Fox/Marth)
+Player 2: BertBusDriver (C. Falcon)
+Bracket:  Winner Ro128 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: Girony  (Jigglypuff)
+Player 2: G5|pheX  (Peach)
+Bracket:  Winner Ro128 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: CarrierPig  (Marth)
+Player 2: HomeMadeWaffles  (Doc)
+Bracket:  Winners Ro128 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: MARIOPARTYwBEER  (Falco/Fox)
+Player 2: Zorc  (Ice Climbers)
+Bracket:  Winners Ro128 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Grand Finals: WtF|Trevonte  (Sheik)
+Player 2: 9B  (Bayonetta)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Loser Finals: You3  (Duck Hunt)
+Player 2: 9B  (Bayonetta)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Loser Semis: RvL|Xzax  (Fox)
+Player 2: 9B  (Bayonetta)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Loser Quarters: RvL|Xzax (Fox)
+Player 2: G-FORCE Oni|Day (Lucario)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Winner Finals: You3  (Duck Hunt)
+Player 2: WtF|Trevonte  (Sheik)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Winner Semis: Ito  (Meta Knight)
+Player 2: You3  (Duck Hunt)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Winner Semis: WtF|Trevonte  (Sheik)
+Player 2: RvL|Xzax  (Fox)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: ERG|Ryan Ford  (Fox)
+Player 2: PG|Plup  (Luigi/Fox)
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15
+Player 1: Genesis 4-Winner Quarters: Ito (Meta Knight)
+Player 2: G-FORCE Oni|Day (Lucario)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: Kalamazhu  (Peach)
+Player 2: ERG|Ryan Ford  (Fox)
+Bracket:  Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Winner Quarters: RvL|Xzax  (Fox)
+Player 2: DNG|Kameme  (Yoshi)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4-Winners Quarters: eM|Zenyou  (Mario)
+Player 2: WtF|Trevonte  (Sheik)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: SPY|Nintendude  (ICs)
+Player 2: ERG|Ryan Ford  (Fox)
+Bracket:  Losers Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Pool 8: RvL|Xzax  (Fox)
+Player 2: 9B  (Bayonetta)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Pool 5: eM|Zenyou  (Mario)
+Player 2: DNG|Nietono  (Diddy Kong)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Pool 3: VSB CACAW|Big D  (Mario)
+Player 2: Ito  (Meta Knight)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: Spark  (Sheik)
+Player 2: ERG|Ryan Ford  (Fox)
+Bracket:  Losers Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Pool 1: KOSSismoss  (Mr. G&W)
+Player 2: DNG|Kameme  (Mega Man)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Pool 4: WtF|Trevonte  (Sheik)
+Player 2: Captain L  (Pikachu)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: SPY|Nintendude  (Ice Climbers)
+Player 2: CDK  (Fox)
+Bracket:  Losers Top 8 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Pool 2: SF RG|Regi Shikimi  (Mr. G&W)
+Player 2: You3  (Duck Hunt)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: SPY|Nintendude  (Ice Climbers)
+Player 2: Tai  (Marth)
+Bracket:  Losers Top 12 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Pool 6: G-FORCE Oni|Day  (Lucario)
+Player 2: SG|Hitaku  (Mewtwo)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Pool 5: C4  (Wario)
+Player 2: FILIP  (Mario)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: PG|Plup  (Luigi)
+Player 2: Kalamazhu  (Peach)
+Bracket:  Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Pool 7: WYW|Legit  (Diddy Kong)
+Player 2: Kei  (Cloud)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Pool 4: WYW|Arikie  (Sonic)
+Player 2: RSZ|Umeki  (Peach)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Pool 8: Jae Pea  (Villager)
+Player 2: Rideae  (Pikachu)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #105 
+Player 1: Spark  (Sheik)
+Player 2: Kalamazhu  (Peach)
+Bracket:  Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Pool 1: TCM|Heartsdealer  (Mario)
+Player 2: Rain  (Cloud)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Pool 8: VGBC|TKbreezy  (Dr. Mario)
+Player 2: RickShaw  (Sheik)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #15 
+Player 1: Genesis 4 - Pool 7: DMG|Dr. Fuego  (C. Falcon)
+Player 2: EBT|Redman  (Villager)
+Bracket:  Pre
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #92 
+Player 1: Ghodere  None
+Player 2: Ultima None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #92 
+Player 1: Fs | pavocado  None
+Player 2: Ultima None
+Bracket:  Loser Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #92 
+Player 1: Fs | pavocado  None
+Player 2: Ghodere None
+Bracket:  Winner Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #92 
+Player 1: Andy  None
+Player 2: Ultima None
+Bracket:  Loser Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #92 
+Player 1: Higashi  None
+Player 2: Ultima None
+Bracket:  Loser Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #92 
+Player 1: Andy  None
+Player 2: pH | Jame None
+Bracket:  Loser Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #92 
+Player 1: NO RESPECT  None
+Player 2: Higashi None
+Bracket:  Losers Round 5 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #92 
+Player 1: pH | Jame  None
+Player 2: Ghodere None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #92 
+Player 1: Fs | pavocado  None
+Player 2: Ultima None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #92 
+Player 1: pH | Jame  None
+Player 2: Higashi None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #92 
+Player 1: Andy  None
+Player 2: Ultima None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #92 
+Player 1: DM | Burn Notice  None
+Player 2: Fs | pavocado None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #92 
+Player 1: Ghodere  None
+Player 2: NO RESPECT None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #92 
+Player 1: Andy  None
+Player 2: KentoBento None
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #92 
+Player 1: pH | Jame  None
+Player 2: DM | doogo530 None
+Bracket:  Winners Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #92 
+Player 1: SRK DM | El Cubano Loco  None
+Player 2: Antony None
+Bracket:  Winners Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #14 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: T17|Big Sean  (Bowser)
+Bracket:  Losers Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #14 
+Player 1: Xzax  (Fox)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #14 
+Player 1: BaNdt  (Villager)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #14 
+Player 1: WYW|Soulimar  (Olimar)
+Player 2: WYW|Legit  (Sheik)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #14 
+Player 1: Xzax  (Fox)
+Player 2: BaNdt  (Villager)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #14 
+Player 1: WYW|Soulimar  (Olimar)
+Player 2: Sinister  (Rosaluma/Charizard)
+Bracket:  Loser Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #14 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: BaNdt  (Villager)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #14 
+Player 1: FLO|8BIT|Sinister  (Rosalina & Luma/Charizard)
+Player 2: Xzax  (Fox)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #14 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: Q  (Pac-Man)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #14 
+Player 1: BaNdt  (Villager)
+Player 2: DSS  (Meta Knight)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #14 
+Player 1: CrispyTacoz  (Palutena)
+Player 2: 8BIT|Sinister  (Rosalina & Luma)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #14 
+Player 1: WYW|GPik  (Game & Watch)
+Player 2: TSG|PH|Chuck  (C. Falcon)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #14 
+Player 1: Q  (Pac-Man)
+Player 2: Kham  (Mewtwo)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #14 
+Player 1: RickShaw  (Sheik)
+Player 2: Chinito  (Mario)
+Bracket:  Winners Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #14 
+Player 1: 4LUNA|8BIT|Roc  (R.O.B.)
+Player 2: Oopsie|Mali  (C. Falcon)
+Bracket:  Winners Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #14 
+Player 1: DMG|CL|Telmo  (C. Falcon)
+Player 2: Nuggets  (Shulk)
+Bracket:  Winners Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #14 
+Player 1: LightlyToastedWaffle  (Lucas)
+Player 2: Illux  (Ike)
+Bracket:  Winners Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #91 
+Player 1: MattyPie  None
+Player 2: DM | Khiry Omega None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #91 
+Player 1: DM | Khiry Omega  None
+Player 2: NO RESPECT None
+Bracket:  Loser Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #91 
+Player 1: MattyPie  None
+Player 2: NO RESPECT None
+Bracket:  Winner Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #91 
+Player 1: DM | Khiry Omega  None
+Player 2: Higashi None
+Bracket:  Loser Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #91 
+Player 1: DM | Khiry Omega  None
+Player 2: SRK | El Cubano Loco None
+Bracket:  Loser Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #91 
+Player 1: Fs | Pavocado  None
+Player 2: Brass None
+Bracket:  Losers R5 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #91 
+Player 1: DM | John B.  None
+Player 2: SRK | El Cubano Loco None
+Bracket:  Losers R4 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #91 
+Player 1: Higashi  None
+Player 2: NO RESPECT None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #91 
+Player 1: MattyPie  None
+Player 2: DM | Khiry Omega None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #91 
+Player 1: Higashi  None
+Player 2: SRK | El Cubano Loco None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #91 
+Player 1: Brass  None
+Player 2: DM | John B None
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #91 
+Player 1: Ghodere  None
+Player 2: DM | n0thingman None
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #91 
+Player 1: Antony  None
+Player 2: SRK | El Cubano Loco None
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #91 
+Player 1: pavocado  None
+Player 2: Wobanger None
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #91 
+Player 1: SD BAFN | Thingie  None
+Player 2: DM | John B None
+Bracket:  Winners Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #91 
+Player 1: mark donkey  None
+Player 2: NO RESPECT None
+Bracket:  Winners Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #13 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: Ito  (Meta Knight)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #13 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: Ito  (Meta Knight)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #13 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: KOSSismoss  (Game & Watch)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #13 
+Player 1: Xzax  (Fox)
+Player 2: KOSSismoss  (Game & Watch)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #13 
+Player 1: Xzax  (Fox)
+Player 2: Stark  (Cloud/Roy)
+Bracket:  Loser Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #13 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: Xzax  (Fox)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #13 
+Player 1: Ito  (Meta Knight)
+Player 2: KOSSismoss  (Game & Watch)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #13 
+Player 1: Soronie  (Shulk/Sheik)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #13 
+Player 1: DSS  (Game & Watch/Diddy Kong)
+Player 2: Xzax  (Fox)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #13 
+Player 1: KOSSismoss  (Game & Watch)
+Player 2: Stark  (Cloud/Ike)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #13 
+Player 1: Ito  (Meta Knight)
+Player 2: Zex  (Sheik/Marth)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #13 
+Player 1: WYW|Virus  (R.O.B.)
+Player 2: DSS  (Meta Knight)
+Bracket:  Bracket Pool 2
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #13 
+Player 1: Zex  (Sheik)
+Player 2: Rice  (Mario/Ganondorf)
+Bracket:  Bracket Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #13 
+Player 1: BaNdt  (Villager)
+Player 2: IX|Rude  (Bayonetta)
+Bracket:  Bracket Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #13 
+Player 1: Scruggs  (Lucina)
+Player 2: CrispyTacoz  (Cloud)
+Bracket:  Bracket Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #13 
+Player 1: RickShaw  (Sheik)
+Player 2: Crazy  (Ness)
+Bracket:  Bracket Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #13 
+Player 1: WolfLord  (Robin)
+Player 2: T17|Big Sean  (Bowser)
+Bracket:  Bracket Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 7 
+Player 1: Leaf Esports  None
+Player 2: Selfless None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 7 
+Player 1: Triumph  None
+Player 2: Leaf Esports None
+Bracket:  Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 7 
+Player 1: Self Centered Bois  None
+Player 2: Selfless None
+Bracket:  Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 7 
+Player 1: Spicy Boiis  None
+Player 2: Selfless None
+Bracket:  Quarter Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 7 
+Player 1: Never Luckers  None
+Player 2: Leaf Esports None
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 7 
+Player 1: Lizard Wizzards  None
+Player 2: Daddy's Darlings None
+Bracket:  Pool A5 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 7 
+Player 1: Guilty By Association  None
+Player 2: 6Sense None
+Bracket:  Pool A6 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 7 
+Player 1: Audacity Esports  None
+Player 2: The Flying Clutchman None
+Bracket:  Pool A4 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #12 
+Player 1: KOSSismoss  (Mr. G & W)
+Player 2: Shaky  (Ness)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #12 
+Player 1: KOSSismoss  (Mr. G & W)
+Player 2: No Sponsor|Zex  (Cloud)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #12 
+Player 1: WtF|Trevonte  (Sheik)
+Player 2: No Sponsor|Zex  (Sheik)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #12 
+Player 1: Shaky  (Mr. G & W/Ness)
+Player 2: KOSSismoss  (Mr. G & W)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #12 
+Player 1: Shaky  (Mr. G & W)
+Player 2: No Sponsor|Zex  (Sheik)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #12 
+Player 1: KOSSismoss  (Game & Watch)
+Player 2: WtF|Trevonte  (Sheik)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #12 
+Player 1: Shaky  (Mr. G & W)
+Player 2: DSS  (Meta Knight)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #12 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: Zex  (Sheik)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #12 
+Player 1: IC|KOSSismoss  (Game & Watch)
+Player 2: PHO|C4  (Wario)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #12 
+Player 1: WtF|Trevonte  (Sheik)
+Player 2: TCM|FuTure  (Pikachu)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #12 
+Player 1: PXG|York  (Olimar)
+Player 2: GiGa|Oblivion  (Meta Knight)
+Bracket:  Pool 2
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #12 
+Player 1: WYW|Arikie  (Sonic/Bayonetta)
+Player 2: ST|Vermillion  (Cloud)
+Bracket:  Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #12 
+Player 1: 8BIT|Nabster  (Rosalina & Luma)
+Player 2: VSC|Rude  (Bayonetta)
+Bracket:  Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #12 
+Player 1: C4  (Wario)
+Player 2: Chinito  (Mario)
+Bracket:  Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #12 
+Player 1: Ish  (Falco)
+Player 2: 8BIT|Roc  (Sheik/R.O.B.)
+Bracket:  Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #12 
+Player 1: OAK|Dave  (Bayonetta/Palutena)
+Player 2: RSC|FONC|BlackDynoWright None
+Bracket:  Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #12 
+Player 1: GOC|Chaos Pro  (C. Falcon)
+Player 2: EBT|HuRL  (C. Falcon)
+Bracket:  Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #90 
+Player 1: Discord | Andy  None
+Player 2: MattyPie None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #90 
+Player 1: Higashi  None
+Player 2: MattyPie None
+Bracket:  Loser Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #90 
+Player 1: Higashi  None
+Player 2: Discord | Andy None
+Bracket:  Winner Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #90 
+Player 1: El Cubano Loco  None
+Player 2: MattyPie None
+Bracket:  Loser Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #90 
+Player 1: Brass  None
+Player 2: MattyPie None
+Bracket:  Loser Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #90 
+Player 1: pavocado  None
+Player 2: El Cubano Loco None
+Bracket:  Loser Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #90 
+Player 1: Brass  None
+Player 2: Discord | Andy None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #90 
+Player 1: Higashi  None
+Player 2: El Cubano Loco None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #90 
+Player 1: pavocado  None
+Player 2: Brass None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #90 
+Player 1: Higashi  None
+Player 2: DM | doogo530 None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #90 
+Player 1: MattyPie  None
+Player 2: El Cubano Loco None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #90 
+Player 1: DM | Burn Notice  None
+Player 2: Discord | Andy None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #90 
+Player 1: Wobanger  None
+Player 2: Brass None
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #90 
+Player 1: PCW | Rovi  None
+Player 2: Discord | Andy None
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #90 
+Player 1: DM | John B.  None
+Player 2: El Cubano Loco None
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #90 
+Player 1: Bighugeman  None
+Player 2: DM | doogo530 None
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #89 
+Player 1: pavocado  None
+Player 2: MattyPie None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #89 
+Player 1: Panoptic  None
+Player 2: Ultima None
+Bracket:  Loser Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #89 
+Player 1: Panoptic  None
+Player 2: Ultima None
+Bracket:  Loser Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #89 
+Player 1: Panoptic  None
+Player 2: Higashi None
+Bracket:  Loser Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #89 
+Player 1: Antony  None
+Player 2: Ultima None
+Bracket:  Loser Round 5 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #89 
+Player 1: DM | Burn Notice  None
+Player 2: Panoptic None
+Bracket:  Loser Round 5 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #89 
+Player 1: pavocado  None
+Player 2: MattyPie None
+Bracket:  Winner Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #89 
+Player 1: pavocado  None
+Player 2: Higashi None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #89 
+Player 1: MattyPie  None
+Player 2: Ultima None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #89 
+Player 1: Antony  None
+Player 2: Higashi None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #89 
+Player 1: pavocado  None
+Player 2: TrickDaddy None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #89 
+Player 1: DM | John B.  None
+Player 2: MattyPie None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #89 
+Player 1: Panoptic  None
+Player 2: Ultima None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #89 
+Player 1: Higashi  None
+Player 2: Gearbox None
+Bracket:  Winner Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #89 
+Player 1: Jeff D  None
+Player 2: pavocado None
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #89 
+Player 1: Ultima  None
+Player 2: Wobanger None
+Bracket:  Winners Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #89 
+Player 1: DM | doogo530  None
+Player 2: DM | Zello None
+Bracket:  Winners Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #89 
+Player 1: DM | Burn Notice  None
+Player 2: Salpacino's Disciple None
+Bracket:  Winners Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 6 
+Player 1: FreznOaTroops  None
+Player 2: Lucky Bounce None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 6 
+Player 1: Lucky Bounce  None
+Player 2: Couldn't Afford Fifa None
+Bracket:  Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 6 
+Player 1: FreznOaTroops  None
+Player 2: LanBoys None
+Bracket:  Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 6 
+Player 1: Hypnotik Esports  None
+Player 2: LANBOYS None
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 6 
+Player 1: Adaption  None
+Player 2: LRTX None
+Bracket:  Pool A6 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 6 
+Player 1: Stale Crackers  None
+Player 2: Hypnotiks Esports None
+Bracket:  Pool A7 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #103 
+Player 1: s0ft  (Jigglypuff)
+Player 2: PG|Plup  (Luigi)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #103 
+Player 1: ABAP|NMW  (C. Falcon)
+Player 2: PG|Plup  (Luigi)
+Bracket:  Losers Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #103 
+Player 1: ABAP|NMW  (C. Falcon)
+Player 2: Skeeter  (Peach)
+Bracket:  Losers Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #103 
+Player 1: Imyt  (Sheik)
+Player 2: Skeeter  (Peach)
+Bracket:  Losers Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #103 
+Player 1: s0ft  (Jigglypuff)
+Player 2: PG|Plup  (Luigi)
+Bracket:  Winners Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #103 
+Player 1: ycz6  (Samus)
+Player 2: PG|Plup  (Luigi)
+Bracket:  Winners Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #103 
+Player 1: s0ft  (Jigglypuff)
+Player 2: Skeeter  (Peach)
+Bracket:  Winners Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #103 
+Player 1: Admiral  (Ice Climbers)
+Player 2: PG|Plup  (Luigi)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #103 
+Player 1: s0ft  (Jigglypuff)
+Player 2: Umarth  (Marth)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #103 
+Player 1: Charlezard  (Sheik)
+Player 2: Skeeter  (Peach)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #103 
+Player 1: Twitch|Atrioc  (Sheik)
+Player 2: Bobo  (Yoshi)
+Bracket:  Winners Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #103 
+Player 1: Imyt  (Sheik)
+Player 2: Myko  (Fox/Falco)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #103 
+Player 1: Admiral  (Ice Climbers)
+Player 2: Mimorox  (Marth)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #103 
+Player 1: Eggmode  (Fox)
+Player 2: Zander  (Jigglypuff)
+Bracket:  Winners Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: TCM  None
+Player 2: NFZ None
+Bracket:  Crew Battle
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: WYW|Virus  (R.O.B.)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: WYW|Virus  (R.O.B.)
+Player 2: SG|Hitaku  (Mewtwo)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: WYW|Virus  (R.O.B.)
+Player 2: KOSSismoss  (Game & Watch)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: CE|DSS  (Meta Knight/Cloud)
+Player 2: WYW|Virus  (R.O.B.)
+Bracket:  Loser Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: SG|Hitaku  (Mewtwo/Robin)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: TCM|FuTure  (Ness)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: WYW|Virus  (R.O.B.)
+Player 2: SG|Hitaku  (Mewtwo)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: 8BIT|Nabster  (Rosalina & Luma)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: CE|DSS  (Meta Knight)
+Player 2: TCM|FuTure  (Ness)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: IC|KOSSismoss  (Game & Watch)
+Player 2: WYW|Virus  (R.O.B.)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: 8BIT|Sinister  (Rosalina & Luma)
+Player 2: SG|Hitaku  (Mewtwo)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: 8BIT|Nabster  (Rosalina & Luma)
+Player 2: TCM|Mr. Peabody  (Fox)
+Bracket:  Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: VSC|Teemo  (Little Mac)
+Player 2: WYW|Virus  (R.O.B.)
+Bracket:  Pool 2
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: TCM|Iron_Gonzalez  (Lucas)
+Player 2: Chinito  (Mario)
+Bracket:  Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: NFZ|Kronos2560  (Cloud)
+Player 2: HD|8BIT|Nova!  (Fox)
+Bracket:  Pool 2
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: TCM|King Koopa  (Bowser)
+Player 2: GiGa|DJRelly  (Ganondorf)
+Bracket:  Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: Q  (Pac-Man)
+Player 2: NFZ|byte  (Donkey Kong)
+Bracket:  Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: sks  (Samus)
+Player 2: torn  (Sheik)
+Bracket:  Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #11 
+Player 1: PXG|York  (Olimar)
+Player 2: TCM|Bubba  (Megaman)
+Bracket:  Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot #5 
+Player 1: Lucky Bounce  None
+Player 2: Selfless+1 None
+Bracket:  Quarterfinals
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot #5 
+Player 1: Hopeless  None
+Player 2: Selfless+1 None
+Bracket:  Finals
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot #5 
+Player 1: Hopeless  None
+Player 2: Pigeon Squad None
+Bracket:  Semifinals
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot #5 
+Player 1: Relax  None
+Player 2: Selfless+1 None
+Bracket:  Semifinals
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot #5 
+Player 1: 6Sense  None
+Player 2: Djongers Unchained None
+Bracket:  Pool A5
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot #5 
+Player 1: The Pancake Crew  None
+Player 2: Jukes of Hazard None
+Bracket:  Pool A1
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot #5 
+Player 1: Boost Alchemists  None
+Player 2: New Era None
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot #5 
+Player 1: Cloud Nein  None
+Player 2: EZ Gift Cards? None
+Bracket:  Pool A3
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #6 
+Player 1: Ed  (Captain Falcon)
+Player 2: Natty  (Captain Falcon)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #6 
+Player 1: Pere noir  (Fox)
+Player 2: Mortech  (Pikachu)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #6 
+Player 1: Shihman  (C. Falcon/Luigi/Jigglypuff)
+Player 2: Kimimaru  (Mario)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #6 
+Player 1: Shihman  (C. Falcon)
+Player 2: Eggmode  (Pikachu)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #6 
+Player 1: Hipstur  (Fox)
+Player 2: Eggmode  (Pikachu)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #6 
+Player 1: Kimimaru  (Mario)
+Player 2: Shihman  (C. Falcon/Luigi)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #6 
+Player 1: Bard  (Kirby)
+Player 2: Hipstur  (Fox)
+Bracket:  Loser Quarters
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #6 
+Player 1: BlondeKid  (Pikachu)
+Player 2: Eggmode  (Yoshi/Pikachu)
+Bracket:  Loser Quarters
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #6 
+Player 1: Hipstur  (Fox)
+Player 2: Shihman  (Captain Falcon)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #6 
+Player 1: Kimimaru  (Mario)
+Player 2: Eggmode  (Yoshi/Pikachu)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #6 
+Player 1: Hipstur  (Fox)
+Player 2: BlondeKid  (Pikachu)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #6 
+Player 1: Ballin4Life  (Captain Falcon)
+Player 2: Shihman  (Captain Falcon)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #6 
+Player 1: Bard  (Kirby)
+Player 2: Eggmode  (Pikachu)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #6 
+Player 1: 3ZInferno  (Donkey Kong)
+Player 2: Inertia  (Captain Falcon)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Duct Tape  None
+Player 2: Gyrobot None
+Bracket:  Third Place 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Dark Blade  None
+Player 2: Pizza Slicer None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Dark Blade  None
+Player 2: Gyrobot None
+Bracket:  Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Jamon  None
+Player 2: HAM Filter None
+Bracket:  Grudge Match 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Duct Tape  None
+Player 2: Pizza Slicer None
+Bracket:  Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Gyrobot  None
+Player 2: Pooky None
+Bracket:  Quarter Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Duct Tape  None
+Player 2: The Minions None
+Bracket:  Quarter Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Dark Blade  None
+Player 2: Rhino None
+Bracket:  Quarter Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Pizza Slicer  None
+Player 2: Cuddle Bunny None
+Bracket:  Quarter Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Pooky  None
+Player 2: Little Drummer Bot None
+Bracket:  Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Chunker  None
+Player 2: Gyrobot None
+Bracket:  Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Rhino  None
+Player 2: Bat Bot None
+Bracket:  Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Cuddle Bunny  None
+Player 2: Cyclone None
+Bracket:  Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Dark Blade  None
+Player 2: Hotdog Roller None
+Bracket:  Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: The Minions  None
+Player 2: Launchpad McWhack None
+Bracket:  Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Emsee Fry Pants  None
+Player 2: Pizza Slicer None
+Bracket:  Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Dark Pounder  None
+Player 2: Duct Tape None
+Bracket:  Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Gyrobot  None
+Player 2: Ashigaru None
+Bracket:  Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: HAM Filter  None
+Player 2: Bat Bot None
+Bracket:  Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Forged T1  None
+Player 2: Hotdog Roller None
+Bracket:  Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Jamon  None
+Player 2: Cylcone None
+Bracket:  Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Pizza Slicer  None
+Player 2: Cleopatra None
+Bracket:  Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Launchpad McWhack  None
+Player 2: Happy Clamper None
+Bracket:  Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Red Devil  None
+Player 2: The Minions None
+Bracket:  Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Duct Tape  None
+Player 2: HAM Knife None
+Bracket:  Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Robot Fight Night 
+Player 1: Little Drummer Bot  None
+Player 2: Spinny Thing of Death None
+Bracket:  Ro32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: Pavocado  (R. Mika)
+Player 2: DISCORD|Andy  (Urien)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: DM|David A  (Ken)
+Player 2: DISCORD|Andy  (Urien)
+Bracket:  Losers Finals
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: Higashi  (R. Mika)
+Player 2: DM|David A  (Ken)
+Bracket:  Losers Semis
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: Higashi  (R. Mika)
+Player 2: Ultima  (Rashid)
+Bracket:  Losers Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: DISCORD|Andy  (Urien)
+Player 2: Pavocado  (R. Mika)
+Bracket:  Winners Finals
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: DISCORD|Andy  (Urien)
+Player 2: 8ighty6ix  (Ken)
+Bracket:  Winners Semis
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: Antony  (Ken)
+Player 2: 8ighty6ix  (Ken)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: Pavocado  (R. Mika)
+Player 2: Ultima  (Rashid)
+Bracket:  Winners Semis
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: Higashi  (R. Mika)
+Player 2: DISCORD|Andy  (Urien)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: Ultima  (Rashid)
+Player 2: NO RESPECT  (Nash)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: Pavocado  (R. Mika)
+Player 2: Beesu  (Karin)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: DM|Wobanger  (Birdie)
+Player 2: 8ighty6ix  (Ken)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: MattyPie  (Chun-Li)
+Player 2: Antony  (Ken)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: DM|John B.  (Ibuki)
+Player 2: Ultima  (Rashid)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: NO RESPECT  (Nash)
+Player 2: DM|n0thingman  (Dhalsim)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: Pavocado  (R. Mika)
+Player 2: Illzilla  (Birdie)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: DM|Burn Notice  (Laura)
+Player 2: Beesu  (Karin)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: DM|David A  (Ken)
+Player 2: Higashi  (R. Mika)
+Bracket:  Winners Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: DM|Wobanger  (Birdie)
+Player 2: Icebox  (Juri/Rashid)
+Bracket:  Winners Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: DM|John B.  (Ibuki)
+Player 2: HTC|Treechen  (Cammy)
+Bracket:  Winners Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #88 
+Player 1: Ultima  (Rashid)
+Player 2: Demry  (Urien)
+Bracket:  Winners Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 4 
+Player 1: Better In Reverse  None
+Player 2: Genesis None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 4 
+Player 1: Stefelebots  None
+Player 2: Genesis None
+Bracket:  Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 4 
+Player 1: Better In Reverse  None
+Player 2: Hopeless None
+Bracket:  Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 4 
+Player 1: Stefelebots  None
+Player 2: New Era None
+Bracket:  Quarter Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 4 
+Player 1: Healthy Hamsters  None
+Player 2: Anixia eSports None
+Bracket:  Winners Ro16 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 4 
+Player 1: Djongers Unchained  None
+Player 2: Jukes of Hazard None
+Bracket:  POOL A8 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 4 
+Player 1: Oh So Poised  None
+Player 2: Retrograde None
+Bracket:  POOL A1 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 4 
+Player 1: The Succ Clan  None
+Player 2: Get Swifty None
+Bracket:  POOL A2 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #102 
+Player 1: MIOM|Toph  (Fox)
+Player 2: Bardull  (Marth)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #102 
+Player 1: MIOM|Toph  (Fox)
+Player 2: ycz6  (Samus)
+Bracket:  Loser Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #102 
+Player 1: Boulevard  (Luigi)
+Player 2: Azusa  (Peach)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #102 
+Player 1: Bardull  (Marth/Jigglypuff)
+Player 2: Imyt  (Sheik)
+Bracket:  Loser Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #102 
+Player 1: MIOM|Toph  (Fox)
+Player 2: Boulvevard  (Luigi)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #102 
+Player 1: Bardull  (Marth/Jigglypuff)
+Player 2: Azusa  (Peach/Falco)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #102 
+Player 1: MIOM|Toph  (Fox)
+Player 2: Umarth  (Marth)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #102 
+Player 1: Bardull  (Marth)
+Player 2: ycz6  (Samus)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #102 
+Player 1: Azusa  (Peach)
+Player 2: Skeeter  (Peach)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #102 
+Player 1: Boulevard  (Luigi)
+Player 2: Imyt  (Sheik)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #102 
+Player 1: Umarth  (Marth)
+Player 2: Charlezard  (Sheik)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #102 
+Player 1: Girony  (Jigglypuff)
+Player 2: 3ZInferno  (Peach)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #102 
+Player 1: Dr Jwns  (Falco)
+Player 2: BenSW  (Falco)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #102 
+Player 1: MIOM|Toph  (Fox)
+Player 2: Boulvevard  (Luigi)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: NME|8BIT|Xzax  (Fox)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: WtF|Trevonte  (Mario/Palutena)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: FONC|Stark  (Cloud)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Losers Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: CE|DSS (Meta Knight/Diddy Kong)
+Player 2: WYW|Legit (Diddy Kong)
+Bracket:  Losers Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: NME|Xzax (C. Falcon/Fox)
+Player 2: WtF|Trevonte (C. Falcon/Mario)
+Bracket:  Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: FONC|Stark  (Cloud)
+Player 2: WtF|Trevonte  (Mario)
+Bracket:  Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: Ce|DSS  (Ness/Cloud)
+Player 2: NME|8BIT|Xzax  (Fox)
+Bracket:  Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: WtF|Trevonte  (Mario)
+Player 2: SG|Hitaku  (Mewtwo)
+Bracket:  Winners Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: NME|8BIT|Xzax  (Fox)
+Player 2: TSG|FONC|Inferno Brawler  (Ryu)
+Bracket:  Winners Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: FONC|Stark  (Cloud)
+Bracket:  Winners Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: FONC|Sharpserac  (Wario)
+Player 2: CE|DSS  (Meta Knight)
+Bracket:  Pool 4 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: FONC|Stark  (Ike)
+Player 2: GiGa|Jodi Bleek  (Greninja)
+Bracket:  Pool 3 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: 8BIT|M3  (Bayonetta)
+Player 2: SG|Athena  (Robin)
+Bracket:  Pool 2 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: Black_Dynowright  (Little Mac)
+Player 2: SRS|VonSilvermoon  (Diddy Kong)
+Bracket:  Pool 2 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: CrispyTacoz  (Cloud)
+Player 2: Chinito  (Mario)
+Bracket:  Pool 1 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: FONC|ElectricSoldier  (Pikachu)
+Player 2: GiGa|Blitz  (Sonic)
+Bracket:  Pool 1 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: Rickshaw  (C. Falcon)
+Player 2: HD|8IT|Nova!  (C. Falcon)
+Bracket:  Pool 4 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: SA|Wimplow  (Donkey Kong)
+Player 2: NFZ|byte  (Donkey Kong)
+Bracket:  Pool 4 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #10 
+Player 1: SoV|Xerion  (Mega Man)
+Player 2: GiGa|R-Senal  (Mega Man)
+Bracket:  Pool 3 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 3 
+Player 1: G2 Esports  None
+Player 2: Genesis None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 3 
+Player 1: Easy Gift Cards?  None
+Player 2: Genesis None
+Bracket:  Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 3 
+Player 1: New Era  None
+Player 2: G2 Esports None
+Bracket:  Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 3 
+Player 1: New Era  None
+Player 2: VindicatorGG None
+Bracket:  Quarter Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 3 
+Player 1: Blaa  None
+Player 2: Easy Gift Cards? None
+Bracket:  Winners R1 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 3 
+Player 1: Jukes of Hazard  None
+Player 2: Sad Cats None
+Bracket:  Pool A1 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 3 
+Player 1: GFFB  None
+Player 2: Djongers Unchained None
+Bracket:  Pool A7 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 3 
+Player 1: New Era  None
+Player 2: Audacity None
+Bracket:  Pool A2 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Grand Finals - Circa | LPN  None
+Player 2: Higashi None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Loser Finals - 4HK | Jabdrunk  None
+Player 2: Higashi None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Loser Semis - MattyPie  None
+Player 2: Higashi None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Loser Quarters - pH | Nando  None
+Player 2: Higashi None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Loser Quarters - MattyPie  None
+Player 2: Ultima None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Winner Finals - 4HK|Jabdrunk  None
+Player 2: Circa|LPN None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Winner Semis - 4HK | Jabdrunk  None
+Player 2: MattyPie None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Winner Semis - Circa | LPN  None
+Player 2: Higashi None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Winner Quarters - Andy  None
+Player 2: 4HK | Jabdrunk None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Winner Quarters - pavocado  None
+Player 2: Higashi None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Winner Quarters - Circa | LPN  None
+Player 2: Beesu None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Winner Ro 16 - bjUNCHAINED  None
+Player 2: NO RESPECT None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Winner Ro 16 - HaachieBeatz  None
+Player 2: MattyPie None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Winner Ro 16 - Higashi  None
+Player 2: pH | Nando None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Winner Ro 32 - DM | El Cubano Loco  None
+Player 2: Andy None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Winner Ro 32 - RB|SnakeEyez  None
+Player 2: DM|doogo530 None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Winner Ro 32 - bjUNCHAINED  None
+Player 2: FreshNToasty None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Winner Ro 32 - Brass  None
+Player 2: NO RESPECT None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Winner Ro 32 - MattyPie  None
+Player 2: Antony None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Winner Ro 64 - DM | Salpacino  None
+Player 2: JKL None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Winner Ro 64 - Spoons  None
+Player 2: DM | Burn Notice None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #87 
+Player 1: Winner Ro 64 - Spoons  None
+Player 2: DM | Burn Notice None
+Bracket:  Red Bull Battleground Edition 
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot 2 
+Player 1: Better In Reverse  None
+Player 2: Retrospect None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot 2 
+Player 1: Retrospect  None
+Player 2: No Idea None
+Bracket:  Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot 2 
+Player 1: Healthy Hamsters  None
+Player 2: Better In Reverse None
+Bracket:  Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot 2 
+Player 1: Hopeless  None
+Player 2: Retrospect None
+Bracket:  Quarter Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot 2 
+Player 1: Onslaught  None
+Player 2: Blue Barracudas None
+Bracket:  Winners Round 1 
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot 2 
+Player 1: Chef  None
+Player 2: Hellish Big Goalie None
+Bracket:  Pools A2 
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot 2 
+Player 1: Men of Low Moral Fiber  None
+Player 2: Cloud Nein None
+Bracket:  Pools A1 
+Game: Unknown
+-------------
+
+Tournament Name: Take the Shot 2 
+Player 1: EZ Whiffs  None
+Player 2: Corelli's Children None
+Bracket:  Pools A3 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #101 
+Player 1: Shroomed  (Falcon/Falco/Fox)
+Player 2: The Moon  (Falcon/Fox)
+Bracket:  Grand Final
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #101 
+Player 1: The Moon  (Marth)
+Player 2: Azusa  (Peach)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #101 
+Player 1: Boulevard  (Luigi)
+Player 2: Azusa  (Peach)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #101 
+Player 1: WFX|Shroomed  (Sheik)
+Player 2: The Moon  (Marth)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #101 
+Player 1: The Moon  (Marth)
+Player 2: HMW  (Dr. Mario/Fox)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #101 
+Player 1: ABAP|NMW  (C. Falcon)
+Player 2: WFX|Shroomed  (Marth)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #101 
+Player 1: Kalamazhu  (Peach)
+Player 2: HMW  (Dr. Mario)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #101 
+Player 1: Boulevard  (Luigi)
+Player 2: The Moon  (Marth)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #101 
+Player 1: ycz6  (Samus)
+Player 2: Umarth  (Marth)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #101 
+Player 1: Happyhydra  (Jigglypuff)
+Player 2: HMW  (Dr. Mario)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #101 
+Player 1: ABAP|NMW  (C. Falcon)
+Player 2: Imyt  (Sheik)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #101 
+Player 1: Mari  (Samus)
+Player 2: Wiz  (Ice Climbers)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #101 
+Player 1: Weedlar  (Yoshi)
+Player 2: SFSU|Ultraman  (C. Falcon)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #101 
+Player 1: RickTheFox  (Ness)
+Player 2: Girony  (Jigglypuff)
+Bracket:  Winner Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #101 
+Player 1: Destinyfan21  (Marth)
+Player 2: Ethan  (Falco)
+Bracket:  Winner Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: WtF|Trevonte  (Sheik)
+Player 2: 1UP|Shaky  (Ness)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: 1UP|Shaky  (Ness)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: Ce|DSS  (Meta Knight)
+Player 2: 1UP|Shaky  (Ness)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: WtF|Trevonte  (Sheik)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: WYW|Soulimar  (Olimar)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: 1UP|Shaky  (Ness)
+Player 2: WtF|Trevonte  (Sheik)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: IC|KOSSismoss  (Lucina)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: WtF|Trevonte  (Sheik)
+Player 2: SG|Hitaku  (Robin)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: NME|Xzax  (Fox)
+Player 2: WYW|Soulimar  (Olimar)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: 8BIT|Sinister  (Rosalina & Luma)
+Player 2: FONC|Stark  (Marth/Cloud)
+Bracket:  Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: SG|Hitaku  (Mewtwo)
+Player 2: Ce|DSS  (Meta Knight/Cloud)
+Bracket:  Pool 2
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: Chinito  (Mario)
+Player 2: WYW|Soulimar  (Olimar)
+Bracket:  Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: PHO|C4  (Wario)
+Player 2: 8BIT|Roc  (R.O.B.)
+Bracket:  Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: HD|8BIT|Nova!  (C. Falcon)
+Player 2: 8BIT|M3  (Bayonetta)
+Bracket:  Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: Kelso  (Mewtwo)
+Player 2: TCM|Iron_Gonzalez  (Lucas)
+Bracket:  Pool 2
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: SKS  (Samus)
+Player 2: RickShaw  (Sheik)
+Bracket:  Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: FONC|T3k  (C. Falcon)
+Player 2: Oblivion  (Pit)
+Bracket:  Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: FONC|PXSlayer  (Cloud/Kirby)
+Player 2: ST|Vermillion  (Cloud)
+Bracket:  Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: DMG|Kato  (Peach)
+Player 2: OAK|Agape  (Donkey Kong)
+Bracket:  Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #9 
+Player 1: DSS  (Ness)
+Player 2: TCM|FuTure  (Ness)
+Bracket:  Grudge Match
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 1 
+Player 1: No Idea  None
+Player 2: Better in Reverse None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 1 
+Player 1: No Idea  None
+Player 2: Healthy Hamsters None
+Bracket:  Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 1 
+Player 1: Better in Reverse  None
+Player 2: Insomnia None
+Bracket:  Semi Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 1 
+Player 1: Sunrise Land  None
+Player 2: Insomnia None
+Bracket:  Quarter Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 1 
+Player 1: Decent Players  None
+Player 2: Ninja Dinosaurs None
+Bracket:  Winners Round 1 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 1 
+Player 1: Healthy Hamsters  None
+Player 2: Sunrise Land None
+Bracket:  Pool A6 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 1 
+Player 1: Sad Cats  None
+Player 2: No Idea None
+Bracket:  Pool A8 
+Game: Unknown
+-------------
+
+Tournament Name: Take The Shot 1 
+Player 1: Better in Reverse  None
+Player 2: Ninja Dinosaurs None
+Bracket:  Pool A7 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: pavocado  None
+Player 2: MattyPie None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: pavocado  None
+Player 2: pH | Jame None
+Bracket:  Loser Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: pavocado  None
+Player 2: DM | El Cubano Loco None
+Bracket:  Loser Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: pavocado  None
+Player 2: 2K | ZNice None
+Bracket:  Loser Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: pH | Jame  None
+Player 2: MattyPie None
+Bracket:  Winner Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: NightTwo  None
+Player 2: DM | El Cubano Loco None
+Bracket:  Losers Round 6 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: pavocado  None
+Player 2: pH | Jame None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: Brass  None
+Player 2: DM | El Cubano Loco None
+Bracket:  Losers Round 5 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: MattyPie  None
+Player 2: Higashi None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: pH | Jame  None
+Player 2: DM | El Cubano Loco None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: MattyPie  None
+Player 2: 2K | ZNice None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: pH | Jame  None
+Player 2: DM | Wobanger None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: Brass  None
+Player 2: MattyPie None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: Panoptic  None
+Player 2: ILLUMINATI | Andy None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: DM | Casual Phil  None
+Player 2: Higashi None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: HaachieBeatz  None
+Player 2: 2K | ZNice None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: Nucci  None
+Player 2: ILLUMINATI | Andy None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: Panoptic  None
+Player 2: DM | doogo530 None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: NightTwo  None
+Player 2: 8ighty6ix None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: DM | El Cubano Loco  None
+Player 2: DM | Pesto88 None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: DM | Burn Notice  None
+Player 2: DM | Casual Phil None
+Bracket:  Winner Ro 64 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #86 
+Player 1: Johnny  None
+Player 2: SD BAFN | Thingie None
+Bracket:  Winner Ro 64 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: Clubs  (Sheik)
+Player 2: Bobo  (Yoshi)
+Bracket:  Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: Reno  (Sheik)
+Player 2: CLG.SFAT  (Fox)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: SPY|Nintendude  (Ice Climbers)
+Player 2: CLG.SFAT  (Fox)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: Cactaur  (Fox)
+Player 2: CLG.SFAT  (Fox)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: Kalamazhu  (Peach)
+Player 2: CLG.SFAT  (Fox)
+Bracket:  Loser Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: Reno  (Fox/Sheik)
+Player 2: SPY|Nintendude  (Ice Climbers)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: Reno  (Sheik)
+Player 2: Moose  (Falco)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: SPY|Nintendude  (Ice Climbers)
+Player 2: Kalamazhu  (Peach)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: Reno  (Sheik)
+Player 2: CLG.SFAT  (Fox)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: SPY|Nintendude  (ICss)
+Player 2: MIOM|Tafokints  (Sheik)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: Kalamazhu  (Peach)
+Player 2: Spark  (Sheik)
+Bracket:  Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: SPY|Nintendude  (Ice Climbers)
+Player 2: R3|Mr.Brandandorf  (Ganon)
+Bracket:  Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: MIOM|Toph  (Fox)
+Player 2: Moose  (Falco)
+Bracket:  Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: Chris Best  (Marth)
+Player 2: MIOM|Dr. Z  (Jigglypuff)
+Bracket:  Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: gaR  (Sheik)
+Player 2: Boulevard  (Luigi)
+Bracket:  Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: Choknater  (Ice Climbers)
+Player 2: ycz6  (Samus)
+Bracket:  Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: MIOM|Tafokints  (Sheik/Fox)
+Player 2: Imyt  (Sheik)
+Bracket:  Pool 2
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: GhettoTastic  (Marth)
+Player 2: Umarth  (Marth)
+Bracket:  Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: R3|Mr. Brandandorf  (Ganon/Fox)
+Player 2: Bertbusdriver  (Falcon)
+Bracket:  Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: gg|S2B  (Sheik)
+Player 2: Ghidorah  (Fox)
+Bracket:  Pool 2
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: HTC|Treechen  (Sheik)
+Player 2: Suuu  (Samus)
+Bracket:  Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: Ross  (Marth/Falcon)
+Player 2: Skeeter  (Peach/Falcon)
+Bracket:  Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #100 
+Player 1: SD|CJ Scaduto  (Yoshi)
+Player 2: Mikkuz  (Fox)
+Bracket:  Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: SG|Rice  (Bowser)
+Player 2: KOSSismoss  (Game & Watch/Donkey Kong)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: NME|Xzax  (Fox/Diddy Kong)
+Player 2: KOSSismoss  (Game & Watch)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: NME|Xzax  (Fox)
+Player 2: NME|Zex  (Sheik)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: NME|Xzax  (Fox)
+Player 2: Ce|DSS  (Roy)
+Bracket:  Loser Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: KOSSismoss  (Game & Watch)
+Player 2: SG|Rice  (Bowser)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: NME|Zex  (Sheik)
+Player 2: SG|Rice  (Mario)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: NME|Xzax  (Fox)
+Player 2: KOSSismoss  (Game & Watch)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: SG|Rice  (Fox)
+Player 2: FONC|Stark  (Marth/Ike)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: KOSSismoss  (Game & Watch)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: TSG|Inferno Brawler  (Ryu)
+Player 2: NME|Zex  (Meta Knight)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: Nabster  (Rosalina & Luma)
+Player 2: FuTure  (Pikachu)
+Bracket:  Bracket Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: SG|Rice  (Dr. Mario/Fox)
+Player 2: HD|8BIT|Nova!  (Fox/Greninja)
+Bracket:  Bracket Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: TSG|Inferno Brawler  (Ryu)
+Player 2: SG|Hitaku  (Robin)
+Bracket:  Bracket Pool 2
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: WYW|GPik  (Game & Watch)
+Player 2: Ce|DSS  (Roy)
+Bracket:  Bracket Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: PXG|York  (Olimar)
+Player 2: Black DynoWright  (Little Mac)
+Bracket:  Bracket Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: Chinito  (Mario)
+Player 2: PXG|GiGa|DjRelly  (Corrin/Ness)
+Bracket:  Bracket Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: BaNdt  (Villager)
+Player 2: PairODucks  (Ryu)
+Bracket:  Bracket Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: RickShaw  (Sheik/Cloud)
+Player 2: 8BIT|M3  (Bayonetta/Kirby)
+Bracket:  Bracket Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: Dr. Fuego  (Marth)
+Player 2: SKS  (Samus)
+Bracket:  Bracket Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: WolfLord  (Lucina)
+Player 2: VonSilvermoon  (Diddy Kong)
+Bracket:  Bracket Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: Torn  (Sheik/Cloud)
+Player 2: Myro  (Kirby)
+Bracket:  Bracket Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #8 
+Player 1: DMG  None
+Player 2: Oopsie None
+Bracket:  Crew Battle
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #2 
+Player 1: 3B|KingOfElks  None
+Player 2: Starsky None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #2 
+Player 1: 3B|KingOfElks  None
+Player 2: Gamblore None
+Bracket:  Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #2 
+Player 1: 3B|KingOfElks  None
+Player 2: IFD|Zecmo None
+Bracket:  Losers Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #2 
+Player 1: Starsky  None
+Player 2: Gamblore None
+Bracket:  Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #2 
+Player 1: Purple  None
+Player 2: 3B|KingOfElks None
+Bracket:  Losers Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #2 
+Player 1: IFD|Dr. Skipper  None
+Player 2: IFD|Zecmo None
+Bracket:  Losers Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #2 
+Player 1: Sirkon  None
+Player 2: Purple None
+Bracket:  Losers Round 4 
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #2 
+Player 1: Ross  None
+Player 2: IFD|Dr. Skipper None
+Bracket:  Losers Round 4 
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #2 
+Player 1: Gamblore  None
+Player 2: IFD|Zecmo None
+Bracket:  Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #2 
+Player 1: Starsky  None
+Player 2: 3B|KingOfElks None
+Bracket:  Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #2 
+Player 1: Texter  None
+Player 2: IFD|Dr. Skipper None
+Bracket:  Losers Round 3 
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #2 
+Player 1: 3B | KingOfElks  None
+Player 2: Ross None
+Bracket:  Winners Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #2 
+Player 1: Gamblore  None
+Player 2: Purple None
+Bracket:  Winners Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #2 
+Player 1: IFD|Dr. Skipper  None
+Player 2: Starsky None
+Bracket:  Winners Round 2 
+Game: Unknown
+-------------
+
+Tournament Name: Trials of the Order #2 
+Player 1: n0thingman  None
+Player 2: IFD|zecmo None
+Bracket:  Winners Round 2 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: pavocado  None
+Player 2: bjUNCHAINED None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: MattyPie  None
+Player 2: bjUNCHAINED None
+Bracket:  Loser Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: Panoptic  None
+Player 2: bjUNCHAINED None
+Bracket:  Loser Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: pavocado  None
+Player 2: MattyPie None
+Bracket:  Winner Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: Panoptic  None
+Player 2: DM | El Cubano Loco None
+Bracket:  Loser Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: bjUNCHAINED  None
+Player 2: HF | Cheese None
+Bracket:  Loser Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: Panoptic  None
+Player 2: Ghodere None
+Bracket:  Losers Round 6 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: pavocado  None
+Player 2: HF | Cheese None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: DM | El Cubano Loco  None
+Player 2: MattyPie None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: NO RESPECT  None
+Player 2: HF | Cheese None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: Circa | LPN  None
+Player 2: El Cubano Loco None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: pavocado  None
+Player 2: Ghodere None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: Cheese  None
+Player 2: V12 None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: bjUNCHAINED  None
+Player 2: MattyPie None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: Ghodere  None
+Player 2: Antony None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: Pavocado  None
+Player 2: Haaris None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: DM | Mayho  None
+Player 2: Cheese None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: NightTwo  None
+Player 2: James None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: Higashi  None
+Player 2: Dropped Combos None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: Panoptic  None
+Player 2: DM | Wobanger None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: MattyPie   None
+Player 2: n0thingman None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: Circa | LPN  None
+Player 2: DM | Trickdaddy None
+Bracket:  Winner Ro 64 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #85 
+Player 1: HF | Cheese  None
+Player 2: Andy None
+Bracket:  Winner Ro 64 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: Ghodere  None
+Player 2: FOX | Julio None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: RN | Alex Myers  None
+Player 2: FOX | Julio None
+Bracket:  Loser Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: bjUNCHAINED  None
+Player 2: FOX | Julio None
+Bracket:  Loser Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: bjUNCHAINED  None
+Player 2: Ultima None
+Bracket:  Loser Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: RN | Alex Myers  None
+Player 2: Ghodere None
+Bracket:  Winner Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: RN | Alex Myers  None
+Player 2: Panoptic None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: bjUNCHAINED  None
+Player 2: Ghodere None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #99 
+Player 1: Anthony  (Marth/Fox)
+Player 2: Massy  (Pikachu)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #99 
+Player 1: BoBo  (Yoshi)
+Player 2: Peacestem Pal  (Jigglypuff)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #99 
+Player 1: Ironman  (Sheik)
+Player 2: Twitch|Tranmobile  (Marth)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #99 
+Player 1: Magitech  (Falco)
+Player 2: SD|DC  (Falco/Marth)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #99 
+Player 1: NaCl  (Ice Climbers)
+Player 2: Clubs  (Sheik/Marth)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #99 
+Player 1: DrJwns  (Falco)
+Player 2: Umarth  (Marth)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #99 
+Player 1: NaCl  (Ice Climbers)
+Player 2: CLG.SFAT  (Fox)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #99 
+Player 1: SPY|Nintendude  (Samus)
+Player 2: ycz6  (Samus)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #99 
+Player 1: Umarth  (Marth)
+Player 2: s0ft  (Jigglypuff)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #99 
+Player 1: SPY|Nintendude  (Peach)
+Player 2: CLG.SFAT  (Fox/Marth)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #99 
+Player 1: s0ft  (Jigglypuff)
+Player 2: Azusa  (Falco/Marth)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #99 
+Player 1: SPY|Nintendude  (Peach)
+Player 2: Moose  (Falco)
+Bracket:  Losers Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #99 
+Player 1: ycz6  (Samus)
+Player 2: Azusa  (Peach)
+Bracket:  Losers Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #99 
+Player 1: s0ft  (Jigglypuff)
+Player 2: CLG.SFAT  (Fox)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #99 
+Player 1: Moose  (Falco)
+Player 2: Azusa  (Peach)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #99 
+Player 1: s0ft  (Jigglypuff)
+Player 2: Moose  (Falco)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #99 
+Player 1: s0ft  (Jigglypuff)
+Player 2: CLG.SFAT  (Fox)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: WtF|Trevonte  (Sheik)
+Player 2: SG|Rice  (Mario)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: SG|Rice  (Mario)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: S2K|FuTure  (Ness)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: WtF|Trevonte  (Sheik)
+Player 2: SG|Rice  (Mario)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: WtF|Trevonte  (Sheik)
+Player 2: S2K|FuTure  (Ness)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: NME|Xzax  (Fox)
+Player 2: SG|Rice  (Mario)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: S2K|FuTure  (Ness)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: SG|WtF|Rice  (Mario)
+Player 2: Ce|DSS  (Cloud/Meta Knight)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: IC | KOSSismoss  (Game & Watch)
+Player 2: NME|Xzax  (Fox)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: Astro|Blue  (Sonic)
+Player 2: Ce|DSS  (Marth/Meta Knight)
+Bracket:  Bracket Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: S2K|Tsarkhasm  (Little Mac)
+Player 2: S2K|FuTure  (Ness/C. Falcon)
+Bracket:  Bracket Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: WtF|Trevonte  (Sheik)
+Player 2: PH|Makorel  (Pit)
+Bracket:  Bracket Pool 2
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: S2K|Mr. Peabody  (Yoshi/Fox)
+Player 2: PXG|DjRelly  None
+Bracket:  Bracket Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: Soronie  (Shulk)
+Player 2: IC|POD  (Diddy Kong/Peach)
+Bracket:  Bracket Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: Sinister  (Rosalina & Luma)
+Player 2: ZeonStar  (Cloud/LittleMac)
+Bracket:  Bracket Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: S2K|Tsarkhasm  (Little Mac)
+Player 2: IC|Jehtt  (MegaMan)
+Bracket:  Bracket Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: HD|8BIT|Nova!  (Greninja)
+Player 2: GiGa|Jodi Bleek  (Greninja)
+Bracket:  Bracket Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: IC|MoMo  (Shulk)
+Player 2: Kham  (Mewtwo)
+Bracket:  Bracket Pool 2
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: Dercs  (Fox)
+Player 2: RickShaw  (Sheik)
+Bracket:  Bracket Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: WolfLord  (Lucina/Fox)
+Player 2: IC|~Fade  (Sonic)
+Bracket:  Bracket Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: ApologyMan  None
+Player 2: Andy None
+Bracket:  Loser Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: ApologyMan  None
+Player 2: pavocado None
+Bracket:  Loser Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: ApologyMan  None
+Player 2: MattyPie None
+Bracket:  Loser Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: 2K | ZNice  None
+Player 2: MattyPie None
+Bracket:  Losers Round 8 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: Circa | LPN  None
+Player 2: Andy None
+Bracket:  Winner Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: DM | Casual Phil  None
+Player 2: pavocado None
+Bracket:  Losers Round 8 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: Circa | LPN  None
+Player 2: Higashi None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: ApologyMan  None
+Player 2: Andy None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: Circa | LPN  None
+Player 2: DM | El Cubano Loco None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: Higashi  None
+Player 2: 2K | ZNice None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: pavocado  None
+Player 2: Andy None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: ApologyMan  None
+Player 2: DM | Salpacino None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: TSG | Patmonsta209  None
+Player 2: pavocado None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: 2K | ZNice  None
+Player 2: NO RESPECT None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: TSG | Patmonsta209  None
+Player 2: Brass None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: Circa | LPN  None
+Player 2: Nucci None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: Panoptic  None
+Player 2: DM | El Cubano Loco None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: Chris Lee  None
+Player 2: 2K | ZNice None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: Higashi  None
+Player 2: Yung Worm None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: Circa | LPN  None
+Player 2: Ghodere None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: ApologyMan  None
+Player 2: DM | Burn Notice None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: ToonLight  None
+Player 2: DM | Casual Phil None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: DM | Mayho  None
+Player 2: David A None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: Circa | LPN  None
+Player 2: Tatenda None
+Bracket:  Winner Ro 64 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: ApologyMan  None
+Player 2: Circa | LPN None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #7 
+Player 1: IC  None
+Player 2: S2K None
+Bracket:  Crew Battle
+Game: Unknown
+-------------
+
+Tournament Name: Rocket League #2 
+Player 1: Flying Potatoes  None
+Player 2: Sox Off For Jumanji None
+Bracket:  Grand Final 
+Game: Unknown
+-------------
+
+Tournament Name: Rocket League #2 
+Player 1: The Silver Monkeys  None
+Player 2: Flying Potatoes None
+Bracket:  Semi Final 
+Game: Unknown
+-------------
+
+Tournament Name: Rocket League #2 
+Player 1: Strudel Force  None
+Player 2: Sox Off For Jumanji None
+Bracket:  Semi Final 
+Game: Unknown
+-------------
+
+Tournament Name: Rocket League #2 
+Player 1: Flying Potatoes  None
+Player 2: Lupe None
+Bracket:  Round 2 
+Game: Unknown
+-------------
+
+Tournament Name: Rocket League #2 
+Player 1: Constant Patience  None
+Player 2: Sox Off For Jumanji None
+Bracket:  Round 2 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: CLG.SFAT  (Fox)
+Player 2: The Moon  (Marth)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: Spark  (Sheik)
+Player 2: The Moon  (Marth)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: CDK  (Fox)
+Player 2: The Moon  (Marth)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: CLG.SFAT  (Fox)
+Player 2: Spark  (Sheik)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: Spark  (Sheik)
+Player 2: SPY|Nintendude  (Ice Climbers)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: CLG.SFAT  (Fox)
+Player 2: Azusa  (Peach)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: Spark  (Sheik)
+Player 2: CLG.PewPewU  (Marth)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: Azusa  (Peach)
+Player 2: Captain Faceroll  (Sheik)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: s0ft  (Jigglypuff)
+Player 2: SPY|Nintendude  (ICs)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: Reno  (Marth/C. Falcon)
+Player 2: CLG.PewPewU  (Marth)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: Laudandus  (Fox/Falco)
+Player 2: Azusa  (Sheik/Marth)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: CDK  (Sheik)
+Player 2: s0ft  (Jigglypuff)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: Reno  (Marth)
+Player 2: runescape  (Donkey Kong)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: Charlezard  (Sheik)
+Player 2: CLG.PewPewU  (Marth)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: Laudandus  (Fox)
+Player 2: Suzarya  (Peach)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: HugS  (Sheik)
+Player 2: OhMyJosh  (Fox/Sheik)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: MIOM|Dr. Z  (Jigglypuff)
+Player 2: Spark  (Sheik)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: Nhat  (Marth)
+Player 2: Captain Faceroll  (Sheik)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: Clubs  (Sheik)
+Player 2: Mahone  (Falco)
+Bracket:  Winner Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: TreeChen  (Sheik)
+Player 2: CLG.PewPewU  (Marth)
+Bracket:  Winner Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: S2B  (Sheik)
+Player 2: Zander  (Jigglypuff)
+Bracket:  Winner Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98.5 
+Player 1: Minz  (Marth)
+Player 2: Suuu  (Samus)
+Bracket:  Winner Ro128
+Game: Unknown
+-------------
+
+Tournament Name: Rocket League #2 
+Player 1: Truck School Dropouts  None
+Player 2: The Silver Monkeys None
+Bracket:  Round 1 
+Game: Unknown
+-------------
+
+Tournament Name: Rocket League #2 
+Player 1: Lupe  None
+Player 2: Beep Beep Boom None
+Bracket:  Round 1 
+Game: Unknown
+-------------
+
+Tournament Name: Rocket League #2 
+Player 1: Constant Patience  None
+Player 2: All Day Passes None
+Bracket:  Round 1 
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: NorCal  None
+Player 2: The World None
+Bracket:  Crew Battle
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: SPY|Nintendude  (Ice Climbers)
+Player 2: CDK  (Fox)
+Bracket:  Top 8 Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: WFX|Shroomed  (Sheik)
+Player 2: Tempo|S2J  (C. Falcon)
+Bracket:  Top 8 Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: WFX|Shroomed  (Sheik)
+Player 2: Tempo|S2J  (C. Falcon)
+Bracket:  Top 8 Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: SPY|Nintendude  (Ice Climbers)
+Player 2: Tempo|S2J  (C. Falcon)
+Bracket:  Top 8 Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: Laudandus  (Sheik)
+Player 2: CDK  (Fox)
+Bracket:  Top 8 Loser Quarters
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: Tempo|S2J  (C. Falcon)
+Player 2: SPY|Nintendude  (Ice Climbers)
+Bracket:  Top 8 Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: WFX|Shroomed  (Sheik)
+Player 2: CDK  (Fox)
+Bracket:  Top 8 Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: HMW  (Falco)
+Player 2: Cactuar  (Fox)
+Bracket:  Top 32 Losers R4
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: The Moon  (Marth)
+Player 2: CLG.PewPewU  (Marth)
+Bracket:  Top 32 Losers R3
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: Tempo|S2J  (C. Falcon)
+Player 2: Laudandus  (Sheik/Fox)
+Bracket:  Top 32 Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: CDK  (Fox)
+Player 2: The Moon  (Marth)
+Bracket:  Top 32 Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: Darrell  (Samus)
+Player 2: Alex19  (Fox)
+Bracket:  Top 32 Losers R2
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: SPY|Nintendude  (Ice Climbers)
+Player 2: Azusa  (Peach)
+Bracket:  Top 32 Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: Shroomed & Alan  (Sheik/Peach)
+Player 2: S2J & The Moon  (Falcon/Marth)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: Shroomed & Alan  (Sheik & Peach)
+Player 2: CDK & Faceroll  (Fox & Sheik)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: Shroomed & Alan  (Sheik & Peach)
+Player 2: Reno & Cactuar  (Sheik & Fox)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: Faceroll & CDK  (Sheik & Fox)
+Player 2: S2J & The Moon  (Falcon & Marth)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: Shroomed & Alan  (Sheik/Peach)
+Player 2: S2J & The Moon  (Falcon/Marth)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: Vitari & Azusa  (Sheik/Peach)
+Player 2: S2J & The Moon  (Falcon/Marth)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: Reno & Cactuar  (Sheik/Fox)
+Player 2: Shroomed & Alan  (Sheik/Peach)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: Shroomed & Alan  (Sheik/Peach)
+Player 2: Frootloop & Darkatma  (Fox/Sheik)
+Bracket:  Teams Pool 2
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: Shroomed & Alan  (Sheik & Peach)
+Player 2: HMW & Darrell  (Fox & Samus)
+Bracket:  Teams Pool 2
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams
+Player 1: Tafo & Nintendude  (Sheik & ICs)
+Player 2: S2J & The Moon  (Falcon & Marth)
+Bracket:  Teams Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: NMW & L  (C. Falcon & Fox)
+Player 2: Faceroll & CDK  (Sheik & Fox)
+Bracket:  Teams Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: Darrell & HMW  (Samus & Fox)
+Player 2: Frootloop & Darkatma  (Fox & Sheik)
+Bracket:  Teams Pool 2
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: s0ft & Ralph  (Jiggs & Fox)
+Player 2: S2J & The Moon  (C. Falcon & Marth)
+Bracket:  Teams Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: PewPewU & Suzarya  (Fox & Peach)
+Player 2: Toph & Dr. Z  (Fox & Jiggs)
+Bracket:  Teams Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: L & NMW  (Fox & C. Falcon)
+Player 2: Vitari & Azusa  (Marth & Peach)
+Bracket:  Teams Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: Spark & Azel  (Sheik & Falco)
+Player 2: Vitari & Azusa  (Sheik & Peach)
+Bracket:  Teams Pool 3
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: HMW & Darrel  (Samus & Fox)
+Player 2: Phil & BlueFoxXT  (Fox & Jiggs)
+Bracket:  Teams Pool 2
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: Tafo & Nintendude  (Sheik & ICs)
+Player 2: s0ft & Ralph  (Jiggs & Fox)
+Bracket:  Teams Pool 1
+Game: Unknown
+-------------
+
+Tournament Name: NorCal Loves Teams 
+Player 1: Cactuar & Reno  (Sheik & Fox)
+Player 2: PewPewU & Suzarya  (Fox & Peach)
+Bracket:  Teams Pool 4
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: HF | Cheese  None
+Player 2: Andy None
+Bracket:  Winner Ro 64 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: DM | Vitrium  None
+Player 2: Dropped Combos None
+Bracket:  Winner Ro 64 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: 8ighty6ix  None
+Player 2: Nucci None
+Bracket:  Winner Ro 64 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #84 
+Player 1: DM | Casual Phil  None
+Player 2: Shadoken None
+Bracket:  Winner Ro 64 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98 
+Player 1: Fumanchu  (Peach)
+Player 2: s0ft  (Jigglypuff)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98 
+Player 1: ycz6  (Samus)
+Player 2: Paragon  (Sheik)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98 
+Player 1: C@nip  (Falco)
+Player 2: gg|S2B  (Fox/Ice Climbers)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98 
+Player 1: Imyt  (Sheik)
+Player 2: Anthony  (Marth)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98 
+Player 1: s0ft  (Jigglypuff)
+Player 2: SPY|Nintendude  (Marth)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98 
+Player 1: s0ft  (Jigglypuff)
+Player 2: Azusa  (Falco)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98 
+Player 1: s0ft  (Jigglypuff)
+Player 2: C@nip  (Falco)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98 
+Player 1: SPY|Nintendude  (Ice Climbers)
+Player 2: Azusa  (Peach)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98 
+Player 1: Loki  (Ganondorf)
+Player 2: Azusa  (Peach)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98 
+Player 1: ycz6  (Samus)
+Player 2: SPY|Nintendude  (Marth/Ice Climbers)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98 
+Player 1: C@nip  (Falco)
+Player 2: Azusa  (Peach)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98 
+Player 1: Imyt  (Sheik)
+Player 2: SPY|Nintendude  (Sheik)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98 
+Player 1: NMW  (C. Falcon)
+Player 2: Loki  (Ganondorf)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98 
+Player 1: Space  (C. Falcon/Link)
+Player 2: Weedlar  (Yoshi)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #98 
+Player 1: Suuu  (Samus)
+Player 2: Paragon  (Sheik)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: Dave  (Palutena)
+Player 2: Chinito  (Mario)
+Bracket:  Bracket 1 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: Oopsie|Jafar  (Yoshi)
+Player 2: lit AoH|Mzzkc  (Pikachu)
+Bracket:  Bracket 4 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: GOC|Chaos Pro  (C. Falcon)
+Player 2: Gargito  (Sheik)
+Bracket:  Bracket 1 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: T17|Big Sean  (Bowser)
+Player 2: Mr. Pink  (Fox/Donkey Kong)
+Bracket:  Bracket 2 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: Rude  (Bayonetta)
+Player 2: FONC|PXSlayer  (Cloud)
+Bracket:  Bracket 1 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: HD|8BIT|Nova!  (Greninja)
+Player 2: FONC|Gpik  (Game & Watch)
+Bracket:  Bracket 4 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: Rodnysalt0  (Corrin/King Dedede)
+Player 2: Prince  (Samus)
+Bracket:  Bracket 2 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: Haystack  (Luigi)
+Player 2: MoMo  (Shulk)
+Bracket:  Bracket 3 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: Stark  (Cloud/Ike)
+Player 2: DjRelly  (Sonic)
+Bracket:  Bracket 3 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: NME|Xzax  (Fox)
+Player 2: Chye  (Duck Hunt)
+Bracket:  Bracket 1 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: SD|Andy_Sauro  (Wendy/Corrin)
+Player 2: TA|Trevonte  (Sheik/Mario)
+Bracket:  Bracket 3 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: Blue  (Sonic)
+Player 2: Soronie  (Shulk)
+Bracket:  Bracket 2 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: SG|Hitaku  (Mewtwo)
+Player 2: KOSSismoss  (Game & Watch)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: WtF|Trevonte  (Sheik)
+Player 2: DjRelly  (Sonic)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: Soronie  (Shulk)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: NME|Xzax  (Fox)
+Player 2: KOSSismoss  (Game & Watch)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: WtF|Trevonte  (Sheik)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: NME|Xzax  (Fox)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: WtF|Trevonte  (Sheik)
+Player 2: KOSSismoss  (Game & Watch)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: WtF|Trevonte  (Sheik)
+Player 2: NME|Xzax  (Fox)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #6 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: NME|Xzax  (Fox)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #5 
+Player 1: TR3G|hipstur  (Fox)
+Player 2: Eggmode  (Yoshi/Pikachu)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #5 
+Player 1: SPY|Nintendude  (Fox/Mario)
+Player 2: Eggmode  (Pikachu)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #5 
+Player 1: SPY|Nintendude  (Fox)
+Player 2: Dr. Grin  (Kirby)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #5 
+Player 1: TR3G|hipstur  (Fox)
+Player 2: Eggmode  (Pikachu)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #5 
+Player 1: TR3G|hipstur  (Fox)
+Player 2: Automatic  (Pikachu)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #5 
+Player 1: Eggmode  (Pikachu)
+Player 2: Dr. Grin  (Kirby)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #5 
+Player 1: Shihman  (Falcon)
+Player 2: Automatic  (Mario/Fox)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #5 
+Player 1: TR3G|hipstur  (Fox)
+Player 2: Drunk-E-Ness  (Ness/Kirby)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #5 
+Player 1: Ballin4Life  (Pikachu)
+Player 2: Dr. Grin  (Kirby)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #5 
+Player 1: Eggmode  (Pikachu)
+Player 2: SPY|Nintendude  (Fox)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #5 
+Player 1: CLG.PewPewU  (Fox)
+Player 2: Automatic  (Pikachu)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #5 
+Player 1: Drunk-e-ness  (Kirby)
+Player 2: Tonester  (Pikachu/Kirby)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #5 
+Player 1: Duncs  (Jigglypuff)
+Player 2: Dr. Grin  (Kirby)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #5 
+Player 1: ManTaco  (Fox)
+Player 2: Drewgong  (Fox)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: The End is Nair #5 
+Player 1: Engdrew  (Falcon/Pikachu)
+Player 2: Spark  (Fox)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: RN | Alex Myers  None
+Player 2: Fernook None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: bjUNCHAINED  None
+Player 2: Andy None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: bjUNCHAINED  None
+Player 2: DM | KuroKiba None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: Panoptic  None
+Player 2: DM | KuroKiba None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: pH | Jame  None
+Player 2: Fernook None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: DM | El Cubano Loco  None
+Player 2: 2K | ZNice None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: 8ighty6ix  None
+Player 2: DM | KuroKiba None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: DM | Salpacino  None
+Player 2: pH | Nando None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: Circa | LPN  None
+Player 2: Mitchell B. None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: Higashi  None
+Player 2: FOX | Julio None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: DM | Shelltron  None
+Player 2: Khai None
+Bracket:  Winner Ro 64 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: HF | Cheese  None
+Player 2: DM | El Cubano Loco None
+Bracket:  Winner Ro 64 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #83 
+Player 1: JabDrunk  None
+Player 2: DM | Pesto88 None
+Bracket:  Winner Ro 64 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #97 
+Player 1: SPY | Nintendude  (ICs)
+Player 2: CLG.PewPewU  (C. Falcon)
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #97 
+Player 1: SCG | Spark  (Sheik)
+Player 2: CLG.PewPewU  (C. Falcon)
+Bracket:  Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #97 
+Player 1: BG | Choknater  (ICs)
+Player 2: SCG | Spark  (Sheik)
+Bracket:  Losers Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #97 
+Player 1: CLG.PewPewU  (C. Falcon)
+Player 2: SPY | Nintendude  (ICs)
+Bracket:  Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #97 
+Player 1: SCG | Spark  (Sheik)
+Player 2: SPY | Nintendude  (ICs)
+Bracket:  Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #97 
+Player 1: MIOM | Toph  (Fox)
+Player 2: CLG.PewPewU  (C. Falcon)
+Bracket:  Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #97 
+Player 1: SCG | Spark  (Sheik)
+Player 2: ABAP | NMW  (C. Falcon)
+Bracket:  Winners Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #97 
+Player 1: Charlon  (Fox)
+Player 2: CLG.PewPewU  (C. Falcon)
+Bracket:  Winners Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #97 
+Player 1: MIOM | Toph  (Fox)
+Player 2: SAB | Ralph  (Falco / Fox)
+Bracket:  Winners Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #97 
+Player 1: ycz6  (Samus)
+Player 2: SCG | Spark  (Sheik)
+Bracket:  Winners RO16 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #97 
+Player 1: Nhat  (Marth)
+Player 2: MIOM | Toph  (Fox)
+Bracket:  Winners RO16 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #97 
+Player 1: BG | Choknater  (ICs)
+Player 2: w33dl0rd  (C. Falcon)
+Bracket:  Winners RO16 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #97 
+Player 1: Tonkatsu  (Peach)
+Player 2: Charlon  (Fox)
+Bracket:  Winners RO16 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #97 
+Player 1: Ethan  (Falco)
+Player 2: S2B  (Sheik)
+Bracket:  Winners RO32 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #97 
+Player 1: Mikkuz  (Fox)
+Player 2: Zander  (Jigglypuff)
+Bracket:  Winners RO32 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #97 
+Player 1: Suzarya  (Peach)
+Player 2: Synroc  (Fox)
+Bracket:  Winners RO64 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #97 
+Player 1: Bensw  (Falco)
+Player 2: Charlezard  (Sheik)
+Bracket:  Winners RO64 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #97 
+Player 1: leahboo  (Falco)
+Player 2: DrJwns  (Falco)
+Bracket:  Winners RO64 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: Ito  (Diddy Kong/Lucario)
+Player 2: NME|SG|Zex  (Sheik)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: Ito  (Diddy Kong/Mario)
+Player 2: Kesa  (C. Falcon)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: Ito  (Diddy Kong/Donkey Kong)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: Kesa  (C. Falcon)
+Player 2: NME|SG|Zex  (Sheik)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: WYW|Legit  (Diddy Kong)
+Player 2: Kesa  (C. Falcon)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: FONC|Stark  (Cloud)
+Player 2: NME|SG|Zex  (Sheik)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: SG|Hitaku  (Mewtwo)
+Player 2: WYW|Legit  (Diddy Kong)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: FONC|Stark  (Marth)
+Player 2: CrispyTacoz  (Diddy Kong)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: NME|SG|Zex  (Sheik)
+Player 2: WYW|Soulimar  (Olimar)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: FONC|Stark  (Marth)
+Player 2: 8BIT|Nabster  (Rosalina & Luma)
+Bracket:  Bracket 2 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: WYW|Virus  (Samus)
+Player 2: SG|Hitaku  (Mewtwo)
+Bracket:  Bracket 4 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: JeepySol  (Diddy Kong)
+Player 2: Kesa  (C. Falcon)
+Bracket:  Bracket 1 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: CrispyTacoz  (Diddy Kong)
+Player 2: MoMo  (Shulk)
+Bracket:  Bracket 2 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: Dr. Fuego  (C. Falcon)
+Player 2: PXG|GiGa|DjRelly  (Sonic)
+Bracket:  Bracket 3 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: 8BIT|Nova!  (Greninja)
+Player 2: SD|Andy_Sauro  (Wendy)
+Bracket:  Bracket 1 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: WolfLord  (Lucina)
+Player 2: FONC|Gpik  (Game & Watch)
+Bracket:  Bracket 1 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: Astro|Blue  (Corrin/Robin/Charizard)
+Player 2: Jafar  (Yoshi)
+Bracket:  Bracket 4 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: CoG|Mijo  (Ganondorf/Ryu)
+Player 2: Dercs  (Fox)
+Bracket:  Bracket 2 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: byte  (Donkey Kong)
+Player 2: a bird  (King Dedede)
+Bracket:  Bracket 3 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #5 
+Player 1: Drafted Team  None
+Player 2: 8BIT None
+Bracket:  Crew Battle
+Game: Unknown
+-------------
+
+Tournament Name: Firesides at the Foundry #9 
+Player 1: Cheezinator  None
+Player 2: Joyfulbear None
+Bracket:  Semifinals
+Game: Unknown
+-------------
+
+Tournament Name: Firesides at the Foundry #9 
+Player 1: Cheezinator  None
+Player 2: Bridgehack None
+Bracket:  Round Two
+Game: Unknown
+-------------
+
+Tournament Name: Firesides at the Foundry #9 
+Player 1: Chandyland  None
+Player 2: Innovation None
+Bracket:  Round One
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: ycz  (Samus)
+Player 2: SAB|Ralph  (Fox)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: ycz  (Samus)
+Player 2: WFX|Shroomed  (Sheik)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: ycz  (Samus)
+Player 2: Charlon  (Fox)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: WFX|Shroomed  (Marth)
+Player 2: SAB|Ralph  (Fox)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: R3|Mr. Brandandorf  (Ganondorf)
+Player 2: SAB|Ralph  (Fox)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: WFX|Shroomed  (Marth)
+Player 2: Phil  (Fox)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: MIOM|Dr. Z  (Jigglypuff)
+Player 2: SAB|Ralph  (Fox)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: Marco  (Marth)
+Player 2: Phil  (Fox)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: Imyt  (Sheik)
+Player 2: R3|Mr. Brandandorf  (Ganondorf/Fox)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: SAB|Ralph  (Fox)
+Player 2: Schwiebs  (Sheik)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: Surfero  (C. Falcon)
+Player 2: Phil  (Fox)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: The Grime Reaper  (Fox)
+Player 2: MIOM|Dr. Z  (Jigglypuff)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: R3|Mr. Brandandorf  (Fox/Ganondorf)
+Player 2: S2B  (Sheik)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: Elemental Penguin  (Falco)
+Player 2: Suuu  (Marth)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: low tier fraud  (Ice Climbers)
+Player 2: Imyt  (Sheik)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: 2highsofly  (Fox)
+Player 2: Umarth  (Marth)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: Surfero  (C. Falcon)
+Player 2: SD|Ashkon  (Marth)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: BenSW  (Falco)
+Player 2: Calvin  (Falco)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: Mova  (Falco)
+Player 2: Deep  (Falco/Marth)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: S2B  (Fox/Ganon)
+Player 2: Woolly  (Sheik)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: Suuu  (Samus)
+Player 2: CJHamster  (Marth)
+Bracket:  Winner Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #96 
+Player 1: OZA|Poobanas  (Fox/Ganon)
+Player 2: Wiss  (Ice Climbers)
+Bracket:  Winner Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: Ito  (Meta Knight)
+Player 2: WYW | Legit  (Diddy Kong)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: Ito  (Meta Knight)
+Player 2: SG | Hitaku  (MewTwo)
+Bracket:  Losers Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: WYW | Legit  (Diddy Kong)
+Player 2: SG | Hitaku  (MewTwo)
+Bracket:  Winners Final
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: WYW | Legit  (Diddy Kong)
+Player 2: Ito  (Meta Knight)
+Bracket:  Winners Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: TA|Trevonte  (Sheik)
+Player 2: SG | Hitaku  (MewTwo)
+Bracket:  Winners Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: FONC | Stark  (Ike)
+Player 2: Ito  (Meta Knight)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: WYW | Legit  (Diddy Kong)
+Player 2: SG | Rice  (Mario)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: Fiend | DSS  (Meta Knight)
+Player 2: TA|Trevonte  (Sheik)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: SG | Hitaku  (MewTwo)
+Player 2: NME | Zex  (Sheik)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: BaNdt  (Villager)
+Player 2: GiGA|Jodi Bleek  (Greninja)
+Bracket:  Winners Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: FONC | Stark  (Ike)
+Player 2: TOME|FuTure  (Ness)
+Bracket:  Bracket 1 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: TCM | Iron Gonzales  (Lucas)
+Player 2: SG | Hitaku  (MewTwo)
+Bracket:  Bracket 3 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: Insi | 8BIT Nova!  (Greninja)
+Player 2: Fiend | DSS  (Meta Knight)
+Bracket:  Bracket 2 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: PXG | York  (Olimar)
+Player 2: SG | Athena  (Robin)
+Bracket:  Bracket 1 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: GiGa | Jodi Bleek  (Greninja)
+Player 2: Blue  None
+Bracket:  Bracket 4 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: BaNdt  (Villager)
+Player 2: DMG | Kato  (Falco / Wario)
+Bracket:  Bracket 4 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: GiGa | BliTz  (Sonic)
+Player 2: CPU_2  (Luigi)
+Bracket:  Bracket 3 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: Black_DynoWright  (Little Mac)
+Player 2: CasualJ  (Duck Hunt)
+Bracket:  Bracket 2 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #4 
+Player 1: RickShaw  (Zero Suit Samus)
+Player 2: Kham  (MewTwo)
+Bracket:  Bracket 3 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #95 
+Player 1: Grand Finals: PewPewU & Suzarya  None
+Player 2: s0ft & Nintendude None
+Bracket:  Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #95 
+Player 1: Loser Finals: Glofishh & Cactuar  None
+Player 2: s0ft & Nintendude None
+Bracket:  Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #95 
+Player 1: Loser Semis: EastCoastJeff/Chris Best  None
+Player 2: Glofishh/Cactuar None
+Bracket:  Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #95 
+Player 1: Winner Finals: PewPewU & Suzarya  None
+Player 2: Nintendude & s0ft None
+Bracket:  Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #95 
+Player 1: Winner Semis: PewPewU & Suzarya  None
+Player 2: Choknater & Spark None
+Bracket:  Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #95 
+Player 1: Winner Semis: Nintendude & s0ft  None
+Player 2: Laudandus & Charlezard None
+Bracket:  Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #95 
+Player 1: Winner Quarters: PewPewU & Suzarya  None
+Player 2: CoolKid & Justin None
+Bracket:  Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #95 
+Player 1: Winner Quarters: Nintendude & s0ft  None
+Player 2: EasCoastJeff & Chr None
+Bracket:  Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #95 
+Player 1: Winner Quarters: SFAT & QT 3.14  None
+Player 2: Laudandus & Charlezard None
+Bracket:  Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #95 
+Player 1: Winner Ro16: Choknater & Spark  None
+Player 2: Dr. Z & Milktea None
+Bracket:  Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #95 
+Player 1: Winner Ro16: ycz6 & Elemental Penguin  None
+Player 2: Laudandus None
+Bracket:  Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #95 
+Player 1: Winner Ro16: EastCoastJeff & Chris Best  None
+Player 2: L & Sammy None
+Bracket:  Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #95 
+Player 1: Winner Ro32: w33dlord & Engdrew  None
+Player 2: Yamaneko & Arcadia None
+Bracket:  Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #95 
+Player 1: Winner Ro64: Low5 & Wiz  None
+Player 2: GroovyGreenHat & Jeff Seid None
+Bracket:  Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #95 
+Player 1: Winner Ro64: Calvin & Leahboo  None
+Player 2: Muttnik & HOLZ! None
+Bracket:  Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: Ito  (Meta Knight)
+Player 2: TA|Trevonte  (Sheik)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: Legit  (Diddy Kong)
+Player 2: TA|Trevonte  (Sheik)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: Legit  (Diddy Kong)
+Player 2: JeepySol  (Diddy Kong)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: Ito  (Meta Knight)
+Player 2: TA|Trevonte  (Sheik)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: Legit  (Diddy Kong)
+Player 2: SG|Rice  (Mario)
+Bracket:  Loser Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: JeepySol  (Diddy Kong)
+Player 2: IC|Mudomo  (Fox)
+Bracket:  Loser Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: Ito  (Lucario/Meta Knight)
+Player 2: Legit  (Diddy Kong)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: IC|Mudomo  (Fox)
+Player 2: TA|Trevonte  (Sheik)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: JeepySol  (Diddy Kong)
+Player 2: NME|SG|Zex  (Sheik)
+Bracket:  Losers R3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: SG|Rice  (Mario)
+Player 2: IC|Jehtt  (Mega Man)
+Bracket:  Losers R3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: Nabster  (Rosalina & Luma)
+Player 2: TA|Trevonte  (Sheik)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: NME|SG|Zex  (Mario)
+Player 2: Legit  (Diddy Kong)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: IC|Mudomo  (Fox)
+Player 2: SG|Rice  (Mario)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: JeepySol  (Diddy Kong)
+Player 2: MoonBoyJosh  (C. Falcon)
+Bracket:  Bracket 2 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: Nabster  (Rosalina & Luma)
+Player 2: TCM|Iron_Gonzalez  (Lucas)
+Bracket:  Bracket 2 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: SD|Andy_Sauro  (Bowser Jr.)
+Player 2: Legit  (Diddy Kong)
+Bracket:  Bracket 4 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: PairODucks  (Ryu)
+Player 2: Sinister  (Rosalina & Luma)
+Bracket:  Bracket 1 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: TCM|Mr. Peabody  (Fox)
+Player 2: PXG|York  (Olimar)
+Bracket:  Bracket 4 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: DiRe|Ctrl  (R.O.B.)
+Player 2: JJ|CrownAether  (Shulk)
+Bracket:  Bracket 2 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: MoonBoyJosh  (C. Falcon)
+Player 2: EBT|Redman  (Villager)
+Bracket:  Bracket 1 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: Lightly Toasted Waffle  (Lucas)
+Player 2: 8BIT|Chinito  (Mario)
+Bracket:  Bracket 3 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #3 
+Player 1: 8BIT|Roc  (R.O.B.)
+Player 2: Oopsie|Mali  (C. Falcon)
+Bracket:  Bracket 3 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #94 
+Player 1: DrJwns  (Falco)
+Player 2: Clubs  (Sheik)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #94 
+Player 1: SPY|Nintendude  (ICs)
+Player 2: MIOM|Dr. Z  (Jigglypuff)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #94 
+Player 1: Choknater  (Ice Climbers)
+Player 2: MIOM|Dr. Z  (Jigglypuff)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #94 
+Player 1: Choknater  (Young Link/ICs)
+Player 2: ycz  (Samus)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #94 
+Player 1: SPY|Nintendude  (ICs)
+Player 2: MIOM|Dr. Z  (Jigglypuff)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #94 
+Player 1: ycz  (Samus)
+Player 2: MIOM|Dr. Z  (Jigglypuff)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #94 
+Player 1: SPY|Nintendude  (Ice Climbers)
+Player 2: Choknater  (ICs)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #94 
+Player 1: ycz  (Samus)
+Player 2: Charlon  (Fox)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #94 
+Player 1: Choknater  (Ice Climbers)
+Player 2: gaR  (Sheik)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #94 
+Player 1: SPY|Nintendude  (Ice Climbers)
+Player 2: Drewgong  (Marth)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #94 
+Player 1: ElementalPenguin  (Falco)
+Player 2: MIOM|Dr. Z  (Jigglypuff)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #94 
+Player 1: gaR  (Marth)
+Player 2: A$AP POCKY  (C. Falcon)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #94 
+Player 1: Yasu  (Fox)
+Player 2: Drewgong  (Marth)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #94 
+Player 1: Machiavelli  (Fox)
+Player 2: Charleszard  (Sheik)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #94 
+Player 1: Jaydeep  (Sheik)
+Player 2: DJSwerve  (Peach)
+Bracket:  Winner Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #94 
+Player 1: Machiavelli  (Fox)
+Player 2: ycz  (Samus)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #94 
+Player 1: ShiftyPig  (Falco)
+Player 2: Hoof  (Falco)
+Bracket:  Winner Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: PandaTV | Weili  None
+Player 2: Brass None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: PandaTV | Weili  None
+Player 2: TSG | ZNice None
+Bracket:  Loser Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: PandaTV | Weili  None
+Player 2: DM | El Cubano Loco None
+Bracket:  Loser Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: Brass  None
+Player 2: TSG | ZNice None
+Bracket:  Winner Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: Brass  None
+Player 2: DM | El Cubano Loco None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: TSG | ZNice  None
+Player 2: DM | Casual Phil None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: DM | n0thingman  None
+Player 2: Brass None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: DM | Casual Phil  None
+Player 2: El Ben None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: DM | Pesto88  None
+Player 2: TSG | ZNice None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: Cheese  None
+Player 2: DM | El Cubano Loco None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: Fuller  None
+Player 2: DM | Casual Phil None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: SD DM | Watt  None
+Player 2: Brass None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: TSG | ZNice  None
+Player 2: Andy None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: Twitch | Mike Ross  None
+Player 2: DM | n0thingman None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: PandaTV | Weili  None
+Player 2: El Ben None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: Higashi  None
+Player 2: Cheese None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: Fuller  None
+Player 2: TrickDaddy None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: DM | Vitrium  None
+Player 2: Ranelle None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: TheWhiteShadow  None
+Player 2: DM | John B. None
+Bracket:  Winner Ro 64 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #81 
+Player 1: SnowCone  None
+Player 2: ToonLight None
+Bracket:  Winner Ro 64 
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: Ito  (Meta Knight)
+Player 2: NME|SG|Zex  (Sheik/Bayonetta)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: WtF|DSS  (Meta Knight/Ness)
+Player 2: NME|SG|Zex  (Sheik)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: WtF|DSS  (Meta Knight)
+Player 2: Nabster  (Rosalina & Luma)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: NME|SG|Zex  (Meta Knight/Marth)
+Player 2: Ito  (Meta Knight)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: Sinister  (Rosalina & Luma)
+Player 2: WtF|DSS  (Meta Knight)
+Bracket:  Loser Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: SG|Hitaku  (Mewtwo)
+Player 2: Nabster  (Rosalina & Luma)
+Bracket:  Loser Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: Sinister  (Rosalina & Luma)
+Player 2: KOSSismoss  (Meta Knight)
+Bracket:  Losers R3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: Nabster  (Rosalina & Luma)
+Player 2: Mudomo  (Fox)
+Bracket:  Losers R3
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: WtF|DSS  (Meta Knight/Cloud)
+Player 2: NME|SG|Zex  (Sheik)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: Ito  (Meta Knight)
+Player 2: SG|Hitaku  (Mewtwo)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: Sinister  (Rosalina & Luma/Charizard)
+Player 2: Ito  (Meta Knight)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: SG|Hitaku  (Mewtwo)
+Player 2: KOSSismoss  (Meta Knight)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: NME|SG|Zex  (Sheik)
+Player 2: Mudomo  (Fox)
+Bracket:  Bracket 3 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: Nabster  (Rosalina & Luma)
+Player 2: WtF|DSS  (Meta Knight)
+Bracket:  Bracket 2 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: Lightwalk|Gpik  (Game & Watch)
+Player 2: SG|Hitaku  (Mewtwo)
+Bracket:  Bracket 4 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: Nabster  (Rosalina & Luma)
+Player 2: Fetch  (Ness)
+Bracket:  Bracket 2 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: Astro|Scourge  (Sonic)
+Player 2: Mudomo  (Fox)
+Bracket:  Bracket 3 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: Moonboyjosh  (C. Falcon)
+Player 2: 8BIT|Chinito  (Mario)
+Bracket:  Bracket 2 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: 8BIT|Gpheno  (Corrin)
+Player 2: DMG|Kato  (Falco)
+Bracket:  Bracket 2 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: NAVI  (Peach)
+Player 2: Oopsie|Mali  (C. Falcon)
+Bracket:  Bracket 2 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: T17|Big Sean  (Bowser)
+Player 2: Kitka  (Yoshi)
+Bracket:  Bracket 1 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #2 
+Player 1: 8BIT|MisterQ  (Bayo)
+Player 2: Kham  (Mewtwo)
+Bracket:  Bracket 4 Pool
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: Dizzkidboogie  (Ice Climbers)
+Player 2: CLG.PewPewU  (Marth)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: SPY|Nintendude  (Ice Climbers)
+Player 2: WFX|Shroomed  (Marth)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: Dizzkidboogie  (Ice Climbers)
+Player 2: CLG.PewPewU  (Marth)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: Dizzkidboogie  (Ice Climbers)
+Player 2: Choknater  (ICs/Fox)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: WFX|Shroomed  (Sheik)
+Player 2: CLG.PewPewU  (Marth)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: Choknater  (Ice Climbers)
+Player 2: Drewgong  (Marth)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: WFX|Shroomed  (Sheik)
+Player 2: Mahone  (Jigglypuff)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: Dizzkidboogie  (Ice Climbers)
+Player 2: NMW  (C. Falcon)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: Yasu  (Fox)
+Player 2: CLG.PewPewU  (Marth)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: Mahone  (Jigglypuff)
+Player 2: Alan  (Marth)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: Spark  (Sheik)
+Player 2: Tang  (Fox)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: NMW  (C. Falcon)
+Player 2: ycz6  (Samus)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: Drewgong  (Marth)
+Player 2: Myko  (Fox)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: Skeeter  (Peach)
+Player 2: Boback  (Falco)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: BoN|RickShaw  (Marth)
+Player 2: Alan  (Peach/Sheik)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: Spark  (Sheik)
+Player 2: Fizzi  (C. Falcon)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: Suzarya  (Peach)
+Player 2: Tang  (Fox)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: ycz6  (Samus)
+Player 2: Sunny  (Fox/C. Falcon)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: JimmyNoJohns  (C. Falcon)
+Player 2: Yasu  (Fox)
+Bracket:  Winner Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: Iron_Man  (Sheik)
+Player 2: Evan  (Peach)
+Bracket:  Winner Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: AbsoluteBlack  (Marth)
+Player 2: Drewgong  (Marth)
+Bracket:  Winner Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: SPY|Nintendude  (Ice Climbers)
+Player 2: CLG.PewPewU  (Marth)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: feelsbadman  (Falco)
+Player 2: Migboy  (Falco)
+Bracket:  Winner Ro128
+Game: Unknown
+-------------
+
+Tournament Name: Get Smashed at the Foundry #93 
+Player 1: Lovelive Degenerate  (Fox)
+Player 2: Tufts|Salt Mine  (Luigi)
+Bracket:  Winner Ro128
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: WolfLord  (Lucina)
+Player 2: 1UP|Shaky  (Pikachu)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: Stark  (Cloud)
+Player 2: FONC|ZeonStar  (Little Mac)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: TA|Trevonte  (Sheik)
+Player 2: 1UP|Shaky  (Ness)
+Bracket:  Grand Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: TA|Trevonte  (Sheik)
+Player 2: Ito  (Meta Knight)
+Bracket:  Loser Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: Ce|DSS  (Meta Knight)
+Player 2: Ito  (Meta Knight)
+Bracket:  Loser Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: BaNdt  (Villager)
+Player 2: Ce|DSS  (Meta Knight)
+Bracket:  Loser Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: TA|Trevonte  (Sheik)
+Player 2: 1UP|Shaky  (Ness)
+Bracket:  Winner Finals
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: TA|Trevonte  (Sheik)
+Player 2: Ito  (Meta Knight)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: 1UP|Shaky  (Ness)
+Player 2: BaNdt  (Villager)
+Bracket:  Winner Semis
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: Ce|DSS  (Cloud/Meta Knight)
+Player 2: TA|Trevonte  (Sheik)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: 1UP|Shaky  (Ness)
+Player 2: SG|Hitaku  (Mewtwo)
+Bracket:  Winner Quarters
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: Ish  (Cloud)
+Player 2: BaNdt  (Villager)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: TA|Legit  (Diddy Kong)
+Player 2: PHaSK|Probeans  (Ike)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: Stark  (Cloud)
+Player 2: FONC|ZeonStar  (Little Mac)
+Bracket:  Winner Ro16
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: Sinister  (Rosalina & Luma)
+Player 2: MoMo  (Shulk)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: FONC|ZeonStar  (Little Mac)
+Player 2: 8BIT|Chinito  (Mario)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: Lightwalk|GPik  (Game & Watch)
+Player 2: Big Sean  (Bowser)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: BaNdt  (Villager)
+Player 2: 8BIT|Nova!  (Lucario/Fox)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: SD|Andy_Sauro  (Bowser Jr./Lucario)
+Player 2: WolfLord  (Lucina)
+Bracket:  Winner Ro32
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: PHO|Waael  (Ness)
+Player 2: TOME|Future  (Ness)
+Bracket:  Winner Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: PHaSK|Probeans  (Ike)
+Player 2: GiGa|Blitz  (Sonic/Greninja)
+Bracket:  Winner Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: CLG.PewPewU  (Sheik)
+Player 2: Ish  (Cloud)
+Bracket:  Winner Ro64
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: DMG|Kato  (Falco)
+Player 2: SG|Agape  (Donkey Kong)
+Bracket:  Winner Ro128
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: Kelso  (Mario)
+Player 2: Kham  (Mewtwo)
+Bracket:  Winner Ro128
+Game: Unknown
+-------------
+
+Tournament Name: Smash of the Titans #1 
+Player 1: Oopsie|Kosher Meatball  (Lucas)
+Player 2: EBT|Redman  (Villager)
+Bracket:  Winner Ro128
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: pavocado  None
+Player 2: bjUNCHAINED None
+Bracket:  Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: pavocado  None
+Player 2: PandaTV | Jiewa None
+Bracket:  Loser Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: pavocado  None
+Player 2: Andy None
+Bracket:  Loser Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: bjUNCHAINED  None
+Player 2: PandaTV | Jiewa None
+Bracket:  Winner Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: pavocado  None
+Player 2: PandaTV | Jiewa None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: Quan Paul  None
+Player 2: bjUNCHAINED None
+Bracket:  Winner Semis 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: pavocado  None
+Player 2: Andy None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: Quan Paul  None
+Player 2: MattyPie None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: the7thTrumpet  None
+Player 2: PandaTV | Jiewa None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: G-Dragon  None
+Player 2: bjUNCHAINED None
+Bracket:  Winner Quarters 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: MattyPie  None
+Player 2: DM | El Cubano Loco None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: the7thTrumpet  None
+Player 2: Marcus None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: DM | John B.  None
+Player 2: pavocado None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: DM|CasualPhil  None
+Player 2: G-Dragon None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: Andy  None
+Player 2: DM | Burn Notice None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: RollCasket  None
+Player 2: PandaTV | Jiewa None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: SD DM | Watt  None
+Player 2: bjUNCHAINED None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: Quan Paul  None
+Player 2: TSG | ZNice None
+Bracket:  Winner Ro 16 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: TSG | Patmonsta209  None
+Player 2: the7thTrumpet None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: DM | Casual Phil  None
+Player 2: Makara None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: PanicSwitch  None
+Player 2: DM | John B. None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
+Tournament Name: Churning the Butter #80 
+Player 1: DM | El Cubano Loco  None
+Player 2: Higashi None
+Bracket:  Winner Ro 32 
+Game: Unknown
+-------------
+
 Tournament Name: Get Smashed at the Foundry #92 
 Player 1: SPY|Nintendude  (Ice Climbers) 
 Player 2: WFX|Shroomed  (Marth)

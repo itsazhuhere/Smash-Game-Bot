@@ -107,6 +107,7 @@ def sanitize(entry):
     elif type(entry) is str or type(entry) is unicode:
         new_entry = entry.replace("'", "\\'")
         new_entry = new_entry.replace('"', '\\"')
+        
         return new_entry
         
 
@@ -192,7 +193,7 @@ def fix_alternate_names(table):
     alt_names = make_db_request("SELECT * FROM alt_names")
     alt_names_dict = dict()
     for name in alt_names:
-        name_regex = re.compile(name["alt_tag"],re.IGNORECASE)
+        name_regex = re.compile(escape_special_chars(name["alt_tag"]),re.IGNORECASE)
         if name["proper_tag"] in alt_names_dict:
             alt_names_dict[name["proper_tag"]].append(name_regex)
         else: 
@@ -212,7 +213,9 @@ def fix_alternate_names(table):
             add_update(update_request)
     stop_update()
             
-    
+def escape_special_chars(text):
+    return text.replace("[","\[").replace("]","\]")
+
 info_columns = ",".join(["{0}={1}".format(tournament_columns[i],"'{"+str(i)+"}'") for i in range(len(tournament_columns))])
 update_row_template = "UPDATE {table} SET {set} WHERE {where}".format(table=table_name,
                                                                       set=info_columns,
@@ -456,7 +459,6 @@ def update_tables():
     merge_tables("new_games","games")
     make_update("TRUNCATE new_games")
     videogetter.concat_all_new_files()
-    pass
 
 merge_tables_template = """
 INSERT INTO {0}
@@ -480,8 +482,9 @@ if __name__ == "__main__":
     #create_brackets_table()
     #create_bracketnames_table()
     #fix_brackets("new_games")
+    #fix_alternate_names("games")
     
-    update_tables()
+    #update_tables()
     
     #create_team_tags_table("botdatabasebackup\\team_names.txt")
     #remove_teams("games")

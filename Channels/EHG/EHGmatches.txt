@@ -1,3 +1,1067 @@
+Tournament Name: Construct 72 
+Player 1: XLR  None
+Player 2: ME | Vro  None
+Bracket:  Melee Bracket
+Game: Melee
+-------------
+
+Tournament Name: Construct 72 
+Player 1: WIT | ORLY  None
+Player 2: ME | Vro  None
+Bracket:  Melee WF
+Game: Melee
+-------------
+
+Tournament Name: Construct 72 
+Player 1: WIT | ORLY + EHG | Jon$  None
+Player 2: Zicore + DFU  None
+Bracket:  Melee Doubles WS
+Game: Melee
+-------------
+
+Tournament Name: Construct 72 
+Player 1: WIT | ORLY + EHG | Jon$  None
+Player 2: ME | Vro + FSBR | ASL  None
+Bracket:  Melee Doubles GF
+Game: Melee
+-------------
+
+Tournament Name: Construct 72 
+Player 1: WIT | ORLY + EHG | Jon$  None
+Player 2: Mattmog + Gamergy | ThisSideDown  None
+Bracket:  Melee Doubles WF
+Game: Melee
+-------------
+
+Tournament Name: Construct 72 
+Player 1: VVi11is  None
+Player 2: WigWag  None
+Bracket:  Smash 4 Losers Bracket
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 72 
+Player 1: Spencer  None
+Player 2: Flashfire  None
+Bracket:  Smash 4 Bracket
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 72 
+Player 1: Ryse  None
+Player 2: ME | Vro  None
+Bracket:  Melee WQ
+Game: Melee
+-------------
+
+Tournament Name: Construct 72 
+Player 1: ME | Vro  None
+Player 2: WIT | ORLY  None
+Bracket:  Melee GF
+Game: Melee
+-------------
+
+Tournament Name: Construct 72 
+Player 1: ME | Vro + FSBR | ASL  None
+Player 2: Mattmog + Gamergy | ThisSideDown  None
+Bracket:  Melee Doubles LF
+Game: Melee
+-------------
+
+Tournament Name: Construct 72 
+Player 1: EHG | Jon$  None
+Player 2: Mattmog  None
+Bracket:  Melee WQ
+Game: Melee
+-------------
+
+Tournament Name: Construct 72 
+Player 1: Gamergy | ThisSideDown  None
+Player 2: WIT | ORLY  None
+Bracket:  Melee WQ
+Game: Melee
+-------------
+
+Tournament Name: Construct 72 
+Player 1: FSBR | ASL + ME | Vro  None
+Player 2: Mattmog + Gamergy | ThisSideDown  None
+Bracket:  Melee Doubles WS
+Game: Melee
+-------------
+
+Tournament Name: Construct 72 
+Player 1: Flashfire  None
+Player 2: Parappa  None
+Bracket:  Smash 4 WS
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 72 
+Player 1: Flashfire  None
+Player 2: Comet  None
+Bracket:  Smash 4 WQ
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 72 
+Player 1: EHG | Moros + EHG | Gerby  None
+Player 2: Zicore + DFU  None
+Bracket:  Melee Doubles WQ
+Game: Melee
+-------------
+
+Tournament Name: Construct 72 
+Player 1: EHG | Jon$  None
+Player 2: WIT | ORLY  None
+Bracket:  Melee LF
+Game: Melee
+-------------
+
+Tournament Name: Construct 72 
+Player 1: EHG | Jon$  None
+Player 2: WIT | ORLY  None
+Bracket:  Melee WS
+Game: Melee
+-------------
+
+Tournament Name: Construct 72 
+Player 1: EHG | Jon$  None
+Player 2: FSBR | ASL  None
+Bracket:  Melee LQ
+Game: Melee
+-------------
+
+Tournament Name: Construct 72 
+Player 1: EHG | Jon$  None
+Player 2: DFU  None
+Bracket:  Melee LS
+Game: Melee
+-------------
+
+Tournament Name: Construct 72 
+Player 1: DFU  None
+Player 2: ME | Vro  None
+Bracket:  Melee WS
+Game: Melee
+-------------
+
+Tournament Name: Construct 72 
+Player 1: Cube  None
+Player 2: ME | Vro  None
+Bracket:  Melee Bracket
+Game: Melee
+-------------
+
+Tournament Name: Construct 72 
+Player 1: Comet  None
+Player 2: Seggo  None
+Bracket:  Smash 4 LS
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 72 
+Player 1: Comet  None
+Player 2: Parappa  None
+Bracket:  Smash 4 LF
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 72 
+Player 1: AUDI  None
+Player 2: Comet  None
+Bracket:  Smash 4
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 72 
+Player 1: @MuKLyFeMarshall  None
+Player 2: Red Ryu  None
+Bracket:  Smash 4 WQ
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 72 
+Player 1: @MuKLyFeMarshall  None
+Player 2: Parappa  None
+Bracket:  Smash 4 WF
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 72 
+Player 1: @MuKLyFeMarshall  None
+Player 2: Parappa  None
+Bracket:  Smash 4 GF
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 72 
+Player 1: @MuKLyFeMarshall  None
+Player 2: DRO  None
+Bracket:  Smash 4 WS
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 72 
+Player 1: @MuKLyFeMarshall + Fons  None
+Player 2: Comet + DRO  None
+Bracket:  Smash 4 Doubles GF
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 70 
+Player 1: ZenPB  None
+Player 2: Parappa  None
+Bracket:  Smash 4 WS
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 70 
+Player 1: ZenPB  None
+Player 2: Segastorm  None
+Bracket:  Smash 4 WQ
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 70 
+Player 1: ZenPB  None
+Player 2: DragonBB  None
+Bracket:  Smash 4 LQ
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 70 
+Player 1: WIT | ORLY  None
+Player 2: Hert  None
+Bracket:  Melee Bracket
+Game: Melee
+-------------
+
+Tournament Name: Construct 70 
+Player 1: WIT | ORLY  None
+Player 2: Trix  None
+Bracket:  Melee LQ
+Game: Melee
+-------------
+
+Tournament Name: Construct 70 
+Player 1: WIT | ORLY  None
+Player 2: EHG | Jon$  None
+Bracket:  Melee LS
+Game: Melee
+-------------
+
+Tournament Name: Construct 70 
+Player 1: WIT ORLY + Trix  None
+Player 2: FSBR | ASL + Gary Oak  None
+Bracket:  Melee Doubles WF
+Game: Melee
+-------------
+
+Tournament Name: Construct 70 
+Player 1: Trix  None
+Player 2: EHG | Jon$  None
+Bracket:  Melee WQ
+Game: Melee
+-------------
+
+Tournament Name: Construct 70 
+Player 1: Risa62  None
+Player 2: Emmanuel  None
+Bracket:  Melee Bracket
+Game: Melee
+-------------
+
+Tournament Name: Construct 70 
+Player 1: Red Ryu  None
+Player 2: Parappa  None
+Bracket:  Smash 4
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 70 
+Player 1: Parappa  None
+Player 2: @MuKLyFeMarshall  None
+Bracket:  Smash 4 WF
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 70 
+Player 1: ME | Vro  None
+Player 2: WIT | ORLY  None
+Bracket:  Melee WS
+Game: Melee
+-------------
+
+Tournament Name: Construct 70 
+Player 1: ME | Vro Snacks  None
+Player 2: GHQ | Kels  None
+Bracket:  Melee WF
+Game: Melee
+-------------
+
+Tournament Name: Construct 70 
+Player 1: ME | Vro  None
+Player 2: GHQ | Kels  None
+Bracket:  Melee GF
+Game: Melee
+-------------
+
+Tournament Name: Construct 70 
+Player 1: ME | Vro  None
+Player 2: EHG | Jon$  None
+Bracket:  Melee LF
+Game: Melee
+-------------
+
+Tournament Name: Construct 70 
+Player 1: ME | Goldman Snacks  None
+Player 2: GHQ | Kels  None
+Bracket:  Melee WQ
+Game: Melee
+-------------
+
+Tournament Name: Construct 70 
+Player 1: Lennox  None
+Player 2: 2Chainz  None
+Bracket:  Smash 4
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 70 
+Player 1: EHG | Moros + EHG | Gerby  None
+Player 2: Wazoo + PoonPounder  None
+Bracket:  Melee Doubles WQ
+Game: Melee
+-------------
+
+Tournament Name: Construct 70 
+Player 1: EHG | Jon$  None
+Player 2: GHQ | Kels  None
+Bracket:  Melee WS
+Game: Melee
+-------------
+
+Tournament Name: Construct 70 
+Player 1: EHG | Jon$ + Risa62  None
+Player 2: Rannulf + Popsicle  None
+Bracket:  Melee Doubles WQ
+Game: Melee
+-------------
+
+Tournament Name: Construct 70 
+Player 1: EHG | Jon$ + Risa62  None
+Player 2: WIT | ORLY + Trix  None
+Bracket:  Melee Doubles GF
+Game: Melee
+-------------
+
+Tournament Name: Construct 70 
+Player 1: EHG | Jon$ + Risa62  None
+Player 2: FSBR | ASL + Gary Oak  None
+Bracket:  Melee Doubles WS
+Game: Melee
+-------------
+
+Tournament Name: Construct 70 
+Player 1: EHG | Jon$ + Risa62  None
+Player 2: FSBR | ASL + Gary Oak  None
+Bracket:  Melee Doubles LF
+Game: Melee
+-------------
+
+Tournament Name: Construct 70 
+Player 1: DRO  None
+Player 2: ZenPB  None
+Bracket:  Smash 4 LS
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 70 
+Player 1: DRO  None
+Player 2: @MuKLyFeMarshall  None
+Bracket:  Smash 4 WS
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 70 
+Player 1: @MuKLyFeMarshall  None
+Player 2: ZenPB  None
+Bracket:  Smash 4 LF
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 70 
+Player 1: @MuKLyFeMarshall  None
+Player 2: Ventra  None
+Bracket:  Smash 4 WQ
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 70 
+Player 1: @MuKLyFeMarshall  None
+Player 2: Parappa  None
+Bracket:  Smash 4 GF
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 69 
+Player 1: WIT | ORLY  None
+Player 2: ME | Vro  None
+Bracket:  Melee GF
+Game: Melee
+-------------
+
+Tournament Name: Construct 69 
+Player 1: WIT | ORLY  None
+Player 2: Gundersen  None
+Bracket:  Melee LF
+Game: Melee
+-------------
+
+Tournament Name: Construct 69 
+Player 1: WIT | ORLY + Trix  None
+Player 2: High-C + FSBR | ASL  None
+Bracket:  Melee Doubles WF
+Game: Melee
+-------------
+
+Tournament Name: Construct 69 
+Player 1: WIT | ORLY + Trix  None
+Player 2: Gundersen + Elephante  None
+Bracket:  Melee Doubles WS
+Game: Melee
+-------------
+
+Tournament Name: Construct 69 
+Player 1: Trix  None
+Player 2: WIT | ORLY  None
+Bracket:  Melee WS
+Game: Melee
+-------------
+
+Tournament Name: Construct 69 
+Player 1: Trix  None
+Player 2: LightningWeeg  None
+Bracket:  Melee
+Game: Melee
+-------------
+
+Tournament Name: Construct 69 
+Player 1: Trix  None
+Player 2: Gundersen  None
+Bracket:  Melee LS
+Game: Melee
+-------------
+
+Tournament Name: Construct 69 
+Player 1: Trix + WIT | ORLY  None
+Player 2: High-C + FSBR | ASL  None
+Bracket:  Melee Doubles GF
+Game: Melee
+-------------
+
+Tournament Name: Construct 69 
+Player 1: ThisSideDown + EHG | Jon$  None
+Player 2: PoonPounder + Wazoo  None
+Bracket:  Melee Doubles LS
+Game: Melee
+-------------
+
+Tournament Name: Construct 69 
+Player 1: ThisSideDown + EHG | Jon$  None
+Player 2: High-C + FSBR | ASL  None
+Bracket:  Melee Doubles LF
+Game: Melee
+-------------
+
+Tournament Name: Construct 69 
+Player 1: Spencer  None
+Player 2: MuK.LyFe | Marshall  None
+Bracket:  Smash 4 GF
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 69 
+Player 1: MuK.LyFe | Marshall  None
+Player 2: Otis  None
+Bracket:  Smash 4 WQ
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 69 
+Player 1: MuK.LyFe | Marshall  None
+Player 2: Nuhuh  None
+Bracket:  Smash 4
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 69 
+Player 1: MuK.LyFe | Marshall  None
+Player 2: Addle  None
+Bracket:  Smash 4
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 69 
+Player 1: ME | Vro  None
+Player 2: WIT | ORLY  None
+Bracket:  Melee WF
+Game: Melee
+-------------
+
+Tournament Name: Construct 69 
+Player 1: ME | Vro  None
+Player 2: Gundersen  None
+Bracket:  Melee WS
+Game: Melee
+-------------
+
+Tournament Name: Construct 69 
+Player 1: EHG | Jon$  None
+Player 2: Gundersen  None
+Bracket:  Melee LQ
+Game: Melee
+-------------
+
+Tournament Name: Construct 69 
+Player 1: EHG | Jon$ + ThisSideDown  None
+Player 2: FSBR | ASL + High-C   None
+Bracket:  Melee Doubles WS
+Game: Melee
+-------------
+
+Tournament Name: Construct 69 
+Player 1: FSBR | ASL  None
+Player 2: Gundersen  None
+Bracket:  Melee WQ
+Game: Melee
+-------------
+
+Tournament Name: Construct 69 
+Player 1: Fons  None
+Player 2: Qdoba | DRO  None
+Bracket:  Smash 4 LQ
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 69 
+Player 1: Fons  None
+Player 2: Comet  None
+Bracket:  Smash 4 LS
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 69 
+Player 1: EHG | Moros + EHG | Gerby  None
+Player 2: Elephante + Gundersen  None
+Bracket:  Melee Doubles WQ
+Game: Melee
+-------------
+
+Tournament Name: Construct 69 
+Player 1: EHG | Gerby  None
+Player 2: LightningWeeg  None
+Bracket:  Melee
+Game: Melee
+-------------
+
+Tournament Name: Construct 69 
+Player 1: Comet  None
+Player 2: Spencer  None
+Bracket:  Smash 4 WS
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 69 
+Player 1: Comet  None
+Player 2: Greasy  None
+Bracket:  Smash 4
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 69 
+Player 1: Plague_2  None
+Player 2: Comet  None
+Bracket:  Smash 4 WQ
+Game: Smash 4
+-------------
+
+Tournament Name: Construct 69 
+Player 1: Buns  None
+Player 2: LightningWeeg  None
+Bracket:  Melee Bracket
+Game: Melee
+-------------
+
+Tournament Name: Construct 69 
+Player 1: Comet + DRO  None
+Player 2: MuK.LyFe | Marshall + Memes  None
+Bracket:  Smash 4 2v2 GF
+Game: Smash 4
+-------------
+
+Tournament Name: Kotn5 
+Player 1: yeti  None
+Player 2: Darkshad  None
+Bracket:  Smash 4 Losers Semis
+Game: Smash 4
+-------------
+
+Tournament Name: Kotn5 
+Player 1: VwS | Professor Pro  None
+Player 2: Drephen  None
+Bracket:  Melee Winners Semis
+Game: Melee
+-------------
+
+Tournament Name: KotN5 
+Player 1: UR | Ned  None
+Player 2: yeti  None
+Bracket:  Smash 4 Losers Quarters
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: UR | Ned  None
+Player 2: Virtue | Naoto  None
+Bracket:  Smash 4 Losers Semis
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: UR | Ned   None
+Player 2: Shinjoebi  None
+Bracket:  Smash 4 Losers
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Skorpio  None
+Player 2: NiTe  None
+Bracket:  Smash 4 Losers Top 8
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Prince F. Abu  None
+Player 2: Kels  None
+Bracket:  Melee Winners Semis
+Game: Melee
+-------------
+
+Tournament Name: KotN5 
+Player 1: PG | ESAM  None
+Player 2: yeti  None
+Bracket:  Smash 4 Winners Semis
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: NiTe  None
+Player 2: Triple R  None
+Bracket:  Smash 4 Top 32
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: NiTe  None
+Player 2: Cookietic  None
+Bracket:  Smash 4 Top 32
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Kels  None
+Player 2: PRZ  None
+Bracket:  Melee Losers Quarters
+Game: Melee
+-------------
+
+Tournament Name: KotN5 
+Player 1: JJROCKETS  None
+Player 2: Shinjoebi  None
+Bracket:  Smash 4 Winners Quarters
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: JJROCKETS  None
+Player 2: PG | ESAM  None
+Bracket:  Smash 4 Winners Finals
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: PG | ESAM  None
+Player 2: Skorpio  None
+Bracket:  Smash 4 Top 32
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: E2C | DarkShad  None
+Player 2: UR | Ned  None
+Bracket:  Smash 4 Winners Quarters
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Darkshad  None
+Player 2: NiTe  None
+Bracket:  Smash 4 Losers Quarters
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Darkshad  None
+Player 2: JJROCKETS  None
+Bracket:  Smash 4 Losers Finals
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Azzu  None
+Player 2: PRZ  None
+Bracket:  Melee Losers Top 8
+Game: Melee
+-------------
+
+Tournament Name: KotN5 
+Player 1: Prince F. Abu  None
+Player 2: VwS | Professor Pro  None
+Bracket:  Melee Grand Finals
+Game: Melee
+-------------
+
+Tournament Name: KotN5 
+Player 1: AbsentPage  None
+Player 2: Kels  None
+Bracket:  Melee Losers Semis
+Game: Melee
+-------------
+
+Tournament Name: KotN5 
+Player 1: AbsentPage  None
+Player 2: Drephen  None
+Bracket:  Melee Losers Quarters
+Game: Melee
+-------------
+
+Tournament Name: KotN5 
+Player 1: Prince F. Abu  None
+Player 2: VwS | Professor Pro  None
+Bracket:  Melee Winners Finals
+Game: Melee
+-------------
+
+Tournament Name: KotN5 
+Player 1: PG | ESAM  None
+Player 2: JJROCKETS  None
+Bracket:  Smash 4 Grand Finals
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Darkshad  None
+Player 2: JJROCKETS  None
+Bracket:  Smash 4 Winners Semis
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: NiTe  None
+Player 2: yeti  None
+Bracket:  Smash 4 Top 32
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: UR | big_mak  None
+Player 2: Skorpio  None
+Bracket:  Smash 4 Top 32
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Balanced  None
+Player 2: UR | Ned  None
+Bracket:  Smash 4 Top 32
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: yeti  None
+Player 2: PowPow  None
+Bracket:  Smash 4 Top 32
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Shinjoebi + Skorpio  None
+Player 2: Demitus + NiTe  None
+Bracket:  Smash 4 2v2 LF
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: JJROCKETS + PG | ESAM  None
+Player 2: Demitus + NiTe  None
+Bracket:  Smash 4 2v2 WF
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: UR | Ned + UR | big_mak  None
+Player 2: yeti + Cookietic  None
+Bracket:  Smash 4 2v2 LQ
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Demitus + NiTe  None
+Player 2: Skorpio + Shinjoebi  None
+Bracket:  Smash 4 2v2 WS
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: JJROCKETS + PG | ESAM  None
+Player 2: Cookietic + yeti  None
+Bracket:  Smash 4 2v2 WS
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Slowjoe + Rickles  None
+Player 2: Raynoire + Fons  None
+Bracket:  Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Skorpio + Shinjoebi  None
+Player 2: Naoto + memes.exe  None
+Bracket:  Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Red Ryu + Flashfire  None
+Player 2: DragonBB + SFR   None
+Bracket: Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: OGC + Nuhuh  None
+Player 2: AuRiNiTe + Omnimatrix  None
+Bracket:  Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: NiTe + Demitus  None
+Player 2: DarkShad + EMPEROR Eevee  None
+Bracket:  Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: JJROCKETS + PG | ESAM  None
+Player 2: Slowjoe + Rickles  None
+Bracket:  Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: EMPEROR Eevee + DarkShad  None
+Player 2: Parappa + k maru  None
+Bracket:  Smash 4 Doubles
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: yeti  None
+Player 2: DuckDuckPony  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Strobe  None
+Player 2: Sol Uchiha  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Spencer  None
+Player 2: NiTe  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Soap  None
+Player 2: Garbage  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Slenderman  None
+Player 2: Triple R  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Skorpio  None
+Player 2: Cobalt  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Shinjoebi  None
+Player 2: GHQ | Trap  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Riluu  None
+Player 2: Red Neku  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Raynoire  None
+Player 2: big_mak  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Radi0active Juice  None
+Player 2: NoLaN  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Mthx  None
+Player 2: Cell  None
+Bracket:  Smash 4 Pool
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Lucario Shine  None
+Player 2: Kruser  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Lennox  None
+Player 2: AUDI  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: JMW  None
+Player 2: memes.exe  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: JJROCKETS  None
+Player 2: MightyAchilles  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Igitur  None
+Player 2: Omnimatrix  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Fons + RayNoire  None
+Player 2: Naoto + memes.exe  None
+Bracket:  Smash 4 2v2
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: FlashFire  None
+Player 2: Jabes  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: PG | ESAM  None
+Player 2: Propain  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: E2C | Demitus  None
+Player 2: Balanced  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: DrKBlaze  None
+Player 2: Hypnotic  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: DragonBB  None
+Player 2: omegashadow3000  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: Degy  None
+Player 2: BigRig  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: big_mak + UR Ned  None
+Player 2: yeti + Cookietic  None
+Bracket:  Smash 4 2v2
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: AuRiNiTe  None
+Player 2: Nuhuh  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
+Tournament Name: KotN5 
+Player 1: 8_bit_D  None
+Player 2: Guer0  None
+Bracket:  Smash 4 Pools
+Game: Smash 4
+-------------
+
 Tournament Name: Construct 62 
 Player 1: Yuk  None
 Player 2: FSBR ASL  None

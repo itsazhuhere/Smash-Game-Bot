@@ -1,3 +1,850 @@
+Tournament Name: Smash Summit Spring 2017
+Player 1: Hungrybox  Unknown
+Player 2: Leffen - Melee Singles Unknown
+Bracket: Final Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Armada  Unknown
+Player 2: Hungrybox - Melee Singles Unknown
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Mew2King  Unknown
+Player 2: Leffen - Melee Singles Unknown
+Bracket: Final Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: SFAT  Unknown
+Player 2: Axe - Melee Singles Unknown
+Bracket: Lower Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Armada  Unknown
+Player 2: Hungrybox - Melee Singles Unknown
+Bracket: Final Singles Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Leffen  Unknown
+Player 2: Axe - Melee Singles Unknown
+Bracket: Lower Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Mew2King  Unknown
+Player 2: Plup - Melee Singles Unknown
+Bracket: Lower Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: ChuDat  Unknown
+Player 2: Plup - Melee Singles Unknown
+Bracket: Lower Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Hungrybox  Unknown
+Player 2: Mew2King - Melee Singles Unknown
+Bracket: Upper Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Armada  Unknown
+Player 2: Leffen - Melee Singles Unknown
+Bracket: Upper Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Axe  Unknown
+Player 2: Ice - Melee Singles Unknown
+Bracket: Lower Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: SFAT  Unknown
+Player 2: Westballz - Melee Singles Unknown
+Bracket: Lower Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: PewPewU  Unknown
+Player 2: SFAT - Melee Singles Unknown
+Bracket: Lower Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Plup  Unknown
+Player 2: S2J - Melee Singles Unknown
+Bracket: Lower Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: ChuDat  Unknown
+Player 2: Mang0 - Melee Singles Unknown
+Bracket: Lower Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Lucky  Unknown
+Player 2: Ice - Melee Singles Unknown
+Bracket: Lower Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Infinite Numbers  Unknown
+Player 2: S2J - Melee Singles Unknown
+Bracket: Lower Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Mango  Unknown
+Player 2: HugS - Melee Singles Unknown
+Bracket: Lower Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Mew2King  Unknown
+Player 2: Axe - Melee Singles Unknown
+Bracket: Upper Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Hungrybox  Unknown
+Player 2: PewPewU - Melee Singles Unknown
+Bracket: Upper Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Plup  Unknown
+Player 2: Leffen - Melee Singles Unknown
+Bracket: Upper Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Armada  Unknown
+Player 2: ChuDat - Melee Singles Unknown
+Bracket: Upper Bracket 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Leffen/Ice  Unknown
+Player 2: Armada/Mew2King - Melee Doubles Unknown
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: Losers' Finals 
+Player 1: Armada/Mew2King  Unknown
+Player 2: Lucky/Mango  Unknown
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Losers' Semifinal 
+Player 1: Lucky/Mang0  Unknown
+Player 2: SFAT/PewPewU  Unknown
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Winners' Final 
+Player 1: Armada/Mew2King  Unknown
+Player 2: Leffen/Ice  Unknown
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Mango  Unknown
+Player 2: Axe - Melee Singles Unknown
+Bracket: Group D 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: ChuDat  Unknown
+Player 2: SFAT - Melee Singles Unknown
+Bracket: Group C 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: HugS  Unknown
+Player 2: Axe - Melee Singles Unknown
+Bracket: Group D 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Mew2King  Unknown
+Player 2: ChuDat - Melee Singles Unknown
+Bracket: Group D 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Ice  Unknown
+Player 2: SFAT - Melee Singles Unknown
+Bracket: Group C 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Mango  Unknown
+Player 2: Plup - Melee Singles Unknown
+Bracket: Group C 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: ChuDat  Unknown
+Player 2: Axe - Melee Singles Unknown
+Bracket: Group D 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Mew2King  Unknown
+Player 2: HugS - Melee Singles Unknown
+Bracket: Group D 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: SFAT  Unknown
+Player 2: Plup - Melee Singles Unknown
+Bracket: Group C 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Mango  Unknown
+Player 2: Ice - Melee Singles Unknown
+Bracket: Group C 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Leffen  Unknown
+Player 2: Infinite Numbers - Melee Singles Unknown
+Bracket: Group A 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Lucky  Unknown
+Player 2: PewPewU - Melee Singles Unknown
+Bracket: Group B 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Infinite Numbers  Unknown
+Player 2: Westballz - Melee Singles Unknown
+Bracket: Group A 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Armada  Unknown
+Player 2: Lucky - Melee Singles Unknown
+Bracket: Group A 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: S2J  Unknown
+Player 2: PewPewU - Melee Singles Unknown
+Bracket: Group B 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Hungrybox  Unknown
+Player 2: Leffen - Melee Singles Unknown
+Bracket: Group B 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Westballz  Unknown
+Player 2: Lucky - Melee Singles Unknown
+Bracket: Group A 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Armada  Unknown
+Player 2: Infinite Numbers - Melee Singles Unknown
+Bracket: Group A 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: PewPewU  Unknown
+Player 2: Leffen - Melee Singles Unknown
+Bracket: Group B 
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit Spring 2017
+Player 1: Hungrybox  Unknown
+Player 2: S2J - Melee Singles Unknown
+Bracket: Group B 
+Game: Melee
+-------------
+
+Tournament Name: Losers' Round 2 
+Player 1: Lucky/Mang0  Unknown
+Player 2: Westballz/Plup  Unknown
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Losers' Round 2 
+Player 1: Hungrybox/Axe  Unknown
+Player 2: SFAT/PewPewU  Unknown
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Winners' Round 2 
+Player 1: Leffen/Ice  Unknown
+Player 2: Westballz/Plup  Unknown
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Winners' Round 2 
+Player 1: Armada/Mew2King  Unknown
+Player 2: Hungrybox/Axe  Unknown
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Losers' Round 1 
+Player 1: SFAT/PewPewU  Unknown
+Player 2: HugS/ChuDat  Unknown
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Losers' Round 1 
+Player 1: Infinite Numbers/S2J  Unknown
+Player 2: Lucky/Mang0  Unknown
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Winners' Round 1 
+Player 1: SFAT/PewPewU  Unknown
+Player 2: Westballz/Plup  Unknown
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Winners' Round 1 
+Player 1: Leffen/Ice  Unknown
+Player 2: HugS/ChuDat  Unknown
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Winners' Round 1 
+Player 1: Lucky/Mang0  Unknown
+Player 2: Hungrybox/Axe  Unknown
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Winners' Round 1 
+Player 1: Armada/Mew2King  Unknown
+Player 2: Infinite Numbers/S2J  Unknown
+Bracket: Melee Doubles
+Game: Melee
+-------------
+
+Tournament Name: Smash Summit 2017
+Player 1: LosLeffos 2.0  Unknown
+Player 2: Meme Teme - Draft Crew Battles Unknown
+Bracket: Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 2017
+Player 1: Meme Teme  Unknown
+Player 2: The Armadas - Draft Crew Battles Unknown
+Bracket: Semifinals 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 2017
+Player 1: Team Beer  Unknown
+Player 2: LosLeffos 2.0 - Draft Crew Battles Unknown
+Bracket: Semifinals 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 2017
+Player 1: Armada  Unknown
+Player 2: Mango - Low Tier Iron Man Unknown
+Bracket: Finals 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 2017
+Player 1: Armada  Unknown
+Player 2: Mew2King - Low Tier Iron Man Unknown
+Bracket: Semifinals 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 2017
+Player 1: Mango  Unknown
+Player 2: Plup - Low Tier Iron Man Unknown
+Bracket: Semifinals 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 2017
+Player 1: Mew2King  Unknown
+Player 2: Ice - Low Tier Iron Man Unknown
+Bracket: Quarterfinals 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 2017
+Player 1: Armada  Unknown
+Player 2: S2J - Low Tier Iron Man Unknown
+Bracket: Quarterfinals 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 2017
+Player 1: Leffen  Unknown
+Player 2: Plup - Low Tier Iron Man Unknown
+Bracket: Quarterfinals 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 2017
+Player 1: Mango  Unknown
+Player 2: Axe - Low Tier Iron Man Unknown
+Bracket: Quarterfinals 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Duck  Unknown
+Player 2: Plup  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Armada  Unknown
+Player 2: Hungrybox  Unknown
+Bracket: Singles Grand Final 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Mew2King  Unknown
+Player 2: Hungrybox  Unknown
+Bracket: Singles LB Final 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Mang0  Unknown
+Player 2: Hungrybox  Unknown
+Bracket: Singles LB 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Mew2King  Unknown
+Player 2: Armada  Unknown
+Bracket: Singles WB Final 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Hungrybox  Unknown
+Player 2: Axe  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Mang0  Unknown
+Player 2: Mew2King  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Mang0  Unknown
+Player 2: Plup  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Axe  Unknown
+Player 2: Shroomed  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Armada  Unknown
+Player 2: Hungrybox  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Westballz  Unknown
+Player 2: Duck  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: PewPewU  Unknown
+Player 2: Plup  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Axe  Unknown
+Player 2: Leffen  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Shroomed  Unknown
+Player 2: The Moon  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Hungrybox  Unknown
+Player 2: Duck  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Armada  Unknown
+Player 2: Plup  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Mew2King  Unknown
+Player 2: Leffen  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Mang0  Unknown
+Player 2: Shroomed  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: SFAT  Unknown
+Player 2: The Moon  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: n0ne  Unknown
+Player 2: Axe  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: S2J  Unknown
+Player 2: PewPewU  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Mafia  Unknown
+Player 2: Westballz  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: SFAT  Unknown
+Player 2: Duck  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Hungrybox  Unknown
+Player 2: Moon  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Plup  Unknown
+Player 2: Axe  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Armada  Unknown
+Player 2: n0ne  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Leffen  Unknown
+Player 2: PewPewU  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Mew2King  Unknown
+Player 2: S2J  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Westballz  Unknown
+Player 2: Shroomed  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Mang0  Unknown
+Player 2: Mafia  Unknown
+Bracket: Singles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Armada/Mew2King  Unknown
+Player 2: SFAT/PewPewU  Unknown
+Bracket: Doubles Grand Final  
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Leffen/Mafia  Unknown
+Player 2: SFAT/PewPewU  Unknown
+Bracket: LB Final Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Armada/Mew2King  Unknown
+Player 2: Leffen/Mafia  Unknown
+Bracket: UB Final Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: SFAT/PewPewU  Unknown
+Player 2: Mango/S2J  Unknown
+Bracket: LB Semi Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit3
+Player 1: Mango/S2J  Unknown
+Player 2: Hungrybox/Plup  Unknown
+Bracket: LB Round 2 Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: SFAT/PewPewU  Unknown
+Player 2: The Moon/Shroomed  Unknown
+Bracket: LB Round 2 Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: n0ne/Westballz  Unknown
+Player 2: Hungrybox/Plup  Unknown
+Bracket: LB Round 1 Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Duck/Axe  Unknown
+Player 2: Shroomed/The Moon  Unknown
+Bracket: LB Round 1 Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: SFAT/PewPewU  Unknown
+Player 2: Leffen/Mafia  Unknown
+Bracket: UB Semi Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Armada/Mew2King  Unknown
+Player 2: Mango/S2J  Unknown
+Bracket: UB Semi Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Hungrybox/Plup  Unknown
+Player 2: Leffen/Mafia  Unknown
+Bracket: UB Round 1 Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: SFAT/PewPewU  Unknown
+Player 2: n0ne/Westballz  Unknown
+Bracket: UB Round 1 Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Mango/S2J  Unknown
+Player 2: The Moon/Shroomed  Unknown
+Bracket: UB Round 1 Doubles 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Armada/Mew2King  Unknown
+Player 2: Duck/Axe  Unknown
+Bracket: UB Rd 1 Doubles Bracket 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Mango  Unknown
+Player 2: Armada  Unknown
+Bracket: Grand Final Iron Man 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Armada  Unknown
+Player 2: Axe  Unknown
+Bracket: LB Final Iron Man 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Axe  Unknown
+Player 2: Leffen  Unknown
+Bracket: LB Semi Iron Man 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Mango  Unknown
+Player 2: Armada  Unknown
+Bracket: UB Final Iron Man 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Armada  Unknown
+Player 2: Leffen  Unknown
+Bracket: UB Semi Iron Man 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: *screeching*  Unknown
+Player 2: energy BALLZ mcdaniel  Unknown
+Bracket: Grand Finals Blind Man 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: Team Beer  Unknown
+Player 2: energy BALLZ mcdaniel  Unknown
+Bracket: LB Finals Blind Man 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: energy BALLZ mcdaniel  Unknown
+Player 2: L O S L E F F O S  Unknown
+Bracket: LB Semi Blind Man 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: *screeching*  Unknown
+Player 2: Team Beer  Unknown
+Bracket: UB Finals Blind Man 
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: *screeching*  Unknown
+Player 2: L O S L E F F O S  Unknown
+Bracket: UB Semi Blind Man  
+Game: Unknown
+-------------
+
+Tournament Name: Smash Summit 3
+Player 1: energy BALLZ mcdaniel  Unknown
+Player 2: Team Beer  Unknown
+Bracket: UB Semi Blind Man 
+Game: Unknown
+-------------
+
 Tournament Name: Smash Summit 2
 Player 1: Armada/Mew2king  Unknown
 Player 2: Hungrybox/Plup  Unknown

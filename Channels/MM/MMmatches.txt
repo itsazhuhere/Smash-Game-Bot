@@ -1,3 +1,206 @@
+Tournament Name: CoM VI
+Player 1: SA Nick  None
+Player 2: S.D - SSBM Singles Winners' Semis	 None
+Bracket: High Stakes 
+Game: Melee
+-------------
+
+Tournament Name: CoM VI
+Player 1: Dekar  None
+Player 2: SA Nick - SSBM Singles Grand Finals + Interviews	 None
+Bracket: High Stakes 
+Game: Melee
+-------------
+
+Tournament Name: CoM VI
+Player 1: SA Nick  None
+Player 2: Fess - SSBM Singles Losers' Semis	 None
+Bracket: High Stakes 
+Game: Melee
+-------------
+
+Tournament Name: CoM VI
+Player 1: LGC | DonB  None
+Player 2: Fess - SSBM Singles Winners' Semis	 None
+Bracket: High Stakes 
+Game: Melee
+-------------
+
+Tournament Name: CoM VI
+Player 1: S.D  None
+Player 2: Dekar - SSBM Singles Losers' Semis	 None
+Bracket: High Stakes 
+Game: Melee
+-------------
+
+Tournament Name: CoM VI
+Player 1: Splice  None
+Player 2: SA Nick - SSBM Singles Winners' Semis	 None
+Bracket: High Stakes 
+Game: Melee
+-------------
+
+Tournament Name: CoM VI
+Player 1: S.D  None
+Player 2: Fess - SSBM Singles Winners' Semis	 None
+Bracket: High Stakes 
+Game: Melee
+-------------
+
+Tournament Name: CoM VI
+Player 1: S.D  None
+Player 2: DSC - SSBM Singles Top 16	 None
+Bracket: High Stakes 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: Splice  None
+Player 2: Khairi	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: Khairi  None
+Player 2: Atticus	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: Dekar  None
+Player 2: LGC | DonB + Interviews	 None
+Bracket: SSBM Singles Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: Dekar  None
+Player 2: Splice	 None
+Bracket: SSBM Singles LF 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: LGC | DonB  None
+Player 2: Dekar	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: Saucy  None
+Player 2: Khairi	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: Splice  None
+Player 2: Dekar	 None
+Bracket: SSBM Singles WS 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: Mask1n  None
+Player 2: Sora	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: LGC | DonB  None
+Player 2: Sora	 None
+Bracket: SSBM Singles WQ 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: Timic  None
+Player 2: Saucy	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: Splice  None
+Player 2: Duck	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: Azri  None
+Player 2: Timic	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: Mask1n  None
+Player 2: Sebby	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: C$  None
+Player 2: Dsc	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: Microsoft J  None
+Player 2: PrettyCoolGuy	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: Sora  None
+Player 2: Dsc	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: LGC | DonB  None
+Player 2: PrettyCoolGuy	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: Sora  None
+Player 2: Din	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: Noxus  None
+Player 2: Microsoft J	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: Hardpelicn  None
+Player 2: rhys	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
+Tournament Name: CW Ranbat Dec'16 
+Player 1: Microsoft J  None
+Player 2: BeybWade	 None
+Bracket: SSBM Singles 
+Game: Melee
+-------------
+
 Tournament Name: CoM
 Player 1: Hughie  None
 Player 2: DSC - Winners' R2	 None

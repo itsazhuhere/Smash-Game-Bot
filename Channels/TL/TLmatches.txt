@@ -1,3 +1,8088 @@
+Tournament Name: MNM 124 
+Player 1: Groove  (Falco)
+Player 2: Mahh2e  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: Trunks  (Falco)
+Player 2: Purp  (Sheik)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: TLOC | Brentos  (Peach, Dr. Mario)
+Player 2: Moophobia  (Falco, Dr. Mario)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: TLOC | Arsenals  (Fox)
+Player 2: Casey  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: TLOC | Studebacher Hoch  (Luigi)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: SU | Uncle Mojo  (Fox)
+Player 2: PG FX | Wobbles  (ICs)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: Smooth  (Marth)
+Player 2: Bobby Big Ballz  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: TLOC | Watt the Flux  (C Falcon)
+Player 2: FX | Mouf  (Peach)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Brr  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: TLOC | Arsenals  (Fox)
+Player 2: FX | Mouf  (Peach)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Bobby Big Ballz  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: TADEO  (Luigi)
+Player 2: PG FX | Wobbles  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: TLOC | Arsenals  (Fox)
+Player 2: Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: Bobby Big Ballz  (Falco)
+Player 2: AWOL | SFOP  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: SU | Uncle Mojo  (Fox)
+Player 2: team nick  (Jigglypuff)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: Bananas  (ICs)
+Player 2: PG FX | Wobbles  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: Uncle Mojo  (Fox)
+Player 2: Bobby Big Ballz  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: TLOC | Arsenals  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: FX | hamyojo  (Sheik, C Falcon)
+Player 2: TADEO  (Luigi)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: SU | Uncle Mojo  (Fox)
+Player 2: PG FX | Wobbles  (ICs)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Bobby Big Ballz  (Falco)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: team nick  (Jigglypuff)
+Player 2: Bananas  (ICs)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: FX | hamyojo  (C Falcon)
+Player 2: Bananas  (ICs)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 124 
+Player 1: PG FX | Wobbles  (ICs)
+Player 2: Bananas  (ICs)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: SW 123 
+Player 1: TLOC | Comona  (C Falcon)
+Player 2: Shanblu  (Samus)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 123 
+Player 1: BxA | Cosmic Witch  (Rosalina, GnW)
+Player 2: ScarletHachi  (Mario, Kirby)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 123 
+Player 1: FX | Arc  (Marth)
+Player 2: Srimes  (Wario)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 123 
+Player 1: CV Light  (ZSS)
+Player 2: QueueSS  (Cloud)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 123 
+Player 1: TLOC | Xanzy  (Kirby)
+Player 2: FX | Lunchables  (Roy)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 123 
+Player 1: TLOC | Neighbor  (C Falcon)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 123 
+Player 1: FX | Dakpo  (Luigi, Diddy)
+Player 2: Chuky  (Ness)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 123 
+Player 1: P2P with Gibus  (Lucario)
+Player 2: NF | ReQzee  (Pikachu)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 123 
+Player 1: JaySon  (Fox)
+Player 2: Ados  (Ryu)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 123 
+Player 1: P2P with Gibus  (Lucario)
+Player 2: FX | Dakpo  (Luigi)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 123 
+Player 1: SS | Awestin  (Ness)
+Player 2: Kosoku  (Mario, Sheik)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 123 
+Player 1: SWG | JaySon  (Fox)
+Player 2: CTK | Antuan  (Fox)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 123 
+Player 1: SS | Awestin  (Ness)
+Player 2: FX | Dakpo  (ZSS)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 123 
+Player 1: P2P with Gibus  (Lucario)
+Player 2: SM | iiGGY  (Bayonetta)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 123 
+Player 1: HoneyHive  (Peach)
+Player 2: Chuky  (Ness)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 123 
+Player 1: SS | Awestin  (Ness)
+Player 2: SWG | JaySon  (Fox)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 123 
+Player 1: FX | Dakpo  (ZSS)
+Player 2: Lima  (Peach, Lucina)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 123 
+Player 1: FX | Dakpo  (Luigi)
+Player 2: SWG | JaySon  (Fox)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 123 
+Player 1: FX | Dakpo  (Ness)
+Player 2: SS | Awestin  (ZSS)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: MNM 123 
+Player 1: TLOC | gelp  (Peach)
+Player 2: SR71  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 123 
+Player 1: gweedo  (Luigi)
+Player 2: TLOC | Studebacher Hoch  (Luigi)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 123 
+Player 1: AWOL | Vinyl  (Falco)
+Player 2: Watt the Flux  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 123 
+Player 1: Smooth  (Marth)
+Player 2: FX | Mouf  (Peach, DK)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 123 
+Player 1: AWOL | GP  (Fox)
+Player 2: Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 123 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Watt the Flux  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 123 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: AWOL | Clouded  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 123 
+Player 1: Bananas  (ICs)
+Player 2: Moophobia  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 123 
+Player 1: Thoraxe  (Fox)
+Player 2: FX | hamyojo  (Sheik)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 123 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 123 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: FX | Mouf  (Peach)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 123 
+Player 1: Jahanni  (Fox)
+Player 2: VTS  (Marth)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 123 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 123 
+Player 1: FX | Mouf  (Peach)
+Player 2: Bananas  (ICs)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 123 
+Player 1: FX | hamyojo  (C Falcon)
+Player 2: Bananas  (ICs)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 123 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: Bananas  (ICs)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: IaB! 144 
+Player 1: TLOC | Oracle  (Wolf, Olimar)
+Player 2: ChetMagongalo  (Luigi)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 144 
+Player 1: Switch  (Wolf)
+Player 2: TLOC | Oracle  (Wolf)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 144 
+Player 1: FX | Shokio  (ZSS, Roy)
+Player 2: Apathy  (MK)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 144 
+Player 1: TLOC | Arsenals  (Fox)
+Player 2: Captain Birdman  (Falco)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 144 
+Player 1: Switch  (Wolf)
+Player 2: Arsenals  (Fox)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 144 
+Player 1: FX | Shokio  (Olimar)
+Player 2: Zeus  (Sonic)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 144 
+Player 1: FX | Shokio  (ZSS)
+Player 2: TLOC | Arsenals  (Fox)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 144 
+Player 1: TLOC | Oracle  (Charizard, Olimar)
+Player 2: Apathy  (MK)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 144 
+Player 1: SS | Luck  (Diddy)
+Player 2: Switch  (Wolf)
+Bracket: Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 144 
+Player 1: FX | Shokio  (ZSS)
+Player 2: TLOC | Oracle  (ROB)
+Bracket: Losers Semifinals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 144 
+Player 1: Switch  (Wolf)
+Player 2: FX | Shokio  (ZSS)
+Bracket: Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 144 
+Player 1: Switch  (Wolf)
+Player 2: SS | Luck  (Diddy)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: SWP 122 
+Player 1: Chuky + Chic  None
+Player 2: Lunchables + Denti None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SWP 122 
+Player 1: Karna + Dakpo  None
+Player 2: JaySon + Awestin None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: PG | ESAM  (Pikachu)
+Player 2: Allan2  (Luigi)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SWP 122 
+Player 1: Dakpo + Karna  None
+Player 2: Awestin + JaySon None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: PG | MVD  (Diddy)
+Player 2: CV SparK  (Roy)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: TLOC | Oracle  (Lucas, Dr. Mario)
+Player 2: PG | ESAM  (Pikachu)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: PG | ESAM  (Pikachu)
+Player 2: Chic  (Luigi)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: FX | Hyrule Hero  (Link)
+Player 2: Karna  (Marth)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: P2P with Gibus  (Lucario)
+Player 2: PG | MVD  (Diddy)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: SS | Awestin  (Ness)
+Player 2: SWG | JaySon  (Fox)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: Lima  (Bayonetta)
+Player 2: FX | Hyrule Hero  (Link)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: PG | ESAM  (Pikachu)
+Player 2: FX | Dakpo  (Luigi)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: Lima  (Bayonetta)
+Player 2: PG | MVD  (Diddy)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: SS | PG | ESAM  (Mewtwo)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: Karna  (Marth)
+Player 2: Ados  (Ryu)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: P2P with Gibus  (Greninja, Lucario)
+Player 2: Denti  (Diddy)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: Kazerole  (Ryu)
+Player 2: SWG | JaySon  (Fox)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: P2P with Gibus  (Greninja, Lucario)
+Player 2: SS | Awestin  (Ness)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: PG | MVD  (Diddy, Mario)
+Player 2: PG | ESAM  (Mewtwo, Pikachu)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: SWG | JaySon  (Fox)
+Player 2: SS | Awestin  (Ness)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: PG | MVD  (Mario)
+Player 2: SWG | JaySon  (Fox)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 122 
+Player 1: PG | MVD  (Diddy)
+Player 2: PG | ESAM  (Pikachu)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: MNM 122 
+Player 1: Jake13 + Uncle Mojo  None
+Player 2: Dakpo + Bananas None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: Boomstick + WaterlessFishie  None
+Player 2: SFOP + GP None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: Boomstick + WaterlessFishie  None
+Player 2: Arsenals + JaggedCole None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: Boomstick + WaterlessFishie  None
+Player 2: Dakpo + Bananas None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: Jake13 + Uncle Mojo  None
+Player 2: Mouf + hamyojo None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: Raz + Disafter  None
+Player 2: Jahanni + bluezaft None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: Dakpo + Bananas  None
+Player 2: Jahanni + bluezaft None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: Dakpo + Bananas  None
+Player 2: Uncle Mojo + Jake13 None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: hamyojo + Mouf  None
+Player 2: Uncle Mojo + Jake13 None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: FX | Dakpo  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: SU | Uncle Mojo  (Fox)
+Player 2: Moophobia  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: Thoraxe  (Fox)
+Player 2: SU | Jake13  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: hamyojo  (Sheik)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: SU | Jake13  (Peach)
+Player 2: Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: SU | Uncle Mojo  (Fox)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Moophobia  (Falco)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: Thoraxe  (Fox)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: SU | Jake13  (Falco)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: SU | Uncle Mojo  (Fox)
+Player 2: Bananas  (ICs)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: SU | Jake13  (Falco)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: Bananas  (ICs)
+Player 2: SU | Jake13  (Peach, Falco)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 122 
+Player 1: SU | Uncle Mojo  (Fox)
+Player 2: Bananas  (ICs)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: SW 121 
+Player 1: FX | Arc  (Marth)
+Player 2: BxA | Cosmic Witch  (Rosalina, Corrin)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: Razorkage  (Greninja)
+Player 2: Oreo  (ZSS, Cloud)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: FX | Lunchables  (Roy)
+Player 2: thrillo  (ganon)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: SWG | LiLPac  (Little Mac)
+Player 2: TEC_Chase  (Cloud)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: Emery  (Corrin)
+Player 2: Ados  (Ryu)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: LightningCam  (Bayonetta)
+Player 2: NF | ReQzee  (Pikachu)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: FX | Lunchables  (Roy)
+Player 2: SWG | LiLPac  (Little Mac)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: Chuky  (Ness)
+Player 2: Mr. Smooth  (Marth)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: SWG | JaySon  (Fox)
+Player 2: CTK | Phenom  (Ryu)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: SS | Awestin  (Ness)
+Player 2: FX | Lunchables  (Roy)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: TLOC | Denti  (Luigi)
+Player 2: NF | ReQzee  (Pikachu)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: SS | Awestin  (Ness)
+Player 2: TLOC | Denti  (Cloud)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: CTK | Phenom  (Ryu)
+Player 2: P2P with Gibus  (Lucario)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: SWG | JaySon  (Fox)
+Player 2: Jayce  (Lucina)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: SWG | JaySon  (Fox)
+Player 2: SWG | LiLPac  (Little Mac)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: SS | Awestin  (Ness)
+Player 2: P2P with Gibus  (Greninja, Lucario)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: TLOC | Denti  (Luigi)
+Player 2: SWG | JaySon  (Fox)
+Bracket: Losers Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: IaB! 143 
+Player 1: Shokio + Oracle  None
+Player 2: Zeus + Haviklink None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 143 
+Player 1: Shokio + Oracle  None
+Player 2: Arsenals + American Bowser None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 143 
+Player 1: Haviklink + Zeus  None
+Player 2: JaggedCole + Apathy None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 143 
+Player 1: Haviklink + Zeus  None
+Player 2: Shokio + Oracle None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 143 
+Player 1: Shokio + Oracle  None
+Player 2: Arsenals + American Bowser None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 143 
+Player 1: Leg?  (Ike)
+Player 2: WWCTimmetry  (Luigi)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 143 
+Player 1: KinGly  (Sheik)
+Player 2: Fantasia Addict  (ZSS)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 143 
+Player 1: FX | Shokio  (Yoshi, Pit)
+Player 2: KinGly  (Sheik)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 143 
+Player 1: GG | Zeus  (Sonic)
+Player 2: Mythic  (Lucas)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 143 
+Player 1: TLOC | Arsenals  (Fox)
+Player 2: KinGly  (Sheik)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 143 
+Player 1: GG | Zeus  (Sonic)
+Player 2: TLOC | Arsenals  (Fox)
+Bracket: Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 143 
+Player 1: FX | Shokio  (Olimar)
+Player 2: KinGly  (Sheik)
+Bracket: Losers Semifinals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 143 
+Player 1: TLOC | Arsenals  (Fox)
+Player 2: FX | Shokio  (Roy)
+Bracket: Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 143 
+Player 1: GG | Zeus  (Sonic)
+Player 2: FX | Shokio  (Pit, Dark Pit)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: SW 121 
+Player 1: FX | Hyrule Hero  (Link)
+Player 2: Kazerole  (Ryu)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: CTK | Phenom  (Ryu)
+Player 2: Kazerole  (Ryu, Pit)
+Bracket: Losers Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: CTK | Phenom  (Ryu)
+Player 2: SWG | JaySon  (Cloud)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: SWG | JaySon  (Fox)
+Player 2: P2P with Gibus  (Greninja)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 121 
+Player 1: SS | Awestin  (Ness)
+Player 2: SWG | JaySon  (Fox, Cloud)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: MNM 121 
+Player 1: FX | Mouf  (Peach)
+Player 2: Boomstick  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 121 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: TADEO  (Luigi)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 121 
+Player 1: FX | Mouf  (Peach)
+Player 2: AWOL | Clouded  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 121 
+Player 1: Mervis  (Samus)
+Player 2: Boomstick  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 121 
+Player 1: FX | Mouf  (Peach)
+Player 2: VTS  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 121 
+Player 1: SWG | Didact  (C Falcon)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 121 
+Player 1: BB | Studebacher Hoch  (Luigi)
+Player 2: AWOL | Clouded  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 121 
+Player 1: himegoto  (C Falcon)
+Player 2: Brr  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 121 
+Player 1: AWOL | SFOP  (Falco)
+Player 2: AWOL | GP  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 121 
+Player 1: FX | hamyojo  (DK, Pikachu)
+Player 2: dolphin  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 121 
+Player 1: TLOC | Gelp  (Peach)
+Player 2: Mervis  (Samus)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 121 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: Bananas  (ICs)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 121 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: Boomstick  (Falco)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 121 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: FX | Mouf  (Peach)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 121 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: MNM 121 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: AWOL | Clouded  (Falco)
+Bracket: Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: MNM 121 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: SW 120 
+Player 1: Lima  (Bayonetta)
+Player 2: UG | Deluxemenu  (Bowser)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: IaB! 142 
+Player 1: Blast  (ZSS)
+Player 2: Mason  (C Falcon)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 142 
+Player 1: SS | Luck  (Diddy)
+Player 2: Blast  (ZSS)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 142 
+Player 1: GG | Zeus  (Sonic)
+Player 2: FX | Shokio  (ZSS)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 142 
+Player 1: SS | Luck  (Diddy)
+Player 2: SS | American Bowser  (Bowser)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 142 
+Player 1: Fantasia Addict  (ZSS)
+Player 2: SS | American Bowser  (Bowser)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 142 
+Player 1: SS | Arsenals  (Fox)
+Player 2: GG | Zeus  (Sonic)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 142 
+Player 1: SS | American Bowser  (Bowser)
+Player 2: SS | Arsenals  (Fox, Wolf)
+Bracket: Losers Semifinals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 142 
+Player 1: FX | Shokio  (ZSS)
+Player 2: SS | Luck  (Diddy)
+Bracket: Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 142 
+Player 1: SS | Luck  (Diddy)
+Player 2: SS | American Bowser  (MK)
+Bracket: Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 142 
+Player 1: FX | Shokio  (ZSS)
+Player 2: SS | Luck  (Diddy)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: SW 120 
+Player 1: JaySon + Deluxemenu  None
+Player 2: AeroLink + iiGGY None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: Dakpo + Awestin  None
+Player 2: iiGGY + AeroLink None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: Sethlon + Lunchables  None
+Player 2: Kazerole + Orex None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: JaySon + Deluxemenu  None
+Player 2: Kazerole + Orex None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: iiGGY + AeroLink  None
+Player 2: Deluxemenu + JaySon None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: Deluxemenu + JaySon  None
+Player 2: Dakpo + Awestin None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: LightningCam  (Diddy)
+Player 2: JaySon  (Fox)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: P2P with Gibus  (Greninja, Lucario)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: SS | Awestin  (Ness)
+Player 2: Kazerole  (Ryu)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: UG | Deluxemenu  (Bowser)
+Player 2: SWG | JaySon  (Fox)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: AeroLink  (Bayonetta)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: UG | Deluxemenu  (Bowser)
+Player 2: Lima  (Bayonetta)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: NF | Batmayne  (Lucas)
+Player 2: FX | Lunchables  (Roy)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: CC | Point_  (Villager)
+Player 2: P2P with Gibus  (Lucario)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: SWG | JaySon  (Charizard)
+Player 2: FX TLOC | Sethlon  (Roy)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: Lima  (Bayonetta)
+Player 2: P2P with Gibus  (Greninja)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: UG | Deluxemenu  (Bowser)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: Lima  (Bayonetta)
+Player 2: FX TLOC | Sethlon  (Marth)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: Lima  (Bayonetta)
+Player 2: UG | Deluxemenu  (Bowser)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: Lima  (Bayonetta)
+Player 2: UG | Deluxemenu  (Bowser)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 120 
+Player 1: Lima  (Bayonetta)
+Player 2: SS | Awestin  (Ness)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: MNM 120 
+Player 1: TLOC | gelp  (Peach)
+Player 2: Ouija  (Samus)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: thelunchboxhero  (Pichu)
+Player 2: Aspen  (Jigglypuff)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: FX | hamyojo  (Yoshi)
+Player 2: Lettuce  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: Watt the Flux  (C Falcon)
+Player 2: Moophobia  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: Dusk  (Fox)
+Player 2: Thoraxe  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: Arc  (Marth)
+Player 2: SS | Arsenals  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: SWG | Mouf  (Peach)
+Player 2: TADEO  (Luigi)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: AWOL | GP  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: BB | Studebacher Hoch  (Luigi)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: Tuesday  (ICs)
+Player 2: Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: Thoraxe  (Fox)
+Player 2: Arc  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: SWG | Mouf  (Peach)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: FX | hamyojo  (C Falcon)
+Player 2: Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: Arc  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: Tuesday  (ICs)
+Player 2: Woogity Wu  (Marth)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: Tuesday  (ICs)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: Arc  (Fox)
+Player 2: Bananas  (ICs)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: Arc  (Marth)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 120 
+Player 1: Arc  (Peach, Falco)
+Player 2: Bananas  (ICs)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: IaB! 141 
+Player 1: jtaco  (Sonic, Marth)
+Player 2: Mythic  (Lucas)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 141 
+Player 1: SS | Arsenals  (Fox)
+Player 2: [MB] Youngblood  (C Falcon)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 141 
+Player 1: Leg?  (Ike)
+Player 2: KinGly  (Peach)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 141 
+Player 1: WDG | Strong Bad  (Wario)
+Player 2: Apathy  (MK)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 141 
+Player 1: Apathy  (MK)
+Player 2: Captain Birdman  (Falco)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 141 
+Player 1: FX | Shokio  (ZSS)
+Player 2: WDG | Strong Bad  (Wario)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 141 
+Player 1: WDG | Strong Bad  (Wario)
+Player 2: SS | Luck  (Diddy)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 141 
+Player 1: GG | Zeus  (Sonic)
+Player 2: FX | Shokio  (ZSS, Pit)
+Bracket: Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 141 
+Player 1: TLOC | Oracle  (DK)
+Player 2: WDG | Strong Bad  (Wario)
+Bracket: Losers Semifinals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 141 
+Player 1: WDG | Strong Bad  (Wario)
+Player 2: GG | Zeus  (Sonic, Ganon)
+Bracket: Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 141 
+Player 1: FX | Shokio  (ZSS, Olimar)
+Player 2: WDG | Strong Bad  (Wario)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: SW 119 
+Player 1: FX | Lunchables  (Roy)
+Player 2: PKay  (Corrin, Sonic)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: Sleepy13  (Fox)
+Player 2: BxA | Cosmic Witch  (Peach)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: ReQzee  (Pikachu)
+Player 2: SM | iiGGY  (Bayonetta)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: SWG | LiLPac  (Little Mac)
+Player 2: Yuruloki  (Corrin)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: Karna  (Sheik)
+Player 2: Kapus  (Toon Link, Yoshi)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: FX | Lunchables  (Roy)
+Player 2: SM | iiGGY  (Bayonetta)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: LightningCam  (Diddy)
+Player 2: Lima  (Bayonetta)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: TLOC | Denti  (Cloud)
+Player 2: BxA | Cosmic Witch  (Peach)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: FX | Sethlon  (Roy)
+Player 2: SWG | Gyo  (Villager, Marth)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: P2P with Gibus  (Greninja)
+Player 2: TLOC | Denti  (Diddy, Cloud)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: SS | Awestin  (Ness)
+Player 2: FX TLOC | Sethlon  (Roy)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: FX | Lunchables  (Roy)
+Player 2: SWG | LiLPac  (Little Mac)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: P2P with Gibus  (Lucario)
+Player 2: Karna  (Sheik)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: SS | Awestin  (Ness)
+Player 2: SM | iiGGY  (Rosalina)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: TLOC | Denti  (Diddy)
+Player 2: Peak  (Marth)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: TLOC | Denti  (Cloud)
+Player 2: SWG | LiLPac  (Little Mac)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: Lima  (Bayonetta)
+Player 2: FX TLOC | Sethlon  (Marth)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: P2P with Gibus  (Greninja)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: Lima  (Peach)
+Player 2: SM | iiGGY  (Bayonetta)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: Lima  (Bayonetta)
+Player 2: P2P with Gibus  (Greninja)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 119 
+Player 1: Lima  (Bayonetta)
+Player 2: SS | Awestin  (Ness)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: MNM 119 
+Player 1: hamyojo + Mouf  None
+Player 2: bluezaft + Jahanni None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 119 
+Player 1: hamyojo + Mouf  None
+Player 2: Thoraxe + WaterlessFishie None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 119 
+Player 1: hamyojo + Mouf  None
+Player 2: bluezaft + Jahanni None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 119 
+Player 1: Bananas  (ICs)
+Player 2: Watt the Flux  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 119 
+Player 1: Aspen  (Jigglypuff)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 119 
+Player 1: Arc  (Marth)
+Player 2: Himegoto  (Sheik)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 119 
+Player 1: Boomstick  (Falco)
+Player 2: Bomb Happy  (Falco, Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 119 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Moophobia  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 119 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: SWG | Mouf  (Peach)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 119 
+Player 1: Boomstick  (Falco)
+Player 2: Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 119 
+Player 1: Arc  (Marth)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 119 
+Player 1: FX | hamyojo  (C Falcon, Falco)
+Player 2: Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 119 
+Player 1: Woogity Wu  (Marth)
+Player 2: GG | Nintendoman  (Sheik)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 119 
+Player 1: Moophobia  (Jigglypuff)
+Player 2: Aspen  (Falco)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 119 
+Player 1: Arc  (Marth)
+Player 2: Bananas  (ICs)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 119 
+Player 1: Aspen  (Jigglypuff)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 119 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 119 
+Player 1: Arc  (Marth)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 119 
+Player 1: Arc  (Marth)
+Player 2: Bananas  (ICs)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: IaB! 140 Doubles 
+Player 1: JaggedCole + Apathy  None
+Player 2: American Bowser + Shokio None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 140 Doubles 
+Player 1: Tr0y + Luck  None
+Player 2: American Bowser + Shokio None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 140 
+Player 1: SS | Luck  (Wolf)
+Player 2: WWC | Timmetry  (Luigi)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 140 
+Player 1: Smurph  (Mario)
+Player 2: ChetMagongalo  (Luigi)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 140 
+Player 1: SS | Tr0y  (Diddy)
+Player 2: FX | Shokio  (ZSS)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 140 
+Player 1: Apathy  (MK)
+Player 2: Lown  (Marth)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 140 
+Player 1: TLOC | Oracle  (C Falcon, Bowser)
+Player 2: SS | Luck  (Diddy)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 140 
+Player 1: SS | American Bowser  (MK, Bowser)
+Player 2: TLOC | Oracle  (DK, Bowser)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 140 
+Player 1: FX | Shokio  (ZSS)
+Player 2: Apathy  (MK)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 140 
+Player 1: SS | Luck  (Diddy)
+Player 2: SS | Tr0y  (Fox)
+Bracket: Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 140 
+Player 1: FX | Shokio  (ZSS)
+Player 2: TLOC | Oracle  (DK)
+Bracket: Losers Semifinals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 140 
+Player 1: FX | Shokio  (ZSS)
+Player 2: SS | Tr0y  (Diddy)
+Bracket: Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 140 
+Player 1: SS | Luck  (Diddy, Wolf)
+Player 2: FX | Shokio  (ZSS)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: SW 118 
+Player 1: IDK  (Yoshi)
+Player 2: Powder  (Fox)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: BxA| Cosmic Witch  (Peach)
+Player 2: TCK | Cruzloops  (Samus)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: LightningCam  (Diddy)
+Player 2: KidFlash  (Kirby, DK)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: Latte  (Dark Pit, pit)
+Player 2: TjFoDaddy  (DK)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: TEC_Chase  (Robin)
+Player 2: SM | iiGGY  (Bayonetta)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: Yuruloki  (Corrin)
+Player 2: SM | iiGGY  (Bayonetta)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: FX | Dakpo  (Diddy)
+Player 2: Zanryo  (Sheik)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: TjFoDaddy  (DK)
+Player 2: Ados  (Ryu)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: SWG | LiLPac  (Little Mac)
+Player 2: SWG | Slaps  (Ike)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: FX | Dakpo  (Diddy)
+Player 2: TLOC | Denti  (Diddy)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: P2P with Gibus  (Greninja)
+Player 2: SWG | Slaps  (Ike)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: SM | iiGGY  (Bayonetta)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: SWG | Orex  (Peach)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: SS | Awestin  (Ness)
+Player 2: FX | Dakpo  (ZSS)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: P2P with Gibus  (Bayonetta)
+Player 2: AeroLink  (Greninja)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: SM | iiGGY  (Bayonetta)
+Player 2: LightningCam  (Diddy)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: Zanryo  (Sheik)
+Player 2: SWG | Slaps  (Ike)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: TLOC | Denti  (Diddy)
+Player 2: Ados  (Ryu)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: SM | iiGGY  (Bayonetta)
+Player 2: TLOC | Denti  (Diddy)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: AeroLink  (Bayonetta)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: P2P with Gibus  (Lucario, Greninja)
+Player 2: FX | Dakpo  (Diddy)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: P2P with Gibus  (Lucario)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 118 
+Player 1: SS | Awestin  (Ness)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: MNM 118 
+Player 1: VTS  (Marth)
+Player 2: Warhorse  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 118 
+Player 1: AWOL | GP  (Fox)
+Player 2: LSL MIOM | Brentos  (Sheik)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 118 
+Player 1: FX | hamyojo  (Young Link, Pichu)
+Player 2: Supadupa  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 118 
+Player 1: Moophobia  (Falco)
+Player 2: SS | Arsenals  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 118 
+Player 1: Thoraxe  (Fox)
+Player 2: Himegoto  (Sheik, Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 118 
+Player 1: AWOL | Clouded  (Falco)
+Player 2: Mervis  (Samus)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 118 
+Player 1: Wasian  (Fox)
+Player 2: Flamingo  (Falco, Jigglypuff)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 118 
+Player 1: Boomstick  (Falco)
+Player 2: Moophobia  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 118 
+Player 1: AWOL | Clouded  (Falco)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 118 
+Player 1: Thoraxe  (Fox)
+Player 2: AWOL | GP  (Fox)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 118 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Moophobia  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 118 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 118 
+Player 1: Mervis  (Samus)
+Player 2: Moophobia  (Falco)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 118 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: FX | bluezaft  (Jigglypuff)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 118 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: Moophobia  (Falco)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 118 
+Player 1: FX | bluezaft  (Jigglypuff)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 118 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 118 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: FX | bluezaft  (Jigglypuff)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 118 
+Player 1: FX | hamyojo  (C Falcon)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: Cyclone 2 Smash 4 
+Player 1: Dakpo + Karna  None
+Player 2: iiGGY + AeroLink None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 Smash 4 
+Player 1: JaySon + YellowRello  None
+Player 2: Slaw + Antuan None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 Smash 4 
+Player 1: Awestin + Y.b.M.  None
+Player 2: LiLPac + Jutsu None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 Smash 4 
+Player 1: YellowRello + JaySon  None
+Player 2: LiLPac + Jutsu None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 Smash 4 
+Player 1: AeroLink + iiGGY  None
+Player 2: YellowRello + JaySon None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 Smash 4 
+Player 1: Dakpo + Karna  None
+Player 2: YellowRello + JaySon None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: SS | Awestin  (Ness)
+Player 2: TEC_Chase  (Robin)
+Bracket: Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: YellowRello  (Yoshi)
+Player 2: Chic  (Luigi)
+Bracket: Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: Awestin  (Ness)
+Player 2: Cub  (Yoshi)
+Bracket: Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: TEC_Chase  (Robin)
+Player 2: Cub  (Yoshi)
+Bracket: Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: FX TLOC | Sethlon  (Roy)
+Player 2: CV | Lion  (MK)
+Bracket: Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: SM | iiGGY  (Bayonetta)
+Player 2: Look | One God Hikari  (Luigi)
+Bracket: Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: FX TLOC | Sethlon  (Roy)
+Player 2: Fox  (DDD)
+Bracket: Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: FX TLOC | Sethlon  (Roy)
+Player 2: Pkay  (Lucina)
+Bracket: Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: SM | iiGGY  (Bayonetta)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Ice Cream Match 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: Karna  (Sheik)
+Player 2: CV | Lion  (MK)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: FX | Sethlon  (Roy)
+Player 2: Lima  (Bayonetta)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: FX | Lunchables  (Roy)
+Player 2: Y.b.M.  (Ryu)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: SS | Awestin  (Ness)
+Player 2: Orex  (Peach)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: SS | Awestin  (Ness)
+Player 2: Orex  (Peach)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: SM | iiGGY  (Bayonetta)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: SM | iiGGY  (Bayonetta)
+Player 2: TLOC | Denti  (Diddy)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: Karna  (Sheik)
+Player 2: FX | Lunchables  (Roy)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: SWG | Gyo  (Villager)
+Player 2: Karna  (Sheik)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: AeroLink  (Bayonetta)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: Karna  (Sheik)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: FX | Lunchables  (Roy)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Losers Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: Lima  (Bayonetta)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: SS | Awestin  (Ness)
+Player 2: Lima  (Bayonetta)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 2 
+Player 1: Karna  (Sheik)
+Player 2: Lima  (Bayonetta)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: IaB! 139 
+Player 1: FX | Shokio  (ZSS)
+Player 2: QTwo  (Mewtwo)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 139 
+Player 1: SS | Luck  (C Falcon, Wolf)
+Player 2: Lown  (Mario, Marth)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 139 
+Player 1: WDG | Strong Bad  (Wario)
+Player 2: BUH  (Ivysaur)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 139 
+Player 1: GG | Zeus  (Sonic)
+Player 2: SS | Luck  (Diddy)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 139 
+Player 1: WDG | Strong Bad  (Wario)
+Player 2: SS | American Bowser  (Bowser)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 139 
+Player 1: FX | Shokio  (ZSS)
+Player 2: WDGStrong Bad  (Wario)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 139 
+Player 1: WDG | Strong Bad  (Wario)
+Player 2: Captain Birdman  (Falco)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 139 
+Player 1: FX | Shokio  (ZSS)
+Player 2: SS | Arsenals  (Fox)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 139 
+Player 1: SS | Luck  (Diddy)
+Player 2: Apathy  (MK)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 139 
+Player 1: SS | Luck  (Diddy)
+Player 2: SS | Arsenals  (Fox)
+Bracket: Losers Semifinals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 139 
+Player 1: SS | Luck  (Diddy)
+Player 2: Captain Birdman  (Falco)
+Bracket: Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 139 
+Player 1: WDG | Strong Bad  (Wario)
+Player 2: SS | Luck  (Diddy)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 117 
+Player 1: Severed  (Falco)
+Player 2: Tusk  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 117 
+Player 1: Moophobia  (Falco)
+Player 2: Mervis  (Samus)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 117 
+Player 1: BCG | Abate  (Luigi)
+Player 2: Supadupa  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 117 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Watt the Flux  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 117 
+Player 1: BCG | Abate  (Luigi)
+Player 2: AWOL | Vinyl  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 117 
+Player 1: Bananas  (ICs)
+Player 2: Moophobia  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 117 
+Player 1: BCG | Abate  (Luigi)
+Player 2: Thoraxe  (Luigi, Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 117 
+Player 1: Bananas  (ICs)
+Player 2: JWU  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 117 
+Player 1: BCG | Abate  (Luigi)
+Player 2: FX | hamyojo  (Sheik)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 117 
+Player 1: Thoraxe  (Fox)
+Player 2: Taki  (Fox)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 117 
+Player 1: VTS  (Marth)
+Player 2: Moophobia  (Falco)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 117 
+Player 1: hamyojo  (Sheik)
+Player 2: Moophobia  (Falco)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 117 
+Player 1: BCG | Abate  (Luigi)
+Player 2: Bananas  (ICs)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 117 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Thoraxe  (Fox)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 117 
+Player 1: Bananas  (ICs)
+Player 2: FX | hamyojo  (C Falcon)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 117 
+Player 1: BCG | Abate  (Luigi)
+Player 2: Bananas  (ICs)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Thoraxe + WaterlessFishie  None
+Player 2: Purple Sku + hamyojo None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Jahanni + bluezaft  None
+Player 2: Purple Sku + bluezaft None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Fury  (Falco)
+Player 2: Adam  (Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Fury  (Falco)
+Player 2: Ultimate  (Marth, Luigi)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Fury  (Peach)
+Player 2: Cisco  (Fox, C Falcon)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Fury  (Fox, Falco)
+Player 2: AbsoluteBlack  (Marth)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: AbsoluteBlack  (Marth)
+Player 2: Adam  (Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: AbsoluteBlack  (Marth)
+Player 2: Cisco  (Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: AbsoluteBlack  (Marth)
+Player 2: gelp  (Peach)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: AbsoluteBlack  (Marth)
+Player 2: Ultimate  (Marth)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Ultimate  (Marth)
+Player 2: Cisco  (Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: FX | WaterlessFishie  (Fox)
+Player 2: Stopher  (C Falcon)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: FX | WaterlessFishie  (Fox)
+Player 2: Caligula  (Sheik)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Caligula  (Sheik)
+Player 2: Stopher  (C Falcon)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Caligula  (Sheik)
+Player 2: Awol | GP Justus  (Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Oppa  (Fox)
+Player 2: Stopher  (C Falcon)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: FX | WaterlessFishie  (Fox)
+Player 2: Awol | GP Justus  (Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: LSL MIOM | Brentos  (Falco)
+Player 2: Stopher  (C Falcon)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: LSL MIOM | Brentos  (Peach)
+Player 2: Oppa  (Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: lvl 9  (Peach)
+Player 2: Stoned Toddler  (Fox)
+Bracket: Pools 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: FX | Dakpo  (Falco)
+Player 2: Nihlus  (Ness)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: FX | Dakpo  (Falco)
+Player 2: FX | WaterlessFishie  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: SS | Tr0y  (Fox)
+Player 2: GLUE | Flex Rumble Crunch  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Purple Sku  (Peach)
+Player 2: pootTheBox  (Samus)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: TADEO  (Luigi)
+Player 2: FX | WaterlessFishie  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Purple Sku  (Peach)
+Player 2: Boamba  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: TADEO  (Luigi)
+Player 2: Watt the Flux  (C Falcon)
+Bracket: Losers Quarters 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: FX | WaterlessFishie  (Fox)
+Player 2: Purple Sku  (Peach)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Watt the Flux  (C Falcon)
+Player 2: SDJ  (Jigglypuff)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: FX | WaterlessFishie  (Fox)
+Player 2: SDJ  (Jigglypuff)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Purple Sku  (Peach)
+Player 2: SDJ  (Jigglypuff)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: SW 116 
+Player 1: Chino  (Kirby, Mario)
+Player 2: NYMTV | Cosmic Witch  (Peach)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 116 
+Player 1: Sidekick  (Diddy)
+Player 2: Pkay  (Corrin)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 116 
+Player 1: FX | Lunchables  (Roy)
+Player 2: Arc  (Corrin)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 116 
+Player 1: Chucky  (Luigi, Ness)
+Player 2: APG | Elquapod  (C Falcon)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 116 
+Player 1: SWG | LiLPac  (Bowser Jr.)
+Player 2: Quads  (Ness, Kirby)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 116 
+Player 1: Rampagemagma  (Charizard)
+Player 2: P2P with Gibus  (Greninja)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 116 
+Player 1: Yuruloki  (Roy, Cloud)
+Player 2: SWG | LiLPac  (Bowser Jr.)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 116 
+Player 1: P2P with Gibus  (Greninja)
+Player 2: Chuky  (Ness)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 116 
+Player 1: SS | Awestin  (Ness)
+Player 2: SWG | LiLPac  (Bowser Jr.)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 116 
+Player 1: P2P with Gibus  (Greninja, Lucario)
+Player 2: FX | Hyrule Hero  (Link)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 116 
+Player 1: SS | Awestin  (Ness)
+Player 2: TLOC | Denti  (Cloud)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 116 
+Player 1: FX | Lunchables  (Roy)
+Player 2: Chuky  (Ness)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 116 
+Player 1: Y.b.M.  (Ryu)
+Player 2: LooK | DWIN  (Little Mac)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 116 
+Player 1: Y.b.M.  (Ryu)
+Player 2: FX | Hyrule Hero  (Link)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 116 
+Player 1: P2P with Gibus  (Greninja)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 116 
+Player 1: Yuruloki  (Cloud)
+Player 2: Y.b.M.  (Ryu)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 116 
+Player 1: Y.b.M.  (Ryu)
+Player 2: P2P with Gibus  (Lucario)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 116 
+Player 1: Y.b.M.  (Ryu)
+Player 2: SS | Awestin  (Ness)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: MNM 116 
+Player 1: Jahanni + bluezaft  None
+Player 2: JaggedCole + Lunchables None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: Lunchables + JaggedCole  None
+Player 2: Blitzbolt + Clouded None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: Jahanni + bluezaft  None
+Player 2: hamyojo + SFOP None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: JaggedCole + Lunchables  None
+Player 2: Thoraxe + WaterlessFishie None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: JaggedCole + Lunchables  None
+Player 2: bluezaft + Jahanni None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: hamyojo + SFOP  None
+Player 2: bluezaft + Jahanni None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: FX | hamyojo  (Sheik, C Falcon)
+Player 2: AWOL | GP  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: Flarebear  (Falco)
+Player 2: Pooch  (Samus)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: AWOL | Vinyl  (Falco)
+Player 2: SWG | Bananas  (ICs, Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: AWOL | SFOP  (Fox, Marth)
+Player 2: FX | Dakpo  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: FX | Lunchables  (Marth, Roy)
+Player 2: Watt the Flux  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: Pooch  (Samus)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: Mijo  (Falco)
+Player 2: Arc  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: FX | Lunchables  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Blitzbolt  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: Blitzbolt  (Fox)
+Player 2: Pooch  (Samus)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: Pooch  (Samus)
+Player 2: FX | Lunchables  (Marth, Roy)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: Arc  (Falco)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Pooch  (Fox)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Arc  (Falco)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 116 
+Player 1: SWG | Bananas  (ICs)
+Player 2: Arc  (Falco, Fox)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: IaB! 137 
+Player 1: Oracle + American Bowser  None
+Player 2: Zeus + Wonder None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 137 
+Player 1: Shokio + Captain Birdman  None
+Player 2: Zeus + Wonder None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 137 
+Player 1: Strong Bad + Pooch  None
+Player 2: Shokio + Captain Birdman None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 137 
+Player 1: GG | Zeus  (Sonic)
+Player 2: GLUE | Flex RumbleCrunch  (C Falcon)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 137 
+Player 1: Pooch  (Samus)
+Player 2: Fury  (Fox)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 137 
+Player 1: AWOL | SFOP  (C Falcon)
+Player 2: GLUE | Flex RumbleCrunch  (C Falcon)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 137 
+Player 1: FX | Dakpo  (GnW)
+Player 2: Strong Bad  (Wario)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 137 
+Player 1: SS | Luck  (Diddy)
+Player 2: [MB] Wonder  (Fox)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 137 
+Player 1: Strong Bad  (Wario)
+Player 2: SS | Luck  (Diddy)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 137 
+Player 1: GG | Zeus  (Sonic)
+Player 2: Pooch  (Samus)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 137 
+Player 1: FX | Dakpo  (GnW)
+Player 2: SS | Tr0y  (Fox)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 137 
+Player 1: FX | Dakpo  (GnW)
+Player 2: Pooch  (Samus)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 137 
+Player 1: Strong Bad  (Wario)
+Player 2: Pooch  (Samus)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 137 
+Player 1: SS | Luck  (Diddy)
+Player 2: Strong Bad  (Wario)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: SW 115 
+Player 1: Clothing  (Sheik)
+Player 2: APG | Elquapod  (C Falcon, GnW)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: Kosuku  (Mario)
+Player 2: NF | Kyck  (Pit)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: Yuruloki  (Cloud, Corrin)
+Player 2: FFC Jonas  (Ryu, Fox)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: SWG | LiLPac  (Little Mac)
+Player 2: CV Lion  (Villager)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: Pyrite  (Lucina)
+Player 2: Cosmic Witch  (Peach)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: P2P with Gibus  (Zelda, Greninja)
+Player 2: NF | bearchaosjam  (Palutena, Lucina)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: TLOC | Denti  (Luigi, Cloud)
+Player 2: Ados  (Ryu)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: FX | Lunchables  (Roy)
+Player 2: P2P with Gibus  (Greninja)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: Yuruloki  (Cloud)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: SWG | JaySon  (Fox)
+Player 2: Point_  (Villager)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: AeroLink  (Bayonetta)
+Player 2: FX | Dakpo  (Diddy)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: P2P with Gibus  (Greninja)
+Player 2: TLOC | Denti  (Cloud, Luigi)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: FX | Dakpo  (Diddy)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: P2P with Gibus  (Greninja)
+Player 2: SWG | JaySon  (Fox)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: AeroLink  (Bayonetta)
+Player 2: FX | Hyrule Hero  (Link, Zelda)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: Lima  (Bayonetta)
+Player 2: FX | Dakpo  (Diddy)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: SWG | JaySon  (Charizard)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: FX | Dakpo  (Diddy)
+Player 2: P2P with Gibus  (Lucario)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: FX | Dakpo  (Diddy)
+Player 2: SS | Awestin  (Ness)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 115 
+Player 1: SWG | JaySon  (Charizard)
+Player 2: SS | Awestin  (Ness)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Wrath  (Sonic)
+Player 2: Kman  (C Falcon)
+Bracket: D Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Pugwest  (Marth)
+Player 2: Dog W/ Hips  (Lucario)
+Bracket: D Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: GunWhales  (Rosalina, Ganon)
+Player 2: Lv^Ludo  (Diddy)
+Bracket: D Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Xiaht  (Sheik, Fox)
+Player 2: Spade  (Marth, C Falcon)
+Bracket: D Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Dog W/ Hips  (Lucario)
+Player 2: Lv^Ludo  (Diddy)
+Bracket: D Pools 2 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Kman  (C Falcon)
+Player 2: Spade  (Sheik)
+Bracket: D Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: DairDev1L  (Fox)
+Player 2: PikaChad  (Pikachu)
+Bracket: Top 8 Winners 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: Dezno  (Peach)
+Player 2: Kimchi  (Falco)
+Bracket: Top 8 Losers 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: The Score | Iori  (Peach)
+Player 2: Super Fang Chan  (ICs)
+Bracket: Top 8 Winners 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: CR2 | Kendo64  (Falco, Mario)
+Player 2: Wolven  (Samus)
+Bracket: Top 8 Losers 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: Super Fang Chan  (ICs)
+Player 2: Dezno  (Peach)
+Bracket: Top 8 Losers 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: DairDev1L  (Fox)
+Player 2: Wolven  (Samus)
+Bracket: Top 8 Losers 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: The Score | Iori  (Peach)
+Player 2: PikaChad  (Pikachu, Dr. Mario)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: DairDev1L  (Fox)
+Player 2: Dezno  (Peach)
+Bracket: Losers Semis 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: DairDev1L  (Fox)
+Player 2: PikaChad  (Pikachu)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: The Score | Iori  (Peach)
+Player 2: PikaChad  (Pikachu)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: KevBones  (Arbiter)
+Player 2: TM | Pharroh  (Orchid)
+Bracket: F Pools 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: AWOL | GP  (Fox)
+Player 2: Chip  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: UA | Brandon Alexander  (Tusk)
+Player 2: TBS | Sickle  (Glacius)
+Bracket: F Pools 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: UA | Bass  (Spinal)
+Player 2: Slowpoke  (Tusk, Omen)
+Bracket: F Pools 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: Gimli  (Fox)
+Player 2: Boomstick  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: ISM | Rotendo  (Glacius)
+Player 2: oS | Zero Syndicate  (Shadow Jago)
+Bracket: F Pools 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: AWOL | Vinyl  (Falco)
+Player 2: Clothing  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: BxA | Jackal  (Gargos)
+Player 2: RM | JagoBlake  (Jago)
+Bracket: F Pools 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: Circa | Nicky  (Fulgore)
+Player 2: NoScope | Gilgamesh  (Hisako)
+Bracket: F Pools 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: AWOL | SFOP  (C Falcon, Marth, Fox)
+Player 2: Bucket  (Peach)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: UA | Bass  (Spinal)
+Player 2: Mr. Pickle  (Rash)
+Bracket: F Pools 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: Circa | Nicky  (Mira, Fulgore)
+Player 2: RM | JagoBlake  (Jago)
+Bracket: F Pools 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: NoScope | Gilgamesh  (Hisako)
+Player 2: TBS | Sickle  (Glacius)
+Bracket: F Pools 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: Ouija  (Samus)
+Player 2: SWG | Mouf  (Peach, DK)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: oS | Zero Syndicate  (Shadow Jago)
+Player 2: RNG | YoungCamThaStar  (Jago)
+Bracket: F Pools 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: Mervis  (Samus)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: RM | JagoBlake  (Jago)
+Player 2: TBS | Sickle  (Glacius)
+Bracket: F Pools 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: Mr. Pickle  (Rash)
+Player 2: RNG | YoungCamThaStar  (Jago)
+Bracket: F Pools 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: Nair  (Pikachu)
+Player 2: Arc  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: ReeSe 2 HaVik  (Kasumi)
+Player 2: GXR | Lady Kohaku  (Leifang)
+Bracket: Top 8 Losers 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: spider123  (Mai)
+Player 2: Memphis Legends  (Mila)
+Bracket: Top 8 Losers 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: GXR | SRM Hoodless  (Zack)
+Player 2: GXR | COLDPIECEAJ  (Sarah, Kokoro)
+Bracket: Top 8 Winners 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Mijo  (Peach)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: SonicFox  (Marie Rose, Christie)
+Player 2: LuCkyL0opZ  (Kasumi)
+Bracket: Top 8 Winners 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: Smooth  (Marth)
+Player 2: Arc  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: GXR | COLDPIECEAJ  (Kokoro)
+Player 2: Memphis Legends  (Mila)
+Bracket: Top 8 Losers 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: F3 | LuCkyL0opZ  (Kasumi)
+Player 2: ReeSe 2 HaVik  (Kasumi)
+Bracket: Top 8 Losers 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: Echo Fox | SonicFox  (Rachel, Marie Rose)
+Player 2: GXR | SRM Hoodless  (Rig)
+Bracket: Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: AWOL | Clouded  (Falco)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: F3 | LuCkyL0opZ  (Kasumi)
+Player 2: GXR | COLDPIECEAJ  (Kokoro)
+Bracket: Losers Semis 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: F3 | LuCkyL0opZ  (Kasumi)
+Player 2: Echo Fox | SonicFox  (Phase 4)
+Bracket: Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: Boomstick  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: GXR | SRM Hoodless  (Rig, Zack)
+Player 2: Echo Fox | SonicFox  (Christie)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: TADEO  (Luigi)
+Player 2: Arc  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: DF | PINKDIAMOND  (Maya)
+Player 2: UA | Bass  (Cinder)
+Bracket: Top 8 Winners 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: BH | Thompxson  (Jago)
+Player 2: Circa | Nicky  (Fulgore)
+Bracket: Top 8 Winners 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: SWG | Mouf  (Peach)
+Player 2: FX | hamyojo  (Sheik, C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 115 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: Arc  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: Hi Im Keith  (Riptor)
+Player 2: RNG | YoungCamThaStar  (Jago)
+Bracket: Top 8 Losers 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: SWG | Mouf  (Peach)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: ESP | moxy  (Riptor)
+Player 2: TBS | SICKLE  (Glacius)
+Bracket: Top 8 Losers 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: Clouded  (Falco)
+Player 2: FX | hamyojo  (Sheik)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: Circa | Nicky  (Fulgore)
+Player 2: Hi Im Keith  (Riptor)
+Bracket: Top 8 Losers 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: Boomstick  (C Falcon, Falco)
+Player 2: SWG | Mouf  (Peach)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: TBS | SICKLE  (Glacius)
+Player 2: DF | PINKDIAMOND  (Maya)
+Bracket: Top 8 Losers 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: UA | Bass  (Jago, Spinal)
+Player 2: BH | Thompxson  (Jago)
+Bracket: Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: SWG | Bananas  (ICs)
+Player 2: Arc  (Marth)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: Circa | Nicky  (Fulgore)
+Player 2: TBS | Sickle  (Glacius)
+Bracket: Losers Semis 
+Game: Unknown
+-------------
+
+Tournament Name: MNM 115 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: SWG | Mouf  (Peach)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 115 
+Player 1: SWG | Bananas  (ICs)
+Player 2: SWG | Mouf  (Peach)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 115 
+Player 1: SWG | Bananas  (Fox)
+Player 2: Arc  (Marth)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: KIT17  
+Player 1: Circa | Nicky  (Fulgore, Mira)
+Player 2: UA | Bass  (Cinder, Spinal)
+Bracket: Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: BH | Thompxson  (Jago)
+Player 2: UA | Bass  (Cinder, Spinal)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: RNG | Dabuz  (Rosalina)
+Player 2: Sonido  (Sonic)
+Bracket: Top 8 Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: IMT | ANTi  (ZSS, Mario)
+Player 2: Ketsen  (Corrin)
+Bracket: Top 8 Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Wrath  (Sonic)
+Player 2: TheReflexWonder  (Wario)
+Bracket: Top 8 Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Dog W/ Hips  (Lucario)
+Player 2: Pugwest  (Marth)
+Bracket: Top 8 Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Sonido  (Sonic)
+Player 2: Wrath  (Sonic)
+Bracket: Top 8 Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Pugwest  (Marth)
+Player 2: Ketsen  (Corrin, Rosalina)
+Bracket: Top 8 Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: IMT | ANTi  (Mario, MK)
+Player 2: RNG | Dabuz  (Rosalina)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Wrath  (Sonic)
+Player 2: Pugwest  (Marth)
+Bracket: Losers Semis 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: IMT | ANTi  (Mario)
+Player 2: Pugwest  (Marth)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: RNG | Dabuz  (Rosalina)
+Player 2: IMT | ANTi  (ZSS, MK)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: NK  (Ness)
+Player 2: Fury  (Fox)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: ChetMagongalo + House  None
+Player 2: Perfect Light + KinGly None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Nihlus + Bananas  None
+Player 2: Strawhat + NK None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: JaggedCole + Fury  None
+Player 2: Mouf + TADEO None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: RyeBread + Jaywalker  None
+Player 2: Strawhat + NK None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: JaggedCole + Fury  None
+Player 2: Dekus + Rex None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: JayWalker + Ryebread  None
+Player 2: Gimli + Mijo! None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Mouf + TADEO  None
+Player 2: Strawhat + NK None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: JayWalker + Ryebread  None
+Player 2: JaggedCole + Fury None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: JayWalker + Ryebread  None
+Player 2: Mouf + TADEO None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Mouf + TADEO  None
+Player 2: Strawhat + NK None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: UNT | Dekus  (Ganon)
+Player 2: Blast  (ZSS)
+Bracket: Pools 
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Darkgun  (Lucario)
+Player 2: Rex  (Snake)
+Bracket: Pools 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17 
+Player 1: Ronin X + Kamikaze  None
+Player 2: Gurren + Kokiri None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Fury  (Fox)
+Player 2: [MB] Youngblood  (C Falcon)
+Bracket: Pools 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17 
+Player 1: Wings + moxy  None
+Player 2: Gfitty + Zillo None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17 
+Player 1: Ketsen + Sonido  None
+Player 2: Turtles + Pudd None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Czar  (Fox, Pit)
+Player 2: Jaywalker  (Fox, Pit)
+Bracket: Pools 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17 
+Player 1: Dabuz + ANTi  None
+Player 2: Juke Box Hero + KiMC None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17 
+Player 1: Pugwest + Winks  None
+Player 2: Spade + Mahgnittoc None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: BB | Studebacher Hoch  (Ivysaur)
+Player 2: Ryebread  (Peach)
+Bracket: Pools 
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Madguy  (Gnw)
+Player 2: HotPockets  (ICs)
+Bracket: Pools 
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Mijo!  (Mario, Peach)
+Player 2: Fury  (C Falcon, Fox)
+Bracket: Pools 
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Madguy  (Gnw)
+Player 2: Rex  (Snake)
+Bracket: Pools 
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Ryebread  (Peach)
+Player 2: Blast  (ZSS)
+Bracket: Pools 
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Dojo | Strawhat  (C Falcon)
+Player 2: KinGly  (Sheik)
+Bracket: Pools 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17 
+Player 1: Ketsen + Sonido  None
+Player 2: Makibaz + Rython None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17 
+Player 1: Dabuz + ANTi  None
+Player 2: Ronin X + Kamikaze None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: SS | brother Rob  (C Falcon)
+Player 2: SWG | Bananas  (Ivysaur)
+Bracket: Pools 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17 
+Player 1: Ketsen + Sonido  None
+Player 2: Wrath + TheReflexWonder None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17 
+Player 1: Dabuz + ANTi  None
+Player 2: Pugwest + Winks None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: SS | brother Rob  (C Falcon)
+Player 2: GS | Snooklet  (Sheik)
+Bracket: Pools 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17 
+Player 1: ANTi + Dabuz  None
+Player 2: Sonido + Ketsen None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17 
+Player 1: Wrath + TheReflexWonder  None
+Player 2: Spade + Mahgnittoc None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: SS | White Stallion  (Wario)
+Player 2: NK  (Ness)
+Bracket: Pools 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17 
+Player 1: Pugwest + Winks  None
+Player 2: Makibaz + Rython None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Rai  (Lucario)
+Player 2: SWG | Mouf  (Peach)
+Bracket: Pools 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17 
+Player 1: Wrath + TheReflexWonder  None
+Player 2: Pugwest + Winks None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Chech  (Bowser)
+Player 2: KinGly  (Sheik)
+Bracket: Pools 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17 
+Player 1: Sonido + Ketsen  None
+Player 2: Wrath + TheReflexWonder None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Chech  (Bowser)
+Player 2: Dojo | Strawhat  (C Falcon)
+Bracket: Pools 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17 
+Player 1: ANTi + Dabuz  None
+Player 2: Wrath + TheReflexWonder None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: AxG | DRX | Nahgato  (Lucario)
+Player 2: RNG | Gill  (Corrin)
+Bracket: A Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: BxA | EMPEROR Eevee  (Bayonetta)
+Player 2: Gurren  (Corrin)
+Bracket: A Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Ketsen  (Corrin, Rosalina)
+Player 2: Turtles  (Yoshi)
+Bracket: A Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: RtN | Limbs  (Mewtwo)
+Player 2: WW | Quote  (Bayonetta)
+Bracket: A Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Thundersz  (Fox)
+Player 2: Virtue | Ronin X  (Ryu)
+Bracket: A Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Sonido  (Sonic)
+Player 2: BxA | EMPEROR Eevee  (Bayonetta)
+Bracket: A Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: RUIN  (Lucas)
+Player 2: NK  (Ness)
+Bracket: Pools 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: RtN | Limbs  (Mewtwo)
+Player 2: P2W | Toystory  (Bayonetta)
+Bracket: A Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Sonido  (Sonic)
+Player 2: Thundersz  (Fox)
+Bracket: A Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: TTM | Prozac  (Yoshi, Falco)
+Player 2: NK  (Ness)
+Bracket: Pools 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: P2W | Toystory  (Bayonetta)
+Player 2: Ketsen  (Corrin)
+Bracket: A Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Thundersz  (Fox)
+Player 2: BxA | EMPEROR Eevee  (Bayonetta)
+Bracket: A Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: WW | Quote  (Bayonetta, Sonic)
+Player 2: Turtles  (Yoshi)
+Bracket: A Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: P2W | Toystory  (Lucina)
+Player 2: Turtles  (Yoshi)
+Bracket: A Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: kfox2  (Fox)
+Player 2: Wrexcalibur  (Olimar)
+Bracket: B Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: SWG | Mouf  (Peach)
+Player 2: KinGly  (Sheik)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: Ojama  (Sheik)
+Player 2: Thulius  (Mewtwo)
+Bracket: B Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: TheReflexWonder  (Wario)
+Player 2: UTM | RedFalcon207  (C Falcon)
+Bracket: B Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: RNG | Dabuz  (Rosalina)
+Player 2: KidCarlton  (Mario)
+Bracket: B Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: RtN | Neos  (Rosalina)
+Player 2: Envoid  (Sheik)
+Bracket: B Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: TheReflexWonder  (Wario)
+Player 2: KC  (Roy)
+Bracket: B Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: RNG | Dabuz  (Rosalina)
+Player 2: RtN | Neos  (Rosalina)
+Bracket: B Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: AYM | Dr. Copter  (Greninja)
+Player 2: AYM | Yuno  (Fox)
+Bracket: B Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Dojo | Strawhat  (C Falcon)
+Player 2: SWG | Bananas  (Ivysaur)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: LAGr | Midas  (Lucina)
+Player 2: DTR | BigOx  (Mario)
+Bracket: B Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: TheReflexWonder  (Wario)
+Player 2: AYM | Yuno  (Fox)
+Bracket: B Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: RtN | Neos  (Rosalina)
+Player 2: LAGr | Midas  (Corrin)
+Bracket: B Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: DRX | Winks  (ZSS)
+Player 2: Seren  (Peach)
+Bracket: B Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: AYM | Yuno  (Fox, Marth)
+Player 2: DRX | Winks  (ZSS)
+Bracket: B Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Mahgnittoc  (Diddy)
+Player 2: ShuckleBoard  (Ness, Marth)
+Bracket: C Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Rython  (Little Mac)
+Player 2: Pudd  (Ness)
+Bracket: C Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: TRW PxG | Makibaz  (Bowser)
+Player 2: AL | Kokiri  (Link)
+Bracket: C Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: SS | Rai  (Lucario)
+Player 2: UNT | Dekus  (Peach)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: TRW PxG | Makibaz  (Bowser, Mario)
+Player 2: LiT | Kamikaze  (Yoshi)
+Bracket: C Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: IMT | ANTi  (Mario)
+Player 2: ExiA  (Rosalina)
+Bracket: C Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Mahgnittoc  (Diddy)
+Player 2: Juke Box Hero  (Ryu)
+Bracket: C Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Mahgnittoc  (Diddy)
+Player 2: LiT | Kamikaze  (Yoshi)
+Bracket: C Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Pudd  (Ness)
+Player 2: P2W | RedSunEternal  (Ganon, Marth)
+Bracket: C Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: IMT | ANTi  (Mario)
+Player 2: KiMCHi  (MK)
+Bracket: C Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: JayWalker  (Fox)
+Player 2: Blast  (ZSS)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: Juke Box Hero  (Ryu)
+Player 2: TRW PxG | Makibaze  (Bowser)
+Bracket: C Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: IMT | ANTi  (Mario, Cloud)
+Player 2: Pudd  (Ness)
+Bracket: C Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Mahgnittoc  (Diddy)
+Player 2: TRW PxG | Makibaze  (Bowser)
+Bracket: C Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: GS | Snooklet  (GnW)
+Player 2: Fury  (Fox)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: KiMCHi  (MK)
+Player 2: P2W | RedSunEternal  (Ness)
+Bracket: C Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Pudd  (Ness)
+Player 2: KiMCHi  (MK)
+Bracket: C Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Pugwest  (Marth)
+Player 2: moxy  (Pikachu, C Falcon)
+Bracket: D Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: JayWalker  (Fox)
+Player 2: Dojo | Strawhat  (C Falcon)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: Wrath  (Sonic)
+Player 2: Xiaht  (Sheik)
+Bracket: D Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Pugwest  (Marth)
+Player 2: GunWhales  (Rosalina, DDD)
+Bracket: D Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Kman  (C Falcon)
+Player 2: Spade  (Sheik, C Falcon)
+Bracket: D Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Dog W/ Hips  (Lucario)
+Player 2: Lv^Ludo  (Diddy)
+Bracket: D Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Wrath  (Sonic)
+Player 2: Kman  (C Falcon)
+Bracket: D Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Pugwest  (Marth)
+Player 2: Dog W/ Hips  (Lucario)
+Bracket: D Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: UNT | Dekus  (Ganon)
+Player 2: GS | Snooklet  (GnW)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: KIT17  
+Player 1: GunWhales  (Rosalina, Ganon)
+Player 2: Lv^Ludo  (Diddy)
+Bracket: D Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Xiaht  (Sheik, Fox)
+Player 2: Spade  (Marth, C Falcon)
+Bracket: D Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: KIT17  
+Player 1: Dog W/ Hips  (Lucario)
+Player 2: Lv^Ludo  (Diddy)
+Bracket: D Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: AITC 3 
+Player 1: NK  (Ness)
+Player 2: Blast  (ZSS)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: UNT | Dekus  (Ganon, Peach)
+Player 2: JayWalker  (Fox)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: NK  (Ness)
+Player 2: JayWalker  (Fox)
+Bracket: Losers Semifinals 
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Fury  (Fox, Falco)
+Player 2: Dojo | Strawhat  (C Falcon)
+Bracket: Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: NK  (Ness)
+Player 2: Fury  (Fox)
+Bracket: Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: AITC 3 
+Player 1: Fury  (Fox)
+Player 2: Dojo | Strawhat  (C Falcon)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: SW 114 
+Player 1: SWG | JaySon  (Fox)
+Player 2: Slippy  (Villager, Olimar)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 114 
+Player 1: Lima  (Bayonetta)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 114 
+Player 1: AeroLink  (Bayonetta)
+Player 2: TTN | Asa  (Duck Hunt)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 114 
+Player 1: Deluxemenu  (Bowser)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 114 
+Player 1: AeroLink  (Bayonetta)
+Player 2: SWG | JaySon  (Fox)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 114 
+Player 1: P2P with Gibus  (Greninja)
+Player 2: SWG | Orex  (Marth)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 114 
+Player 1: LooK | DWIN  (Little Mac)
+Player 2: SWG | Gyo  (Villager)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 114 
+Player 1: UG | Deluxemenu  (Bowser)
+Player 2: LooK | DWIN  (Little Mac)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 114 
+Player 1: SWG | JaySon  (Fox)
+Player 2: Lima  (Bayonetta)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 114 
+Player 1: AeroLink  (Bayonetta)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 114 
+Player 1: UG | Deluxemenu  (Bowser)
+Player 2: Lima  (Bayonetta)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 114 
+Player 1: UG | Deluxemenu  (Bowser)
+Player 2: Awestin  (Ness)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 114 
+Player 1: UG | Deluxemenu  (Bowser)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: MNM 114 
+Player 1: SS | Arsenals  (Fox)
+Player 2: Severed  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: BB | Studebacher Hoch  (Luigi)
+Player 2: Trunks  (Luigi)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: Struggler  (Fox)
+Player 2: Watt the Flux  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: Jeff Foxworthy  (Fox)
+Player 2: Srimes  (Samus)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: Tal  (Sheik)
+Player 2: SWG | Mouf  (Peach)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: Brr  (Fox)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: AWOL | Vinyl  (Falco)
+Player 2: AWOL | GP  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: pootTheBox  (Samus)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Watt the Flux  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: SWG | Mouf  (Peach, DK)
+Player 2: Smooth  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: Jeff Foxworthy  (Fox)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: Mijo  (Peach)
+Player 2: SS | Arsenals  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: I'mDirtyDan  (Sheik)
+Player 2: SWG | Mouf  (Peach)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Merivs  (Samus)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: Mijo  (Peach)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: I'mDirtyDan  (Sheik)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: SWG | Mouf  (Peach)
+Player 2: Picofarad  (ICs)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: Jeff Foxworthy  (Fox)
+Player 2: I'mDirtyDan  (Sheik)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: FX | hamyojo  (Peach)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: SWG | Mouf  (Peach)
+Player 2: I'mDirtyDan  (Sheik)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: SWG | Mouf  (Peach)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 114 
+Player 1: FX | hamyojo  (Peach, C Falcon)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: IaB! 135 
+Player 1: HotPockets  (MK)
+Player 2: NoNo  (Peach)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 135 
+Player 1: GG | Zeus  (Sonic, Ganon)
+Player 2: jtaco  (Sonic, Ganon)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 135 
+Player 1: GG | Haviklink  (Wario)
+Player 2: NoxD  (Lucas)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 135 
+Player 1: BB | Studebacher Hoch  (Ivysaur)
+Player 2: NoNo  (Peach)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 135 
+Player 1: SRL | BirdyBirds  (Lucario)
+Player 2: GG | Zeus  (Sonic)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 135 
+Player 1: FX | Shokio  (Olimar)
+Player 2: GG | Haviklink  (Link, Wario)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 135 
+Player 1: FX | Shokio  (ZSS)
+Player 2: SS | Tr0y  (Fox)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 135 
+Player 1: NoNo  (Peach)
+Player 2: GG | Haviklink  (Wario)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 135 
+Player 1: SS | Luck  (Diddy)
+Player 2: GG | Zeus  (Sonic)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 135 
+Player 1: GG | Zeus  (Sonic)
+Player 2: SS | Arsenals  (Fox)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 135 
+Player 1: FX | Shokio  (ZSS)
+Player 2: SS | Luck  (Wolf)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 135 
+Player 1: SS | Tr0y  (Diddy)
+Player 2: GG | Zeus  (Sonic)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 135 
+Player 1: SS | Luck  (Diddy)
+Player 2: SS | Tr0y  (Diddy)
+Bracket: Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 135 
+Player 1: FX | Shokio  (ZSS)
+Player 2: SS | Luck  (Diddy, Wolf)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: SW 113 
+Player 1: Daft  (Falco)
+Player 2: PKay  (Palutena, Sonic)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: Latte  (Dark Pit)
+Player 2: MonadoSlayer  (Shulk)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: SWG | Orex  (Peach)
+Player 2: CV Lion  (MK)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: FFC Jonas  (Ryu)
+Player 2: Tator  (Yoshi)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: P2P with Gibus  (Lucario, Greninja)
+Player 2: C2  (Rosalina)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: Cosmic Witch  (Rosalina)
+Player 2: ICE | Muj  (Corrin)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: Kazerole  (Ryu)
+Player 2: Kaiba  (DK)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: ReQzee  (Pikachu)
+Player 2: LightningCam  (Diddy)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: CV SparK  (Roy)
+Player 2: P2P with Gibus  (Lucario)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: AeroLink  (Bayonetta)
+Player 2: FearAllReason  (Jigglypuff)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: Boz  (Robin)
+Player 2: Cosmos  (Corrin)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: P2P with Gibus  (Lucario, Greninja)
+Player 2: Shiny  (Diddy)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: NF | Beastly  (Fox)
+Player 2: SWG | Gyo  (Marth, Villager, ROB)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: Cosmos  (Corrin)
+Player 2: Critter  (Ike)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: SS | Awestin  (Ness)
+Player 2: CV C-ZER  (Marth)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: SWG | Orex  (Marth)
+Player 2: Cosmos  (Corrin)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: AeroLink  (Bayonetta)
+Player 2: CV Light  (ZSS)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: Shiny  (Diddy)
+Player 2: SWG | Gyo  (Mega Man)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: SS | Awestin  (Ness)
+Player 2: Kazerole  (Ryu)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: Shiny  (Diddy)
+Player 2: Cosmos  (Corrin)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: AeroLink  (Bayonetta)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: Kazerole  (Ryu)
+Player 2: CV Light  (ZSS)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: SWG | Orex  (Peach)
+Player 2: SWG | Gyo  (Marth)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: Cosmos  (Corrin)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: SS | Awestin  (Ness)
+Player 2: Kazerole  (Ryu, Cloud)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: SS | Awestin  (Ness)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 113 
+Player 1: SS | Awestin  (Ness)
+Player 2: Cosmos  (Corrin)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: MNM 113 
+Player 1: Clouded + Bananas  None
+Player 2: Wubbs + Jahanni None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: Jeff Foxworthy + Drewzey  None
+Player 2: TADEO + Boomstick None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: hamyojo + Mouf  None
+Player 2: Bananas + Clouded None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: Mijo + gelp  None
+Player 2: Jahanni + Wubbs None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: Bananas + Clouded  None
+Player 2: Smooth + SNESter None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: Jeff Foxworthy + Drewzey  None
+Player 2: hamyojo + Mouf None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: Wubbs + Jahanni  None
+Player 2: Clouded + Bananas None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: Wubbs + Jahanni  None
+Player 2: Drewzey + Jeff Foxworthy None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: hamyojo + Mouf  None
+Player 2: Jeff Foxworthy + Drewzey None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: FX | hamyojo  (Sheik, Yoshi)
+Player 2: BB | Studebacher Hoch  (Luigi)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: SWG | Mouf  (Peach)
+Player 2: AWOL | GP  (Fox, Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: AWOL | Clouded  (Falco)
+Player 2: Jeff Foxworthy  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: Thoraxe  (Fox)
+Player 2: Wubbs  (Sheik)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: AWOL | Clouded  (Falco)
+Player 2: hamyojo  (Sheik, C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: SWG | Mouf  (Peach)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: Boomstick  (Falco, C Falcon)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: FX | hamyojo  (Blue Sheik)
+Player 2: Wubbs  (Red Sheik)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: SWG | Mouf  (Peach)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: Boomstick  (C Falcon)
+Player 2: VTS  (ICs)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: SWG | Mouf  (Peach)
+Player 2: LAG  (Marth)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: DoH  (Peach)
+Player 2: Wubbs  (Sheik)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: FX | hamyojo  (Peach, Sheik)
+Player 2: SWG | Bananas  (ICs, Fox)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: LAG  (Marth)
+Player 2: DoH  (Peach)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: LAG  (Marth)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 113 
+Player 1: FX | hamyojo  (Peach)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: IaB! 134 
+Player 1: SS | Tr0y  (Fox)
+Player 2: TLOC | Bwett  (Sheik)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 134 
+Player 1: GG | Zeus  (Sonic)
+Player 2: SS | American Bowser  (GnW, Bowser)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 134 
+Player 1: SS | Luck  (Wolf, C Falcon)
+Player 2: GG | Azer  (Snake)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 134 
+Player 1: FX | Shokio  (ZSS)
+Player 2: SS | Arsenals  (Wolf)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 134 
+Player 1: GG | Azer  (Snake)
+Player 2: Rex  (Snake)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 134 
+Player 1: FX | Shokio  (ZSS)
+Player 2: SS | Luck  (Wolf, Diddy)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 134 
+Player 1: SS | Arsenals  (Fox)
+Player 2: GG | Azer  (Snake)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 134 
+Player 1: GG | Zeus  (Sonic)
+Player 2: GG | Azer  (Snake)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 134 
+Player 1: FX | Shokio  (Pit, ZSS)
+Player 2: GG | Azer  (Snake)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 134 
+Player 1: SS | Luck  (Wolf, Diddy)
+Player 2: FX | Shokio  (ZSS)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: SW 112 
+Player 1: Slick  (Greninja)
+Player 2: TLOC | Oracle  (Bowser Jr.)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: NF | Batmayne  (Lucas)
+Player 2: ChimichangaJohn  (Pac-Man)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: Andyroo  (Wario)
+Player 2: Ados  (Ryu)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: GVN  (Ness)
+Player 2: TexanSniper  (Pit)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: Karna  (Marth)
+Player 2: Conrad  (Cloud)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: KidFlash  (DK, Kirby)
+Player 2: Arsenal  (Falco, Luigi)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: Kaiba  (DK)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: FD | MageOfSymphonia  (Rosalina)
+Player 2: Cosmic Witch  (MK)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: Karna  (Marth, Sheik)
+Player 2: NF | Beastly  (Fox, Mario)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: TEC_Chase  (Robin)
+Player 2: SWG | Gyo  (Marth)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: Grayson The Cool Dude  (ROB)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: Y.b.M.  (Ryu)
+Player 2: SM | iiGGY  (Bayonetta, Rosalina)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: SWG | Gyo  (Lucina)
+Player 2: Yuruloki  (Cloud)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: SM | HyLeN  (Cloud)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: Lima  (Bayonetta)
+Player 2: SWG | JaySon  (Fox)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: SS | Awestin  (Ness)
+Player 2: Y.b.M.  (Ryu)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: P2P with Gibus  (Lucario)
+Player 2: SM | HyLeN  (Cloud)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: NF | Beastly  (Fox)
+Player 2: SWG | Gyo  (Marth, ROB)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: SWG | JaySon  (Fox, Charizard)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: SM | HyLeN  (Toon Link)
+Player 2: SWG | Gyo  (Mega Man)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: AeroLink  (Bayonetta)
+Player 2: Yuruloki  (Cloud, Sheik)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: P2P with Gibus  (Lucario, Greninja)
+Player 2: Ados  (Ryu)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: AeroLink  (Bayonetta)
+Player 2: SM | HyLeN  (Cloud, Shulk)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: SS | Awestin  (Ness)
+Player 2: SWG | Gyo  (Marth, ROB)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: SWG | JaySon  (Fox)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: SWG | JaySon  (Fox)
+Player 2: SWG | Gyo  (Villager)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 112 
+Player 1: SWG | JaySon  (Charizard)
+Player 2: SS | Awestin  (Ness)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: MNM 112 
+Player 1: BB | Studebacher Hoch  (Luigi)
+Player 2: Falko  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 112 
+Player 1: SS | Arsenals  (Fox)
+Player 2: Altmira  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 112 
+Player 1: Mijo  (Peach)
+Player 2: Birdperson  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 112 
+Player 1: FX | hamyojo  (Kirby, Mewtwo)
+Player 2: Nipper  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 112 
+Player 1: Dizzy  (Fox)
+Player 2: AHS | Brr  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 112 
+Player 1: FX | WaterlessFishie  (Fox)
+Player 2: Aspen  (Jigglypuff)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 112 
+Player 1: Srimes  (Samus)
+Player 2: Thoraxe  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 112 
+Player 1: Trademark  (Fox)
+Player 2: SS | Arsenals  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 112 
+Player 1: FX | hamyojo  (Sheik, C Falcon)
+Player 2: Nihlus  (Ness)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 112 
+Player 1: SWG | Mouf  (Peach)
+Player 2: pootTheBox  (Samus)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 112 
+Player 1: Thoraxe  (Fox)
+Player 2: Dizzy  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 112 
+Player 1: Pooch  (Samus, Zelda)
+Player 2: SWG | Mouf  (Peach)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 112 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: SWG | Mouf  (Peach)
+Bracket: Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: MNM 112 
+Player 1: FX | Lunchables  (Marth, Young Link)
+Player 2: SWG | Bananas  (ICs, Fox)
+Bracket: Winners Semis 
+Game: Melee
+-------------
+
+Tournament Name: MNM 112 
+Player 1: SWG | Bananas  (ICs)
+Player 2: FX | hamyojo  (C Falcon, Peach)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 112 
+Player 1: FX | Lunchables  (Marth)
+Player 2: Dizzy  (Fox)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 112 
+Player 1: Dizzy  (Fox)
+Player 2: SWG | Mouf  (Peach)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 112 
+Player 1: SWG | Mouf  (Peach)
+Player 2: FX | hamyojo  (Sheik)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 112 
+Player 1: FX | hamyojo  (Peach, C Falcon)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: Cirque  
+Player 1: Larka  (Roy)
+Player 2: Old#7  (Pikachu)
+Bracket: Ironman 
+Game: Melee
+-------------
+
+Tournament Name: Cirque 
+Player 1: Xane + Timestop  None
+Player 2: John + Pat None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: Cirque 
+Player 1: Arc + Larka  None
+Player 2: SmashAbbey + Webb None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: Cirque  
+Player 1: CharlieGamer 300  (Fox)
+Player 2: AbsoluteBlack  (Roy)
+Bracket: Stamina Pancake 
+Game: Melee
+-------------
+
+Tournament Name: Cirque  
+Player 1: AG | Arc  (Fox)
+Player 2: Wubbs  (Marth)
+Bracket: Ironman 
+Game: Melee
+-------------
+
+Tournament Name: Cirque  
+Player 1: SWG | Bananas  (Falco)
+Player 2: Wubbs  (C Falcon)
+Bracket: Ironman 
+Game: Melee
+-------------
+
+Tournament Name: Cirque  
+Player 1: Smash Abbey  (Zelda)
+Player 2: Webb  (C Falcon)
+Bracket: Pokebombs 
+Game: Melee
+-------------
+
+Tournament Name: Cirque  
+Player 1: Purple Sku  (Ganon)
+Player 2: SWG | Bananas  (Samus)
+Bracket: Stamina Pancake 
+Game: Melee
+-------------
+
+Tournament Name: Cirque  
+Player 1: Thoraxe  (C Falcon)
+Player 2: Wubbs  (C Falcon)
+Bracket: Ironman 
+Game: Melee
+-------------
+
+Tournament Name: Cirque 
+Player 1: Boomstick + Watt the Flux  None
+Player 2: Arc + AbsoluteBlack None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: Cirque 
+Player 1: Casey + SmashAbbey  None
+Player 2: Arc + Wubbs None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: Cirque  
+Player 1: Blitzbolt  (Fox)
+Player 2: Wubbs  (C Falcon)
+Bracket: Pokebombs 
+Game: Melee
+-------------
+
+Tournament Name: Cirque 
+Player 1: Wubbs + AbsoluteBlack  None
+Player 2: Timestop + Xane None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: Cirque  
+Player 1: Wubbs  (C Falcon)
+Player 2: AG | Arc  (Falco)
+Bracket: Pokebombs 
+Game: Melee
+-------------
+
+Tournament Name: Cirque  
+Player 1: SWG | Bananas  (Pichu)
+Player 2: Thoraxe  (Bowser)
+Bracket: Stamina Pancake 
+Game: Melee
+-------------
+
+Tournament Name: Cirque  
+Player 1: BB | Studebacher Hoch  (Luigi)
+Player 2: Wubbs  (C Falcon)
+Bracket: Pokebombs 
+Game: Melee
+-------------
+
+Tournament Name: Cirque  
+Player 1: AG | Arc  (Peach)
+Player 2: SWG | Bananas  (Mewtwo)
+Bracket: Stamina Pancake 
+Game: Melee
+-------------
+
+Tournament Name: Cirque  
+Player 1: Thoraxe  (Marth)
+Player 2: Wubbs  (Fox)
+Bracket: Ironman 
+Game: Melee
+-------------
+
+Tournament Name: Cirque  
+Player 1: Wubbs  (Marth)
+Player 2: SWG | Bananas  (Marth)
+Bracket: Ironman 
+Game: Melee
+-------------
+
+Tournament Name: Cirque  
+Player 1: AG | Arc  (Falco)
+Player 2: SWG | Bananas  (Fox)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: IaB! 133 
+Player 1: [MB] Wonder  (Fox)
+Player 2: Critter  (Link)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 133 
+Player 1: Studebacher Hoch  (Ivysaur)
+Player 2: Langel  (Ike, Wolf)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 133 
+Player 1: FX | Shokio  (Olimar, Roy)
+Player 2: NoxD  (Lucas)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 133 
+Player 1: SS | Luck  (Fox)
+Player 2: SS | Rai  (Fox)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 133 
+Player 1: Apathy  (MK)
+Player 2: Captain Birdman  (Falco)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 133 
+Player 1: GG | Zeus  (Sonic)
+Player 2: SS | Luck  (Diddy)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 133 
+Player 1: SS | Luck  (Wolf)
+Player 2: FX | Shokio  (Pit, ZSS)
+Bracket: Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 133 
+Player 1: SS | Arsenals  (Fox)
+Player 2: Captain Birdman  (Falco)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 133 
+Player 1: Apathy  (MK)
+Player 2: GG | Zeus  (Sonic)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 133 
+Player 1: Captain Birdman  (Falco)
+Player 2: Apathy  (MK)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 133 
+Player 1: FX | Shokio  (ZSS)
+Player 2: Captain Birdman  (Falco)
+Bracket: Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 133 
+Player 1: SS | Luck  (Wolf, Diddy)
+Player 2: Captain Birdman  (Falco, C Falcon)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: SW 111 
+Player 1: Slaps + Kurry  None
+Player 2: Dakpo + Awestin None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: JaySon + YellowRello  None
+Player 2: Jutsu + LiLPac None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: Xanzy + P2P with Gibus  None
+Player 2: Chic + Chucky None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: Xanzy + P2P with Gibus  None
+Player 2: Kurry + Slaps None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: Awestin + Dakpo  None
+Player 2: JaySon + YellowRello None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: LiLPac + Jutsu  None
+Player 2: Kurry + Slaps None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: JaySon + YellowRello  None
+Player 2: Kurry + Slaps None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: Awestin + Dakpo  None
+Player 2: Kurry + Slaps None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: SM | Kurry  (Sonic)
+Player 2: KidFlash  (Yoshi)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: SWG | Slaps  (Ike)
+Player 2: ReQzee  (Pikachu)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: SS | Awestin  (Ness)
+Player 2: Jutsu  (Ness)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: P2P with Gibus  (Greninja)
+Player 2: SWG | Slaps  (Ike)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: SS | Awestin  (Ness)
+Player 2: FX | Dakpo  (Luigi)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: SWG | JaySon  (Fox)
+Player 2: SM | Kurry  (Sonic)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: SS | Awestin  (Ness)
+Player 2: P2P with Gibus  (Greninja)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: NF | Batmayne  (Lucas)
+Player 2: TLOC | Denti  (Luigi)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: SWG | Slaps  (Ike)
+Player 2: TLOC | Denti  (Luigi)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: YellowRello  (Yoshi, Mario)
+Player 2: P2P with Gibus  (Greninja, Lucario)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: SWG | JaySon  (Fox)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: TLOC | Denti  (Cloud, Luigi)
+Player 2: SM | Kurry  (Cloud)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: YellowRello  (Wario, Yoshi)
+Player 2: SM | Kurry  (Sonic, Cloud)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: YellowRello  (Yoshi)
+Player 2: SS | Awestin  (Ness)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 111 
+Player 1: SWG | JaySon  (Fox)
+Player 2: SS | Awestin  (Ness)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: MNM 111 
+Player 1: Layzee  (Marth)
+Player 2: Watt the Flux  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 111 
+Player 1: FX | hamyojo  (Mario, Bowser)
+Player 2: Farbog  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 111 
+Player 1: OGMilkbone  (Fox)
+Player 2: FX | Several Giraffes  (Falco, Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 111 
+Player 1: Melo  (Falco)
+Player 2: AG | Arc  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 111 
+Player 1: Jelly  (Fox)
+Player 2: Watt the Flux  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 111 
+Player 1: Nair  (Pikachu)
+Player 2: TADEO  (Luigi, Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 111 
+Player 1: Nihlus  (Ness)
+Player 2: FX | hamyojo  (C Falcon, Ganon, Sheik)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 111 
+Player 1: Boomstick  (C Falcon, Falco)
+Player 2: pootTheBox  (Samus, Dr. Mario)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 111 
+Player 1: TADEO  (Falco)
+Player 2: AG | Arc  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 111 
+Player 1: Thoraxe  (Fox)
+Player 2: FX | hamyojo  (Sheik)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 111 
+Player 1: Boomstick  (Falco)
+Player 2: FX | bluezaft  (Jigglypuff)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 111 
+Player 1: AG | Arc  (Marth)
+Player 2: FX | bluezaft  (Jigglypuff)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 111 
+Player 1: SWG | Bananas  (ICs)
+Player 2: FX | hamyojo  (Peach, C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 111 
+Player 1: Jahanni  (Fox)
+Player 2: VTS  (ICs)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 111 
+Player 1: Jahanni  (Fox)
+Player 2: FX | bluezaft  (Marth)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 111 
+Player 1: AG | Arc  (Marth)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 111 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: FX | bluezaft  (Jigglypuff)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 111 
+Player 1: FX | hamyojo  (C Falcon)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 111 
+Player 1: AG | Arc  (Marth)
+Player 2: SWG | Bananas  (ICs, Fox)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: IaB! 132 
+Player 1: BB | Studebacher Hoch  (Ivysaur, Sheik)
+Player 2: SS | Tr0y  (Marth, Fox)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 132 
+Player 1: Ethix  (Falco)
+Player 2: HotPockets  (MK)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 132 
+Player 1: NoxD  (Lucas)
+Player 2: Apathy  (Toon Link, MK)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 132 
+Player 1: SS | Tr0y  (Marth)
+Player 2: SS | Luck  (Wolf, Diddy)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 132 
+Player 1: SS | Luck  (Wolf, Diddy)
+Player 2: SS | American Bowser  (DK)
+Bracket: Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 132 
+Player 1: SS | American Bowser  (GnW)
+Player 2: GG | Zeus  (Sonic, Ganon)
+Bracket: Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 132 
+Player 1: Critter  (Link)
+Player 2: Apathy  (Toon Link, MK)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 132 
+Player 1: SS | Tr0y  (Diddy)
+Player 2: SS | Arsenals  (Fox)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 132 
+Player 1: SS | Luck  (Diddy)
+Player 2: Apathy  (MK)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 132 
+Player 1: SS | Arsenals  (Fox, Wolf)
+Player 2: SS | Luck  (Diddy)
+Bracket: Losers Semifinals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 132 
+Player 1: SS | Zeus  (Sonic)
+Player 2: SS | Luck  (Diddy)
+Bracket: Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 132 
+Player 1: SS | Luck  (Diddy)
+Player 2: SS | American Bowser  (DK)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: SW 110 
+Player 1: SWG | Bananas  (Ryu)
+Player 2: Pkay  (Corrin)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 110 
+Player 1: FX | Lunchables  (MK, Roy)
+Player 2: Prince  (Jigglypuff)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 110 
+Player 1: FX | Hyrule Hero  (Link)
+Player 2: Cosmic Witch  (MK)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 110 
+Player 1: Karna  (Sheik)
+Player 2: FX | Lunchables  (MK)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 110 
+Player 1: FX TLOC | Sethlon  (Cloud)
+Player 2: SWG | Slaps  (Ike)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 110 
+Player 1: Orex  (Peach)
+Player 2: P2P with Gibus  (Greninja, Lucario)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 110 
+Player 1: Karna  (Sheik)
+Player 2: Yuruloki  (Cloud)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 110 
+Player 1: P2P with Gibus  (Lucario)
+Player 2: BHBG | LiLPac  (Little Mac)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 110 
+Player 1: Yuruloki  (Ike)
+Player 2: SWG | Slaps  (Cloud)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 110 
+Player 1: LightningCam  (Diddy)
+Player 2: Lima  (Bayonetta)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 110 
+Player 1: Yuruloki  (Cloud)
+Player 2: SS | Awestin  (Ness)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 110 
+Player 1: SWG | Slaps  (Ike)
+Player 2: BHBG | LiLPac  (Little Mac)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 110 
+Player 1: Yuruloki  (Cloud)
+Player 2: P2P with Gibus  (Greninja)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 110 
+Player 1: Yuruloki  (Cloud)
+Player 2: SWG | Slaps  (Ike)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 110 
+Player 1: Yuruloki  (Cloud)
+Player 2: BHBG | LiLPac  (Little Mac)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: MNM 110 
+Player 1: Arc + SFOP  None
+Player 2: Mouf + hamyojo None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 110 
+Player 1: GP + Mervis  None
+Player 2: Moophobia + Thoraxe None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 110 
+Player 1: Bananas + Dakpo  None
+Player 2: Thoraxe + Moophobia None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 110 
+Player 1: Bananas + Dakpo  None
+Player 2: hamyojo + Mouf None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 110 
+Player 1: Arc + SFOP  None
+Player 2: hamyojo + Mouf None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 110 
+Player 1: Jahanni  (Fox)
+Player 2: AG | Arc  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 110 
+Player 1: Pit  (Peach)
+Player 2: darkrain  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 110 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: AWOL | SFOP  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 110 
+Player 1: SWG | Mouf  (Peach)
+Player 2: AG | Arc  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 110 
+Player 1: AWOL | SFOP  (Fox)
+Player 2: darkrain  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 110 
+Player 1: SWG | Bananas  (ICs)
+Player 2: AG | Arc  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 110 
+Player 1: TADEO  (Luigi)
+Player 2: SWG | Mouf  (Peach)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 110 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Pit  (Peach)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 110 
+Player 1: darkrain  (C Falcon)
+Player 2: AG | Arc  (Marth)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 110 
+Player 1: SWG | Mouf  (Peach)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 110 
+Player 1: darkrain  (C Falcon)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 110 
+Player 1: AG | Arc  (Marth)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: IaB! 131 
+Player 1: SS | Arsenals  (Fox, Wolf)
+Player 2: Apathy  (MK)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 131 
+Player 1: BB | Princess Hyrule  (Zelda)
+Player 2: Gree  (C Falcon)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 131 
+Player 1: [MB] Wonder  (Falco, Marth)
+Player 2: Edge  (Ike)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 131 
+Player 1: Gree  (C Falcon)
+Player 2: Chris  (Wolf)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB 131 
+Player 1: Umbreon + Luck  None
+Player 2: Dakpo + Bananas None
+Bracket:  
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 131 
+Player 1: FX | Dakpo  (GnW)
+Player 2: [MB] Wonder  (Fox)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 131 
+Player 1: TLOC | Oracle  (Squirtle, Lucas)
+Player 2: FX | Dakpo  (GnW)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 131 
+Player 1: Apathy  (MK)
+Player 2: FX | Shokio  (Olimar, Pit)
+Bracket: Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 131 
+Player 1: Captain Birdman  (Falco)
+Player 2: SS | Arsenals  (Fox)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 131 
+Player 1: FX | Dakpo  (GnW)
+Player 2: Captain Birdman  (Falco)
+Bracket: Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 131 
+Player 1: FX | Shokio  (ZSS)
+Player 2: Captain Birdman  (Falco)
+Bracket: Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 131 
+Player 1: FX | Dakpo  (GnW)
+Player 2: SS | Hard Reid  (ZSS)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 131 
+Player 1: SS | Arsenals  (Fox, Wolf)
+Player 2: FX | Dakpo  (GnW)
+Bracket: Losers Semifinals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 131 
+Player 1: FX | Shokio  (Olimar)
+Player 2: FX | Dakpo  (GnW)
+Bracket: Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 131 
+Player 1: FX | Dakpo  (Falco, Marth)
+Player 2: Captain Birdman  (Falco)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: SW 109 
+Player 1: Awestin + Dakpo  None
+Player 2: Sethlon + Yuruloki None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 109 
+Player 1: Awestin + Dakpo  None
+Player 2: Hyrule Hero + LiLPac None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 109 
+Player 1: Slaps + Emery  None
+Player 2: Yuruloki + Sethlon None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 109 
+Player 1: JaySon + YellowRello  None
+Player 2: Yuruloki + Sethlon None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 109 
+Player 1: JaySon + YellowRello  None
+Player 2: Hyrule Hero + LiLPac None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 109 
+Player 1: JaySon + YellowRello  None
+Player 2: Dakpo + Awestin None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: SW 109 
+Player 1: Karna  (Sheik)
+Player 2: Yuruloki  (Cloud)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 109 
+Player 1: LightningCam  (Diddy)
+Player 2: Kazerole  (Ryu)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 109 
+Player 1: P2P with Gibus  (Lucario)
+Player 2: Kazerole  (Ryu)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 109 
+Player 1: SS | Awestin  (Ness)
+Player 2: BHBG | LiLPac  (Little Mac)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 109 
+Player 1: INC | Snow  (Lucina)
+Player 2: Karna  (Sheik)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 109 
+Player 1: SS | Awestin  (Ness)
+Player 2: P2P with Gibus  (Greninja)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 109 
+Player 1: LightningCam  (Diddy)
+Player 2: Yuruloki  (Cloud)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 109 
+Player 1: Kazerole  (Ryu)
+Player 2: BHBG | LiLPac  (Little Mac)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 109 
+Player 1: Karna  (Sheik)
+Player 2: P2P with Gibus  (Lucario)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 109 
+Player 1: INC | Snow  (Lucina)
+Player 2: Kazerole  (Ryu)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 109 
+Player 1: SS | Awestin  (Ness)
+Player 2: Kazerole  (Ryu)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 109 
+Player 1: SS | Awestin  (Ness)
+Player 2: P2P with Gibus  (Greninja)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 109 
+Player 1: SS | Awestin  (Ness)
+Player 2: Karna  (Sheik)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: MNM 109 
+Player 1: Ouija  (Samus)
+Player 2: PX | Several Giraffes  (C Falcon, Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 109 
+Player 1: Dusk  (Fox, Marth)
+Player 2: Watt the Flux  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 109 
+Player 1: Ampersandy  (Falco)
+Player 2: AG | Arc  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 109 
+Player 1: AWOL | Clouded  (Falco)
+Player 2: Watt the Flux  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 109 
+Player 1: FX | Lunchables  (Marth, Roy)
+Player 2: Jahanni  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 109 
+Player 1: SWG | Mouf  (Peach)
+Player 2: Mervis  (Samus)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 109 
+Player 1: FX | bluezaft  (Jigglypuff)
+Player 2: FX | Lunchables  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 109 
+Player 1: SWG | Mouf  (Peach)
+Player 2: SS | Hard Reid  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 109 
+Player 1: FX | Lunchables  (Marth)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 109 
+Player 1: SWG | Mouf  (Peach)
+Player 2: AG | Arc  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 109 
+Player 1: TADEO  (Luigi)
+Player 2: PX | Several Giraffes  (Marth, C Falcon)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 109 
+Player 1: SWG | Mouf  (Peach)
+Player 2: FX | bluezaft  (Marth, Jigglypuff)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 109 
+Player 1: AG | Arc  (Marth)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 109 
+Player 1: FX | bluezaft  (Marth)
+Player 2: FX | Lunchables  (Marth)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 109 
+Player 1: SWG | Bananas  (ICs, Fox)
+Player 2: FX | Lunchables  (Marth, Young Link)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 109 
+Player 1: AG | Arc  (Marth)
+Player 2: FX | Lunchables  (Marth, Roy)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: Beastly + Batmayne  None
+Player 2: Lion + atlascrown None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: Beastly + Batmayne  None
+Player 2: Orex + Kazerole None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: Dakpo + Blink  None
+Player 2: Light + HyLeN None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: Orex + Kazerole  None
+Player 2: Snow + Phenom None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: Orex + Kazerole  None
+Player 2: HyLeN + Light None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: Orex + Kazerole  None
+Player 2: Awestin + Y.b.M. None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: Y.b.M. + Awestin  None
+Player 2: Cosmos + Gyo None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: ChimichnagaJohn  (Pac-Man)
+Player 2: Cosmos  (Corrin)
+Bracket: Money Match 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: Dampe  (Ness)
+Player 2: Cosmos  (Corrin)
+Bracket: Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: Awestin  (Ness)
+Player 2: BHBG | LiLPac  (Charizard)
+Bracket: Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: SM | HyLeN  (Shulk, et al.)
+Player 2: CTK | Phenom  (Ganon, Kirby)
+Bracket: Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: NF | Beastly  (Fox, Ness)
+Player 2: Cosmos  (Corrin)
+Bracket: Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: LightningCam  (Diddy)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: Kazerole  (Ryu)
+Player 2: Lima  (Bayonetta)
+Bracket: Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: INC | Snow  (Fox)
+Player 2: Yuruloki  (Cloud)
+Bracket: Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: FX | Dakpo  (Diddy)
+Player 2: CV Light  (Corrin, ZSS)
+Bracket: Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: NF | Integrity  (Mega Man)
+Player 2: Cosmic Witch  (Rosalina, MK)
+Bracket: Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: NF | Integrity  (Mega Man)
+Player 2: FX | Dakpo  (Diddy)
+Bracket: Pools 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: AeroLink  (Bayonetta)
+Player 2: Kazerole  (Ryu)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: LightningCam  (Diddy)
+Player 2: Awestin  (Ness)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: Cosmos  (Corrin)
+Player 2: SM | HyLeN  (Toon Link)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: CV Light  (ZSS)
+Player 2: SM | HyLeN  (Cloud)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: FX | Dakpo  (Luigi)
+Player 2: CTK | Phenom  (Fox, Greninja)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: SS | Awestin  (Ness)
+Player 2: Y.b.M.  (Ryu)
+Bracket: Winners Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: Cosmos  (Corrin)
+Player 2: Lima  (Bayonetta)
+Bracket: Winners Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: Y.b.M.  (Ryu)
+Player 2: CV Light  (Corrin)
+Bracket: Losers Quarters 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: Cosmos  (Corrin)
+Player 2: SS | Awestin  (Ness)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: Y.b.M.  (Ryu)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: Awestin  (Ness)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: Cyclone 1 
+Player 1: Cosmos  (Corrin)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: MNM 108 
+Player 1: FX | hamyojo  (Pichu)
+Player 2: Parasaurolophus  (Falco)
+Bracket: Money Match 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: FX | hamyojo  (Luigi)
+Player 2: Yoku  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: SRL | BirdyBirds  (Marth)
+Player 2: Watt the Flux  (C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: Pooch  (Fox, Zelda)
+Player 2: Obsidian  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: xen  (Fox)
+Player 2: AG | Arc  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: Parasaurolophus  (Falco)
+Player 2: SWG | Bananas  (Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: himegoto  (Sheik)
+Player 2: PG FX | Wobbles  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: Srimes  (Samus)
+Player 2: AG | Arc  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: Pooch  (Samus)
+Player 2: Nihlus  (Ness)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: PG FX | Wobbles  (Falco)
+Player 2: Casey  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: Mervis  (Samus)
+Player 2: AG | Arc  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Nihlus  (Ness)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: AG | Arc  (Marth)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Casey  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: Pooch  (Samus)
+Player 2: Mervis  (Samus)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: VTS  (Marth)
+Player 2: Pooch  (Samus)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: AG | Arc  (Marth)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: SWG | Bananas  (ICs)
+Player 2: Pooch  (Samus)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: FX | hamyojo  (Peach)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 108 
+Player 1: AG | Arc  (Marth)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: IaB! 130 
+Player 1: Struggler  (Fox)
+Player 2: Wood  (Lucario)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 130 
+Player 1: SS | Tr0y  (Fox, MK)
+Player 2: jtaco  (Marth)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 130 
+Player 1: SS | Hard Reid  (ZSS)
+Player 2: SS | Tr0y  (Fox)
+Bracket: Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 130 
+Player 1: FX | Shokio  (ZSS)
+Player 2: SS | American Bowser  (DK, Bowser)
+Bracket: Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 130 
+Player 1: SS | Hard Reid  (ZSS)
+Player 2: SS | Shokio  (ZSS)
+Bracket: Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 130 
+Player 1: SS | American Bowser  (Bowser)
+Player 2: SS | Arsenals  (Wolf)
+Bracket: Losers Semis 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 130 
+Player 1: SS | Hard Reid  (Snake, Peach)
+Player 2: SS | American Bowser  (Bowser)
+Bracket: Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 130 
+Player 1: FX | Shokio  (Pit, Olimar)
+Player 2: SS | American Bowser  (Luigi, Bowser)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: SW 108 
+Player 1: GRMN  (Link)
+Player 2: Latte  (Dark Pit, Pit)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 108 
+Player 1: CV | Zei  (Fox)
+Player 2: MRRRRRRRRR  (Mario)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 108 
+Player 1: APG | Elquapod  (Corrin)
+Player 2: 400ever  (Ike)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 108 
+Player 1: GameProdigy  (Samus)
+Player 2: CTK | Robin  (Robin)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 108 
+Player 1: BHBG | LiLPac  (Charizard)
+Player 2: Cha0tic  (Greninja)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 108 
+Player 1: SWG | Slaps  (Ike)
+Player 2: Yuruloki  (Cloud)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 108 
+Player 1: BHBG | LiLPac  (Charizard)
+Player 2: Chic  (Luigi)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 108 
+Player 1: MB | Karna  (Sheik)
+Player 2: INC | Snow  (Fox, Lucina)
+Bracket: Winners Semis 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 108 
+Player 1: P2P with Gibus  (Greninja, Lucario)
+Player 2: Yuruloki  (Cloud)
+Bracket: Winners Semis 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 108 
+Player 1: MB | Karna  (Sheik)
+Player 2: Yuruloki  (Cloud)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 108 
+Player 1: SWG | Gyo  (Marth)
+Player 2: LooK | DWIN  (Little Mac)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 108 
+Player 1: LooK | DWIN  (Little Mac)
+Player 2: Orex  (Peach)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 108 
+Player 1: SWG | Slaps  (Ike)
+Player 2: BHBG | LiLPac  (Charizard)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 108 
+Player 1: P2P with Gibus  (Greninja, Lucario)
+Player 2: Orex  (Peach)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 108 
+Player 1: SWG | Slaps  (Ike)
+Player 2: P2P with Gibus  (Greninja)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 108 
+Player 1: Yuruloki  (Cloud)
+Player 2: SWG | Slaps  (Ike)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 108 
+Player 1: MB | Karna  (Sheik)
+Player 2: Yuruloki  (Cloud)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: MNM 107 
+Player 1: TADEO + WaterlessFishie  None
+Player 2: bluezaft + Arc None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 107 
+Player 1: hamyojo + Mouf  None
+Player 2: bluezaft + Arc None
+Bracket:  
+Game: Melee
+-------------
+
+Tournament Name: MNM 107 
+Player 1: FX | hamyojo  (GnW, Pichu)
+Player 2: Parasaurolophus  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 107 
+Player 1: Mayo13  (Marth)
+Player 2: thelunchboxhero  (Pichu)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 107 
+Player 1: Jahanni  (Fox)
+Player 2: SWG | Mouf  (Peach)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 107 
+Player 1: VTS  (ICs)
+Player 2: Smooth  (Marth)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 107 
+Player 1: AWOL | Vinyl  (Falco)
+Player 2: Boomstick  (Falco, C Falcon)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 107 
+Player 1: Casey  (Marth)
+Player 2: SWG | Bananas  (ICs, Fox)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 107 
+Player 1: SWG | Mouf  (Peach)
+Player 2: Pit  (Peach)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 107 
+Player 1: SWG | Mouf  (Peach)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 107 
+Player 1: FX | hamyojo  (Sheik)
+Player 2: Boomstick  (Falco)
+Bracket: Winners 
+Game: Melee
+-------------
+
+Tournament Name: MNM 107 
+Player 1: VTS  (Marth, ICs)
+Player 2: TADEO  (Luigi)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 107 
+Player 1: Pit  (Peach)
+Player 2: Casey  (Marth)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 107 
+Player 1: Pit  (Peach)
+Player 2: Boomstick  (Falco)
+Bracket: Losers 
+Game: Melee
+-------------
+
+Tournament Name: MNM 107 
+Player 1: FX | hamyojo  (Peach)
+Player 2: SWG | Bananas  (ICs, Fox)
+Bracket: Winners Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 107 
+Player 1: SWG | Mouf  (Peach)
+Player 2: Boomstick  (Falco)
+Bracket: Losers Semifinals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 107 
+Player 1: SWG | Mouf  (Peach)
+Player 2: FX | hamyojo  (Sheik)
+Bracket: Losers Finals 
+Game: Melee
+-------------
+
+Tournament Name: MNM 107 
+Player 1: SWG | Bananas  (ICs)
+Player 2: FX | hamyojo  (Peach)
+Bracket: Grand Finals 
+Game: Melee
+-------------
+
+Tournament Name: SW 107 
+Player 1: Plexi  (Corrin)
+Player 2: tumut tony  (Duck Hunt)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 107 
+Player 1: RJ  (Villager)
+Player 2: Cosmic Witch  (Rosalina)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 107 
+Player 1: INC | Snow  (Lucina)
+Player 2: E.T.  (Lucas)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 107 
+Player 1: ReQzee  (Sheik, Pikachu)
+Player 2: Ados  (Ryu)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 107 
+Player 1: Cosmic Witch  (Rosalina, MK)
+Player 2: TEC_Chase  (Robin)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 107 
+Player 1: FX | Lunchables  (Roy)
+Player 2: Chucky  (Ness)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 107 
+Player 1: FX TLOC | Sethlon  (Cloud)
+Player 2: Ados  (Ryu)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 107 
+Player 1: AeroLink  (Bayonetta)
+Player 2: FX | Lunchables  (Roy)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 107 
+Player 1: AeroLink  (Bayonetta)
+Player 2: LightningCam  (Diddy)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 107 
+Player 1: SWG | JaySon  (Fox)
+Player 2: INC | Snow  (Fox)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 107 
+Player 1: AeroLink  (Bayonetta)
+Player 2: Lima  (Bayonetta, Rosalina)
+Bracket: Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 107 
+Player 1: Plexi  (Corrin)
+Player 2: TLOC | Denti  (Luigi)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 107 
+Player 1: P2P with Gibus  (Greninja)
+Player 2: Zanryo  (Falco)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 107 
+Player 1: INC | Snow  (Fox, Lucina)
+Player 2: TLOC | Denti  (Cloud)
+Bracket: Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 107 
+Player 1: SWG | JaySon  (Fox)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 107 
+Player 1: TLOC | Denti  (Cloud)
+Player 2: Lima  (Bayonetta)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 107 
+Player 1: SWG | JaySon  (Fox)
+Player 2: Lima  (Bayonetta)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: SW 107 
+Player 1: SWG | JaySon  (Fox)
+Player 2: AeroLink  (Bayonetta)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: IaB! 129 
+Player 1: LSL SU | Brentos  (Zelda, Peach)
+Player 2: Accelgor  (Ganon)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 129 
+Player 1: TLOC | Oracle  (Charizard, DK)
+Player 2: Accelgor  (Ganon)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 129 
+Player 1: Captain Birdman  (Falco)
+Player 2: Tr0y  (Fox)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 129 
+Player 1: TLOC | Oracle  (Mario)
+Player 2: Captain Birdman  (Falco, Bowser)
+Bracket: Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 129 
+Player 1: FX | Shokio  (Olimar, ZSS)
+Player 2: Arsenals  (Fox)
+Bracket: Winners 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 129 
+Player 1: GG | Zeus  (Sonic)
+Player 2: FX | Shokio  (Pit)
+Bracket: Winners Semis 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 129 
+Player 1: SS | Tr0y  (Fox)
+Player 2: Blast  (ZSS)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 129 
+Player 1: TLOC | Oracle  (Squirtle, DK)
+Player 2: SS | Arsenals  (Fox, Wolf)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 129 
+Player 1: GG | Zeus  (Sonic)
+Player 2: SS | Tr0y  (ZSS)
+Bracket: Losers 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 129 
+Player 1: FX | Shokio  (ZSS)
+Player 2: Captain Birdman  (Falco)
+Bracket: Winners Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 129 
+Player 1: TLOC | Oracle  (Luigi, C Falcon)
+Player 2: GG | Zeus  (Sonic)
+Bracket: Losers Semifinals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 129 
+Player 1: FX | Shokio  (ZSS)
+Player 2: TLOC | Oracle  (DK)
+Bracket: Losers Finals 
+Game: Unknown
+-------------
+
+Tournament Name: IaB! 129 
+Player 1: TLOC | Oracle  (Lucas, Samus)
+Player 2: Captain Birdman  (Falco)
+Bracket: Grand Finals 
+Game: Unknown
+-------------
+
+Tournament Name: AFSK 2016 
+Player 1: Sol + ThisGuy  None
+Player 2: Makibaz + Chuck Nasty None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 2016 
+Player 1: Sol + ThisGuy  None
+Player 2: DisqoBunny + Papa Wall None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 2016 
+Player 1: Twi + JaySon  None
+Player 2: CalmAnimal + Mr. Smooth None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 2016 
+Player 1: Twi + JaySon  None
+Player 2: ThisGuy + Sol None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK16 
+Player 1: Pooch  (Samus)
+Player 2: eclipse | SquidKid  (ICs)
+Bracket: Top 32 Winners 
+Game: Melee
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: SU | Uncle Mojo  (Fox)
+Player 2: Mijo!  (Peach)
+Bracket: Top 32 Winners 
+Game: Melee
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: FX | bluezaft  (Jigglypuff)
+Player 2: Casey  (Marth)
+Bracket: Top 32 Winners 
+Game: Melee
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: FX | hamyojo  (Peach)
+Player 2: SWG | Bananas  (ICs)
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: FX | LK  (Peach)
+Player 2: [MB] Disafter  (Falco, Marth)
+Bracket: Top 32 Winners 
+Game: Melee
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: SU | Uncle Mojo  (Fox)
+Player 2: SWG | Mouf  (Peach)
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: FX | bluezaft  (Jigglypuff)
+Player 2: AG | Arc  (Marth)
+Bracket: Winners Quarters 
+Game: Melee
+-------------
+
+Tournament Name: AFSK 2016 
+Player 1: Dabuz + Cosmos  None
+Player 2: DisqoBunny + Papa Wall None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 2016 
+Player 1: CaptainZack + Samsora  None
+Player 2: Y.b.M. + Awestin None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 2016 
+Player 1: CaptainZack + Samsora  None
+Player 2: Papa Wall + DisqoBunny None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 2016 
+Player 1: Dabuz + Cosmos  None
+Player 2: CaptainZack + Samsora None
+Bracket:  
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: Samsora  (Peach)
+Player 2: P2P with Gibus  (Greninja)
+Bracket: Top 48 Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: Cosmos  (Corrin)
+Player 2: Karna  (Sheik)
+Bracket: Top 48 Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: DMG | CaptainZack  (Bayonetta)
+Player 2: Papa Wall  (Yoshi)
+Bracket: Top 48 Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: Samsora  (Peach)
+Player 2: SS | Awestin  (Ness)
+Bracket: Top 48 Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: Noble | Sol  (Little Mac)
+Player 2: CV | Light the Lantern  (Corrin)
+Bracket: Top 48 Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: Noble | Sol  (Little Mac)
+Player 2: MB | Karna  (Sheik)
+Bracket: Top 48 Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: Twi  (Peach)
+Player 2: Papa Wall  (Yoshi)
+Bracket: Top 8 Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: [MB] Karna  (Sheik)
+Player 2: SWG | JaySon  (Fox)
+Bracket: Top 8 Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: RNG | Dabuz  (Rosalina)
+Player 2: DMG | CaptainZack  (Bayonetta)
+Bracket: Top 8 Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: Samsora  (Peach)
+Player 2: Cosmos  (Corrin)
+Bracket: Top 8 Winners 
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: RNG | Dabuz  (Rosalina)
+Player 2: [MB] Karna  (Sheik)
+Bracket: Top 8 Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: Twi  (Peach)
+Player 2: Samsora  (Peach, Rosalina)
+Bracket: Top 8 Losers 
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: CaptainZack  (Bayonetta)
+Player 2: Cosmos  (Corrin)
+Bracket: Winners Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: Samsora  (Peach)
+Player 2: RNG | Dabuz  (Rosalina, Olimar)
+Bracket: Losers Semifinals 
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: RNG | Dabuz  (Rosalina, Olimar)
+Player 2: Cosmos  (Corrin)
+Bracket: Losers Finals 
+Game: Smash 4
+-------------
+
+Tournament Name: AFSK 16 
+Player 1: RNG | Dabuz  (Rosalina, Olimar)
+Player 2: DMG | CaptainZach  (Bayonetta)
+Bracket: Grand Finals 
+Game: Smash 4
+-------------
+
 Tournament Name: MNM 106 
 Player 1: FX | hamyojo  (Jigglypuff, ICs, Sheik)
 Player 2: Balthazar  (C Falcon)
