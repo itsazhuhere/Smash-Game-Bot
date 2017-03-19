@@ -1,4 +1,4 @@
-
+from __future__ import unicode_literals
 import pymysql
 import pymysql.cursors
 from config import connect_dict

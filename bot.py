@@ -1,4 +1,4 @@
-
+from __future__ import unicode_literals
 import praw
 import re
 import config
@@ -213,9 +213,9 @@ def build_tournament_reply(entry_dicts, reply_string, reply_list, latest):
     return reply_string
 
 two_player_link_format = ("[{bracket}](" +
-                       YOUTUBE_LINK + 
-                       "{video_id})" + 
-                       ENDL)
+                          YOUTUBE_LINK + 
+                          "{video_id})" + 
+                          ENDL)
 
 def build_player_reply(entry_dicts, reply_string, reply_list, latest):
     
@@ -237,9 +237,9 @@ def build_player_reply(entry_dicts, reply_string, reply_list, latest):
     return reply_string
 
 single_player_link_format = ("[vs {player} - {bracket}](" + 
-                            YOUTUBE_LINK + 
-                            "{video_id})" + 
-                            ENDL)
+                             YOUTUBE_LINK + 
+                             "{video_id})" + 
+                             ENDL)
 
 def build_single_player_reply(player, entry_dicts, reply_string, reply_list, latest):
     if player.lower() == entry_dicts[0]["player1"].lower():

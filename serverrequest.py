@@ -1,9 +1,4 @@
-'''
-Created on Dec 13, 2016
-
-@author: Andre
-'''
-
+from __future__ import unicode_literals
 import re
 from server_handler import make_db_request
 
@@ -40,33 +35,6 @@ WHERE {0}
 ORDER BY date DESC, ranking DESC""")
 
 
-test_entries = [{"player1":"Armada",
-                 "player2":"Hungrybox",
-                 "tournament":"LAST",
-                 "bracket":"ALL",
-                 "date":"2016 2017"
-                 },
-                {"player1":"Leffen",
-                 "player2":"Mango",
-                 "tournament":"LAST",
-                 "bracket":"ALL",
-                 "date":""
-                 },
-                {"player1":"HBox",
-                 "player2":"Armada",
-                 "tournament":"LAST",
-                 "bracket":"ALL",
-                 "date":"2015"
-                 },
-                {"player1":"PPMD",
-                 "player2":"Plup",
-                 "tournament":"LAST",
-                 "bracket":"ALL",
-                 "date":"2016 2017"
-                 }
-                
-                ]
-
 query_template = ""
 
 table_template = (
@@ -93,18 +61,7 @@ def create_query(entry):
     
     entry -- a dict that contains the keys "p1", "p2", "tournament", and "bracket" ,
             and optionally a "date" key
-            
-    #######################################################
-    TODO: add name variant support (ie HBox can be used for Hungrybox)
-    Possible solution: 
-    use MySQL variable assignment:
-    
-    SELECT @p1 := 'player_name' FROM games WHERE alt_name = {0}
-    SELECT @p2 := 'player_name' FROM games WHERE alt_name = {1}
-    where {0} and {1} will be assigned entry["player1"] and entry["player2"]
-    
-    Then use the literal strings "@p1" and "@p2" in the main select statement
-    #######################################################
+
     """
     where = []
     if entry["player1"]:
@@ -146,7 +103,7 @@ def create_query(entry):
             pass
         else:
             #combines all bracket selection into a single clause
-            where.append("("+" OR ".join(["bracket={0}".format(bracket) for bracket in entry["bracket"].split(",")])+")")
+            where.append("("+" OR ".join(["bracket='{0}'".format(bracket) for bracket in entry["bracket"].split(",")])+")")
     
     print(request_template.format(" AND ".join(where)))
     return request_template.format(" AND ".join(where))
@@ -204,13 +161,13 @@ def is_date(input):
 request_match = "\[\[(.+?)\]\]"
 request_regex = re.compile(request_match, re.IGNORECASE)
 
-get_brackets_query = "select bracketproper from brackets"
+get_brackets_query = "select bracket from bracketnames"
 brackets_set = set()
 for bracket in make_db_request(get_brackets_query):
-    brackets_set.add(bracket["bracketproper"])
+    brackets_set.add(bracket["bracket"].lower())
 
-def is_bracket(input):
-    return input in brackets_set
+def is_bracket(parameter):
+    return parameter.lower() in brackets_set
 
 request_dict_base = {"player1":"",
                      "player2":"",
@@ -241,7 +198,7 @@ def determine_request(build_request):
                 parameter = parameter.strip()
                 if is_date(parameter):
                     request_dict["date"] = parameter
-                elif is_bracket(input):
+                elif is_bracket(parameter):
                     request_dict["bracket"] = parameter
                 else:
                     #the parameter will be inserted as a tournament search
@@ -255,7 +212,7 @@ def determine_request(build_request):
                 parameter = parameter.strip()
                 if is_date(parameter):
                     request_dict["date"] = parameter
-                elif is_bracket(input):
+                elif is_bracket(parameter):
                     request_dict["bracket"] = parameter
             
         
@@ -285,5 +242,4 @@ def build_request(info):
 
 
 if __name__ == "__main__":
-    for entry in test_entries:
-        print(create_query(entry))
+    pass

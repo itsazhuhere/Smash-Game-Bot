@@ -1,11 +1,6 @@
-'''
-Created on Jun 30, 2016
-
-@author: Andre
-'''
-
-
-
+from __future__ import unicode_literals
+#TODO: bracket and game type are searched for separately, 
+#remove regex matching for these
 
 def reverse(expr):
     return "[^" + expr + "]"
@@ -41,8 +36,8 @@ tournament = "(?P<tourny>"+ not_tourn_sep +"+)"
 #alphanumeric, space, |, [, ], ., ' [apostrophes may be errors]
 char_sep = "\(\)"
 #tag_symbols = "\w\s\|\[\]\.&'\-`#!$@~%"
-tag1 = spaces("(?P<tag1>"+ reverse(char_sep) +"+)")
-tag2 = spaces("(?P<tag2>"+ reverse(char_sep) +"+)")
+tag1 = spaces("(?P<tag1>"+ reverse(char_sep) +"+?)")
+tag2 = spaces("(?P<tag2>"+ reverse(char_sep) +"+?)")
 
 #(playable) characters can have the following characters:
 #alphanumeric space, ,, ., &,
@@ -184,4 +179,4 @@ lines = "\n-------------\n"
 print_format = "Tournament Name: {0}\nPlayer 1: {1} {2}\nPlayer 2: {3} {4}\nBracket: {5}\nGame: {6}" + lines
 
 if __name__ == "__main__":
-    print(GGS)
+    print(BTS)

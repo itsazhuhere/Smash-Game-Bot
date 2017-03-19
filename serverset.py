@@ -1,4 +1,5 @@
 from __future__ import print_function
+from __future__ import unicode_literals
 import pymysql.cursors
 import re
 import titleparser
@@ -9,6 +10,7 @@ from serverrequest import *
 from config import connect_dict
 from logging import codecs
 from datetime import datetime
+from collections import defaultdict
 from __builtin__ import str
 
 
@@ -104,7 +106,7 @@ def sanitize(entry):
                 
             except AttributeError:
                 pass
-    elif type(entry) is str or type(entry) is unicode:
+    elif isinstance(entry,str) or isinstance(entry,unicode):
         new_entry = entry.replace("'", "\\'")
         new_entry = new_entry.replace('"', '\\"')
         
@@ -116,7 +118,7 @@ def create_tournament_table():
     make_update("CREATE TABLE tournamentdates (db_name VARCHAR(30),date DATE);")
                 
 
-tourny_name_temp = "INSERT INTO tournaments (name, db_name) VALUES ({0},{1})"
+tourny_name_temp = "INSERT INTO tournaments (tournament, db_name) VALUES ({0},{1})"
 tourny_date_temp = "INSERT INTO tournamentdates (db_name, date) VALUES ({0},{1})"
 
 def update_tournament_table(tournament_file):
@@ -126,9 +128,13 @@ def update_tournament_table(tournament_file):
         for line in tournaments.read().split("\n"):
             # "-" is the text file's separator for info on each line
             tournament_info = line.split("-")
-            proper_name = quote(tournament_info[0].strip())
+            tournament_name = tournament_info[0]
+            if tournament_name[0] == "#":
+                tournament_name = tournament_name[1:]
+            proper_name = quote(tournament_name.strip())
             #tournament_info[1] will hold the date data
-            make_update(tourny_date_temp.format(proper_name, date_format(tournament_info[1].strip())))
+            date = remove_comment(tournament_info[1].strip())
+            make_update(tourny_date_temp.format(proper_name, date_format(date)))
             #because the proper name will always be considered a name for the tournament,
             #it can be inserted into the table as is
             make_update(tourny_name_temp.format(proper_name,
@@ -136,9 +142,17 @@ def update_tournament_table(tournament_file):
             
             #for when the tournament has alternate names (i.e. Smash n' Splash and SNS)
             if len(tournament_info) == 3:
-                alt_names = tournament_info[2].split(",")
-                for name in alt_names:
+                alt_names = remove_comment(tournament_info[2])
+                    
+                alt_names_list = alt_names.split(",")
+                for name in alt_names_list:
                     make_update(tourny_name_temp.format(quote(name.strip()), proper_name))
+
+def remove_comment(entry):
+    comment_index = entry.find("#")
+    if comment_index != -1:
+        return entry[:comment_index].strip()
+    return entry
 
 def quote(string):
     return '"' + string + '"'
@@ -284,7 +298,7 @@ def fix_groups(dict_to_fix):
         if group not in to_fix_keys:
             dict_to_fix[group] = db_none
             
-def create_brackets_table():
+def create_brackets_table(file_name):
     """
     Creates the brackets table in the database, which holds all of the proper names
     for the brackets, as well as their ranking to allow for sorted database query returns.
@@ -292,13 +306,13 @@ def create_brackets_table():
     bracket (in the event of additional brackets being added to the format this can 
     be run again to update the server's table)
     """
-    with open("bracket names.txt","r") as bracket_names:
+    with open(file_name,"r") as bracket_names:
         make_update("TRUNCATE brackets")
         brackets_insert_query = "INSERT INTO brackets VALUES('{0}',{1});"
         proper_names = []
         for bracket in bracket_names.read().split("\n"):
             if bracket[0] == "@":
-                proper_names.append(bracket)
+                proper_names.append(bracket[1:])
         for index, bracket in enumerate(proper_names):
             make_update(brackets_insert_query.format(sanitize(bracket), index))
             
@@ -328,27 +342,6 @@ def create_alternate_names_table(source_file, table_name, alt_col_name, proper_c
                 name = name[1:]
                 proper_name = sanitize(name)
             make_update(names_insert_query.format(sanitize(name),proper_name))
-                
-            
-def create_bracketnames_table():
-    """
-    Creates the bracketnames table in the database.  This table holds all
-    the variants of the possible brackets in a tournament.
-    """
-    with open("Channels/bracket names.txt","r") as bracket_names:
-        make_update(
-        """CREATE TABLE IF NOT EXISTS 
-        bracketnames (bracketvariant VARCHAR(50), bracket VARCHAR(50))""");
-        make_update("TRUNCATE bracketnames")  #to prevent duplicate rows in case of rerunning the function
-        bracketnames_insert_query = "INSERT INTO bracketnames VALUES('{0}','{1}');"
-        proper_name = ""
-        for bracket in bracket_names.read().split("\n"):
-            if not bracket:
-                continue
-            if bracket[0] == "@":
-                bracket = bracket[1:]
-                proper_name = sanitize(bracket)
-            make_update(bracketnames_insert_query.format(sanitize(bracket),proper_name))
             
 def create_team_tags_table(tags_file):
     with open(tags_file,"r") as team_tags:
@@ -360,6 +353,40 @@ def create_team_tags_table(tags_file):
 
 def case_sensitive(pattern):
     return re.IGNORECASE if len(pattern)!=2 else 0
+
+def standardize_column(table_name,column,alt_table,alt_col,proper_col):
+    alt_names_dict = table_to_dict(alt_table, alt_col, proper_col)
+    table = make_db_request("SELECT * FROM "+table_name)
+    change_col_query = "UPDATE {0} SET {1} = '{2}' WHERE video='{3}'"
+    for row in table:
+        new_entry = ""
+        old_entry = row[column].lower()
+        for key in alt_names_dict.keys():
+            for name in alt_names_dict[key]:
+                if name == old_entry:
+                    new_entry = key
+        if new_entry and new_entry.lower() != old_entry:
+            add_update(change_col_query.format(table_name,
+                                               column,
+                                               sanitize(new_entry),
+                                               row["video"]))
+    stop_update()
+
+def table_to_dict(table_name,alt_col,proper_col):
+    table = make_db_request("SELECT * FROM "+table_name)
+    table_dict = defaultdict(list)
+    for row in table:
+        table_dict[row[proper_col]].append(row[alt_col].lower())
+    return table_dict
+
+def dict_to_regex(to_regex):
+    regex_dict = defaultdict(list)
+    for key in to_regex.keys():
+        for i in range(len(to_regex[key])):
+            regex_dict[key].append(re.compile(to_regex[key][i], re.IGNORECASE))
+        
+    return regex_dict
+            
 
 def dict_to_list(dict_list, keyword):
     for i in range(len(dict_list)):
@@ -480,7 +507,7 @@ if __name__ == "__main__":
     #add_column("games", "tournamentdate DATE")
     #add_column("games", "bracketvalue BIT")
     #create_brackets_table()
-    #create_bracketnames_table()
+    #create_alternate_names_table("botdatabasebackup\\bracket names.txt", "bracketnames", "bracket", "bracketproper")
     #fix_brackets("new_games")
     #fix_alternate_names("games")
     
@@ -488,6 +515,12 @@ if __name__ == "__main__":
     
     #create_team_tags_table("botdatabasebackup\\team_names.txt")
     #remove_teams("games")
+    
+    create_brackets_table("botdatabasebackup\\bracket names.txt")
+    standardize_column("games", "bracket", "bracketnames", "bracket", "bracketproper")
+    
+    update_tournament_table("botdatabasebackup\\tournament names.txt")
+    standardize_column("games", "tournament", "tournaments", "tournament", "db_name")
     
     #create_alternate_names_table("botdatabasebackup\\player_names.txt", "alt_names", "alt_tag","proper_tag")
     #fix_alternate_names("games")
