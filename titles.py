@@ -123,6 +123,9 @@ EVO2016 = ("(?P<round>[^:\-]+[:\-])?\s*"+tag1+characters1+versus+
 MVG = (tournament+spaces(tourn_sep)+bracket+spaces(tourn_sep)+tag1+characters1+
        versus+tag2+characters2+video_info)
 
+MVG2 = (tag1+characters1+versus+tag2+characters2+spaces(tourn_sep)+bracket+
+        tourn_sep+tournament+optional_end+video_info)
+
 #Melbourne Melee
 MM = ((tournament+spaces(tourn_sep)+bracket+spaces(tourn_sep)+tag1+characters1+
        versus+tag2+characters2+video_info))
@@ -155,23 +158,23 @@ HTC = (tournament+spaces(tourn_sep)+bracket+spaces(tourn_sep)+optional_end+     
 #before "vs", after "vs", and the "vs" itself
 pre_versus = "(?=vs\.?)"
 
-regex_dict = {"VGBC":VGBC,
-              "SDGG":SDGG,
-              "GGS":GGS,
-              "BOTFG":BOTFG,
-              "BOTFG2":BOTFG2,
-              "BTS":BTS,
-              "CLASH":CLASH,
-              "EHG":EHG,
-              "TL":TL,
-              "SS":SS_WTFOX2,
-              "EVO2016":EVO2016,
-              "EVO2K":EVO2K,
-              "MVG":MVG,
-              "MM":MM,
-              "EMG":EMG,
-              "MMil":MMil,
-              "HTC":HTC
+regex_dict = {"VGBC":[VGBC],
+              "SDGG":[SDGG],
+              "GGS":[GGS],
+              "BOTFG":[BOTFG],
+              "BOTFG2":[BOTFG2],
+              "BTS":[BTS],
+              "CLASH":[CLASH],
+              "EHG":[EHG],
+              "TL":[TL],
+              "SS":[SS_WTFOX2],
+              "EVO2016":[EVO2016],
+              "EVO2K":[EVO2K],
+              "MVG":[MVG,MVG2],
+              "MM":[MM],
+              "EMG":[EMG],
+              "MMil":[MMil],
+              "HTC":[HTC]
               }
 
 

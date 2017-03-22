@@ -185,6 +185,8 @@ def build_failure_reply(categories):
         reply += "Bracket: " + categories["bracket"] + ENDL
     if categories["date"]:
         reply += "Date: " + categories["date"] + ENDL
+    if categories["type"]:
+        reply += "Game Type: " + categories["type"] + ENDL
     return reply + LINE
 
 tournament_video_format = ("[{p1} vs {p2} - {bracket}](" + 
@@ -194,17 +196,17 @@ def build_tournament_reply(entry_dicts, reply_string, reply_list, latest):
     new_section = make_tournament_section(entry_dicts[0])
     reply_string = add_line(new_section, reply_string, reply_list)
     tournament_set = set()
-    tournament_set.add(entry_dicts[0]["db_name"])
+    tournament_set.add(entry_dicts[0]["tournament"])
     for row in entry_dicts:
         formatted_line = ""
-        if row["db_name"] not in tournament_set:
+        if row["tournament"] not in tournament_set:
             if latest and len(tournament_set) >= TOURNAMENT_COUNT:
                 break
             formatted_line = make_tournament_section(row)
-            tournament_set.add(row["db_name"])
+            tournament_set.add(row["tournament"])
         formatted_line += tournament_video_format.format(p1=row["player1"],
                                                          p2=row["player2"],
-                                                         bracket=row["bracketproper"],
+                                                         bracket=row["bracket"],
                                                          video_id=row["video"]
                                                          )
         reply_string = add_line(formatted_line, reply_string, reply_list)
@@ -222,13 +224,13 @@ def build_player_reply(entry_dicts, reply_string, reply_list, latest):
     tournament_set = set()
     for row in entry_dicts:
         formatted_line = ""
-        if row["db_name"] not in tournament_set:
+        if row["tournament"] not in tournament_set:
             if latest and len(tournament_set) >= TOURNAMENT_COUNT:
                 break
             #make a tournament heading
-            formatted_line += row["db_name"] + ":" + ENDL
-            tournament_set.add(row["db_name"])
-        formatted_line += two_player_link_format.format(bracket=row["bracketproper"],
+            formatted_line += row["tournament"] + ":" + ENDL
+            tournament_set.add(row["tournament"])
+        formatted_line += two_player_link_format.format(bracket=row["bracket"],
                                                      video_id=row["video"]
                                                      )
         reply_string = add_line(formatted_line, reply_string, reply_list)
@@ -251,18 +253,18 @@ def build_single_player_reply(player, entry_dicts, reply_string, reply_list, lat
     tournament_set = set()
     for row in entry_dicts:
         formatted_line = ""
-        if row["db_name"] not in tournament_set:
+        if row["tournament"] not in tournament_set:
             if latest and len(tournament_set) >= TOURNAMENT_COUNT:
                 break
             #make a tournament heading
-            formatted_line += row["db_name"] + ":" + ENDL
-            tournament_set.add(row["db_name"])
+            formatted_line += row["tournament"] + ":" + ENDL
+            tournament_set.add(row["tournament"])
         versus = ""
         if player == row["player1"]:
             versus = row["player2"]
         else:
             versus = row["player1"]
-        formatted_line += single_player_link_format.format(bracket=row["bracketproper"],
+        formatted_line += single_player_link_format.format(bracket=row["bracket"],
                                                            video_id=row["video"],
                                                            player=versus
                                                            )
@@ -292,7 +294,7 @@ def make_single_player_section(player):
     return BOLD + one_player_format.format(player) + BOLD + ENDL
 
 def make_tournament_section(row):
-    return BOLD + row["db_name"] + BOLD + ENDL
+    return BOLD + row["tournament"] + BOLD + ENDL
     pass
 
 def to_list(entry_dicts):

@@ -138,15 +138,17 @@ def add_new_videos(dir, to_server):
         json_path = directory+"channel_info.json"
         
         channel_info = ""
-        with open(json_path,"r") as json_file:
+        with codecs.open(json_path,encoding="utf-8", mode="r") as json_file:
             channel_info = json.load(json_file)
         channel_file = channel_info["file"].replace(".txt","")
-        titleparser.set_pattern(regex_dict[channel_file])
-        titleparser.set_files(directory+"matches.txt",directory+"errors.txt")
-        titleparser.filter_video_file(directory+"new.txt",
-                                      to_server,
-                                      db_table="new_games"
-                                      )
+        for i in range(len(regex_dict[channel_file])):
+            pattern = regex_dict[channel_file][i]
+            titleparser.set_pattern(pattern)
+            titleparser.set_files(directory+"matches"+i+".txt",directory+"errors"+i+".txt")
+            titleparser.filter_video_file(directory+"new.txt",
+                                          to_server,
+                                          db_table="new_games"
+                                          )
         
     
 if __name__ == "__main__":

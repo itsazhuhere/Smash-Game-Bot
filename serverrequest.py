@@ -6,14 +6,6 @@ from server_handler import make_db_request
 START = 0
 END = 1
 
-#TODO:should make this a static value and automatically update it instead
-latest_tournament = ( 
-"""
-tournament = 
-(SELECT db_name FROM tournamentdates 
-ORDER BY date DESC LIMIT 1)
-""")
-
 player_template = ("(player1='{0}' OR player2='{0}')")
 
 player_template1 = ("((player1='{p1}' AND " +
@@ -25,8 +17,9 @@ player_template1 = ("((player1='{p1}' AND " +
 select_brackets = "bracket={0}"
 
 request_template = (
-"""SELECT DISTINCT * FROM 
-games
+"""SELECT DISTINCT 
+bracket, tournament, gametype, player1, player2, video
+FROM games
 NATURAL JOIN tournaments 
 NATURAL JOIN tournamentdates 
 NATURAL JOIN bracketnames
@@ -34,21 +27,11 @@ NATURAL JOIN brackets
 WHERE {0}
 ORDER BY date DESC, ranking DESC""")
 
-
-query_template = ""
-
-table_template = (
-"""
-(SELECT * FROM games NATURAL JOIN tournaments 
-NATURAL JOIN tournamentdates NATURAL JOIN bracketnames
-WHERE {0}) AS search
-"""
-)
-
 date_template = "(date >= '{0}' AND date < '{1}')"
 
+tournament_template = "tournamentvariant LIKE '{0}'"
 
-tournament_template = "tournament LIKE '{0}'"
+type_template = "gametype = '{0}'"
 
 def add_parentheses(statement):
     return "("+ statement + ")"
@@ -103,7 +86,9 @@ def create_query(entry):
             pass
         else:
             #combines all bracket selection into a single clause
-            where.append("("+" OR ".join(["bracket='{0}'".format(bracket) for bracket in entry["bracket"].split(",")])+")")
+            where.append("("+" OR ".join(["bracketvariant='{0}'".format(bracket) for bracket in entry["bracket"].split(",")])+")")
+    if entry["type"]:
+        where.append(type_template.format(entry["type"]))
     
     print(request_template.format(" AND ".join(where)))
     return request_template.format(" AND ".join(where))
@@ -161,23 +146,36 @@ def is_date(input):
 request_match = "\[\[(.+?)\]\]"
 request_regex = re.compile(request_match, re.IGNORECASE)
 
-get_brackets_query = "select bracket from bracketnames"
+get_brackets_query = "select bracketvariant from bracketnames"
 brackets_set = set()
 for bracket in make_db_request(get_brackets_query):
-    brackets_set.add(bracket["bracket"].lower())
+    brackets_set.add(bracket["bracketvariant"].lower())
 
 def is_bracket(parameter):
     return parameter.lower() in brackets_set
+
+gametype_list = ["Melee", "SSBM",
+                 "Smash 4", "Wii U", "Sm4sh", "SSB4",
+                 "Smash 64", "SSB64", "SS64"
+                 ]
+gametype_set = set()
+for gametype in gametype_list:
+    gametype_set.add(gametype.lower())
+
+def is_type(parameter):
+    return parameter.lower() in gametype_set
+
+
+player_split = "\s*vs\.?\s*"
+player_split_regex = re.compile(player_split, re.IGNORECASE)
 
 request_dict_base = {"player1":"",
                      "player2":"",
                      "tournament":"LAST",
                      "bracket":"ALL",
-                     "date":""
+                     "date":"",
+                     "type":""
                      }
-
-player_split = "\s*vs\.?\s*"
-player_split_regex = re.compile(player_split, re.IGNORECASE)
 
 def determine_request(build_request):
     #build_request is a MatchObject with one group: everything between the double brackets [[ ]]
@@ -198,6 +196,8 @@ def determine_request(build_request):
                 parameter = parameter.strip()
                 if is_date(parameter):
                     request_dict["date"] = parameter
+                elif is_type(parameter):
+                    request_dict["type"] = parameter
                 elif is_bracket(parameter):
                     request_dict["bracket"] = parameter
                 else:
